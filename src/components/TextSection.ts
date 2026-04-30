@@ -26,89 +26,100 @@ export class TextSection extends HTMLElement {
       <style>
         :host {
           display: block;
-          margin-bottom: 2rem;
+          margin-bottom: 2.5rem;
           width: 100%;
         }
 
         .text-container {
-          background: rgba(255, 255, 255, 0.6);
-          border-radius: 20px;
-          padding: 1.5rem;
-          border: 1px solid rgba(139, 0, 0, 0.1);
+          background: rgba(255, 255, 255, 0.5);
+          border-radius: 28px;
+          padding: 2rem 1.5rem;
+          border: 1px solid rgba(139, 0, 0, 0.08);
+          box-shadow: var(--shadow-soft, 0 4px 12px rgba(0, 0, 0, 0.05));
         }
 
         h3 {
           margin-top: 0;
           color: #8B0000;
-          font-size: 1.1rem;
-          border-bottom: 2px solid #D4AF37;
-          display: inline-block;
-          margin-bottom: 1.5rem;
-          padding-bottom: 0.25rem;
+          font-size: 1.25rem;
+          font-weight: 900;
+          display: block;
+          margin-bottom: 2rem;
+          padding-bottom: 0.75rem;
+          border-bottom: 1px solid rgba(139, 0, 0, 0.1);
+          font-family: 'Outfit', sans-serif;
         }
 
         .dialogue {
           display: flex;
           flex-direction: column;
-          gap: 1.25rem;
+          gap: 1.5rem;
         }
 
         .line {
           display: flex;
           flex-direction: column;
-          gap: 0.25rem;
+          gap: 0.35rem;
         }
 
         .speaker {
           font-weight: 800;
-          font-size: 0.85rem;
+          font-size: 0.7rem;
           color: #8B0000;
           text-transform: uppercase;
-          letter-spacing: 0.5px;
+          letter-spacing: 1.5px;
+          opacity: 0.8;
+          padding-left: 0.5rem;
         }
 
         .content {
-          font-size: 1.1rem;
-          line-height: 1.6;
-          color: #222;
+          font-size: 1.15rem;
+          line-height: 1.5;
+          color: #1a1a1a;
           font-family: 'Noto Sans SC', sans-serif;
           background: #fff;
-          padding: 0.75rem 1rem;
-          border-radius: 12px;
-          border-bottom-left-radius: 2px;
-          box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+          padding: 1rem 1.25rem;
+          border-radius: 20px;
+          border-top-left-radius: 4px;
+          box-shadow: 0 4px 15px rgba(0,0,0,0.03);
           position: relative;
+          border: 1px solid rgba(0,0,0,0.02);
         }
 
         .line:nth-child(even) .content {
-          background: #fffcf0;
-          border-bottom-left-radius: 12px;
-          border-bottom-right-radius: 2px;
+          background: #fdfaf0;
+          border-top-left-radius: 20px;
+          border-top-right-radius: 4px;
         }
 
         .line:nth-child(even) .speaker {
           text-align: right;
+          padding-left: 0;
+          padding-right: 0.5rem;
         }
 
         .pinyin {
-          font-size: 0.85rem;
-          color: #888;
-          margin-top: 0.25rem;
-          font-style: italic;
+          font-size: 0.8rem;
+          color: #8B0000;
+          margin-top: 0.5rem;
+          font-weight: 600;
+          opacity: 0.6;
         }
 
         .translation {
-          font-size: 0.9rem;
+          font-size: 0.95rem;
           color: #555;
-          margin-top: 0.25rem;
+          margin-top: 0.5rem;
           line-height: 1.4;
+          font-weight: 400;
         }
 
         .main-text b {
           color: #8B0000;
-          font-weight: 800;
-          border-bottom: 2px solid rgba(212, 175, 55, 0.4);
+          font-weight: 900;
+          background: rgba(139, 0, 0, 0.05);
           padding: 0 2px;
+          border-radius: 4px;
         }
       </style>
 

@@ -100,83 +100,139 @@ class App extends HTMLElement {
         :host {
           display: block;
           min-height: 100vh;
-          font-family: 'Inter', 'Noto Sans SC', system-ui, -apple-system, sans-serif;
-          background: #F5F5DC url('https://www.transparenttextures.com/patterns/handmade-paper.png');
+          font-family: 'Outfit', 'Noto Sans SC', sans-serif;
           color: #1a1a1a;
-          padding-bottom: 5rem;
+          overflow-x: hidden;
         }
 
+        .app-shell {
+          display: flex;
+          flex-direction: column;
+          min-height: 100vh;
+        }
+
+        /* Fixed Header Area */
+        .sticky-header {
+          position: sticky;
+          top: 0;
+          z-index: 1000;
+          background: rgba(253, 251, 247, 0.8);
+          backdrop-filter: blur(12px);
+          -webkit-backdrop-filter: blur(12px);
+          border-bottom: 1px solid rgba(139, 0, 0, 0.05);
+          padding: 1rem 0 0.5rem;
+        }
+
+        .lesson-scroller {
+          display: flex;
+          overflow-x: auto;
+          scroll-behavior: smooth;
+          padding: 0.5rem 1rem 1rem;
+          gap: 0.75rem;
+          scrollbar-width: none; /* Firefox */
+          -ms-overflow-style: none; /* IE 10+ */
+        }
+
+        .lesson-scroller::-webkit-scrollbar {
+          display: none; /* Chrome/Safari */
+        }
+
+        .lesson-chip {
+          flex: 0 0 auto;
+          padding: 0.5rem 1.25rem;
+          border-radius: 50px;
+          background: #fff;
+          border: 1px solid rgba(139, 0, 0, 0.1);
+          color: #666;
+          font-size: 0.85rem;
+          font-weight: 600;
+          cursor: pointer;
+          transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+          white-space: nowrap;
+          box-shadow: var(--shadow-soft);
+        }
+
+        .lesson-chip.active {
+          background: var(--primary-red, #8B0000);
+          color: #fff;
+          border-color: var(--primary-red, #8B0000);
+          box-shadow: 0 4px 12px rgba(139, 0, 0, 0.25);
+          transform: translateY(-2px);
+        }
+
+        /* Content Container */
         .app-container {
           max-width: 600px;
           margin: 0 auto;
-          padding: env(safe-area-inset-top) 1rem env(safe-area-inset-bottom);
+          width: 100%;
+          padding: 1rem;
+          flex: 1;
         }
 
         header {
-          padding: 2.5rem 0 1.5rem;
           text-align: center;
-        }
-
-        .header-title {
-          position: relative;
-          display: inline-block;
+          margin: 1.5rem 0 2rem;
+          padding: 0 1rem;
         }
 
         h1 {
-          font-size: 2.5rem;
+          font-size: clamp(1.5rem, 6vw, 2.25rem);
+          line-height: 1.2;
           margin: 0;
           color: #8B0000;
           font-weight: 900;
-          letter-spacing: -1px;
+          letter-spacing: -0.5px;
         }
 
         .subtitle {
-          color: #555;
-          font-size: 0.95rem;
+          color: #666;
+          font-size: 0.9rem;
           margin-top: 0.5rem;
           font-weight: 500;
-          letter-spacing: 0.5px;
+          letter-spacing: 1px;
+          text-transform: uppercase;
         }
 
+        /* Modern Tabs */
         nav {
           display: flex;
-          justify-content: center;
-          gap: 0.5rem;
+          background: rgba(255, 255, 255, 0.6);
+          border: 1px solid rgba(139, 0, 0, 0.08);
+          border-radius: 16px;
+          padding: 0.35rem;
           margin-bottom: 2rem;
-          background: rgba(255, 255, 255, 0.5);
-          backdrop-filter: blur(10px);
-          padding: 0.5rem;
-          border-radius: 50px;
-          border: 1px solid rgba(139, 0, 0, 0.1);
           position: sticky;
-          top: 1rem;
-          z-index: 100;
+          top: 5.5rem; /* Below lesson scroller */
+          z-index: 900;
+          backdrop-filter: blur(8px);
         }
 
         .tab-btn {
+          flex: 1;
           border: none;
           background: none;
-          padding: 0.6rem 1.25rem;
-          border-radius: 25px;
-          font-size: 0.9rem;
-          font-weight: 600;
+          padding: 0.75rem 0.5rem;
+          border-radius: 12px;
+          font-size: 0.85rem;
+          font-weight: 700;
           cursor: pointer;
           transition: all 0.3s;
-          color: #666;
+          color: #777;
+          position: relative;
         }
 
         .tab-btn.active {
-          background: #8B0000;
-          color: #fff;
-          box-shadow: 0 4px 12px rgba(139, 0, 0, 0.2);
+          background: #fff;
+          color: #8B0000;
+          box-shadow: 0 2px 8px rgba(0,0,0,0.05);
         }
 
         main {
-          animation: fadeIn 0.5s ease-out;
+          animation: slideUp 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
         }
 
-        @keyframes fadeIn {
-          from { opacity: 0; transform: translateY(10px); }
+        @keyframes slideUp {
+          from { opacity: 0; transform: translateY(20px); }
           to { opacity: 1; transform: translateY(0); }
         }
 
@@ -185,17 +241,17 @@ class App extends HTMLElement {
           flex-direction: column;
           align-items: center;
           justify-content: center;
-          min-height: 200px;
+          min-height: 300px;
         }
 
         .loading-spinner {
-          width: 40px;
-          height: 40px;
-          border: 4px solid rgba(139, 0, 0, 0.1);
+          width: 48px;
+          height: 48px;
+          border: 3px solid rgba(139, 0, 0, 0.1);
           border-left-color: #8B0000;
           border-radius: 50%;
           animation: spin 1s linear infinite;
-          margin-bottom: 1rem;
+          margin-bottom: 1.5rem;
         }
 
         @keyframes spin {
@@ -205,155 +261,65 @@ class App extends HTMLElement {
         footer {
           margin-top: 4rem;
           text-align: center;
-          padding: 2rem;
-          border-top: 1px solid rgba(0,0,0,0.05);
+          padding: 3rem 1rem;
+          border-top: 1px solid rgba(0,0,0,0.03);
         }
 
         .footer-logo {
           color: #8B0000;
           font-weight: 800;
-          font-size: 0.8rem;
-          opacity: 0.6;
+          font-size: 0.75rem;
+          letter-spacing: 2px;
+          opacity: 0.4;
         }
 
-        /* Sidebar Styles */
-        .sidebar-overlay {
-          position: fixed;
-          top: 0;
-          left: 0;
-          width: 100%;
-          height: 100%;
-          background: rgba(0, 0, 0, 0.5);
-          backdrop-filter: blur(4px);
-          z-index: 1000;
-          opacity: 0;
-          visibility: hidden;
-          transition: all 0.3s;
-        }
-
-        .sidebar-overlay.open {
-          opacity: 1;
-          visibility: visible;
-        }
-
-        .sidebar {
-          position: fixed;
-          top: 0;
-          left: -280px;
-          width: 280px;
-          height: 100%;
-          background: #F5F5DC;
-          box-shadow: 4px 0 20px rgba(0, 0, 0, 0.2);
-          z-index: 1001;
-          transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-          padding: 2rem 1.5rem;
-          display: flex;
-          flex-direction: column;
-        }
-
-        .sidebar.open {
-          left: 0;
-        }
-
-        .sidebar-header {
-          margin-bottom: 2rem;
-          border-bottom: 2px solid #8B0000;
-          padding-bottom: 1rem;
-        }
-
-        .sidebar-header h2 {
-          color: #8B0000;
-          margin: 0;
-          font-size: 1.5rem;
-        }
-
-        .lesson-item {
-          padding: 1rem;
-          margin-bottom: 0.5rem;
-          border-radius: 12px;
-          cursor: pointer;
-          transition: all 0.2s;
-          font-weight: 500;
-          color: #444;
-          border: 1px solid transparent;
-        }
-
-        .lesson-item:hover {
-          background: rgba(139, 0, 0, 0.05);
-          color: #8B0000;
-        }
-
-        .lesson-item.active {
-          background: rgba(139, 0, 0, 0.1);
-          color: #8B0000;
-          border-color: rgba(139, 0, 0, 0.2);
-          font-weight: 700;
-        }
-
-        .menu-toggle {
-          position: fixed;
-          top: 1.5rem;
-          left: 1rem;
-          z-index: 500;
-          background: rgba(255, 255, 255, 0.8);
-          border: 1px solid rgba(139, 0, 0, 0.2);
-          width: 40px;
-          height: 40px;
-          border-radius: 50%;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          cursor: pointer;
-          color: #8B0000;
-          box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-          backdrop-filter: blur(5px);
+        /* Utility for Galaxy S26 and other modern displays */
+        .safe-area-top {
+          height: env(safe-area-inset-top, 0px);
         }
       </style>
       
-      <div class="menu-toggle" id="menu-toggle">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg>
-      </div>
-
-      <div class="sidebar-overlay ${this._isSidebarOpen ? 'open' : ''}" id="sidebar-overlay"></div>
-      <div class="sidebar ${this._isSidebarOpen ? 'open' : ''}">
-        <div class="sidebar-header">
-          <h2>HSK 4 Standard</h2>
-        </div>
-        <div class="lesson-list">
-          ${this._lessons.map(l => `
-            <div class="lesson-item ${this._currentLesson === l.id ? 'active' : ''}" data-id="${l.id}">
-              ${l.title}
-            </div>
-          `).join('')}
-        </div>
-      </div>
-      <div class="app-container">
-        <header>
-          <div class="header-title">
-            <h1>${this._data ? this._data.title.split('(')[0].trim() : '중국어 학습'}</h1>
-            <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || '' : 'HSK 4급 마스터'}</p>
+      <div class="app-shell">
+        <div class="safe-area-top"></div>
+        
+        <div class="sticky-header">
+          <div class="lesson-scroller">
+            ${this._lessons.map(l => `
+              <div class="lesson-chip ${this._currentLesson === l.id ? 'active' : ''}" data-id="${l.id}">
+                L${l.id} • ${l.title.split(':')[1]?.trim() || l.title}
+              </div>
+            `).join('')}
           </div>
-        </header>
+        </div>
 
-        <nav>
-          <button class="tab-btn ${this._activeTab === 'vocab' ? 'active' : ''}" id="tab-vocab">Vocab</button>
-          <button class="tab-btn ${this._activeTab === 'grammar' ? 'active' : ''}" id="tab-grammar">Grammar</button>
-          <button class="tab-btn ${this._activeTab === 'text' ? 'active' : ''}" id="tab-text">Texts</button>
-          <button class="tab-btn ${this._activeTab === 'mastery' ? 'active' : ''}" id="tab-mastery">Mastery</button>
-        </nav>
-
-        <main>
-          ${this._data ? content : `
-            <div class="loading-container">
-              <div class="loading-spinner"></div>
-              <p>콘텐츠를 준비 중입니다...</p>
+        <div class="app-container">
+          <header>
+            <div class="header-title">
+              <h1>${this._data ? this._data.title.split('(')[0].trim() : 'HSK 4'}</h1>
+              <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || 'LOADING...' : 'HSK 4급 마스터'}</p>
             </div>
-          `}
-        </main>
+          </header>
 
-        <footer>
-          <div class="footer-logo">MODERN HAN ELEGANT • HSK 4A</div>
-        </footer>
+          <nav>
+            <button class="tab-btn ${this._activeTab === 'vocab' ? 'active' : ''}" id="tab-vocab">Vocab</button>
+            <button class="tab-btn ${this._activeTab === 'grammar' ? 'active' : ''}" id="tab-grammar">Grammar</button>
+            <button class="tab-btn ${this._activeTab === 'text' ? 'active' : ''}" id="tab-text">Texts</button>
+            <button class="tab-btn ${this._activeTab === 'mastery' ? 'active' : ''}" id="tab-mastery">Mastery</button>
+          </nav>
+
+          <main>
+            ${this._data ? content : `
+              <div class="loading-container">
+                <div class="loading-spinner"></div>
+                <p style="color: #8B0000; font-weight: 600; font-size: 0.9rem;">콘텐츠를 준비 중입니다...</p>
+              </div>
+            `}
+          </main>
+
+          <footer>
+            <div class="footer-logo">MODERN HAN ELEGANT • HSK 4 STANDARD</div>
+          </footer>
+        </div>
       </div>
     `;
 
@@ -366,15 +332,18 @@ class App extends HTMLElement {
     this.shadowRoot?.getElementById('tab-text')?.addEventListener('click', () => this.switchTab('text'));
     this.shadowRoot?.getElementById('tab-mastery')?.addEventListener('click', () => this.switchTab('mastery'));
     
-    this.shadowRoot?.getElementById('menu-toggle')?.addEventListener('click', () => this.toggleSidebar());
-    this.shadowRoot?.getElementById('sidebar-overlay')?.addEventListener('click', () => this.toggleSidebar());
-    
-    this.shadowRoot?.querySelectorAll('.lesson-item').forEach(item => {
+    this.shadowRoot?.querySelectorAll('.lesson-chip').forEach(item => {
       item.addEventListener('click', () => {
         const id = parseInt((item as HTMLElement).dataset.id || '1');
         this.selectLesson(id);
       });
     });
+
+    // Auto-scroll the active chip into view
+    const activeChip = this.shadowRoot?.querySelector('.lesson-chip.active');
+    if (activeChip) {
+      activeChip.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+    }
   }
 
   renderContent() {

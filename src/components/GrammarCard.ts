@@ -33,19 +33,17 @@ export class GrammarCard extends HTMLElement {
         :host {
           display: block;
           margin-bottom: 1.5rem;
-          perspective: 1000px;
+          perspective: 1200px;
         }
 
         .card {
           position: relative;
           width: 100%;
-          min-height: 200px;
-          transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+          min-height: 220px;
+          transition: transform 0.8s cubic-bezier(0.34, 1.56, 0.64, 1);
           transform-style: preserve-3d;
           cursor: pointer;
           display: grid;
-          grid-template-columns: 1fr;
-          grid-template-rows: auto;
         }
 
         .card.is-flipped {
@@ -55,21 +53,22 @@ export class GrammarCard extends HTMLElement {
         .side {
           grid-area: 1 / 1 / 2 / 2;
           width: 100%;
-          height: 100%; /* Keeps sides same height within the grid cell */
+          height: 100%;
           backface-visibility: hidden;
-          border-radius: 20px;
-          padding: 1.5rem;
+          border-radius: 24px;
+          padding: 1.75rem;
           box-sizing: border-box;
           display: flex;
           flex-direction: column;
-          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-          border: 1px solid rgba(255, 255, 255, 0.2);
+          box-shadow: var(--shadow-premium, 0 10px 30px -10px rgba(0, 0, 0, 0.1));
+          border: 1px solid rgba(139, 0, 0, 0.08);
+          position: relative;
+          overflow: hidden;
         }
 
         .front {
-          background: linear-gradient(135deg, #fff 0%, #fdfbfb 100%);
+          background: #ffffff;
           color: #333;
-          position: relative;
           z-index: 2;
         }
 
@@ -80,44 +79,49 @@ export class GrammarCard extends HTMLElement {
         }
 
         .label {
-          font-size: 0.75rem;
+          font-size: 0.7rem;
           text-transform: uppercase;
-          letter-spacing: 1px;
-          margin-bottom: 0.5rem;
+          letter-spacing: 1.5px;
+          margin-bottom: 0.75rem;
           opacity: 0.8;
-          font-weight: 700;
+          font-weight: 800;
         }
 
-        .back .label { color: #D4AF37; }
+        .back .label { color: #DAA520; }
         .front .label { color: #8B0000; }
 
         .point {
-          font-size: 1.25rem;
-          font-weight: 800;
-          margin-bottom: 0.75rem;
-          font-family: 'Noto Sans SC', sans-serif;
+          font-size: 1.5rem;
+          font-weight: 900;
+          margin-bottom: 1rem;
+          font-family: 'Outfit', 'Noto Sans SC', sans-serif;
+          color: inherit;
         }
 
         .example {
-          font-size: 1.1rem;
-          line-height: 1.6;
+          font-size: 1.15rem;
+          line-height: 1.5;
           margin-bottom: 0.5rem;
+          font-weight: 500;
         }
 
         .explanation {
-          font-size: 0.95rem;
+          font-size: 0.9rem;
           line-height: 1.5;
-          opacity: 0.9;
+          opacity: 0.8;
           font-style: italic;
-          margin-bottom: 1rem;
+          margin-bottom: 1.25rem;
+          color: #555;
         }
+
+        .back .explanation { color: rgba(255, 255, 255, 0.8); }
 
         .translation {
           font-size: 0.95rem;
           color: #666;
           margin-bottom: 1rem;
           line-height: 1.4;
-          font-family: 'Inter', sans-serif;
+          font-weight: 400;
         }
 
         .back .translation {
@@ -125,24 +129,25 @@ export class GrammarCard extends HTMLElement {
         }
 
         .pattern-box {
-          background: rgba(212, 175, 55, 0.1);
-          border: 1px solid rgba(212, 175, 55, 0.3);
-          border-radius: 10px;
-          padding: 0.75rem;
-          margin-bottom: 1rem;
+          background: rgba(218, 165, 32, 0.15);
+          border: 1px solid rgba(218, 165, 32, 0.3);
+          border-radius: 12px;
+          padding: 1rem;
+          margin-bottom: 1.25rem;
         }
 
         .pattern-label {
-          font-size: 0.7rem;
+          font-size: 0.65rem;
           text-transform: uppercase;
-          color: #D4AF37;
-          margin-bottom: 0.25rem;
-          font-weight: 700;
+          color: #DAA520;
+          margin-bottom: 0.35rem;
+          font-weight: 800;
+          letter-spacing: 1px;
         }
 
         .pattern-text {
-          font-size: 1rem;
-          font-weight: 600;
+          font-size: 1.1rem;
+          font-weight: 700;
           color: #fff;
         }
 
@@ -150,43 +155,42 @@ export class GrammarCard extends HTMLElement {
           font-size: 0.9rem;
           line-height: 1.5;
           margin-top: 0.5rem;
-          padding-top: 0.75rem;
-          border-top: 1px solid rgba(255, 255, 255, 0.2);
-          color: #D4AF37;
+          padding-top: 1rem;
+          border-top: 1px solid rgba(255, 255, 255, 0.15);
+          color: #DAA520;
           margin-bottom: 1rem;
+          font-weight: 500;
         }
 
         .pinyin {
-          font-size: 0.9rem;
-          color: #666;
+          font-size: 0.85rem;
+          color: #8B0000;
           margin-bottom: 1rem;
-          font-family: 'Inter', sans-serif;
+          font-weight: 600;
+          opacity: 0.7;
         }
 
         .back .pinyin {
-          color: rgba(255, 255, 255, 0.7);
+          color: rgba(255, 255, 255, 0.6);
         }
 
         .tip {
           margin-top: auto;
           text-align: right;
-          font-size: 0.75rem;
-          opacity: 0.6;
-          font-weight: 500;
-          padding-top: 0.5rem;
+          font-size: 0.7rem;
+          opacity: 0.5;
+          font-weight: 700;
+          letter-spacing: 0.5px;
         }
 
         .example b {
           color: #8B0000;
-          font-weight: 800;
-          background: rgba(139, 0, 0, 0.05);
-          padding: 0 2px;
-          border-radius: 2px;
+          font-weight: 900;
+          position: relative;
         }
 
         .back .example b {
-          color: #D4AF37;
-          background: rgba(212, 175, 55, 0.15);
+          color: #DAA520;
         }
       </style>
 
