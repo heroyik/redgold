@@ -3,8 +3,29 @@ import '../components/GrammarCard';
 import '../components/TextSection';
 import '../components/KeySentences';
 
+type LessonData = {
+  lessonId?: number;
+  title: string;
+  vocabulary: any[];
+  grammar: any[];
+  texts: any[];
+  key_sentences?: any[];
+};
+
+const lessonModules = import.meta.glob('../../data/lesson*.json', {
+  eager: true,
+  import: 'default',
+}) as Record<string, LessonData>;
+
+const lessonDataMap = new Map<number, LessonData>(
+  Object.entries(lessonModules).map(([path, data]) => {
+    const match = path.match(/lesson(\d+)\.json$/);
+    return [Number(match?.[1] || data.lessonId || 0), data];
+  }),
+);
+
 class App extends HTMLElement {
-  private _data: any = null;
+  private _data: LessonData | null = null;
   private _activeTab: string = 'vocab';
   private _isSidebarOpen: boolean = false;
   private _currentLesson: number = 1;
@@ -31,12 +52,24 @@ class App extends HTMLElement {
     this.render();
     
     try {
-      const response = await fetch(`./data/lesson${this._currentLesson}.json`);
-      if (!response.ok) throw new Error('Lesson not found');
-      this._data = await response.json();
+      const lesson = lessonDataMap.get(this._currentLesson);
+      if (!lesson) throw new Error('Lesson not found');
+      this._data = {
+        title: lesson.title,
+        vocabulary: lesson.vocabulary || [],
+        grammar: lesson.grammar || [],
+        texts: lesson.texts || [],
+        key_sentences: lesson.key_sentences || [],
+      };
     } catch (error) {
       console.error('Error fetching lesson data:', error);
-      this._data = { title: 'Error', vocabulary: [], grammar: [], texts: [] };
+      this._data = {
+        title: `Lesson ${this._currentLesson}: Coming Soon`,
+        vocabulary: [],
+        grammar: [],
+        texts: [],
+        key_sentences: [],
+      };
     }
     this.render();
   }
@@ -424,4 +457,3 @@ App.prototype.render = function() {
 
 customElements.define('chn-vocab-app', App);
 export default App;
-
