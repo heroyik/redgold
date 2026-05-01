@@ -37,6 +37,8 @@ API 키 관리: 만약 백엔드에서 외부 API 키(예: 이미지 CDN, AI 서
 영역 문제점 개선 방안 상태
 성능 초기 로딩 지연 (Assets) WebP 사용, srcset 구현, 폰트 로딩 최적화 ✅ 완료
 성능 오디오 끊김 (Stuttering) 레슨 진입 시 오디오 파일을 미리 로드/캐싱(Prefetching) ✅ 완료
+성능 스크롤 불일치 (Sync) 오디오 가중치 기반 타이밍 엔진 및 HTML 태그 보정 적용 ✅ 완료
+기능 교육적 깊이 부족 专有名词(Proper Nouns) 전용 UI 및 데이터 연동 ✅ 완료
 보안 데이터 무결성 위협 Firebase Security Rules를 통한 모든 사용자 입력값 검증 (Firestore 사용 시 적용) 대기 중
 보안 XSS 공격 위험 innerHTML 사용 전, 사용자 입력에 대한 HTML 클린징(Sanitization) 적용 ✅ 완료
 

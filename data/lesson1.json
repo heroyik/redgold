@@ -297,6 +297,11 @@
         }
       ],
       "audio": "audio/01-1.mp3",
+      "proper_nouns": [
+        { "word": "孙月", "pinyin": "Sūn Yuè" },
+        { "word": "王静", "pinyin": "Wáng Jìng" },
+        { "word": "李进", "pinyin": "Lǐ Jìn" }
+      ],
       "vocabulary": [
         {
           "word": "法律",
@@ -377,6 +382,10 @@
         }
       ],
       "audio": "audio/01-2.mp3",
+      "proper_nouns": [
+        { "word": "李老师", "pinyin": "Lǐ lǎoshī" },
+        { "word": "王静", "pinyin": "Wáng Jìng" }
+      ],
       "vocabulary": [
         {
           "word": "开玩笑",
@@ -447,6 +456,10 @@
         }
       ],
       "audio": "audio/01-3.mp3",
+      "proper_nouns": [
+        { "word": "高老师", "pinyin": "Gāo lǎoshī" },
+        { "word": "李老师", "pinyin": "Lǐ lǎoshī" }
+      ],
       "vocabulary": [
         {
           "word": "共同",

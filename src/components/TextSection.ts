@@ -108,23 +108,9 @@ export class TextSection extends HTMLElement {
           transform: translateX(4px);
         }
 
+        /* Active class is now only for logic tracking, no visual highlight */
         .line.active {
-          background: rgba(255, 255, 255, 0.95);
-          border-color: rgba(139, 0, 0, 0.15);
-          box-shadow: 0 12px 24px rgba(139, 0, 0, 0.08);
-          transform: scale(1.02);
-          z-index: 10;
-        }
-
-        .line.active .speaker {
-          background: #8B0000;
-          color: #fff;
-          padding: 2px 8px;
-          border-radius: 6px;
-        }
-
-        .line.active .main-text {
-          color: #8B0000;
+          border-color: rgba(139, 0, 0, 0.05);
         }
 
         .speaker {
@@ -223,19 +209,52 @@ export class TextSection extends HTMLElement {
           opacity: 0.7;
         }
 
-        .vocab-item.active .pinyin {
-          color: #fff;
-          opacity: 0.9;
-        }
-
         .vocab-item .meaning {
           font-size: 0.8rem;
           opacity: 0.6;
           margin-top: 0.25rem;
         }
 
-        .vocab-item.active .meaning {
-          color: #fff;
+        /* Proper Nouns Section */
+        .proper-nouns-section {
+          margin-top: 1.5rem;
+          padding: 1.5rem;
+          background: rgba(218, 165, 32, 0.05);
+          border-radius: 24px;
+          border: 1px solid rgba(218, 165, 32, 0.15);
+        }
+
+        .proper-header {
+          font-size: 0.7rem;
+          font-weight: 800;
+          color: #DAA520;
+          letter-spacing: 1.5px;
+          margin-bottom: 1rem;
+          text-transform: uppercase;
+        }
+
+        .proper-grid {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 1rem;
+        }
+
+        .proper-item {
+          display: flex;
+          flex-direction: column;
+          gap: 2px;
+        }
+
+        .proper-item .word {
+          font-weight: 700;
+          color: #1a1a1a;
+          font-size: 1rem;
+        }
+
+        .proper-item .pinyin {
+          font-size: 0.7rem;
+          color: #DAA520;
+          margin: 0;
           opacity: 0.8;
         }
       </style>
@@ -283,6 +302,20 @@ export class TextSection extends HTMLElement {
                 </div>
               `).join('')}
             </div>
+            
+            ${this._data.proper_nouns && this._data.proper_nouns.length > 0 ? `
+              <div class="proper-nouns-section">
+                <div class="proper-header">PROPER NOUNS (고유명사)</div>
+                <div class="proper-grid">
+                  ${this._data.proper_nouns.map((pn: any, index: number) => `
+                    <div class="proper-item" id="proper-${index}">
+                      <span class="word">${pn.word}</span>
+                      <span class="pinyin">${pn.pinyin}</span>
+                    </div>
+                  `).join('')}
+                </div>
+              </div>
+            ` : ''}
           </div>
         ` : ''}
       </div>
@@ -302,24 +335,63 @@ export class TextSection extends HTMLElement {
 
     // Calculate timings based on character weights
     let timings: { id: string; start: number; end: number }[] = [];
+    let maxScrolledIndex = -1; // Keep track of the furthest scrolled element
     
+    const stripHTML = (html: string) => {
+      const tmp = document.createElement('DIV');
+      tmp.innerHTML = html;
+      return tmp.textContent || tmp.innerText || "";
+    };
+
     const refreshTimings = () => {
       const textLines = this._data.content || [];
-      
-      // Calculate weights (Chinese chars are heavier, pinyin is lighter)
-      const lineWeights = textLines.map((l: any) => l.text.length + (l.pinyin?.length || 0) * 0.3);
-      const totalWeight = lineWeights.reduce((a: number, b: number) => a + b, 0);
+      const vocabLines = this._data.vocabulary || [];
+      const properLines = this._data.proper_nouns || [];
       
       const duration = audio.duration;
       if (!duration || duration === Infinity) return;
+
+      const introDuration = Math.min(1.5, duration * 0.05);
+      const remainingDuration = duration - introDuration;
+
+      const getLineWeight = (text: string, pinyin: string) => {
+        const cleanText = stripHTML(text);
+        return cleanText.length + (pinyin?.length || 0) * 0.3;
+      };
+
+      const dialogueWeights = textLines.map((l: any) => getLineWeight(l.text, l.pinyin));
+      const vocabWeights = vocabLines.map((v: any) => getLineWeight(v.word, v.pinyin) + 2);
+      const properWeights = properLines.map((pn: any) => getLineWeight(pn.word, pn.pinyin));
+
+      const totalWeight = [
+        ...dialogueWeights,
+        ...vocabWeights,
+        ...properWeights
+      ].reduce((a, b) => a + b, 0);
       
-      let currentPos = 0;
+      if (totalWeight === 0) return;
+
+      let currentPos = introDuration;
       timings = [];
       
       textLines.forEach((_: any, i: number) => {
-        const weight = lineWeights[i];
-        const lineDuration = (weight / totalWeight) * duration;
+        const weight = dialogueWeights[i];
+        const lineDuration = (weight / totalWeight) * remainingDuration;
         timings.push({ id: `line-${i}`, start: currentPos, end: currentPos + lineDuration });
+        currentPos += lineDuration;
+      });
+
+      vocabLines.forEach((_: any, i: number) => {
+        const weight = vocabWeights[i];
+        const lineDuration = (weight / totalWeight) * remainingDuration;
+        timings.push({ id: `vocab-${i}`, start: currentPos, end: currentPos + lineDuration });
+        currentPos += lineDuration;
+      });
+
+      properLines.forEach((_: any, i: number) => {
+        const weight = properWeights[i];
+        const lineDuration = (weight / totalWeight) * remainingDuration;
+        timings.push({ id: `proper-${i}`, start: currentPos, end: currentPos + lineDuration });
         currentPos += lineDuration;
       });
     };
@@ -330,15 +402,24 @@ export class TextSection extends HTMLElement {
       if (timings.length === 0) refreshTimings();
       const currentTime = audio.currentTime;
       
-      timings.forEach(t => {
-        const el = this.shadowRoot?.getElementById(t.id);
+      timings.forEach((t, index) => {
         if (currentTime >= t.start && currentTime < t.end) {
-          if (!el?.classList.contains('active')) {
+          // Only scroll if we are moving forward in the audio
+          if (index > maxScrolledIndex) {
+            maxScrolledIndex = index;
+            const el = this.shadowRoot?.getElementById(t.id);
+            
+            // Remove previous active markers (hidden logic)
             this.shadowRoot?.querySelectorAll('.active').forEach(item => {
               if (item !== playBtn) item.classList.remove('active');
             });
             el?.classList.add('active');
-            el?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            
+            // Only scroll forward
+            el?.scrollIntoView({ 
+              behavior: 'smooth', 
+              block: 'center'
+            });
           }
         }
       });
