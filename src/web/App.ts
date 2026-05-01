@@ -2,6 +2,7 @@ import '../components/VocabCard';
 import '../components/GrammarCard';
 import '../components/TextSection';
 import '../components/KeySentences';
+import '../components/SourceInfo';
 
 type LessonData = {
   lessonId?: number;
@@ -315,6 +316,8 @@ class App extends HTMLElement {
               </div>
             `}
           </main>
+
+          <source-info></source-info>
 
           <footer>
             <div class="footer-logo">MODERN HAN ELEGANT • HSK 4 STANDARD</div>
