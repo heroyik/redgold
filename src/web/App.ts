@@ -561,23 +561,22 @@ class App extends HTMLElement {
           cursor: pointer;
           display: flex;
           align-items: center;
-          gap: 8px;
+          gap: 4px;
           transition: transform 0.3s;
         }
 
         .home-link:active { transform: scale(0.95); }
         
-        .home-link svg {
-          /* Optical centering adjustment */
-          transform: translateY(1px);
+        .home-icon {
+          height: 1.55rem;
+          width: auto;
+          display: block;
         }
 
         .header-wordmark {
           height: 1.55rem;
           width: auto;
           display: block;
-          /* Slight nudge for optical centering with adjacent text/icons */
-          transform: translateY(1.5px);
         }
 
         .header-version {
@@ -589,7 +588,9 @@ class App extends HTMLElement {
           border-radius: 4px;
           padding: 1px 5px;
           letter-spacing: 0.5px;
-          vertical-align: middle;
+          display: inline-flex;
+          align-items: center;
+          height: fit-content;
         }
 
         .header-date {
@@ -767,7 +768,7 @@ class App extends HTMLElement {
         <div class="sticky-header">
           <div class="header-top">
             <div class="home-link" id="home-link">
-              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
+              <img src="assets/home-icon.png" alt="Home" class="home-icon">
               <img src="assets/redgold-wordmark-fixed.png?v=${__APP_VERSION__}" alt="RedGold" class="header-wordmark">
               <span class="header-version">v${__APP_VERSION__}</span>
             </div>
