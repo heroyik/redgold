@@ -52,6 +52,14 @@ class App extends HTMLElement {
   getSavedLanguage(): AppLanguage {
     const saved = window.localStorage.getItem('redgold-language');
     if (saved === 'ko' || saved === 'ja' || saved === 'en') return saved;
+
+    const locales = navigator.languages?.length ? navigator.languages : [navigator.language];
+    const normalized = locales
+      .filter((locale): locale is string => Boolean(locale))
+      .map(locale => locale.toLowerCase());
+
+    if (normalized.some(locale => locale.startsWith('ko'))) return 'ko';
+    if (normalized.some(locale => locale.startsWith('ja'))) return 'ja';
     return 'en';
   }
 

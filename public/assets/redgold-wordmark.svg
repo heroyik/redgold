@@ -1,21 +1,27 @@
 <svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="redFill" x1="120" y1="54" x2="360" y2="164" gradientUnits="userSpaceOnUse">
+    <linearGradient id="redFill" x1="122" y1="54" x2="348" y2="164" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#B50000"/>
       <stop offset="1" stop-color="#870000"/>
     </linearGradient>
-    <linearGradient id="goldFill" x1="392" y1="52" x2="640" y2="166" gradientUnits="userSpaceOnUse">
+    <linearGradient id="goldFill" x1="332" y1="52" x2="620" y2="166" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#E2B547"/>
       <stop offset="1" stop-color="#C89218"/>
     </linearGradient>
   </defs>
 
-  <text x="380" y="160"
-    font-family="Arial Black, Arial, Helvetica, sans-serif"
-    font-size="142"
-    font-weight="900"
-    letter-spacing="-7"
-    text-anchor="middle">
-    <tspan fill="url(#redFill)">Red</tspan><tspan fill="url(#goldFill)">Gold</tspan>
-  </text>
+  <g transform="translate(78 0)">
+    <text x="0" y="160"
+      font-family="Arial Black, Arial, Helvetica, sans-serif"
+      font-size="142"
+      font-weight="900"
+      letter-spacing="-7"
+      fill="url(#redFill)">Red</text>
+    <text x="272" y="160"
+      font-family="Arial Black, Arial, Helvetica, sans-serif"
+      font-size="142"
+      font-weight="900"
+      letter-spacing="-7"
+      fill="url(#goldFill)">Gold</text>
+  </g>
 </svg>
