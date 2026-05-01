@@ -184,7 +184,7 @@ export class KeySentences extends HTMLElement {
               <div class="label">🔥 Living Language</div>
               <div class="chinese-text">${s.colloquial_equivalent}</div>
               <div class="pinyin">${s.colloquial_pinyin}</div>
-              <div class="translation">Perfect for natural, flowing conversations.</div>
+              <div class="translation">${s.colloquial_translation || ''}</div>
             </div>
           </div>
         `).join('')}

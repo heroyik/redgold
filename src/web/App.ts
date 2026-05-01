@@ -3,6 +3,7 @@ import '../components/GrammarCard';
 import '../components/TextSection';
 import '../components/KeySentences';
 import '../components/SourceInfo';
+import { translateLessonData, type AppLanguage } from '../utils/lessonTranslations';
 
 type LessonData = {
   lessonId?: number;
@@ -23,6 +24,7 @@ class App extends HTMLElement {
   private _activeTab: string = 'vocab';
   private _currentLesson: number = 1;
   private _viewMode: 'landing' | 'lesson' = 'landing';
+  private _language: AppLanguage = 'en';
   private _prefetchedLessons = new Map<number, LessonData>();
   private _prefetchedAudio = new Set<string>();
   
@@ -44,6 +46,39 @@ class App extends HTMLElement {
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
+    this._language = this.getSavedLanguage();
+  }
+
+  getSavedLanguage(): AppLanguage {
+    const saved = window.localStorage.getItem('redgold-language');
+    if (saved === 'ko' || saved === 'ja' || saved === 'en') return saved;
+    return 'en';
+  }
+
+  setLanguage(language: AppLanguage) {
+    this._language = language;
+    window.localStorage.setItem('redgold-language', language);
+    this.render();
+  }
+
+  getLandingCopy() {
+    const copy: Record<AppLanguage, string> = {
+      en: `<strong>Red</strong> = textbook-mode, clean and correct.<br><strong>Gold</strong> = the real-life vibe, the way people actually talk.<br>Put them together and you get <strong>RedGold</strong>: less robotic, more native, way more fun.`,
+      ko: `<strong>Red</strong> = 교과서 모드, 깔끔하고 정확한 중국어.<br><strong>Gold</strong> = 실전 감각, 진짜 사람들이 쓰는 말맛.<br>둘을 합치면 <strong>RedGold</strong>: 딱딱함은 줄이고, 현지 느낌은 살리고, 공부는 훨씬 재밌게.`,
+      ja: `<strong>Red</strong> = 教科書モード、きれいで正確な中国語。<br><strong>Gold</strong> = 実戦のノリ、ネイティブが本当に使う言い回し。<br>この二つを合わせたのが <strong>RedGold</strong>。固すぎず、ちゃんと自然で、勉強もちょっと楽しくなる。`
+    };
+
+    return copy[this._language];
+  }
+
+  getStartButtonLabel() {
+    const labels: Record<AppLanguage, string> = {
+      en: `Let's get into it`,
+      ko: `바로 달려보자`,
+      ja: `さっそくいこう`
+    };
+
+    return labels[this._language];
   }
 
   connectedCallback() {
@@ -174,12 +209,12 @@ class App extends HTMLElement {
           to { opacity: 1; transform: translateY(0); }
         }
 
-        .hero-title h1 {
-          font-size: clamp(2.5rem, 10vw, 4rem);
-          margin-bottom: 0.3rem;
-          letter-spacing: -2px;
-          color: #8B0000;
-          font-weight: 900;
+        .hero-wordmark {
+          width: min(82vw, 520px);
+          height: auto;
+          display: block;
+          margin: 0 auto 0.45rem;
+          filter: drop-shadow(0 18px 28px rgba(139, 0, 0, 0.08));
         }
 
         .version-badge {
@@ -231,6 +266,35 @@ class App extends HTMLElement {
           gap: 1rem;
           margin: 3rem 0;
           perspective: 1000px;
+        }
+
+        .language-picker {
+          display: inline-flex;
+          gap: 0.5rem;
+          padding: 0.45rem;
+          border-radius: 999px;
+          background: rgba(255, 255, 255, 0.72);
+          border: 1px solid rgba(139, 0, 0, 0.08);
+          box-shadow: 0 8px 24px rgba(0,0,0,0.05);
+          margin-top: 1.5rem;
+        }
+
+        .language-btn {
+          border: none;
+          background: transparent;
+          color: #7a7a7a;
+          font-size: 0.82rem;
+          font-weight: 800;
+          padding: 0.65rem 1rem;
+          border-radius: 999px;
+          cursor: pointer;
+          transition: all 0.25s ease;
+        }
+
+        .language-btn.active {
+          background: #8B0000;
+          color: #fff;
+          box-shadow: 0 8px 18px rgba(139, 0, 0, 0.18);
         }
 
         .book-preview {
@@ -344,9 +408,15 @@ class App extends HTMLElement {
       <div class="landing-container">
         <section class="landing-hero">
           <div class="hero-title">
-            <h1>RedGold</h1>
+            <img src="assets/redgold-wordmark.svg" alt="RedGold" class="hero-wordmark">
             <div class="version-badge">v${__APP_VERSION__} &nbsp;·&nbsp; ${__APP_BUILD_DATE__}</div>
-            <p>Textbooks are mid. Master the bridge from HSK 4 to real-world talk.</p>
+            <p>${this.getLandingCopy()}</p>
+          </div>
+
+          <div class="language-picker" id="language-picker">
+            <button class="language-btn ${this._language === 'en' ? 'active' : ''}" data-lang="en">English</button>
+            <button class="language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">한국어</button>
+            <button class="language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">日本語</button>
           </div>
           
           <div class="landing-books">
@@ -354,7 +424,7 @@ class App extends HTMLElement {
             <img src="images/hsk4_lower.jpg" class="book-preview" alt="HSK 4 Lower" id="book-lower" decoding="async">
           </div>
           
-          <button class="start-btn" id="start-learning-btn">Explore Lessons</button>
+          <button class="start-btn" id="start-learning-btn">${this.getStartButtonLabel()}</button>
         </section>
  
         <section class="chapter-selection" id="selection-area">
@@ -457,6 +527,38 @@ class App extends HTMLElement {
           letter-spacing: 1px;
           color: #333;
           text-transform: uppercase;
+        }
+
+        .header-controls {
+          display: flex;
+          align-items: center;
+          gap: 0.6rem;
+        }
+
+        .mini-language-picker {
+          display: inline-flex;
+          gap: 0.25rem;
+          padding: 0.2rem;
+          border-radius: 999px;
+          background: rgba(255, 255, 255, 0.8);
+          border: 1px solid rgba(139, 0, 0, 0.08);
+        }
+
+        .mini-language-btn {
+          border: none;
+          background: transparent;
+          color: #777;
+          font-size: 0.62rem;
+          font-weight: 800;
+          letter-spacing: 0.3px;
+          padding: 0.35rem 0.55rem;
+          border-radius: 999px;
+          cursor: pointer;
+        }
+
+        .mini-language-btn.active {
+          background: #8B0000;
+          color: #fff;
         }
 
         .lesson-scroller {
@@ -597,7 +699,14 @@ class App extends HTMLElement {
               <span>RedGold</span>
               <span class="header-version">v${__APP_VERSION__}</span>
             </div>
-            <div class="header-date">${__APP_BUILD_DATE__}</div>
+            <div class="header-controls">
+              <div class="mini-language-picker">
+                <button class="mini-language-btn ${this._language === 'en' ? 'active' : ''}" data-lang="en">EN</button>
+                <button class="mini-language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">KO</button>
+                <button class="mini-language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">JP</button>
+              </div>
+              <div class="header-date">${__APP_BUILD_DATE__}</div>
+            </div>
           </div>
           <div class="lesson-scroller">
             ${this._lessons.map(l => `
@@ -648,6 +757,12 @@ class App extends HTMLElement {
     if (!root) return;
 
     if (this._viewMode === 'landing') {
+      root.querySelectorAll('[data-lang]').forEach(button => {
+        button.addEventListener('click', () => {
+          const language = (button as HTMLElement).dataset.lang as AppLanguage | undefined;
+          if (language) this.setLanguage(language);
+        });
+      });
       root.getElementById('start-learning-btn')?.addEventListener('click', () => {
         root.getElementById('selection-area')?.scrollIntoView({ behavior: 'smooth' });
       });
@@ -669,6 +784,12 @@ class App extends HTMLElement {
         root.getElementById('selection-area')?.scrollIntoView({ behavior: 'smooth' });
       });
     } else {
+      root.querySelectorAll('[data-lang]').forEach(button => {
+        button.addEventListener('click', () => {
+          const language = (button as HTMLElement).dataset.lang as AppLanguage | undefined;
+          if (language) this.setLanguage(language);
+        });
+      });
       root.getElementById('home-link')?.addEventListener('click', () => this.goHome());
       root.getElementById('tab-vocab')?.addEventListener('click', () => this.switchTab('vocab'));
       root.getElementById('tab-grammar')?.addEventListener('click', () => this.switchTab('grammar'));
@@ -697,13 +818,15 @@ class App extends HTMLElement {
   renderContent() {
     if (!this._data) return '';
 
+    const localizedLesson = translateLessonData(this._currentLesson, this._data, this._language);
+
     switch (this._activeTab) {
       case 'vocab':
-        return `<div class="vocab-list">${this._data.vocabulary.map((v: any) => `<vocab-card id="v-${v.word}"></vocab-card>`).join('')}</div>`;
+        return `<div class="vocab-list">${localizedLesson.vocabulary.map((v: any) => `<vocab-card id="v-${v.word}"></vocab-card>`).join('')}</div>`;
       case 'grammar':
-        return `<div class="grammar-list">${this._data.grammar.map((g: any) => `<grammar-card id="g-${g.point}"></grammar-card>`).join('')}</div>`;
+        return `<div class="grammar-list">${localizedLesson.grammar.map((g: any) => `<grammar-card id="g-${g.point}"></grammar-card>`).join('')}</div>`;
       case 'text':
-        return `<div class="text-list">${this._data.texts.map((t: any) => `<text-section id="t-${t.id}"></text-section>`).join('')}</div>`;
+        return `<div class="text-list">${localizedLesson.texts.map((t: any) => `<text-section id="t-${t.id}"></text-section>`).join('')}</div>`;
       case 'mastery':
         return `<div class="mastery-section"><key-sentences id="mastery-sentences"></key-sentences></div>`;
       default:
@@ -714,7 +837,7 @@ class App extends HTMLElement {
   updated() {
     if (!this._data || this._viewMode === 'landing') return;
 
-    const lessonData = this._data;
+    const lessonData = translateLessonData(this._currentLesson, this._data, this._language);
 
     if (this._activeTab === 'vocab') {
       lessonData.vocabulary.forEach((v: any) => {

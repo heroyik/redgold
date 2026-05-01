@@ -1,0 +1,47 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="redFill" x1="150" y1="20" x2="410" y2="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#D61212"/>
+      <stop offset="0.52" stop-color="#A40000"/>
+      <stop offset="1" stop-color="#730000"/>
+    </linearGradient>
+    <linearGradient id="goldFill" x1="430" y1="25" x2="760" y2="235" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFE08A"/>
+      <stop offset="0.45" stop-color="#F3BE3B"/>
+      <stop offset="1" stop-color="#B97B00"/>
+    </linearGradient>
+    <radialGradient id="glowRed" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(250 128) rotate(90) scale(120 260)">
+      <stop stop-color="#D61212" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#D61212" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowGold" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(620 130) rotate(90) scale(120 300)">
+      <stop stop-color="#FFD770" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#FFD770" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softShadow" x="40" y="18" width="820" height="220" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#7A0000" flood-opacity="0.16"/>
+    </filter>
+  </defs>
+
+  <ellipse cx="248" cy="128" rx="180" ry="94" fill="url(#glowRed)"/>
+  <ellipse cx="622" cy="130" rx="208" ry="96" fill="url(#glowGold)"/>
+
+  <g filter="url(#softShadow)">
+    <text x="92" y="172"
+      font-family="Arial Black, Arial, Helvetica, sans-serif"
+      font-size="142"
+      font-weight="900"
+      letter-spacing="-7"
+      fill="url(#redFill)">Red</text>
+    <text x="378" y="172"
+      font-family="Arial Black, Arial, Helvetica, sans-serif"
+      font-size="142"
+      font-weight="900"
+      letter-spacing="-7"
+      fill="url(#goldFill)">Gold</text>
+  </g>
+
+  <path d="M370 72C404 44 470 37 525 56" stroke="#F4CB5A" stroke-width="10" stroke-linecap="round" opacity="0.35"/>
+  <circle cx="675" cy="80" r="8" fill="#FFE08A" opacity="0.78"/>
+  <circle cx="695" cy="68" r="4" fill="#FFF5D1" opacity="0.88"/>
+</svg>
