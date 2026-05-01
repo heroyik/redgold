@@ -5,7 +5,7 @@
 <h1 align="center">✨ REDGOLD (赤金汉语) ✨</h1>
 
 <p align="center">
-  <strong>HSK 4 Standard Course: Reimagined for the Modern Learner.</strong><br>
+  <strong>Textbooks are mid. Master the bridge from HSK 4 to real-world talk.</strong><br>
   <em>The perfect fusion of academic precision and colloquial soul.</em>
 </p>
 
@@ -13,108 +13,114 @@
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
-  <img src="https://img.shields.io/badge/Mobile-Galaxy_S26_Optimized-8B0000?style=for-the-badge" alt="Mobile">
+  <img src="https://img.shields.io/badge/Pedagogy-Colloquial_Bridge-8B0000?style=for-the-badge" alt="Pedagogy">
 </p>
 
 ---
 
 ## 🏮 The Philosophy: Red Meets Gold
 
-In Chinese learning, there has always been a wall. On one side, the **Red**—the formal, structured HSK curriculum. On the other side, the **Gold**—the colloquial, native rhythm of real life.
+In traditional Chinese learning, there has always been a disconnect. 
+- **The Red (赤)**: Represents the formal, structured HSK curriculum—essential for exams but often sounding "robotic" in real life.
+- **The Gold (金)**: Represents the colloquial, native rhythm—the way people *actually* talk in the streets of Beijing or Shanghai.
 
-**Redgold** bridges this gap. We transform the HSK 4 Standard Course into a premium, interactive experience that teaches you not just *what* to say, but *how* to say it like a native.
+**RedGold** bridges this gap. We transform the **HSK 4 Standard Course** into a premium, interactive experience that teaches you not just *what* to say, but *how* to say it like a native.
 
 ---
 
-## 🚀 Key Features
+## 🚀 Core Features
 
-### 📖 Immersive Landing Page
-Experience a premium entry point featuring the official **HSK 4 Standard Course** (Upper/Lower) textbook covers. Start your journey with a beautiful, visual chapter selection grid.
+### 🎬 Karaoke-Style Scroll Sync
+Our intelligent **Scroll Engine** in the `TextSection` component provides a seamless reading experience. 
+- **Forward-Only Logic**: The viewport only moves forward with the audio, preventing distracting "snaps" back to previous lines.
+- **Timing Heuristics**: Calculates line changes based on character weight and audio duration for frame-perfect synchronization.
 
-### 🎧 Synchronized Audio Highlighting
-Learn by listening with our intelligent synchronization engine. As the audio plays, the text highlights and scrolls automatically, keeping the current sentence perfectly centered for focus.
+### 🏷️ Proper Nouns (고유명사) Support
+Unlike standard HSK tools, RedGold explicitly identifies and styles **Proper Nouns** (names, places, brands). This prevents confusion between new vocabulary and unique identifiers, styled in a dedicated **Modern Han Elegant** gold theme.
 
-### ⚡ Dual-Track Learning
-- **Red (Formal)**: Master the exact patterns required for the HSK 4 exam.
-- **Gold (Colloquial)**: Discover how native speakers *actually* use those patterns in daily life.
+### ⚡ Smart Prefetching
+Zero-latency transitions. The app predicts your learning path and pre-warms audio assets and lesson data as you browse, ensuring the next chapter is ready before you even click.
 
 ### 🎨 Modern Han Elegant UI
-A "glassmorphic" interface designed with high-end aesthetics:
-- Subtle gradients and backdrop blurs.
-- Responsive design tailored for modern high-aspect-ratio displays (Galaxy S26).
-- Smooth animations and micro-interactions.
-
-### 📚 Full Curriculum Coverage
-Support for all **20 Lessons** of the HSK 4 Standard Course, including vocabulary, grammar points, texts, and key sentences.
+A premium "glassmorphic" interface designed for focus:
+- **Responsive Layout**: Tailored for high-aspect-ratio mobile displays (Galaxy S26/iPhone Pro Max).
+- **Sticky Navigation**: Smooth tab switching between Vocab, Grammar, and Texts.
+- **Visual Selection**: Browse lessons via high-resolution 3D-styled textbook covers.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Architecture
 
-Built with a focus on performance, scalability, and the Google Cloud ecosystem:
+Built for performance, scalability, and the **Google Cloud** ecosystem:
 
-- **Frontend Core**: [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/)
-- **Architecture**: Vanilla Web Components (Fast, Lightweight, Dependency-free)
-- **Styling**: Custom CSS Design System (Redgold Tokens)
-- **Backend**: [Firebase](https://firebase.google.com/) (Hosting, Authentication & Firestore)
+- **Frontend**: [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/)
+- **Architecture**: **Vanilla Web Components** (Shadow DOM, 0-dependency runtime)
+- **Styling**: Vanilla CSS with a centralized token system (Modern Han Elegant)
+- **Backend**: [Firebase](https://firebase.google.com/) (Hosting, Auth, Firestore ready)
 - **CI/CD**: GitHub Actions for automated deployment to GitHub Pages.
 
 ---
 
-## 🏗 Architecture Insights
+## 📂 Project Structure
 
-### High-Performance Asset Engine
-- **Lazy Loading**: Lesson data is dynamically imported only when needed, reducing initial bundle size and improving Time-to-Interactive.
-- **Proactive Prefetching**: An intelligent engine that predicts user navigation and pre-warms audio and JSON assets via hover triggers and scroll proximity.
-- **Hardware Acceleration**: CSS `will-change` and `content-visibility: auto` properties ensure 60fps animations and smooth scrolling through long lesson content.
-
-### Security-First Design
-- **XSS Protection**: All dynamic content is sanitized through a custom `sanitizeHTML` utility before being injected into the DOM.
-- **Strict Content Security Policy (CSP)**: Hardened headers to prevent unauthorized script execution and cross-site scripting.
-
-### Intelligent Scroll Engine
-
-Our `TextSection` component uses a character-weight heuristic to synchronize audio with text. It calculates precisely when to scroll and highlight each line based on audio duration and text complexity, ensuring a seamless "Karaoke-style" reading experience.
-
-### Mobile Optimization
-Special attention has been given to modern mobile ergonomics, including:
-- **Safe-area handling** for notch displays.
-- **Sticky Tab Navigation** for easy switching between Vocab, Grammar, and Texts.
-- **Horizontal Lesson Scroller** for quick chapter switching.
+```bash
+redgold/
+├── data/               # HSK 4 Lesson JSONs (Vocab, Grammar, Texts)
+├── plan/               # Technical specs and design documentation
+├── public/             # Assets (Audio, Images, Logos)
+├── scripts/            # Python automation for data processing
+└── src/
+    ├── components/     # Custom Web Components (TextSection, VocabCard, etc.)
+    ├── styles/         # Global design tokens and CSS
+    ├── utils/          # Security (XSS Sanitizer) and Helpers
+    └── web/            # Main App container and routing
+```
 
 ---
 
-## 🛠 Installation & Setup
+## 🛠 Installation & Development
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/heroyik/redgold.git
-   ```
+### 1. Setup
+```bash
+# Clone the repo
+git clone https://github.com/heroyik/redgold.git
 
-2. **Install dependencies**
-   ```bash
-   npm install
-   ```
+# Install dependencies
+npm install
+```
 
-3. **Launch the Dev Server**
-   ```bash
-   npm run dev
-   ```
+### 2. Local Development
+```bash
+# Start the dev server
+npm run dev
+```
 
-4. **Build for Production**
-   ```bash
-   npm run build
-   ```
+### 3. Production Build
+```bash
+# Build for deployment
+npm run build
+```
+
+---
+
+## 🗺 Roadmap
+
+| Phase | Milestone | Status |
+| :--- | :--- | :--- |
+| **UI/UX** | Landing Page Refresh (Book Covers + Hip Tagline) | ✅ Done |
+| **Logic** | Forward-only Scroll Sync Engine | ✅ Done |
+| **Pedagogy** | Proper Nouns (고유명사) Integration | ✅ Done |
+| **Auth** | Firebase Authentication Implementation | ⏳ Next |
+| **Data** | Mastery Quiz System & Progress Tracking | ⏳ Planned |
 
 ---
 
-## 🤝 Reference & Acknowledgement
+## 🤝 Reference & Credits
 
-Redgold is an educational tool designed to complement the **HSK Standard Course 4** textbook series authorized by **Hanban** and published by **Beijing Language and Culture University Press (BLCUP)**. We encourage all users to purchase the original textbooks to support the creators of this excellent curriculum.
-
----
+Redgold is an educational tool designed to complement the **HSK Standard Course 4** textbook series authorized by **Hanban** and published by **BLCUP**. 
 
 <p align="center">
-  Built with ❤️ for the global Chinese learning community.<br>
-  <strong>Redgold: Speak the Language, Not Just the Grammar.</strong>
+  Built with ❤️ by the RedGold Team.<br>
+  <strong>Speak the Language, Not Just the Grammar.</strong>
 </p>
+
