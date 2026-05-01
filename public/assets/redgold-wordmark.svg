@@ -1,22 +1,22 @@
-<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="760" height="220" viewBox="0 0 760 220" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="redFill" x1="102" y1="62" x2="360" y2="178" gradientUnits="userSpaceOnUse">
+    <linearGradient id="redFill" x1="36" y1="54" x2="300" y2="164" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#B50000"/>
       <stop offset="1" stop-color="#870000"/>
     </linearGradient>
-    <linearGradient id="goldFill" x1="384" y1="60" x2="734" y2="178" gradientUnits="userSpaceOnUse">
+    <linearGradient id="goldFill" x1="302" y1="52" x2="714" y2="166" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#E2B547"/>
       <stop offset="1" stop-color="#C89218"/>
     </linearGradient>
   </defs>
 
-  <text x="92" y="172"
+  <text x="32" y="160"
     font-family="Arial Black, Arial, Helvetica, sans-serif"
     font-size="142"
     font-weight="900"
     letter-spacing="-7"
     fill="url(#redFill)">Red</text>
-  <text x="378" y="172"
+  <text x="300" y="160"
     font-family="Arial Black, Arial, Helvetica, sans-serif"
     font-size="142"
     font-weight="900"
