@@ -34,17 +34,18 @@ B. 인증 및 접근 제어 (Auth & Access Control)
 최소 권한 원칙 (Principle of Least Privilege): 사용자가 어떤 데이터에 접근하고 수정할 수 있는지 권한을 최소한으로 제한해야 합니다. 예를 들어, 일반 사용자 계정은 자신의 데이터만 수정할 수 있도록 Firebase 규칙을 설정해야 합니다.
 API 키 관리: 만약 백엔드에서 외부 API 키(예: 이미지 CDN, AI 서비스 등)를 사용한다면, 이 키들이 클라이언트 측 코드에 노출되지 않도록 **서버리스 함수(Cloud Functions)**를 통해 간접적으로 호출하는 것이 안전합니다.
 💡 요약 및 추천 우선순위
-영역 문제점 개선 방안 상태
-성능 초기 로딩 지연 (Assets) WebP 사용, srcset 구현, 폰트 로딩 최적화 ✅ 완료
-성능 오디오 끊김 (Stuttering) 레슨 진입 시 오디오 파일을 미리 로드/캐싱(Prefetching) ✅ 완료
-성능 스크롤 불일치 (Sync) 오디오 가중치 기반 타이밍 엔진 및 HTML 태그 보정 적용 ✅ 완료
-기능 교육적 깊이 부족 专有名词(Proper Nouns) 전용 UI 및 데이터 연동 ✅ 완료
-보안 데이터 무결성 위협 Firebase Security Rules를 통한 모든 사용자 입력값 검증 (Firestore 사용 시 적용) 대기 중
-보안 XSS 공격 위험 innerHTML 사용 전, 사용자 입력에 대한 HTML 클린징(Sanitization) 적용 ✅ 완료
+### 🏗️ Current Progress Tracker
 
-이 개선 사항들을 단계적으로 적용하시면, Redgold는 단순한 학습 앱을 넘어 전문적이고 견고한 교육 플랫폼으로 진화할 것입니다.
+| Feature | Details | Status |
+| :--- | :--- | :--- |
+| **Landing Page Refresh** | GitHub link, hip tagline, book covers | ✅ 완료 |
+| **Proper Nouns Support** | '고유명사' block with gold theme | ✅ 완료 |
+| **Scroll-Sync Fix** | Forward-only logic for smooth reading | ✅ 완료 |
+| **Prefetching Engine** | Audio/Data caching for smooth transitions | ✅ 완료 |
+| **Security Rules** | Firebase Security Rules validation | ⏳ 대기 중 |
+| **Unified Data Model** | Consolidating Vocab/Grammar/Texts | ⏳ 계획 중 |
 
-📚 [Vault lookup complete] Pulling the answer together from the notes we just opened.
+---
 
 제공해주신 학습 노트(Chinese_Conversation_Study.md)를 통해 Redgold가 목표하는 바, 즉 ‘문법 학습을 넘어선 자연스러운 구어체 회화 능력 배양’ 이라는 핵심 교육 목표를 다시 한번 확인했습니다.
 
