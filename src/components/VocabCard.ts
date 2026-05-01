@@ -1,7 +1,5 @@
-/**
- * <vocab-card> Web Component
- * Displays a single vocabulary word with its Pinyin and meaning.
- */
+import { sanitizeHTML } from '../utils/security';
+
 export class VocabCard extends HTMLElement {
   private _word: string = '';
   private _pinyin: string = '';
@@ -27,6 +25,7 @@ export class VocabCard extends HTMLElement {
     if (!this.shadowRoot) return;
     this.shadowRoot.innerHTML = `
       <style>
+        /* ... styles preserved ... */
         :host {
           display: block;
           margin-bottom: 1.25rem;
@@ -104,13 +103,14 @@ export class VocabCard extends HTMLElement {
       </style>
       <div class="card animate-scale">
         <div class="word-group">
-          <span class="pinyin">${this._pinyin}</span>
-          <span class="word">${this._word}</span>
+          <span class="pinyin">${sanitizeHTML(this._pinyin)}</span>
+          <span class="word">${sanitizeHTML(this._word)}</span>
         </div>
-        <div class="meaning">${this._meaning}</div>
+        <div class="meaning">${sanitizeHTML(this._meaning)}</div>
       </div>
     `;
   }
 }
 
 customElements.define('vocab-card', VocabCard);
+

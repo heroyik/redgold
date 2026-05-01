@@ -14,22 +14,17 @@ type LessonData = {
 };
 
 const lessonModules = import.meta.glob('../../data/lesson*.json', {
-  eager: true,
+  eager: false,
   import: 'default',
-}) as Record<string, LessonData>;
-
-const lessonDataMap = new Map<number, LessonData>(
-  Object.entries(lessonModules).map(([path, data]) => {
-    const match = path.match(/lesson(\d+)\.json$/);
-    return [Number(match?.[1] || data.lessonId || 0), data];
-  }),
-);
+}) as Record<string, () => Promise<LessonData>>;
 
 class App extends HTMLElement {
   private _data: LessonData | null = null;
   private _activeTab: string = 'vocab';
   private _currentLesson: number = 1;
   private _viewMode: 'landing' | 'lesson' = 'landing';
+  private _prefetchedLessons = new Map<number, LessonData>();
+  private _prefetchedAudio = new Set<string>();
   
   private _lessons = Array.from({ length: 20 }, (_, i) => ({
     id: i + 1,
@@ -38,8 +33,8 @@ class App extends HTMLElement {
 
   private _getLessonTitle(id: number): string {
     const titles: Record<number, string> = {
-      1: '简单的爱情', 2: '真正的朋友', 3: '经理对我印象很好', 4: '不要太着急赚钱', 5: '只买对的，不买贵的',
-      6: '一分钱一分货', 7: '最好的医生是自己', 8: '生活中不缺少美', 9: '阳光总在风雨후', 10: '幸福的标准',
+      1: '简单的爱情', 2: '真正的朋友', 3: '经理对我印象很好', 4: '不要太着急赚钱', 5: '只买对의，不买贵的',
+      6: '一分钱一分货', 7: '最好的医生是自己', 8: '生活中不缺少美', 9: '阳光总在风雨后', 10: '幸福的标准',
       11: '读书好，读好书，好读书', 12: '用心发现世界', 13: '喝着茶看中国', 14: '保护地球母亲', 15: '教育孩子的艺术',
       16: '生活可以更美好', 17: '人与自然', 18: '科技与生活', 19: '生活的味道', 20: '路上的风景'
     };
@@ -53,6 +48,8 @@ class App extends HTMLElement {
 
   connectedCallback() {
     this.render();
+    // Warm up the first lesson
+    this.prefetchLesson(1);
   }
 
   async fetchData() {
@@ -62,15 +59,22 @@ class App extends HTMLElement {
     this.render();
     
     try {
-      const lesson = lessonDataMap.get(this._currentLesson);
-      if (!lesson) throw new Error('Lesson not found');
-      this._data = {
-        title: lesson.title,
-        vocabulary: lesson.vocabulary || [],
-        grammar: lesson.grammar || [],
-        texts: lesson.texts || [],
-        key_sentences: lesson.key_sentences || [],
-      };
+      if (this._prefetchedLessons.has(this._currentLesson)) {
+        this._data = this._prefetchedLessons.get(this._currentLesson)!;
+      } else {
+        const path = `../../data/lesson${this._currentLesson}.json`;
+        const loader = lessonModules[path];
+        if (!loader) throw new Error(`Lesson ${this._currentLesson} loader not found`);
+        const lesson = await loader();
+        this._data = {
+          title: lesson.title,
+          vocabulary: lesson.vocabulary || [],
+          grammar: lesson.grammar || [],
+          texts: lesson.texts || [],
+          key_sentences: lesson.key_sentences || [],
+        };
+        this._prefetchedLessons.set(this._currentLesson, this._data);
+      }
     } catch (error) {
       console.error('Error fetching lesson data:', error);
       this._data = {
@@ -84,11 +88,43 @@ class App extends HTMLElement {
     this.render();
   }
 
+  async prefetchLesson(id: number) {
+    if (this._prefetchedLessons.has(id)) return;
+
+    try {
+      const path = `../../data/lesson${id}.json`;
+      const loader = lessonModules[path];
+      if (loader) {
+        const data = await loader();
+        this._prefetchedLessons.set(id, data);
+        
+        // Prefetch audio files for this lesson
+        if (data.texts) {
+          data.texts.forEach((text: any) => {
+            if (text.audio && !this._prefetchedAudio.has(text.audio)) {
+              const audio = new Audio();
+              audio.src = text.audio;
+              audio.preload = 'auto';
+              this._prefetchedAudio.add(text.audio);
+              console.log(`[Prefetch] Audio: ${text.audio}`);
+            }
+          });
+        }
+      }
+    } catch (e) {
+      console.warn(`[Prefetch] Failed for lesson ${id}`, e);
+    }
+  }
+
   async selectLesson(id: number) {
     this._currentLesson = id;
     this._viewMode = 'lesson';
     window.scrollTo({ top: 0, behavior: 'smooth' });
     await this.fetchData();
+    // Proactive: Prefetch next lesson
+    if (id < 20) {
+      setTimeout(() => this.prefetchLesson(id + 1), 2000); // Wait a bit to not compete with current load
+    }
   }
 
   switchTab(tab: string) {
@@ -271,13 +307,13 @@ class App extends HTMLElement {
           </div>
           
           <div class="landing-books">
-            <img src="images/hsk4_upper.jpg" class="book-preview" alt="HSK 4 Upper" id="book-upper">
-            <img src="images/hsk4_lower.jpg" class="book-preview" alt="HSK 4 Lower" id="book-lower">
+            <img src="images/hsk4_upper.jpg" class="book-preview" alt="HSK 4 Upper" id="book-upper" decoding="async">
+            <img src="images/hsk4_lower.jpg" class="book-preview" alt="HSK 4 Lower" id="book-lower" decoding="async">
           </div>
           
           <button class="start-btn" id="start-learning-btn">Explore Lessons</button>
         </section>
-
+ 
         <section class="chapter-selection" id="selection-area">
           <div class="book-section-label">VOLUME 1 (上)</div>
           <div class="chapter-grid">
@@ -288,7 +324,7 @@ class App extends HTMLElement {
               </div>
             `).join('')}
           </div>
-
+ 
           <div class="book-section-label">VOLUME 2 (下)</div>
           <div class="chapter-grid">
             ${this._lessons.slice(10, 20).map(l => `
@@ -546,6 +582,11 @@ class App extends HTMLElement {
           const id = parseInt((card as HTMLElement).dataset.id || '1');
           this.selectLesson(id);
         });
+        // Performance: Prefetch on hover
+        card.addEventListener('mouseenter', () => {
+          const id = parseInt((card as HTMLElement).dataset.id || '1');
+          this.prefetchLesson(id);
+        }, { once: true });
       });
       root.getElementById('book-upper')?.addEventListener('click', () => {
         root.getElementById('selection-area')?.scrollIntoView({ behavior: 'smooth' });
@@ -565,6 +606,11 @@ class App extends HTMLElement {
           const id = parseInt((item as HTMLElement).dataset.id || '1');
           this.selectLesson(id);
         });
+        // Performance: Prefetch on hover in scroller
+        item.addEventListener('mouseenter', () => {
+          const id = parseInt((item as HTMLElement).dataset.id || '1');
+          this.prefetchLesson(id);
+        }, { once: true });
       });
 
       const activeChip = root.querySelector('.lesson-chip.active');
@@ -618,3 +664,4 @@ class App extends HTMLElement {
 
 customElements.define('chn-vocab-app', App);
 export default App;
+

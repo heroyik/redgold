@@ -36,6 +36,8 @@ body {
   font-family: 'Outfit', 'Inter', 'Noto Sans KR', system-ui, sans-serif;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
   min-height: 100vh;
   overflow-x: hidden;
 }
@@ -43,6 +45,7 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 800;
   color: var(--primary-red);
+  text-wrap: balance;
 }
 
 #app-root {
@@ -83,15 +86,16 @@ h1, h2, h3, h4, h5, h6 {
   to { opacity: 1; transform: scale(1); }
 }
 
-.animate-fade { animation: fadeIn 0.6s ease-out forwards; }
-.animate-slide { animation: slideUp 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; }
-.animate-scale { animation: scaleIn 0.5s ease-out forwards; }
+.animate-fade { animation: fadeIn 0.6s ease-out forwards; will-change: opacity; }
+.animate-slide { animation: slideUp 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards; will-change: transform, opacity; }
+.animate-scale { animation: scaleIn 0.5s ease-out forwards; will-change: transform, opacity; }
 
 .glass {
   background: var(--glass-bg);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid var(--glass-border);
+  will-change: transform;
 }
 
 /* Landing Page Specifics */
@@ -122,6 +126,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
   cursor: pointer;
   object-fit: cover;
+  will-change: transform;
 }
 
 .book-preview:hover {
@@ -141,6 +146,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: var(--transition-smooth);
   text-transform: uppercase;
   letter-spacing: 2px;
+  will-change: transform, box-shadow;
 }
 
 .start-btn:hover {
@@ -191,6 +197,7 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
+  will-change: transform;
 }
 
 .chapter-card:hover {
@@ -221,4 +228,10 @@ h1, h2, h3, h4, h5, h6 {
     width: 100px;
     height: 145px;
   }
+}
+
+/* Performance: content-visibility for off-screen rendering optimization */
+.chapter-grid, .lesson-container {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 1000px; /* Estimated size */
 }

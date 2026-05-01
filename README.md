@@ -56,14 +56,24 @@ Built with a focus on performance, scalability, and the Google Cloud ecosystem:
 - **Frontend Core**: [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/)
 - **Architecture**: Vanilla Web Components (Fast, Lightweight, Dependency-free)
 - **Styling**: Custom CSS Design System (Redgold Tokens)
-- **Backend**: [Firebase](https://firebase.google.com/) (Authentication & Firestore)
+- **Backend**: [Firebase](https://firebase.google.com/) (Hosting, Authentication & Firestore)
 - **CI/CD**: GitHub Actions for automated deployment to GitHub Pages.
 
 ---
 
 ## 🏗 Architecture Insights
 
+### High-Performance Asset Engine
+- **Lazy Loading**: Lesson data is dynamically imported only when needed, reducing initial bundle size and improving Time-to-Interactive.
+- **Proactive Prefetching**: An intelligent engine that predicts user navigation and pre-warms audio and JSON assets via hover triggers and scroll proximity.
+- **Hardware Acceleration**: CSS `will-change` and `content-visibility: auto` properties ensure 60fps animations and smooth scrolling through long lesson content.
+
+### Security-First Design
+- **XSS Protection**: All dynamic content is sanitized through a custom `sanitizeHTML` utility before being injected into the DOM.
+- **Strict Content Security Policy (CSP)**: Hardened headers to prevent unauthorized script execution and cross-site scripting.
+
 ### Intelligent Scroll Engine
+
 Our `TextSection` component uses a character-weight heuristic to synchronize audio with text. It calculates precisely when to scroll and highlight each line based on audio duration and text complexity, ensuring a seamless "Karaoke-style" reading experience.
 
 ### Mobile Optimization
