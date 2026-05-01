@@ -566,6 +566,11 @@ class App extends HTMLElement {
         }
 
         .home-link:active { transform: scale(0.95); }
+        
+        .home-link svg {
+          /* Optical centering adjustment */
+          transform: translateY(1px);
+        }
 
         .header-wordmark {
           height: 1.55rem;
