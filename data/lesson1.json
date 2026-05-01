@@ -10,7 +10,7 @@
     {
       "word": "俩",
       "pinyin": "liǎ",
-      "meaning": "two, both"
+      "meaning": "two"
     },
     {
       "word": "印象",
@@ -35,7 +35,7 @@
     {
       "word": "性格",
       "pinyin": "xìnggé",
-      "meaning": "character, personality"
+      "meaning": "personality"
     },
     {
       "word": "开玩笑",
@@ -45,22 +45,22 @@
     {
       "word": "从来",
       "pinyin": "cónglái",
-      "meaning": "always, all along (usually in negative)"
+      "meaning": "always"
     },
     {
       "word": "最好",
       "pinyin": "zuìhǎo",
-      "meaning": "had better, best"
+      "meaning": "had better"
     },
     {
       "word": "共同",
       "pinyin": "gòngtóng",
-      "meaning": "common, shared"
+      "meaning": "common"
     },
     {
       "word": "适合",
       "pinyin": "shìhé",
-      "meaning": "to suit, to fit"
+      "meaning": "to suit"
     },
     {
       "word": "生活",
@@ -95,12 +95,12 @@
     {
       "word": "羡慕",
       "pinyin": "xiànmù",
-      "meaning": "to envy, to admire"
+      "meaning": "to envy"
     },
     {
       "word": "爱情",
       "pinyin": "àiqíng",
-      "meaning": "love (between a man and a woman)"
+      "meaning": "love"
     },
     {
       "word": "星星",
@@ -120,17 +120,17 @@
     {
       "word": "亮",
       "pinyin": "liàng",
-      "meaning": "to shine, to be lit"
+      "meaning": "to shine"
     },
     {
       "word": "感动",
       "pinyin": "gǎndòng",
-      "meaning": "to touch, to move"
+      "meaning": "to touch"
     },
     {
       "word": "自然",
       "pinyin": "zìrán",
-      "meaning": "naturally, certainly"
+      "meaning": "naturally"
     },
     {
       "word": "原因",
@@ -155,7 +155,7 @@
     {
       "word": "脾气",
       "pinyin": "píqi",
-      "meaning": "temper, disposition"
+      "meaning": "temper"
     }
   ],
   "grammar": [
@@ -298,9 +298,9 @@
       ],
       "audio": "audio/01-1.mp3",
       "proper_nouns": [
-        { "word": "孙月", "pinyin": "Sūn Yuè" },
-        { "word": "王静", "pinyin": "Wáng Jìng" },
-        { "word": "李进", "pinyin": "Lǐ Jìn" }
+        { "word": "孙月", "pinyin": "Sūn Yuè", "meaning": "Sun Yue" },
+        { "word": "王静", "pinyin": "Wáng Jìng", "meaning": "Wang Jing" },
+        { "word": "李进", "pinyin": "Lǐ Jìn", "meaning": "Li Jin" }
       ],
       "vocabulary": [
         {
@@ -383,34 +383,38 @@
       ],
       "audio": "audio/01-2.mp3",
       "proper_nouns": [
-        { "word": "李老师", "pinyin": "Lǐ lǎoshī" },
-        { "word": "王静", "pinyin": "Wáng Jìng" }
+        { "word": "李", "pinyin": "Lǐ", "meaning": "Li, a Chinese family name" }
       ],
       "vocabulary": [
         {
           "word": "开玩笑",
           "pinyin": "kāi wánxiào",
-          "meaning": "to joke"
+          "meaning": "to be kidding"
         },
         {
           "word": "从来",
           "pinyin": "cónglái",
-          "meaning": "always, all along (usually in negative)"
+          "meaning": "adv. always, all along"
         },
         {
           "word": "最好",
           "pinyin": "zuìhǎo",
-          "meaning": "had better, best"
+          "meaning": "adv. had better"
         },
         {
           "word": "共同",
           "pinyin": "gòngtóng",
-          "meaning": "common, shared"
+          "meaning": "adj. common, shared"
         },
         {
           "word": "适合",
           "pinyin": "shìhé",
-          "meaning": "to suit, to fit"
+          "meaning": "v. to suit, to fit"
+        },
+        {
+          "word": "幸福",
+          "pinyin": "xìngfú",
+          "meaning": "adj. happy"
         }
       ]
     },
@@ -457,8 +461,8 @@
       ],
       "audio": "audio/01-3.mp3",
       "proper_nouns": [
-        { "word": "高老师", "pinyin": "Gāo lǎoshī" },
-        { "word": "李老师", "pinyin": "Lǐ lǎoshī" }
+        { "word": "高老师", "pinyin": "Gāo lǎoshī", "meaning": "Teacher Gao" },
+        { "word": "李老师", "pinyin": "Lǐ lǎoshī", "meaning": "Teacher Li" }
       ],
       "vocabulary": [
         {

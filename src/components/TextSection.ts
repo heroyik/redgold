@@ -257,6 +257,12 @@ export class TextSection extends HTMLElement {
           margin: 0;
           opacity: 0.8;
         }
+
+        .proper-item .meaning {
+          font-size: 0.7rem;
+          opacity: 0.6;
+          margin-top: 1px;
+        }
       </style>
 
       <div class="text-container">
@@ -292,7 +298,7 @@ export class TextSection extends HTMLElement {
 
         ${this._data.vocabulary && this._data.vocabulary.length > 0 ? `
           <div class="vocab-section">
-            <div class="vocab-header">NEW WORDS IN THIS TEXT</div>
+            <div class="vocab-header">生词 (New Words)</div>
             <div class="vocab-grid">
               ${this._data.vocabulary.map((v: any, index: number) => `
                 <div class="vocab-item" id="vocab-${index}">
@@ -305,12 +311,13 @@ export class TextSection extends HTMLElement {
             
             ${this._data.proper_nouns && this._data.proper_nouns.length > 0 ? `
               <div class="proper-nouns-section">
-                <div class="proper-header">PROPER NOUNS</div>
+                <div class="proper-header">专有名词 (Proper Nouns)</div>
                 <div class="proper-grid">
                   ${this._data.proper_nouns.map((pn: any, index: number) => `
                     <div class="proper-item" id="proper-${index}">
                       <span class="word">${pn.word}</span>
                       <span class="pinyin">${pn.pinyin}</span>
+                      ${pn.meaning ? `<span class="meaning">(${pn.meaning})</span>` : ''}
                     </div>
                   `).join('')}
                 </div>
