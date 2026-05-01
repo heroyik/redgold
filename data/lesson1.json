@@ -436,7 +436,7 @@
         },
         {
           "speaker": "高老师",
-          "text": "我和丈夫<b>刚</b>结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是 现在……",
+          "text": "我和丈夫<b>刚</b>结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是现在……",
           "pinyin": "Wǒ hé zhàngfū gāng jiéhūn de shíhòu, měitiān dōu juédé hěn xīnxiān, zài yīqǐ yǒu shuō bù wán de huà. Dànshì xiànzài...",
           "translation": "When my husband and I first got married, every day felt fresh, and we had endless things to talk about. But now..."
         },
@@ -461,44 +461,38 @@
       ],
       "audio": "audio/01-3.mp3",
       "proper_nouns": [
-        { "word": "高老师", "pinyin": "Gāo lǎoshī", "meaning": "Teacher Gao" },
-        { "word": "李老师", "pinyin": "Lǐ lǎoshī", "meaning": "Teacher Li" }
+        { "word": "高", "pinyin": "Gāo", "meaning": "Gao, a Chinese family name" }
       ],
       "vocabulary": [
         {
-          "word": "共同",
-          "pinyin": "gòngtóng",
-          "meaning": "common, shared"
-        },
-        {
           "word": "生活",
           "pinyin": "shēnghuó",
-          "meaning": "life"
+          "meaning": "n./v. life; to live"
         },
         {
           "word": "刚",
           "pinyin": "gāng",
-          "meaning": "just"
+          "meaning": "adv. just, not long"
         },
         {
           "word": "浪漫",
           "pinyin": "làngmàn",
-          "meaning": "romantic"
+          "meaning": "adj. romantic"
         },
         {
           "word": "够",
           "pinyin": "gòu",
-          "meaning": "enough"
+          "meaning": "v. to be enough"
         },
         {
           "word": "缺点",
           "pinyin": "quēdiǎn",
-          "meaning": "shortcoming"
+          "meaning": "n. shortcoming"
         },
         {
           "word": "接受",
           "pinyin": "jiēshòu",
-          "meaning": "to accept"
+          "meaning": "v. to accept"
         }
       ]
     },
