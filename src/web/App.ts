@@ -259,7 +259,7 @@ class App extends HTMLElement {
         }
 
         .landing-hero {
-          min-height: 90vh;
+          min-height: 100svh;
           display: flex;
           flex-direction: column;
           align-items: center;
@@ -338,6 +338,53 @@ class App extends HTMLElement {
           transform: translateY(-5px);
           box-shadow: 0 15px 30px rgba(139, 0, 0, 0.3);
           background: #a00000;
+        }
+
+        @media (max-width: 480px) {
+          .landing-hero {
+            justify-content: flex-start;
+            padding: calc(var(--safe-top, 0px) + 1rem) 1rem 1.5rem;
+          }
+
+          .hero-wordmark {
+            width: min(78vw, 420px);
+            margin-bottom: 0.2rem;
+          }
+
+          .version-badge {
+            margin-bottom: 0.55rem;
+          }
+
+          .hero-title p {
+            font-size: 0.98rem;
+            line-height: 1.32;
+            max-width: 23rem;
+          }
+
+          .language-picker {
+            margin-top: 1rem;
+          }
+
+          .language-btn {
+            padding: 0.6rem 0.9rem;
+            font-size: 0.78rem;
+          }
+
+          .start-btn {
+            margin-top: 1rem;
+            padding: 1rem 2.2rem;
+            font-size: 1rem;
+            letter-spacing: 1px;
+          }
+
+          .landing-books {
+            gap: 0.8rem;
+            margin: 1.25rem 0 0;
+          }
+
+          .book-preview {
+            width: clamp(96px, 28vw, 128px);
+          }
         }
 
         .chapter-selection {
@@ -427,13 +474,13 @@ class App extends HTMLElement {
             <button class="language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">한국어</button>
             <button class="language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">日本語</button>
           </div>
+
+          <button class="start-btn" id="start-learning-btn">${this.getStartButtonLabel()}</button>
           
           <div class="landing-books">
             <img src="images/hsk4_upper.jpg" class="book-preview" alt="HSK 4 Upper" id="book-upper" decoding="async">
             <img src="images/hsk4_lower.jpg" class="book-preview" alt="HSK 4 Lower" id="book-lower" decoding="async">
           </div>
-          
-          <button class="start-btn" id="start-learning-btn">${this.getStartButtonLabel()}</button>
         </section>
  
         <section class="chapter-selection" id="selection-area">
