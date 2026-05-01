@@ -225,6 +225,7 @@ class App extends HTMLElement {
           display: block;
           margin: 0 0 0.45rem;
           filter: drop-shadow(0 18px 28px rgba(139, 0, 0, 0.08));
+          /* Ensure vertical centering if needed, though hero is usually okay */
         }
 
         .version-badge {
@@ -570,6 +571,8 @@ class App extends HTMLElement {
           height: 1.55rem;
           width: auto;
           display: block;
+          /* Slight nudge for optical centering with adjacent text/icons */
+          transform: translateY(1.5px);
         }
 
         .header-version {
