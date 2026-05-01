@@ -24,7 +24,7 @@ In traditional Chinese learning, there has always been a disconnect.
 - **The Red (赤)**: Represents the formal, structured HSK curriculum—essential for exams but often sounding "robotic" in real life.
 - **The Gold (金)**: Represents the colloquial, native rhythm—the way people *actually* talk in the streets of Beijing or Shanghai.
 
-**RedGold** bridges this gap. We transform the **HSK 4 Standard Course** into a premium, interactive experience that teaches you not just *what* to say, but *how* to say it like a native.
+**RedGold** bridges this gap. We transform the **[HSK 4 Standard Course](https://www.blcup.com/EnSeriesBook/index/8)** into a premium, interactive experience that teaches you not just *what* to say, but *how* to say it like a native.
 
 ---
 
@@ -117,7 +117,7 @@ npm run build
 
 ## 🤝 Reference & Credits
 
-Redgold is an educational tool designed to complement the **HSK Standard Course 4** textbook series authorized by **Hanban** and published by **BLCUP**. 
+Redgold is an educational tool designed to complement the **[HSK Standard Course 4](https://www.blcup.com/EnSeriesBook/index/8)** textbook series authorized by **Hanban** and published by **BLCUP**. 
 
 <p align="center">
   Built with ❤️ by the RedGold Team.<br>
