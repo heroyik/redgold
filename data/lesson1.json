@@ -436,7 +436,7 @@
         },
         {
           "speaker": "高老师",
-          "text": "我和丈夫<b>刚</b>结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是现在……",
+          "text": "我和丈夫<b>刚</b>结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是 现在……",
           "pinyin": "Wǒ hé zhàngfū gāng jiéhūn de shíhòu, měitiān dōu juédé hěn xīnxiān, zài yīqǐ yǒu shuō bù wán de huà. Dànshì xiànzài...",
           "translation": "When my husband and I first got married, every day felt fresh, and we had endless things to talk about. But now..."
         },
@@ -461,38 +461,45 @@
       ],
       "audio": "audio/01-3.mp3",
       "proper_nouns": [
-        { "word": "高", "pinyin": "Gāo", "meaning": "Gao, a Chinese family name" }
+        { "word": "高老师", "pinyin": "Gāo lǎoshī", "meaning": "Teacher Gao" },
+        { "word": "李老师", "pinyin": "Lǐ lǎoshī", "meaning": "Teacher Li" }
       ],
       "vocabulary": [
         {
+          "word": "共同",
+          "pinyin": "gòngtóng",
+          "meaning": "common, shared"
+        },
+        {
           "word": "生活",
           "pinyin": "shēnghuó",
-          "meaning": "n./v. life; to live"
+          "meaning": "life"
         },
         {
           "word": "刚",
           "pinyin": "gāng",
-          "meaning": "adv. just, not long"
-        },
+          "meaning": "just"
+        }
+        ,
         {
           "word": "浪漫",
           "pinyin": "làngmàn",
-          "meaning": "adj. romantic"
+          "meaning": "romantic"
         },
         {
           "word": "够",
           "pinyin": "gòu",
-          "meaning": "v. to be enough"
+          "meaning": "enough"
         },
         {
           "word": "缺点",
           "pinyin": "quēdiǎn",
-          "meaning": "n. shortcoming"
+          "meaning": "shortcoming"
         },
         {
           "word": "接受",
           "pinyin": "jiēshòu",
-          "meaning": "v. to accept"
+          "meaning": "to accept"
         }
       ]
     },
@@ -502,23 +509,13 @@
       "content": [
         {
           "speaker": "独白",
-          "text": "很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是<b>即使</b>晚上加班到零点，到家时，自己家里<b>也</b>还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老”。其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。",
+          "text": "很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是<b>即使</b>晚上加班到零点，到家时，自己家里<b>也</b>还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老。”其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。",
           "pinyin": "Hěnduō nǚháizi xiànmù làngmàn de àiqíng. Nà shénme shì làngmàn ne? Niánqīngrén shuō: Làngmàn shì tā xiǎngyào yuèliang shí, nǐ búhuì gěi tā xīngxing; zhōngniánrén shuō: Làngmàn shì jíshǐ wǎnshang jiābān dào língdiǎn, dàojiā shí, zìjǐ jiālǐ yě hái liàngzhe dēng; lǎoniánrén shuō: Làngmàn qíshí jiùxiàng gēzhōng chàng de nàyàng, \"Wǒ néng xiǎngdào zuì làngmàn de shì, jiùshì hé nǐ yīqǐ mànman biànlǎo\". Qíshí, ràng wǒmen gǎndòng de, jiùshì shēnghuózhōng jiǎndān de àiqíng. Yǒushíhòu, jiǎndān jiùshì zuìdà de xìngfú.",
           "translation": "Many girls envy romantic love. So what is romance? Young people say: romance is when she wants the moon, you won't give her a star; middle-aged people say: romance is even when working overtime until midnight, when you get home, the light in your house is still on; elderly people say: romance is actually like what is sung in the song, 'The most romantic thing I can think of is growing old with you slowly.' In fact, what moves us is the simple love in life. Sometimes, simplicity is the greatest happiness."
         }
       ],
       "audio": "audio/01-4.mp3",
       "vocabulary": [
-        {
-          "word": "生活",
-          "pinyin": "shēnghuó",
-          "meaning": "life"
-        },
-        {
-          "word": "浪漫",
-          "pinyin": "làngmàn",
-          "meaning": "romantic"
-        },
         {
           "word": "羡慕",
           "pinyin": "xiànmù",
@@ -569,51 +566,6 @@
       ],
       "audio": "audio/01-5.mp3",
       "vocabulary": [
-        {
-          "word": "俩",
-          "pinyin": "liǎ",
-          "meaning": "two, both"
-        },
-        {
-          "word": "不仅",
-          "pinyin": "bùjǐn",
-          "meaning": "not only"
-        },
-        {
-          "word": "性格",
-          "pinyin": "xìnggé",
-          "meaning": "character, personality"
-        },
-        {
-          "word": "共同",
-          "pinyin": "gòngtóng",
-          "meaning": "common, shared"
-        },
-        {
-          "word": "生活",
-          "pinyin": "shēnghuó",
-          "meaning": "life"
-        },
-        {
-          "word": "浪漫",
-          "pinyin": "làngmàn",
-          "meaning": "romantic"
-        },
-        {
-          "word": "羡慕",
-          "pinyin": "xiànmù",
-          "meaning": "to envy, to admire"
-        },
-        {
-          "word": "爱情",
-          "pinyin": "àiqíng",
-          "meaning": "love (between a man and a woman)"
-        },
-        {
-          "word": "即使",
-          "pinyin": "jíshǐ",
-          "meaning": "even if"
-        },
         {
           "word": "自然",
           "pinyin": "zìrán",
