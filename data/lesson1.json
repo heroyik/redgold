@@ -296,7 +296,44 @@
           "translation": "Not only does he play football well, but his personality is also quite good."
         }
       ],
-      "audio": "audio/01-1.mp3"
+      "audio": "audio/01-1.mp3",
+      "vocabulary": [
+        {
+          "word": "法律",
+          "pinyin": "fǎlǜ",
+          "meaning": "law"
+        },
+        {
+          "word": "俩",
+          "pinyin": "liǎ",
+          "meaning": "two, both"
+        },
+        {
+          "word": "印象",
+          "pinyin": "yìnxiàng",
+          "meaning": "impression"
+        },
+        {
+          "word": "深",
+          "pinyin": "shēn",
+          "meaning": "deep"
+        },
+        {
+          "word": "熟悉",
+          "pinyin": "shúxi",
+          "meaning": "be familiar with"
+        },
+        {
+          "word": "不仅",
+          "pinyin": "bùjǐn",
+          "meaning": "not only"
+        },
+        {
+          "word": "性格",
+          "pinyin": "xìnggé",
+          "meaning": "character, personality"
+        }
+      ]
     },
     {
       "id": 2,
@@ -339,7 +376,34 @@
           "translation": "It seems you've really found the right person for you. I wish you happiness!"
         }
       ],
-      "audio": "audio/01-2.mp3"
+      "audio": "audio/01-2.mp3",
+      "vocabulary": [
+        {
+          "word": "开玩笑",
+          "pinyin": "kāi wánxiào",
+          "meaning": "to joke"
+        },
+        {
+          "word": "从来",
+          "pinyin": "cónglái",
+          "meaning": "always, all along (usually in negative)"
+        },
+        {
+          "word": "最好",
+          "pinyin": "zuìhǎo",
+          "meaning": "had better, best"
+        },
+        {
+          "word": "共同",
+          "pinyin": "gòngtóng",
+          "meaning": "common, shared"
+        },
+        {
+          "word": "适合",
+          "pinyin": "shìhé",
+          "meaning": "to suit, to fit"
+        }
+      ]
     },
     {
       "id": 3,
@@ -382,7 +446,44 @@
           "translation": "When two people are together for a long time, many problems will arise. Only by accepting his shortcomings can you live better together."
         }
       ],
-      "audio": "audio/01-3.mp3"
+      "audio": "audio/01-3.mp3",
+      "vocabulary": [
+        {
+          "word": "共同",
+          "pinyin": "gòngtóng",
+          "meaning": "common, shared"
+        },
+        {
+          "word": "生活",
+          "pinyin": "shēnghuó",
+          "meaning": "life"
+        },
+        {
+          "word": "刚",
+          "pinyin": "gāng",
+          "meaning": "just"
+        },
+        {
+          "word": "浪漫",
+          "pinyin": "làngmàn",
+          "meaning": "romantic"
+        },
+        {
+          "word": "够",
+          "pinyin": "gòu",
+          "meaning": "enough"
+        },
+        {
+          "word": "缺点",
+          "pinyin": "quēdiǎn",
+          "meaning": "shortcoming"
+        },
+        {
+          "word": "接受",
+          "pinyin": "jiēshòu",
+          "meaning": "to accept"
+        }
+      ]
     },
     {
       "id": 4,
@@ -395,7 +496,54 @@
           "translation": "Many girls envy romantic love. So what is romance? Young people say: romance is when she wants the moon, you won't give her a star; middle-aged people say: romance is even when working overtime until midnight, when you get home, the light in your house is still on; elderly people say: romance is actually like what is sung in the song, 'The most romantic thing I can think of is growing old with you slowly.' In fact, what moves us is the simple love in life. Sometimes, simplicity is the greatest happiness."
         }
       ],
-      "audio": "audio/01-4.mp3"
+      "audio": "audio/01-4.mp3",
+      "vocabulary": [
+        {
+          "word": "生活",
+          "pinyin": "shēnghuó",
+          "meaning": "life"
+        },
+        {
+          "word": "浪漫",
+          "pinyin": "làngmàn",
+          "meaning": "romantic"
+        },
+        {
+          "word": "羡慕",
+          "pinyin": "xiànmù",
+          "meaning": "to envy, to admire"
+        },
+        {
+          "word": "爱情",
+          "pinyin": "àiqíng",
+          "meaning": "love (between a man and a woman)"
+        },
+        {
+          "word": "星星",
+          "pinyin": "xīngxing",
+          "meaning": "star"
+        },
+        {
+          "word": "即使",
+          "pinyin": "jíshǐ",
+          "meaning": "even if"
+        },
+        {
+          "word": "加班",
+          "pinyin": "jiā bān",
+          "meaning": "to work overtime"
+        },
+        {
+          "word": "亮",
+          "pinyin": "liàng",
+          "meaning": "to shine, to be lit"
+        },
+        {
+          "word": "感动",
+          "pinyin": "gǎndòng",
+          "meaning": "to touch, to move"
+        }
+      ]
     },
     {
       "id": 5,
@@ -408,7 +556,84 @@
           "translation": "When it comes to marriage, people naturally think of love. Love is an important reason for marriage, but living together not only requires romantic love, but also mutual attraction in personality. My husband is a very humorous person. Even very ordinary things become interesting when spoken from his mouth. When I am sad, he always has a way to cheer me up. And his temper is also quite good. Having been married for nearly ten years, we two have almost never turned red (argued) over anything; many people especially envy us."
         }
       ],
-      "audio": "audio/01-5.mp3"
+      "audio": "audio/01-5.mp3",
+      "vocabulary": [
+        {
+          "word": "俩",
+          "pinyin": "liǎ",
+          "meaning": "two, both"
+        },
+        {
+          "word": "不仅",
+          "pinyin": "bùjǐn",
+          "meaning": "not only"
+        },
+        {
+          "word": "性格",
+          "pinyin": "xìnggé",
+          "meaning": "character, personality"
+        },
+        {
+          "word": "共同",
+          "pinyin": "gòngtóng",
+          "meaning": "common, shared"
+        },
+        {
+          "word": "生活",
+          "pinyin": "shēnghuó",
+          "meaning": "life"
+        },
+        {
+          "word": "浪漫",
+          "pinyin": "làngmàn",
+          "meaning": "romantic"
+        },
+        {
+          "word": "羡慕",
+          "pinyin": "xiànmù",
+          "meaning": "to envy, to admire"
+        },
+        {
+          "word": "爱情",
+          "pinyin": "àiqíng",
+          "meaning": "love (between a man and a woman)"
+        },
+        {
+          "word": "即使",
+          "pinyin": "jíshǐ",
+          "meaning": "even if"
+        },
+        {
+          "word": "自然",
+          "pinyin": "zìrán",
+          "meaning": "naturally, certainly"
+        },
+        {
+          "word": "原因",
+          "pinyin": "yuányīn",
+          "meaning": "reason"
+        },
+        {
+          "word": "互相",
+          "pinyin": "hùxiāng",
+          "meaning": "mutually"
+        },
+        {
+          "word": "吸引",
+          "pinyin": "xīyǐn",
+          "meaning": "to attract"
+        },
+        {
+          "word": "幽默",
+          "pinyin": "yōumò",
+          "meaning": "humorous"
+        },
+        {
+          "word": "脾气",
+          "pinyin": "píqi",
+          "meaning": "temper, disposition"
+        }
+      ]
     }
   ]
 }

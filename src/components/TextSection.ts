@@ -90,12 +90,41 @@ export class TextSection extends HTMLElement {
           display: flex;
           flex-direction: column;
           gap: 1.5rem;
+          margin-bottom: 3rem;
         }
 
         .line {
-          display: flex;
-          flex-direction: column;
-          gap: 0.35rem;
+          padding: 1.25rem;
+          border-radius: 20px;
+          margin-bottom: 0.75rem;
+          transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+          border: 1px solid transparent;
+          background: rgba(255, 255, 255, 0.3);
+          cursor: pointer;
+        }
+
+        .line:hover {
+          background: rgba(255, 255, 255, 0.6);
+          transform: translateX(4px);
+        }
+
+        .line.active {
+          background: rgba(255, 255, 255, 0.95);
+          border-color: rgba(139, 0, 0, 0.15);
+          box-shadow: 0 12px 24px rgba(139, 0, 0, 0.08);
+          transform: scale(1.02);
+          z-index: 10;
+        }
+
+        .line.active .speaker {
+          background: #8B0000;
+          color: #fff;
+          padding: 2px 8px;
+          border-radius: 6px;
+        }
+
+        .line.active .main-text {
+          color: #8B0000;
         }
 
         .speaker {
@@ -105,7 +134,9 @@ export class TextSection extends HTMLElement {
           text-transform: uppercase;
           letter-spacing: 1.5px;
           opacity: 0.8;
-          padding-left: 0.5rem;
+          display: inline-block;
+          margin-bottom: 8px;
+          transition: all 0.3s ease;
         }
 
         .content {
@@ -113,25 +144,6 @@ export class TextSection extends HTMLElement {
           line-height: 1.5;
           color: #1a1a1a;
           font-family: 'Noto Sans SC', sans-serif;
-          background: #fff;
-          padding: 1rem 1.25rem;
-          border-radius: 20px;
-          border-top-left-radius: 4px;
-          box-shadow: 0 4px 15px rgba(0,0,0,0.03);
-          position: relative;
-          border: 1px solid rgba(0,0,0,0.02);
-        }
-
-        .line:nth-child(even) .content {
-          background: #fdfaf0;
-          border-top-left-radius: 20px;
-          border-top-right-radius: 4px;
-        }
-
-        .line:nth-child(even) .speaker {
-          text-align: right;
-          padding-left: 0;
-          padding-right: 0.5rem;
         }
 
         .pinyin {
@@ -150,12 +162,81 @@ export class TextSection extends HTMLElement {
           font-weight: 400;
         }
 
-        .main-text b {
+        /* Vocabulary Section */
+        .vocab-section {
+          margin-top: 3rem;
+          padding: 2rem;
+          background: linear-gradient(145deg, rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 0.3));
+          border-radius: 32px;
+          backdrop-filter: blur(20px);
+          -webkit-backdrop-filter: blur(20px);
+          border: 1px solid rgba(255, 255, 255, 0.5);
+          box-shadow: 0 20px 40px rgba(0,0,0,0.04);
+        }
+
+        .vocab-header {
+          font-size: 0.75rem;
+          font-weight: 800;
           color: #8B0000;
-          font-weight: 900;
-          background: rgba(139, 0, 0, 0.05);
-          padding: 0 2px;
-          border-radius: 4px;
+          letter-spacing: 2px;
+          margin-bottom: 1.5rem;
+          opacity: 0.7;
+          text-align: center;
+        }
+
+        .vocab-grid {
+          display: grid;
+          gap: 1rem;
+          grid-template-columns: 1fr;
+        }
+
+        @media (min-width: 480px) {
+          .vocab-grid {
+            grid-template-columns: repeat(2, 1fr);
+          }
+        }
+
+        .vocab-item {
+          text-align: center;
+          padding: 1rem;
+          border-radius: 16px;
+          background: rgba(255, 255, 255, 0.4);
+          border: 1px solid rgba(255, 255, 255, 0.5);
+          transition: all 0.3s ease;
+        }
+
+        .vocab-item:hover {
+          background: rgba(255, 255, 255, 0.8);
+          transform: translateY(-2px);
+        }
+
+        .vocab-item .word {
+          font-size: 1.1rem;
+          font-weight: 700;
+          font-family: 'Noto Sans SC', sans-serif;
+        }
+
+        .vocab-item .pinyin {
+          font-size: 0.75rem;
+          margin: 0;
+          color: inherit;
+          opacity: 0.7;
+        }
+
+        .vocab-item.active .pinyin {
+          color: #fff;
+          opacity: 0.9;
+        }
+
+        .vocab-item .meaning {
+          font-size: 0.8rem;
+          opacity: 0.6;
+          margin-top: 0.25rem;
+        }
+
+        .vocab-item.active .meaning {
+          color: #fff;
+          opacity: 0.8;
         }
       </style>
 
@@ -177,9 +258,9 @@ export class TextSection extends HTMLElement {
         
         ${this._data.audio ? `<audio id="audio-player" src="${this._data.audio}"></audio>` : ''}
 
-        <div class="dialogue">
-          ${this._data.content.map((line: any) => `
-            <div class="line">
+        <div class="dialogue" id="dialogue-container">
+          ${this._data.content.map((line: any, index: number) => `
+            <div class="line" id="line-${index}">
               <span class="speaker">${line.speaker}</span>
               <div class="content">
                 <div class="main-text">${line.text}</div>
@@ -189,6 +270,21 @@ export class TextSection extends HTMLElement {
             </div>
           `).join('')}
         </div>
+
+        ${this._data.vocabulary && this._data.vocabulary.length > 0 ? `
+          <div class="vocab-section">
+            <div class="vocab-header">NEW WORDS IN THIS TEXT</div>
+            <div class="vocab-grid">
+              ${this._data.vocabulary.map((v: any, index: number) => `
+                <div class="vocab-item" id="vocab-${index}">
+                  <span class="word">${v.word}</span>
+                  <span class="pinyin">${v.pinyin}</span>
+                  <span class="meaning">${v.meaning}</span>
+                </div>
+              `).join('')}
+            </div>
+          </div>
+        ` : ''}
       </div>
     `;
 
@@ -204,9 +300,52 @@ export class TextSection extends HTMLElement {
 
     if (!playBtn || !audio) return;
 
+    // Calculate timings based on character weights
+    let timings: { id: string; start: number; end: number }[] = [];
+    
+    const refreshTimings = () => {
+      const textLines = this._data.content || [];
+      
+      // Calculate weights (Chinese chars are heavier, pinyin is lighter)
+      const lineWeights = textLines.map((l: any) => l.text.length + (l.pinyin?.length || 0) * 0.3);
+      const totalWeight = lineWeights.reduce((a: number, b: number) => a + b, 0);
+      
+      const duration = audio.duration;
+      if (!duration || duration === Infinity) return;
+      
+      let currentPos = 0;
+      timings = [];
+      
+      textLines.forEach((_: any, i: number) => {
+        const weight = lineWeights[i];
+        const lineDuration = (weight / totalWeight) * duration;
+        timings.push({ id: `line-${i}`, start: currentPos, end: currentPos + lineDuration });
+        currentPos += lineDuration;
+      });
+    };
+
+    audio.addEventListener('loadedmetadata', refreshTimings);
+
+    audio.addEventListener('timeupdate', () => {
+      if (timings.length === 0) refreshTimings();
+      const currentTime = audio.currentTime;
+      
+      timings.forEach(t => {
+        const el = this.shadowRoot?.getElementById(t.id);
+        if (currentTime >= t.start && currentTime < t.end) {
+          if (!el?.classList.contains('active')) {
+            this.shadowRoot?.querySelectorAll('.active').forEach(item => {
+              if (item !== playBtn) item.classList.remove('active');
+            });
+            el?.classList.add('active');
+            el?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          }
+        }
+      });
+    });
+
     playBtn.addEventListener('click', () => {
       if (audio.paused) {
-        // Stop all other audio players on the page
         document.querySelectorAll('text-section').forEach((el: any) => {
           const otherAudio = el.shadowRoot?.getElementById('audio-player') as HTMLAudioElement;
           if (otherAudio && otherAudio !== audio) {
@@ -238,8 +377,19 @@ export class TextSection extends HTMLElement {
       playBtn.classList.remove('playing');
       if (playIcon) playIcon.style.display = 'block';
       if (pauseIcon) pauseIcon.style.display = 'none';
+      this.shadowRoot?.querySelectorAll('.active').forEach(item => {
+        if (item !== playBtn) item.classList.remove('active');
+      });
+
+      // After audio ends, scroll to vocab section so it's visible
+      const vocabSection = this.shadowRoot?.querySelector('.vocab-section');
+      if (vocabSection) {
+        vocabSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      }
     });
   }
+
+
 }
 
 customElements.define('text-section', TextSection);
