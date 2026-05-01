@@ -2,37 +2,161 @@
   "lessonId": 1,
   "title": "Lesson 1: 简单的爱情 (Simple Love)",
   "vocabulary": [
-    {"word": "法律", "pinyin": "fǎlǜ", "meaning": "law"},
-    {"word": "俩", "pinyin": "liǎ", "meaning": "two, both"},
-    {"word": "印象", "pinyin": "yìnxiàng", "meaning": "impression"},
-    {"word": "深", "pinyin": "shēn", "meaning": "deep"},
-    {"word": "熟悉", "pinyin": "shúxi", "meaning": "be familiar with"},
-    {"word": "不仅", "pinyin": "bùjǐn", "meaning": "not only"},
-    {"word": "性格", "pinyin": "xìnggé", "meaning": "character, personality"},
-    {"word": "开玩笑", "pinyin": "kāi wánxiào", "meaning": "to joke"},
-    {"word": "从来", "pinyin": "cónglái", "meaning": "always, all along (usually in negative)"},
-    {"word": "最好", "pinyin": "zuìhǎo", "meaning": "had better, best"},
-    {"word": "共同", "pinyin": "gòngtóng", "meaning": "common, shared"},
-    {"word": "适合", "pinyin": "shìhé", "meaning": "to suit, to fit"},
-    {"word": "生活", "pinyin": "shēnghuó", "meaning": "life"},
-    {"word": "刚", "pinyin": "gāng", "meaning": "just"},
-    {"word": "浪漫", "pinyin": "làngmàn", "meaning": "romantic"},
-    {"word": "够", "pinyin": "gòu", "meaning": "enough"},
-    {"word": "缺点", "pinyin": "quēdiǎn", "meaning": "shortcoming"},
-    {"word": "接受", "pinyin": "jiēshòu", "meaning": "to accept"},
-    {"word": "羡慕", "pinyin": "xiànmù", "meaning": "to envy, to admire"},
-    {"word": "爱情", "pinyin": "àiqíng", "meaning": "love (between a man and a woman)"},
-    {"word": "星星", "pinyin": "xīngxing", "meaning": "star"},
-    {"word": "即使", "pinyin": "jíshǐ", "meaning": "even if"},
-    {"word": "加班", "pinyin": "jiā bān", "meaning": "to work overtime"},
-    {"word": "亮", "pinyin": "liàng", "meaning": "to shine, to be lit"},
-    {"word": "感动", "pinyin": "gǎndòng", "meaning": "to touch, to move"},
-    {"word": "自然", "pinyin": "zìrán", "meaning": "naturally, certainly"},
-    {"word": "原因", "pinyin": "yuányīn", "meaning": "reason"},
-    {"word": "互相", "pinyin": "hùxiāng", "meaning": "mutually"},
-    {"word": "吸引", "pinyin": "xīyǐn", "meaning": "to attract"},
-    {"word": "幽默", "pinyin": "yōumò", "meaning": "humorous"},
-    {"word": "脾气", "pinyin": "píqi", "meaning": "temper, disposition"}
+    {
+      "word": "法律",
+      "pinyin": "fǎlǜ",
+      "meaning": "law"
+    },
+    {
+      "word": "俩",
+      "pinyin": "liǎ",
+      "meaning": "two, both"
+    },
+    {
+      "word": "印象",
+      "pinyin": "yìnxiàng",
+      "meaning": "impression"
+    },
+    {
+      "word": "深",
+      "pinyin": "shēn",
+      "meaning": "deep"
+    },
+    {
+      "word": "熟悉",
+      "pinyin": "shúxi",
+      "meaning": "be familiar with"
+    },
+    {
+      "word": "不仅",
+      "pinyin": "bùjǐn",
+      "meaning": "not only"
+    },
+    {
+      "word": "性格",
+      "pinyin": "xìnggé",
+      "meaning": "character, personality"
+    },
+    {
+      "word": "开玩笑",
+      "pinyin": "kāi wánxiào",
+      "meaning": "to joke"
+    },
+    {
+      "word": "从来",
+      "pinyin": "cónglái",
+      "meaning": "always, all along (usually in negative)"
+    },
+    {
+      "word": "最好",
+      "pinyin": "zuìhǎo",
+      "meaning": "had better, best"
+    },
+    {
+      "word": "共同",
+      "pinyin": "gòngtóng",
+      "meaning": "common, shared"
+    },
+    {
+      "word": "适合",
+      "pinyin": "shìhé",
+      "meaning": "to suit, to fit"
+    },
+    {
+      "word": "生活",
+      "pinyin": "shēnghuó",
+      "meaning": "life"
+    },
+    {
+      "word": "刚",
+      "pinyin": "gāng",
+      "meaning": "just"
+    },
+    {
+      "word": "浪漫",
+      "pinyin": "làngmàn",
+      "meaning": "romantic"
+    },
+    {
+      "word": "够",
+      "pinyin": "gòu",
+      "meaning": "enough"
+    },
+    {
+      "word": "缺点",
+      "pinyin": "quēdiǎn",
+      "meaning": "shortcoming"
+    },
+    {
+      "word": "接受",
+      "pinyin": "jiēshòu",
+      "meaning": "to accept"
+    },
+    {
+      "word": "羡慕",
+      "pinyin": "xiànmù",
+      "meaning": "to envy, to admire"
+    },
+    {
+      "word": "爱情",
+      "pinyin": "àiqíng",
+      "meaning": "love (between a man and a woman)"
+    },
+    {
+      "word": "星星",
+      "pinyin": "xīngxing",
+      "meaning": "star"
+    },
+    {
+      "word": "即使",
+      "pinyin": "jíshǐ",
+      "meaning": "even if"
+    },
+    {
+      "word": "加班",
+      "pinyin": "jiā bān",
+      "meaning": "to work overtime"
+    },
+    {
+      "word": "亮",
+      "pinyin": "liàng",
+      "meaning": "to shine, to be lit"
+    },
+    {
+      "word": "感动",
+      "pinyin": "gǎndòng",
+      "meaning": "to touch, to move"
+    },
+    {
+      "word": "自然",
+      "pinyin": "zìrán",
+      "meaning": "naturally, certainly"
+    },
+    {
+      "word": "原因",
+      "pinyin": "yuányīn",
+      "meaning": "reason"
+    },
+    {
+      "word": "互相",
+      "pinyin": "hùxiāng",
+      "meaning": "mutually"
+    },
+    {
+      "word": "吸引",
+      "pinyin": "xīyǐn",
+      "meaning": "to attract"
+    },
+    {
+      "word": "幽默",
+      "pinyin": "yōumò",
+      "meaning": "humorous"
+    },
+    {
+      "word": "脾气",
+      "pinyin": "píqi",
+      "meaning": "temper, disposition"
+    }
   ],
   "grammar": [
     {
@@ -135,51 +259,156 @@
       "id": 1,
       "title": "孙月和王静聊王静的男朋友 (Sun Yue and Wang Jing talk about Wang Jing's boyfriend)",
       "content": [
-        {"speaker": "孙月", "text": "听说你男朋友李进跟你是一个学校的，是你同学吗？", "pinyin": "Tīng shuō nǐ nán péngyǒu Lǐ Jìn gēn nǐ shì yīgè xuéxiào de, shì nǐ tóngxué ma?", "translation": "I heard that your boyfriend Li Jin is from the same school as you. Is he your classmate?"},
-        {"speaker": "王静", "text": "是的，他学的是新闻，我学的是法律，我和他不是一个班。", "pinyin": "Shì de, tā xué de shì xīnwén, wǒ xué de shì fǎlǜ, wǒ hé tā bùshì yīgè bān.", "translation": "Yes, he studies journalism, and I study law. We are not in the same class."},
-        {"speaker": "孙月", "text": "那你们俩是怎么认识的？", "pinyin": "Nà nǐmen liǎ shì zěnme rènshì de?", "translation": "Then how did you two meet?"},
-        {"speaker": "王静", "text": "我们是在一次足球比赛中认识的. 我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。", "pinyin": "Wǒmen shì zài yīcì zúqiú bǐsài zhōng rènshì de. Wǒmen bān gēn tāmen bān bǐsài, tā yīgè rén tī jìn liǎng gè qiú, wǒ duì tā yìnxiàng hěn shēn, hòulái jiù mànman shúxi le.", "translation": "We met during a football match. Our class played against theirs. He scored two goals by himself, and I was very impressed by him. Later, we gradually got to know each other."},
-        {"speaker": "孙月", "text": "你为什么喜欢他？", "pinyin": "Nǐ wèishéme xǐhuān tā?", "translation": "Why do you like him?"},
-        {"speaker": "王静", "text": "他<b>不仅</b>足球踢得好，性格<b>也</b>不错。", "pinyin": "Tā bùjǐn zúqiú tī dé hǎo, xìnggé yě bùcuò.", "translation": "Not only does he play football well, but his personality is also quite good."}
-      ]
+        {
+          "speaker": "孙月",
+          "text": "听说你男朋友李进跟你是一个学校的，是你同学吗？",
+          "pinyin": "Tīng shuō nǐ nán péngyǒu Lǐ Jìn gēn nǐ shì yīgè xuéxiào de, shì nǐ tóngxué ma?",
+          "translation": "I heard that your boyfriend Li Jin is from the same school as you. Is he your classmate?"
+        },
+        {
+          "speaker": "王静",
+          "text": "是的，他学的是新闻，我学的是法律，我和他不是一个班。",
+          "pinyin": "Shì de, tā xué de shì xīnwén, wǒ xué de shì fǎlǜ, wǒ hé tā bùshì yīgè bān.",
+          "translation": "Yes, he studies journalism, and I study law. We are not in the same class."
+        },
+        {
+          "speaker": "孙月",
+          "text": "那你们俩是怎么认识的？",
+          "pinyin": "Nà nǐmen liǎ shì zěnme rènshì de?",
+          "translation": "Then how did you two meet?"
+        },
+        {
+          "speaker": "王静",
+          "text": "我们是在一次足球比赛中认识的. 我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。",
+          "pinyin": "Wǒmen shì zài yīcì zúqiú bǐsài zhōng rènshì de. Wǒmen bān gēn tāmen bān bǐsài, tā yīgè rén tī jìn liǎng gè qiú, wǒ duì tā yìnxiàng hěn shēn, hòulái jiù mànman shúxi le.",
+          "translation": "We met during a football match. Our class played against theirs. He scored two goals by himself, and I was very impressed by him. Later, we gradually got to know each other."
+        },
+        {
+          "speaker": "孙月",
+          "text": "你为什么喜欢他？",
+          "pinyin": "Nǐ wèishéme xǐhuān tā?",
+          "translation": "Why do you like him?"
+        },
+        {
+          "speaker": "王静",
+          "text": "他<b>不仅</b>足球踢得好，性格<b>也</b>不错。",
+          "pinyin": "Tā bùjǐn zúqiú tī dé hǎo, xìnggé yě bùcuò.",
+          "translation": "Not only does he play football well, but his personality is also quite good."
+        }
+      ],
+      "audio": "audio/01-1.mp3"
     },
     {
       "id": 2,
       "title": "王静跟李老师聊她要结婚的事情 (Wang Jing talks to Teacher Li about her marriage)",
       "content": [
-        {"speaker": "王静", "text": "李老师，我下个月5号就要结婚了。", "pinyin": "Lǐ lǎoshī, wǒ xià gè yuè 5 hào jiù yào jiéhūn le.", "translation": "Teacher Li, I am getting married on the 5th of next month."},
-        {"speaker": "李老师", "text": "你是在开玩笑吧？你们不是才认识一个月？", "pinyin": "Nǐ shì zài kāi wánxiào ba? Nǐmen bùshì cái rènshì yīgè yuè?", "translation": "You're joking, right? Haven't you only known each other for a month?"},
-        {"speaker": "王静", "text": "虽然我们认识的时间不长，但我<b>从来没</b>这么快乐过。", "pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè quò.", "translation": "Although we haven't known each other for long, I've never been this happy."},
-        {"speaker": "李老师", "text": "两个人在一起，最好能有共同的兴趣和爱好。", "pinyin": "Liǎng gè rén zài yīqǐ, zuìhǎo néng yǒu gòngtóng de xìngqù hé àihào.", "translation": "When two people are together, it's best to have common interests and hobbies."},
-        {"speaker": "王静", "text": "我们有很多共同的爱好，经常一起打球、唱歌、做菜。", "pinyin": "Wǒmen yǒu hěnduō gòngtóng de àihào, jīngcháng yīqǐ dǎqiú, chànggē, zuòcài.", "translation": "We have many common hobbies; we often play ball, sing, and cook together."},
-        {"speaker": "李老师", "text": "看来你真的找到适合你的人了。祝你们幸福！", "pinyin": "Kàn lái nǐ zhēnde zhǎodào shìhé nǐ de rén le. Zhù nǐmen xìngfú!", "translation": "It seems you've really found the right person for you. I wish you happiness!"}
-      ]
+        {
+          "speaker": "王静",
+          "text": "李老师，我下个月5号就要结婚了。",
+          "pinyin": "Lǐ lǎoshī, wǒ xià gè yuè 5 hào jiù yào jiéhūn le.",
+          "translation": "Teacher Li, I am getting married on the 5th of next month."
+        },
+        {
+          "speaker": "李老师",
+          "text": "你是在开玩笑吧？你们不是才认识一个月？",
+          "pinyin": "Nǐ shì zài kāi wánxiào ba? Nǐmen bùshì cái rènshì yīgè yuè?",
+          "translation": "You're joking, right? Haven't you only known each other for a month?"
+        },
+        {
+          "speaker": "王静",
+          "text": "虽然我们认识的时间不长，但我<b>从来没</b>这么快乐过。",
+          "pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè quò.",
+          "translation": "Although we haven't known each other for long, I've never been this happy."
+        },
+        {
+          "speaker": "李老师",
+          "text": "两个人在一起，最好能有共同的兴趣和爱好。",
+          "pinyin": "Liǎng gè rén zài yīqǐ, zuìhǎo néng yǒu gòngtóng de xìngqù hé àihào.",
+          "translation": "When two people are together, it's best to have common interests and hobbies."
+        },
+        {
+          "speaker": "王静",
+          "text": "我们有很多共同的爱好，经常一起打球、唱歌、做菜。",
+          "pinyin": "Wǒmen yǒu hěnduō gòngtóng de àihào, jīngcháng yīqǐ dǎqiú, chànggē, zuòcài.",
+          "translation": "We have many common hobbies; we often play ball, sing, and cook together."
+        },
+        {
+          "speaker": "李老师",
+          "text": "看来你真的找到适合你的人了。祝你们幸福！",
+          "pinyin": "Kàn lái nǐ zhēnde zhǎodào shìhé nǐ de rén le. Zhù nǐmen xìngfú!",
+          "translation": "It seems you've really found the right person for you. I wish you happiness!"
+        }
+      ],
+      "audio": "audio/01-2.mp3"
     },
     {
       "id": 3,
       "title": "高老师和李老师聊结婚后的生活 (Teacher Gao and Teacher Li talk about married life)",
       "content": [
-        {"speaker": "高老师", "text": "听说您跟妻子结婚快二十年了？", "pinyin": "Tīng shuō nín gēn qīzi jiéhūn kuài èrshí nián le?", "translation": "I heard you've been married to your wife for nearly twenty years?"},
-        {"speaker": "李老师", "text": "到6월 9호, we would have been married for twenty years. 这么多年，我们的生活一直挺幸福的。", "pinyin": "Dào 6 yuè 9 hào, wǒmen jiù jiéhūn èrshí nián le. Zhème duō nián, wǒmen de shēnghuó yīzhí tǐng xìngfú de.", "translation": "By June 9th, we will have been married for twenty years. Over these years, our life has always been quite happy."},
-        {"speaker": "高老师", "text": "我和丈夫<b>刚</b>结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是 现在……", "pinyin": "Wǒ hé zhàngfū gāng jiéhūn de shíhòu, měitiān dōu juédé hěn xīnxiān, zài yīqǐ yǒu shuō bù wán de huà. Dànshì xiànzài...", "translation": "When my husband and I first got married, every day felt fresh, and we had endless things to talk about. But now..."},
-        {"speaker": "李老师", "text": "两个人共同生活，只有浪漫和新鲜感是不够的。", "pinyin": "Liǎng gè rén gòngtóng shēnghuó, zhǐyǒu làngmàn hé xīnxiāngǎn shì bùgòu de.", "translation": "Living together, romance and a sense of freshness alone are not enough."},
-        {"speaker": "高老师", "text": "您说得对！我现在每天看到的都是他的缺点。", "pinyin": "Nín shuō dé duì! Wǒ xiànzài měitiān kàn dào de dōu shì tā de quēdiǎn.", "translation": "You're right! Now all I see every day are his shortcomings."},
-        {"speaker": "李老师", "text": "两个人在一起时间长了，就会有很多问题。只有接受了他的缺点，你们才能更好地一起生活。", "pinyin": "Liǎng gè rén zài yīqǐ shíjiān cháng le, jiù huì yǒu hěnduō wèntí. Zhǐyǒu jiēshòu le tā de quēdiǎn, nǐmen cáinéng gèng hǎo de yīqǐ shēnghuó.", "translation": "When two people are together for a long time, many problems will arise. Only by accepting his shortcomings can you live better together."}
-      ]
+        {
+          "speaker": "高老师",
+          "text": "听说您跟妻子结婚快二十年了？",
+          "pinyin": "Tīng shuō nín gēn qīzi jiéhūn kuài èrshí nián le?",
+          "translation": "I heard you've been married to your wife for nearly twenty years?"
+        },
+        {
+          "speaker": "李老师",
+          "text": "到6월 9호, we would have been married for twenty years. 这么多年，我们的生活一直挺幸福的。",
+          "pinyin": "Dào 6 yuè 9 hào, wǒmen jiù jiéhūn èrshí nián le. Zhème duō nián, wǒmen de shēnghuó yīzhí tǐng xìngfú de.",
+          "translation": "By June 9th, we will have been married for twenty years. Over these years, our life has always been quite happy."
+        },
+        {
+          "speaker": "高老师",
+          "text": "我和丈夫<b>刚</b>结婚的时候，每天都觉得很新鲜，在一起有说不完的话。但是 现在……",
+          "pinyin": "Wǒ hé zhàngfū gāng jiéhūn de shíhòu, měitiān dōu juédé hěn xīnxiān, zài yīqǐ yǒu shuō bù wán de huà. Dànshì xiànzài...",
+          "translation": "When my husband and I first got married, every day felt fresh, and we had endless things to talk about. But now..."
+        },
+        {
+          "speaker": "李老师",
+          "text": "两个人共同生活，只有浪漫和新鲜感是不够的。",
+          "pinyin": "Liǎng gè rén gòngtóng shēnghuó, zhǐyǒu làngmàn hé xīnxiāngǎn shì bùgòu de.",
+          "translation": "Living together, romance and a sense of freshness alone are not enough."
+        },
+        {
+          "speaker": "高老师",
+          "text": "您说得对！我现在每天看到的都是他的缺点。",
+          "pinyin": "Nín shuō dé duì! Wǒ xiànzài měitiān kàn dào de dōu shì tā de quēdiǎn.",
+          "translation": "You're right! Now all I see every day are his shortcomings."
+        },
+        {
+          "speaker": "李老师",
+          "text": "两个人在一起时间长了，就会有很多问题。只有接受了他的缺点，你们才能更好地一起生活。",
+          "pinyin": "Liǎng gè rén zài yīqǐ shíjiān cháng le, jiù huì yǒu hěnduō wèntí. Zhǐyǒu jiēshòu le tā de quēdiǎn, nǐmen cáinéng gèng hǎo de yīqǐ shēnghuó.",
+          "translation": "When two people are together for a long time, many problems will arise. Only by accepting his shortcomings can you live better together."
+        }
+      ],
+      "audio": "audio/01-3.mp3"
     },
     {
       "id": 4,
       "title": "浪漫的爱情 (Romantic Love - Monologue)",
       "content": [
-        {"speaker": "独白", "text": "很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是<b>即使</b>晚上加班到零点，到家时，自己家里<b>也</b>还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老”。其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。", "pinyin": "Hěnduō nǚ háizi xiànmù làngmàn de àiqíng. Nà shénme shì làngmàn ne? Niánqīngrén shuō: làngmàn shì tā xiǎng yào yuèliàng shí, nǐ bù huì gěi tā xīngxing; zhōngniánrén shuō: làngmàn shì jíshǐ wǎnshàng jiā bān dào língdiǎn, dào jiā shí, zìjǐ jiā lǐ yě hái liàng zhe dēng; lǎoniánrén shuō: làngmàn qíshí jiù xiàng gē zhōng chàng de nàyàng, 'wǒ néng xiǎngdào zuì làngmàn de shì, jiùshì hé nǐ yīqǐ mànman biàn lǎo'. Qíshí, ràng wǒmen gǎndòng de, jiùshì shēnghuó zhōng jiǎndān de àiqíng. Yǒushíhòu, jiǎndān jiùshì zuìdà de xìngfú.", "translation": "Many girls envy romantic love. So what is romance? Young people say: romance is when she wants the moon, you won't give her a star; middle-aged people say: romance is even when working overtime until midnight, when you get home, the light in your house is still on; elderly people say: romance is actually like what is sung in the song, 'The most romantic thing I can think of is growing old with you slowly.' In fact, what moves us is the simple love in life. Sometimes, simplicity is the greatest happiness."}
-      ]
+        {
+          "speaker": "独白",
+          "text": "很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是<b>即使</b>晚上加班到零点，到家时，自己家里<b>也</b>还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老”。其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。",
+          "pinyin": "Hěnduō nǚ háizi xiànmù làngmàn de àiqíng. Nà shénme shì làngmàn ne? Niánqīngrén shuō: làngmàn shì tā xiǎng yào yuèliàng shí, nǐ bù huì gěi tā xīngxing; zhōngniánrén shuō: làngmàn shì jíshǐ wǎnshàng jiā bān dào língdiǎn, dào jiā shí, zìjǐ jiā lǐ yě hái liàng zhe dēng; lǎoniánrén shuō: làngmàn qíshí jiù xiàng gē zhōng chàng de nàyàng, 'wǒ néng xiǎngdào zuì làngmàn de shì, jiùshì hé nǐ yīqǐ mànman biàn lǎo'. Qíshí, ràng wǒmen gǎndòng de, jiùshì shēnghuó zhōng jiǎndān de àiqíng. Yǒushíhòu, jiǎndān jiùshì zuìdà de xìngfú.",
+          "translation": "Many girls envy romantic love. So what is romance? Young people say: romance is when she wants the moon, you won't give her a star; middle-aged people say: romance is even when working overtime until midnight, when you get home, the light in your house is still on; elderly people say: romance is actually like what is sung in the song, 'The most romantic thing I can think of is growing old with you slowly.' In fact, what moves us is the simple love in life. Sometimes, simplicity is the greatest happiness."
+        }
+      ],
+      "audio": "audio/01-4.mp3"
     },
     {
       "id": 5,
       "title": "爱情与吸引 (Love and Attraction - Monologue)",
       "content": [
-        {"speaker": "独白", "text": "说到结婚，人们就会很自然地想起爱情. 爱情是结婚的重要原因，但两个人共同生活，<b>不仅</b>需要浪漫的爱情，更需要<b>性格上</b>互相吸引。我丈夫是个很幽默的人。<b>即使</b>是很普通的事情，从他嘴里说出来<b>也</b>会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。", "pinyin": "Shuō dào jiéhūn, rénmen jiù huì hěn zìrán dì xiǎngqǐ àiqíng. Àiqíng shì jiéhūn de zhòngyào yuányīn, dàn liǎng gè rén gòngtóng shēnghuó, bùjǐn xūyào làngmàn de àiqíng, gèng xūyào xìnggé shàng hùxiāng xīyǐn. Wǒ zhàngfū shì gè hěn yōumò de rén. Jíshǐ shì hěn pǔtōng de shìqíng, cóng tā zuǐ lǐ shuō chūlái yě huì biàn dé hěn yǒuyìsi. Zài wǒ nánguò de shíhòu, tā zǒng shì yǒu bànfǎ ràng wǒ gāoxìng qǐlái. Érqiě tā de píqi yě bùcuò, jiéhūn kuài shí nián le, wǒmen liǎ jīhū méi yīnwèi shénme shì hóng guò liǎn, hěnduō rén dōu tèbié xiànmù wǒmen.", "translation": "When it comes to marriage, people naturally think of love. Love is an important reason for marriage, but living together not only requires romantic love, but also mutual attraction in personality. My husband is a very humorous person. Even very ordinary things become interesting when spoken from his mouth. When I am sad, he always has a way to cheer me up. And his temper is also quite good. Having been married for nearly ten years, we two have almost never turned red (argued) over anything; many people especially envy us."}
-      ]
+        {
+          "speaker": "独白",
+          "text": "说到结婚，人们就会很自然地想起爱情. 爱情是结婚的重要原因，但两个人共同生活，<b>不仅</b>需要浪漫的爱情，更需要<b>性格上</b>互相吸引。我丈夫是个很幽默的人。<b>即使</b>是很普通的事情，从他嘴里说出来<b>也</b>会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。",
+          "pinyin": "Shuō dào jiéhūn, rénmen jiù huì hěn zìrán dì xiǎngqǐ àiqíng. Àiqíng shì jiéhūn de zhòngyào yuányīn, dàn liǎng gè rén gòngtóng shēnghuó, bùjǐn xūyào làngmàn de àiqíng, gèng xūyào xìnggé shàng hùxiāng xīyǐn. Wǒ zhàngfū shì gè hěn yōumò de rén. Jíshǐ shì hěn pǔtōng de shìqíng, cóng tā zuǐ lǐ shuō chūlái yě huì biàn dé hěn yǒuyìsi. Zài wǒ nánguò de shíhòu, tā zǒng shì yǒu bànfǎ ràng wǒ gāoxìng qǐlái. Érqiě tā de píqi yě bùcuò, jiéhūn kuài shí nián le, wǒmen liǎ jīhū méi yīnwèi shénme shì hóng guò liǎn, hěnduō rén dōu tèbié xiànmù wǒmen.",
+          "translation": "When it comes to marriage, people naturally think of love. Love is an important reason for marriage, but living together not only requires romantic love, but also mutual attraction in personality. My husband is a very humorous person. Even very ordinary things become interesting when spoken from his mouth. When I am sad, he always has a way to cheer me up. And his temper is also quite good. Having been married for nearly ten years, we two have almost never turned red (argued) over anything; many people especially envy us."
+        }
+      ],
+      "audio": "audio/01-5.mp3"
     }
   ]
 }

@@ -43,11 +43,47 @@ export class TextSection extends HTMLElement {
           color: #8B0000;
           font-size: 1.25rem;
           font-weight: 900;
-          display: block;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
           margin-bottom: 2rem;
           padding-bottom: 0.75rem;
           border-bottom: 1px solid rgba(139, 0, 0, 0.1);
           font-family: 'Outfit', sans-serif;
+        }
+
+        .audio-control {
+          background: rgba(139, 0, 0, 0.05);
+          border: 1px solid rgba(139, 0, 0, 0.1);
+          padding: 8px 16px;
+          border-radius: 50px;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+          cursor: pointer;
+          transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+          font-size: 0.75rem;
+          font-weight: 800;
+          color: #8B0000;
+          backdrop-filter: blur(4px);
+        }
+
+        .audio-control:hover {
+          background: rgba(139, 0, 0, 0.1);
+          transform: scale(1.05);
+          box-shadow: 0 4px 12px rgba(139, 0, 0, 0.1);
+        }
+
+        .audio-control.playing {
+          background: #8B0000;
+          color: #fff;
+          border-color: #8B0000;
+        }
+
+        .audio-control svg {
+          width: 14px;
+          height: 14px;
+          fill: currentColor;
         }
 
         .dialogue {
@@ -124,7 +160,23 @@ export class TextSection extends HTMLElement {
       </style>
 
       <div class="text-container">
-        <h3>课文 ${this._data.id}: ${this._data.title}</h3>
+        <h3>
+          <span>课文 ${this._data.id}: ${this._data.title}</span>
+          ${this._data.audio ? `
+            <button class="audio-control" id="play-btn">
+              <svg viewBox="0 0 24 24" id="play-icon">
+                <path d="M8 5v14l11-7z"/>
+              </svg>
+              <svg viewBox="0 0 24 24" id="pause-icon" style="display:none;">
+                <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+              </svg>
+              <span>LISTENING</span>
+            </button>
+          ` : ''}
+        </h3>
+        
+        ${this._data.audio ? `<audio id="audio-player" src="${this._data.audio}"></audio>` : ''}
+
         <div class="dialogue">
           ${this._data.content.map((line: any) => `
             <div class="line">
@@ -139,6 +191,54 @@ export class TextSection extends HTMLElement {
         </div>
       </div>
     `;
+
+    this.setupAudio();
+  }
+
+  setupAudio() {
+    if (!this.shadowRoot) return;
+    const playBtn = this.shadowRoot.getElementById('play-btn');
+    const audio = this.shadowRoot.getElementById('audio-player') as HTMLAudioElement;
+    const playIcon = this.shadowRoot.getElementById('play-icon');
+    const pauseIcon = this.shadowRoot.getElementById('pause-icon');
+
+    if (!playBtn || !audio) return;
+
+    playBtn.addEventListener('click', () => {
+      if (audio.paused) {
+        // Stop all other audio players on the page
+        document.querySelectorAll('text-section').forEach((el: any) => {
+          const otherAudio = el.shadowRoot?.getElementById('audio-player') as HTMLAudioElement;
+          if (otherAudio && otherAudio !== audio) {
+            otherAudio.pause();
+            const otherBtn = el.shadowRoot?.getElementById('play-btn');
+            const otherPlayIcon = el.shadowRoot?.getElementById('play-icon');
+            const otherPauseIcon = el.shadowRoot?.getElementById('pause-icon');
+            if (otherBtn) {
+              otherBtn.classList.remove('playing');
+              if (otherPlayIcon) otherPlayIcon.style.display = 'block';
+              if (otherPauseIcon) otherPauseIcon.style.display = 'none';
+            }
+          }
+        });
+
+        audio.play();
+        playBtn.classList.add('playing');
+        if (playIcon) playIcon.style.display = 'none';
+        if (pauseIcon) pauseIcon.style.display = 'block';
+      } else {
+        audio.pause();
+        playBtn.classList.remove('playing');
+        if (playIcon) playIcon.style.display = 'block';
+        if (pauseIcon) pauseIcon.style.display = 'none';
+      }
+    });
+
+    audio.addEventListener('ended', () => {
+      playBtn.classList.remove('playing');
+      if (playIcon) playIcon.style.display = 'block';
+      if (pauseIcon) pauseIcon.style.display = 'none';
+    });
   }
 }
 

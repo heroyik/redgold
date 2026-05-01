@@ -2,8 +2,16 @@
   "lessonId": 2,
   "title": "真正的朋友 (True Friends)",
   "vocabulary": [
-    {"word": "缺点", "pinyin": "quēdiǎn", "meaning": "shortcoming"},
-    {"word": "优点", "pinyin": "yōudiǎn", "meaning": "merit, strong point"}
+    {
+      "word": "缺点",
+      "pinyin": "quēdiǎn",
+      "meaning": "shortcoming"
+    },
+    {
+      "word": "优点",
+      "pinyin": "yōudiǎn",
+      "meaning": "merit, strong point"
+    }
   ],
   "grammar": [],
   "texts": [
@@ -11,8 +19,12 @@
       "id": 1,
       "title": "Placeholder Text",
       "content": [
-        {"speaker": "System", "text": "Lesson 2 content is coming soon!"}
-      ]
+        {
+          "speaker": "System",
+          "text": "Lesson 2 content is coming soon!"
+        }
+      ],
+      "audio": "audio/02-1.mp3"
     }
   ]
 }
