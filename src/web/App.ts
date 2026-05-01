@@ -176,10 +176,21 @@ class App extends HTMLElement {
 
         .hero-title h1 {
           font-size: clamp(2.5rem, 10vw, 4rem);
-          margin-bottom: 0.5rem;
+          margin-bottom: 0.3rem;
           letter-spacing: -2px;
           color: #8B0000;
           font-weight: 900;
+        }
+
+        .version-badge {
+          font-size: 0.65rem;
+          font-weight: 700;
+          letter-spacing: 1.5px;
+          color: #B8860B;
+          opacity: 0.75;
+          margin-bottom: 0.75rem;
+          text-transform: uppercase;
+          font-family: 'Outfit', monospace;
         }
 
         .hero-title p {
@@ -334,6 +345,7 @@ class App extends HTMLElement {
         <section class="landing-hero">
           <div class="hero-title">
             <h1>RedGold</h1>
+            <div class="version-badge">v${__APP_VERSION__} &nbsp;·&nbsp; ${__APP_BUILD_DATE__}</div>
             <p>Textbooks are mid. Master the bridge from HSK 4 to real-world talk.</p>
           </div>
           
@@ -425,6 +437,27 @@ class App extends HTMLElement {
         }
 
         .home-link:active { transform: scale(0.95); }
+
+        .header-version {
+          font-size: 0.55rem;
+          font-weight: 700;
+          color: #B8860B;
+          background: rgba(184, 134, 11, 0.1);
+          border: 1px solid rgba(184, 134, 11, 0.3);
+          border-radius: 4px;
+          padding: 1px 5px;
+          letter-spacing: 0.5px;
+          vertical-align: middle;
+        }
+
+        .header-date {
+          font-size: 0.55rem;
+          font-weight: 700;
+          opacity: 0.35;
+          letter-spacing: 1px;
+          color: #333;
+          text-transform: uppercase;
+        }
 
         .lesson-scroller {
           display: flex;
@@ -562,8 +595,9 @@ class App extends HTMLElement {
             <div class="home-link" id="home-link">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
               <span>RedGold</span>
+              <span class="header-version">v${__APP_VERSION__}</span>
             </div>
-            <div style="font-size: 0.65rem; font-weight: 900; opacity: 0.4; letter-spacing: 1px;">LEVEL 4</div>
+            <div class="header-date">${__APP_BUILD_DATE__}</div>
           </div>
           <div class="lesson-scroller">
             ${this._lessons.map(l => `
