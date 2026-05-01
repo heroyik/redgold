@@ -572,6 +572,12 @@ class App extends HTMLElement {
 
         .home-link:active { transform: scale(0.95); }
 
+        .header-wordmark {
+          height: 1.55rem;
+          width: auto;
+          display: block;
+        }
+
         .header-version {
           font-size: 0.55rem;
           font-weight: 700;
@@ -760,7 +766,7 @@ class App extends HTMLElement {
           <div class="header-top">
             <div class="home-link" id="home-link">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
-              <span>RedGold</span>
+              <img src="assets/redgold-wordmark-fixed.png?v=${__APP_VERSION__}" alt="RedGold" class="header-wordmark">
               <span class="header-version">v${__APP_VERSION__}</span>
             </div>
             <div class="header-controls">
