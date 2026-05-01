@@ -60,7 +60,7 @@ Built for performance, scalability, and the **Google Cloud** ecosystem:
 - **Architecture**: **Vanilla Web Components** (Shadow DOM, 0-dependency runtime)
 - **Styling**: Vanilla CSS with a centralized token system (Modern Han Elegant)
 - **Backend**: [Firebase](https://firebase.google.com/) (Hosting, Auth, Firestore ready)
-- **CI/CD**: GitHub Actions — auto version bump (`patch +0.0.1`) on every push to `main`, then deploy to GitHub Pages.
+- **CI/CD**: GitHub Actions deploys `main` to GitHub Pages. Local git hooks bump the patch version (`+0.0.1`) before each commit and stamp that version into the commit message.
 
 ---
 
@@ -113,7 +113,7 @@ npm run build
 | **UI/UX** | Landing Page Refresh (Book Covers + Hip Tagline) | ✅ Done |
 | **Logic** | Forward-only Scroll Sync Engine | ✅ Done |
 | **Pedagogy** | Proper Nouns with Pinyin + English Meaning | ✅ Done |
-| **Versioning** | Auto version bump on deploy + header badge | ✅ Done |
+| **Versioning** | Pre-commit patch bump + versioned commit messages + header badge | ✅ Done |
 | **Auth** | Firebase Authentication Implementation | ⏳ Next |
 | **Data** | Mastery Quiz System & Progress Tracking | ⏳ Planned |
 
@@ -121,7 +121,7 @@ npm run build
 
 ## 📋 Changelog
 
-Every push to `main` auto-bumps the patch version. Here's the human-readable tea:
+Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
 
 ---
 
@@ -129,7 +129,7 @@ Every push to `main` auto-bumps the patch version. Here's the human-readable tea
 > *The version system drops.* Things just got official.
 
 - 🔢 **Version badge is live** — header now shows `vX.X.X` + last build date on both the landing page and the lesson view
-- ⚙️ **Auto version bump** — GitHub Actions patches `0.0.1` on every push to `main`, no manual editing, ever
+- ⚙️ **Automatic patch bump** — local git hooks patch `0.0.1` before every commit and make sure the commit message includes the bumped version
 - 🏷️ **专有名词 (Proper Nouns) overhaul** — corrected all proper noun entries to match the actual textbook pages (images > assumptions, always)
 - 📖 **Dialogue 2 data fix** — `李` is the only proper noun. `王静` and `李老师` were wrongly listed; axed. Textbook is the source of truth.
 - ➕ **幸福 (xìngfú)** added to Dialogue 2 vocabulary — it was literally in the textbook and we missed it. Fixed.

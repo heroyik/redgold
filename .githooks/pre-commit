@@ -1,0 +1,7 @@
+#!/bin/sh
+set -e
+
+VERSION="$(node scripts/bump-version.mjs)"
+git add package.json package-lock.json
+
+echo "Bumped version to v$VERSION"
