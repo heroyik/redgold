@@ -2,7 +2,7 @@
   <img src="public/assets/logo.png" width="240" alt="Redgold Logo">
 </p>
 
-<h1 align="center">✨ REDGOLD (赤金汉语) ✨</h1>
+<h1 align="center">✨ REDGOLD ✨</h1>
 
 <p align="center">
   <strong>Textbooks are mid. Master the bridge from HSK 4 to real-world talk.</strong><br>
@@ -35,7 +35,7 @@ Our intelligent **Scroll Engine** in the `TextSection` component provides a seam
 - **Forward-Only Logic**: The viewport only moves forward with the audio, preventing distracting "snaps" back to previous lines.
 - **Timing Heuristics**: Calculates line changes based on character weight and audio duration for frame-perfect synchronization.
 
-### 🏷️ Proper Nouns (고유명사) Support
+### 🏷️ Proper Nouns Support
 Unlike standard HSK tools, RedGold explicitly identifies and styles **Proper Nouns** (names, places, brands). This prevents confusion between new vocabulary and unique identifiers, styled in a dedicated **Modern Han Elegant** gold theme.
 
 ### ⚡ Smart Prefetching
@@ -109,7 +109,7 @@ npm run build
 | :--- | :--- | :--- |
 | **UI/UX** | Landing Page Refresh (Book Covers + Hip Tagline) | ✅ Done |
 | **Logic** | Forward-only Scroll Sync Engine | ✅ Done |
-| **Pedagogy** | Proper Nouns (고유명사) Integration | ✅ Done |
+| **Pedagogy** | Proper Nouns Integration | ✅ Done |
 | **Auth** | Firebase Authentication Implementation | ⏳ Next |
 | **Data** | Mastery Quiz System & Progress Tracking | ⏳ Planned |
 
@@ -123,4 +123,5 @@ Redgold is an educational tool designed to complement the **HSK Standard Course 
   Built with ❤️ by the RedGold Team.<br>
   <strong>Speak the Language, Not Just the Grammar.</strong>
 </p>
+
 
