@@ -64,7 +64,7 @@ class App extends HTMLElement {
   getLandingCopy() {
     const copy: Record<AppLanguage, string> = {
       en: `<strong>Red</strong> = textbook-mode, clean and correct.<br><strong>Gold</strong> = the real-life vibe, the way people actually talk.<br>Put them together and you get <strong>RedGold</strong>: less robotic, more native, way more fun.`,
-      ko: `<strong>Red</strong> = 교과서 모드, 깔끔하고 정확한 중국어.<br><strong>Gold</strong> = 실전 감각, 진짜 사람들이 쓰는 말맛.<br>둘을 합치면 <strong>RedGold</strong>: 딱딱함은 줄이고, 현지 느낌은 살리고, 공부는 훨씬 재밌게.`,
+      ko: `<strong>Red</strong>는 교과서식 중국어예요. 정확하고 반듯하죠.<br><strong>Gold</strong>는 진짜 사람들이 일상에서 툭툭 쓰는 살아 있는 말이고요.<br>그래서 <strong>RedGold</strong>는 둘 다 가져갑니다. 교과서의 정확함은 챙기고, 현지 말맛은 제대로 살리고.`,
       ja: `<strong>Red</strong> = 教科書モード、きれいで正確な中国語。<br><strong>Gold</strong> = 実戦のノリ、ネイティブが本当に使う言い回し。<br>この二つを合わせたのが <strong>RedGold</strong>。固すぎず、ちゃんと自然で、勉強もちょっと楽しくなる。`
     };
 
@@ -74,7 +74,7 @@ class App extends HTMLElement {
   getStartButtonLabel() {
     const labels: Record<AppLanguage, string> = {
       en: `Let's get into it`,
-      ko: `바로 달려보자`,
+      ko: `한번 들어가보자`,
       ja: `さっそくいこう`
     };
 
@@ -209,11 +209,20 @@ class App extends HTMLElement {
           to { opacity: 1; transform: translateY(0); }
         }
 
+        .hero-title {
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: center;
+          text-align: center;
+        }
+
         .hero-wordmark {
           width: min(82vw, 520px);
           height: auto;
           display: block;
-          margin: 0 auto 0.45rem;
+          margin: 0 0 0.45rem;
           filter: drop-shadow(0 18px 28px rgba(139, 0, 0, 0.08));
         }
 
