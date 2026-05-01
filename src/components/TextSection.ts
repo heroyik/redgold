@@ -183,7 +183,11 @@ export class TextSection extends HTMLElement {
         }
 
         .vocab-item {
-          text-align: center;
+          display: flex;
+          flex-wrap: wrap;
+          align-items: baseline;
+          gap: 0.4rem;
+          text-align: left;
           padding: 1rem;
           border-radius: 16px;
           background: rgba(255, 255, 255, 0.4);
@@ -196,10 +200,19 @@ export class TextSection extends HTMLElement {
           transform: translateY(-2px);
         }
 
+        .vocab-item .num {
+          min-width: 2.2rem;
+          font-size: 0.78rem;
+          font-weight: 800;
+          color: #8B0000;
+          opacity: 0.8;
+        }
+
         .vocab-item .word {
           font-size: 1.1rem;
           font-weight: 700;
           font-family: 'Noto Sans SC', sans-serif;
+          color: #1a1a1a;
         }
 
         .vocab-item .pinyin {
@@ -207,12 +220,14 @@ export class TextSection extends HTMLElement {
           margin: 0;
           color: inherit;
           opacity: 0.7;
+          font-weight: 600;
         }
 
         .vocab-item .meaning {
           font-size: 0.8rem;
           opacity: 0.6;
-          margin-top: 0.25rem;
+          margin-top: 0;
+          line-height: 1.45;
         }
 
         /* Proper Nouns Section */
@@ -302,6 +317,7 @@ export class TextSection extends HTMLElement {
             <div class="vocab-grid">
               ${this._data.vocabulary.map((v: any, index: number) => `
                 <div class="vocab-item" id="vocab-${index}">
+                  <span class="num">${index + 1}.</span>
                   <span class="word">${v.word}</span>
                   <span class="pinyin">${v.pinyin}</span>
                   <span class="meaning">${v.meaning}</span>

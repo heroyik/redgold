@@ -714,28 +714,29 @@ class App extends HTMLElement {
   updated() {
     if (!this._data || this._viewMode === 'landing') return;
 
+    const lessonData = this._data;
+
     if (this._activeTab === 'vocab') {
-      this._data.vocabulary.forEach((v: any) => {
+      lessonData.vocabulary.forEach((v: any) => {
         const el = this.shadowRoot?.getElementById(`v-${v.word}`) as any;
         if (el) el.data = v;
       });
     } else if (this._activeTab === 'grammar') {
-      this._data.grammar.forEach((g: any) => {
+      lessonData.grammar.forEach((g: any) => {
         const el = this.shadowRoot?.getElementById(`g-${g.point}`) as any;
         if (el) el.data = g;
       });
     } else if (this._activeTab === 'text') {
-      this._data.texts.forEach((t: any) => {
+      lessonData.texts.forEach((t: any) => {
         const el = this.shadowRoot?.getElementById(`t-${t.id}`) as any;
         if (el) el.data = t;
       });
     } else if (this._activeTab === 'mastery') {
       const el = this.shadowRoot?.getElementById('mastery-sentences') as any;
-      if (el) el.sentences = this._data.key_sentences;
+      if (el) el.sentences = lessonData.key_sentences;
     }
   }
 }
 
 customElements.define('chn-vocab-app', App);
 export default App;
-
