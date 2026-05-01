@@ -4,7 +4,7 @@
       <stop offset="0" stop-color="#B50000"/>
       <stop offset="1" stop-color="#870000"/>
     </linearGradient>
-    <linearGradient id="goldFill" x1="332" y1="52" x2="620" y2="166" gradientUnits="userSpaceOnUse">
+    <linearGradient id="goldFill" x1="316" y1="52" x2="604" y2="166" gradientUnits="userSpaceOnUse">
       <stop offset="0" stop-color="#E2B547"/>
       <stop offset="1" stop-color="#C89218"/>
     </linearGradient>
@@ -17,7 +17,7 @@
       font-weight="900"
       letter-spacing="-7"
       fill="url(#redFill)">Red</text>
-    <text x="272" y="160"
+    <text x="252" y="160"
       font-family="Arial Black, Arial, Helvetica, sans-serif"
       font-size="142"
       font-weight="900"
