@@ -74,7 +74,7 @@ class App extends HTMLElement {
   getStartButtonLabel() {
     const labels: Record<AppLanguage, string> = {
       en: `Let's get into it`,
-      ko: `한번 들어가보자`,
+      ko: `그럼 바로 시작?`,
       ja: `さっそくいこう`
     };
 
