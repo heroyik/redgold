@@ -472,7 +472,7 @@ class App extends HTMLElement {
       <div class="landing-container">
         <section class="landing-hero">
           <div class="hero-title">
-            <img src="assets/redgold-wordmark.svg?v=${__APP_VERSION__}" alt="RedGold" class="hero-wordmark">
+            <img src="assets/redgold-wordmark-fixed.png?v=${__APP_VERSION__}" alt="RedGold" class="hero-wordmark">
             <div class="version-badge">v${__APP_VERSION__} &nbsp;·&nbsp; ${__APP_BUILD_DATE__}</div>
             <p>${this.getLandingCopy()}</p>
           </div>
