@@ -5,63 +5,72 @@
 <h1 align="center">✨ REDGOLD (赤金汉语) ✨</h1>
 
 <p align="center">
-  <strong>Elevating Chinese Learning from HSK to the Streets.</strong><br>
-  <em>The fusion of textbook precision and native soul.</em>
+  <strong>HSK 4 Standard Course: Reimagined for the Modern Learner.</strong><br>
+  <em>The perfect fusion of academic precision and colloquial soul.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Beta-ff4d4d?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_Firebase-ff9e4d?style=for-the-badge" alt="Stack">
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
+  <img src="https://img.shields.io/badge/Mobile-Galaxy_S26_Optimized-8B0000?style=for-the-badge" alt="Mobile">
 </p>
 
 ---
 
 ## 🏮 The Philosophy: Red Meets Gold
 
-In the world of Chinese learning, there has always been a wall. On one side, the **Red**—the formal, the HSK, the grammar that passes exams but feels stiff in a coffee shop. On the other side, the **Gold**—the colloquial, the native slang, the rhythm of real conversations.
+In Chinese learning, there has always been a wall. On one side, the **Red**—the formal, structured HSK curriculum. On the other side, the **Gold**—the colloquial, native rhythm of real life.
 
-**Redgold** bridges this gap. We don't just teach you how to say "Not only... but also..." (不仅...也...). We teach you how to say it like a pro using **"不光...还..."** and vivid descriptors like **"贼溜"** (super smooth).
-
-### 🔴 Red (Formal)
-The foundation. Structured, precise, and academically recognized. Essential for professional environments and HSK mastery.
-
-### 🟡 Gold (Colloquial)
-The vibe. Expressive, colorful, and native. This is how friends talk, how jokes are made, and how you truly "connect."
+**Redgold** bridges this gap. We transform the HSK 4 Standard Course into a premium, interactive experience that teaches you not just *what* to say, but *how* to say it like a native.
 
 ---
 
 ## 🚀 Key Features
 
-- **💎 Modern Han Elegant UI**: A premium, "glassmorphic" interface designed for focus and aesthetic pleasure.
-- **⚡ Dual-Track Patterns**: Every HSK 4 grammar point is paired with its real-world colloquial counterpart.
-- **📱 Mobile-First Design**: Learn on the go with a responsive, snappy experience.
-- **🔥 Native Nuance Insights**: Deep dives into why certain phrases "hit different" in conversation.
-- **☁️ Firebase Powered**: Seamless data syncing and real-time updates for your learning journey.
+### 📖 Immersive Landing Page
+Experience a premium entry point featuring the official **HSK 4 Standard Course** (Upper/Lower) textbook covers. Start your journey with a beautiful, visual chapter selection grid.
+
+### 🎧 Synchronized Audio Highlighting
+Learn by listening with our intelligent synchronization engine. As the audio plays, the text highlights and scrolls automatically, keeping the current sentence perfectly centered for focus.
+
+### ⚡ Dual-Track Learning
+- **Red (Formal)**: Master the exact patterns required for the HSK 4 exam.
+- **Gold (Colloquial)**: Discover how native speakers *actually* use those patterns in daily life.
+
+### 🎨 Modern Han Elegant UI
+A "glassmorphic" interface designed with high-end aesthetics:
+- Subtle gradients and backdrop blurs.
+- Responsive design tailored for modern high-aspect-ratio displays (Galaxy S26).
+- Smooth animations and micro-interactions.
+
+### 📚 Full Curriculum Coverage
+Support for all **20 Lessons** of the HSK 4 Standard Course, including vocabulary, grammar points, texts, and key sentences.
 
 ---
 
-## 🛠 The Tech Stack
+## 🛠 Tech Stack
 
-Built with a commitment to speed, elegance, and the Google Cloud ecosystem:
+Built with a focus on performance, scalability, and the Google Cloud ecosystem:
 
-- **Frontend**: [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/) (Type-safe, lightning-fast HMR).
-- **Styling**: Vanilla CSS with a custom design system (The "Redgold" Design Language).
-- **Backend**: [Firebase](https://firebase.google.com/) (Firestore & Auth).
-- **Infrastructure**: Optimized CI/CD via GitHub Actions for automatic deployment to GitHub Pages.
+- **Frontend Core**: [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/)
+- **Architecture**: Vanilla Web Components (Fast, Lightweight, Dependency-free)
+- **Styling**: Custom CSS Design System (Redgold Tokens)
+- **Backend**: [Firebase](https://firebase.google.com/) (Authentication & Firestore)
+- **CI/CD**: GitHub Actions for automated deployment to GitHub Pages.
 
 ---
 
-## 📖 The Development Journey
+## 🏗 Architecture Insights
 
-### Genesis: The "Textbook Trap"
-Redgold was born out of a simple frustration: passing HSK 4 but still feeling like an outsider in a Beijing hutong. Textbooks give you the skeleton, but they often forget the skin and soul. We wanted to build an app that felt like a "cool older sibling" teaching you the ropes.
+### Intelligent Scroll Engine
+Our `TextSection` component uses a character-weight heuristic to synchronize audio with text. It calculates precisely when to scroll and highlight each line based on audio duration and text complexity, ensuring a seamless "Karaoke-style" reading experience.
 
-### Evolution: Pattern Mining
-The development process involved meticulously combing through HSK 4 curriculum and cross-referencing it with hundreds of hours of native media. We looked for patterns that are grammatically correct but socially "heavy," and found their lighter, more agile colloquial twins.
-
-### Design: Modern Han Elegant
-We rejected the "gamified" look of green owls and bright primary colors. Instead, we drew inspiration from modern Asian minimalism—clean typography, subtle gradients, and a palette of vermillion and gold that honors tradition while embracing the future.
+### Mobile Optimization
+Special attention has been given to modern mobile ergonomics, including:
+- **Safe-area handling** for notch displays.
+- **Sticky Tab Navigation** for easy switching between Vocab, Grammar, and Texts.
+- **Horizontal Lesson Scroller** for quick chapter switching.
 
 ---
 
@@ -89,9 +98,9 @@ We rejected the "gamified" look of green owls and bright primary colors. Instead
 
 ---
 
-## 🤝 Contributing
+## 🤝 Reference & Acknowledgement
 
-We are always looking for native speakers and fellow learners to help bridge more gaps. If you have a "Gold" pattern for a "Red" grammar point, open a PR!
+Redgold is an educational tool designed to complement the **HSK Standard Course 4** textbook series authorized by **Hanban** and published by **Beijing Language and Culture University Press (BLCUP)**. We encourage all users to purchase the original textbooks to support the creators of this excellent curriculum.
 
 ---
 
