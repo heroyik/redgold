@@ -4,6 +4,7 @@ import '../components/TextSection';
 import '../components/KeySentences';
 import '../components/SourceInfo';
 import { translateLessonData, type AppLanguage } from '../utils/lessonTranslations';
+import { getUiCopy } from '../utils/uiCopy';
 
 type LessonData = {
   lessonId?: number;
@@ -79,16 +80,6 @@ class App extends HTMLElement {
     return copy[this._language];
   }
 
-  getStartButtonLabel() {
-    const labels: Record<AppLanguage, string> = {
-      en: `Let's get into it`,
-      ko: `그럼 바로 시작?`,
-      ja: `さっそくいこう`
-    };
-
-    return labels[this._language];
-  }
-
   connectedCallback() {
     this.render();
     // Warm up the first lesson
@@ -97,6 +88,7 @@ class App extends HTMLElement {
 
   async fetchData() {
     if (this._viewMode === 'landing') return;
+    const ui = getUiCopy(this._language);
 
     this._data = null;
     this.render();
@@ -121,7 +113,7 @@ class App extends HTMLElement {
     } catch (error) {
       console.error('Error fetching lesson data:', error);
       this._data = {
-        title: `Lesson ${this._currentLesson}: Coming Soon`,
+        title: `${ui.chapter} ${this._currentLesson}: ${ui.comingSoon}`,
         vocabulary: [],
         grammar: [],
         texts: [],
@@ -197,6 +189,7 @@ class App extends HTMLElement {
 
   renderLanding() {
     if (!this.shadowRoot) return;
+    const ui = getUiCopy(this._language);
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -483,7 +476,7 @@ class App extends HTMLElement {
             <button class="language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">日本語</button>
           </div>
 
-          <button class="start-btn" id="start-learning-btn">${this.getStartButtonLabel()}</button>
+          <button class="start-btn" id="start-learning-btn">${ui.exploreLessons}</button>
           
           <div class="landing-books">
             <img src="images/hsk4_upper.jpg" class="book-preview" alt="HSK 4 Upper" id="book-upper" decoding="async">
@@ -492,21 +485,21 @@ class App extends HTMLElement {
         </section>
  
         <section class="chapter-selection" id="selection-area">
-          <div class="book-section-label">VOLUME 1 (上)</div>
+          <div class="book-section-label">${ui.volume1}</div>
           <div class="chapter-grid">
             ${this._lessons.slice(0, 10).map(l => `
               <div class="chapter-card" data-id="${l.id}">
-                <span class="chapter-num">Chapter ${l.id}</span>
+                <span class="chapter-num">${ui.chapter} ${l.id}</span>
                 <span class="chapter-name">${l.title.split(':')[1]?.trim()}</span>
               </div>
             `).join('')}
           </div>
  
-          <div class="book-section-label">VOLUME 2 (下)</div>
+          <div class="book-section-label">${ui.volume2}</div>
           <div class="chapter-grid">
             ${this._lessons.slice(10, 20).map(l => `
               <div class="chapter-card" data-id="${l.id}">
-                <span class="chapter-num">Chapter ${l.id}</span>
+                <span class="chapter-num">${ui.chapter} ${l.id}</span>
                 <span class="chapter-name">${l.title.split(':')[1]?.trim()}</span>
               </div>
             `).join('')}
@@ -514,7 +507,7 @@ class App extends HTMLElement {
         </section>
         
         <footer class="landing-footer">
-          <div>MODERN HAN ELEGANT • BLCUP OFFICIAL CURRICULUM</div>
+          <div>${ui.footerTagline}</div>
           <a href="https://github.com/heroyik/redgold" target="_blank" rel="noopener noreferrer">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
             GITHUB
@@ -529,6 +522,7 @@ class App extends HTMLElement {
     if (!this.shadowRoot) return;
 
     const content = this.renderContent();
+    const ui = getUiCopy(this._language);
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -790,14 +784,14 @@ class App extends HTMLElement {
         <div class="app-container">
           <header>
             <h1>${this._data ? this._data.title.split('(')[0].trim() : 'HSK 4'}</h1>
-            <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || 'LOADING...' : 'LOADING...'}</p>
+            <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || ui.loading : ui.loading}</p>
           </header>
 
           <nav>
-            <button class="tab-btn ${this._activeTab === 'vocab' ? 'active' : ''}" id="tab-vocab">Vocab</button>
-            <button class="tab-btn ${this._activeTab === 'grammar' ? 'active' : ''}" id="tab-grammar">Grammar</button>
-            <button class="tab-btn ${this._activeTab === 'text' ? 'active' : ''}" id="tab-text">Texts</button>
-            <button class="tab-btn ${this._activeTab === 'mastery' ? 'active' : ''}" id="tab-mastery">Mastery</button>
+            <button class="tab-btn ${this._activeTab === 'vocab' ? 'active' : ''}" id="tab-vocab">${ui.tabVocab}</button>
+            <button class="tab-btn ${this._activeTab === 'grammar' ? 'active' : ''}" id="tab-grammar">${ui.tabGrammar}</button>
+            <button class="tab-btn ${this._activeTab === 'text' ? 'active' : ''}" id="tab-text">${ui.tabTexts}</button>
+            <button class="tab-btn ${this._activeTab === 'mastery' ? 'active' : ''}" id="tab-mastery">${ui.tabMastery}</button>
           </nav>
 
           <main>
@@ -811,7 +805,7 @@ class App extends HTMLElement {
           <source-info></source-info>
 
           <footer>
-            <div class="footer-logo">MODERN HAN ELEGANT</div>
+            <div class="footer-logo">${ui.footerBrand}</div>
             <a href="https://github.com/heroyik/redgold" target="_blank" rel="noopener noreferrer" style="margin-top: 1rem; display: inline-flex; align-items: center; gap: 6px; color: inherit; text-decoration: none; opacity: 0.3; font-size: 0.65rem; font-weight: 800; letter-spacing: 2px;">
               <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
               GITHUB
@@ -912,21 +906,33 @@ class App extends HTMLElement {
     if (this._activeTab === 'vocab') {
       lessonData.vocabulary.forEach((v: any) => {
         const el = this.shadowRoot?.getElementById(`v-${v.word}`) as any;
-        if (el) el.data = v;
+        if (el) {
+          el.language = this._language;
+          el.data = v;
+        }
       });
     } else if (this._activeTab === 'grammar') {
       lessonData.grammar.forEach((g: any) => {
         const el = this.shadowRoot?.getElementById(`g-${g.point}`) as any;
-        if (el) el.data = g;
+        if (el) {
+          el.language = this._language;
+          el.data = g;
+        }
       });
     } else if (this._activeTab === 'text') {
       lessonData.texts.forEach((t: any) => {
         const el = this.shadowRoot?.getElementById(`t-${t.id}`) as any;
-        if (el) el.data = t;
+        if (el) {
+          el.language = this._language;
+          el.data = t;
+        }
       });
     } else if (this._activeTab === 'mastery') {
       const el = this.shadowRoot?.getElementById('mastery-sentences') as any;
-      if (el) el.sentences = lessonData.key_sentences;
+      if (el) {
+        el.language = this._language;
+        el.sentences = lessonData.key_sentences;
+      }
     }
   }
 }

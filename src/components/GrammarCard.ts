@@ -1,8 +1,11 @@
 import { sanitizeHTML } from '../utils/security';
+import { getUiCopy } from '../utils/uiCopy';
+import type { AppLanguage } from '../utils/lessonTranslations';
 
 export class GrammarCard extends HTMLElement {
   private _data: any = null;
   private _isColloquial: boolean = false;
+  private _language: AppLanguage = 'en';
 
   constructor() {
     super();
@@ -11,6 +14,11 @@ export class GrammarCard extends HTMLElement {
 
   set data(value: any) {
     this._data = value;
+    this.render();
+  }
+
+  set language(value: AppLanguage) {
+    this._language = value;
     this.render();
   }
 
@@ -25,6 +33,7 @@ export class GrammarCard extends HTMLElement {
 
   render() {
     if (!this._data || !this.shadowRoot) return;
+    const ui = getUiCopy(this._language);
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -195,21 +204,21 @@ export class GrammarCard extends HTMLElement {
 
       <div class="card ${this._isColloquial ? 'is-flipped' : ''}" id="flip-card">
         <div class="side front">
-          <div class="label">Textbook Formal</div>
+          <div class="label">${ui.formalLabel}</div>
           <div class="point">${sanitizeHTML(this._data.point)}</div>
           <div class="example">${sanitizeHTML(this._data.formal_example)}</div>
           ${this._data.formal_pinyin ? `<div class="pinyin">${sanitizeHTML(this._data.formal_pinyin)}</div>` : ''}
           ${this._data.formal_translation ? `<div class="translation">${sanitizeHTML(this._data.formal_translation)}</div>` : ''}
           <div class="explanation">${sanitizeHTML(this._data.explanation)}</div>
-          <div class="tip">Tap to see colloquial version →</div>
+          <div class="tip">${ui.tipToColloquial}</div>
         </div>
         <div class="side back">
-          <div class="label">Native Colloquial</div>
+          <div class="label">${ui.colloquialLabel}</div>
           <div class="point">${sanitizeHTML(this._data.point)}</div>
           
           ${this._data.colloquial_pattern ? `
             <div class="pattern-box">
-              <div class="pattern-label">Colloquial Pattern</div>
+              <div class="pattern-label">${ui.colloquialPattern}</div>
               <div class="pattern-text">${sanitizeHTML(this._data.colloquial_pattern)}</div>
             </div>
           ` : ''}
@@ -218,7 +227,7 @@ export class GrammarCard extends HTMLElement {
           ${this._data.colloquial_pinyin ? `<div class="pinyin">${sanitizeHTML(this._data.colloquial_pinyin)}</div>` : ''}
           ${this._data.colloquial_translation ? `<div class="translation">${sanitizeHTML(this._data.colloquial_translation)}</div>` : ''}
           <div class="nuance">${sanitizeHTML(this._data.nuance)}</div>
-          <div class="tip">Tap to go back ←</div>
+          <div class="tip">${ui.tipToBack}</div>
         </div>
       </div>
     `;
@@ -228,4 +237,3 @@ export class GrammarCard extends HTMLElement {
 }
 
 customElements.define('grammar-card', GrammarCard);
-

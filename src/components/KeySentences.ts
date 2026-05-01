@@ -2,8 +2,12 @@
  * <key-sentences> Web Component
  * Displays "Golden Sentences" (Mastery) with formal vs colloquial pairings.
  */
+import { getUiCopy } from '../utils/uiCopy';
+import type { AppLanguage } from '../utils/lessonTranslations';
+
 export class KeySentences extends HTMLElement {
   private _sentences: any[] = [];
+  private _language: AppLanguage = 'en';
 
   constructor() {
     super();
@@ -15,12 +19,18 @@ export class KeySentences extends HTMLElement {
     this.render();
   }
 
+  set language(value: AppLanguage) {
+    this._language = value;
+    this.render();
+  }
+
   connectedCallback() {
     this.render();
   }
 
   render() {
     if (!this.shadowRoot) return;
+    const ui = getUiCopy(this._language);
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -170,18 +180,18 @@ export class KeySentences extends HTMLElement {
 
       <div class="mastery-container">
         ${this._sentences.length === 0 ? `
-          <div class="empty-state">No mastery sentences available for this chapter.</div>
+          <div class="empty-state">${ui.masteryEmpty}</div>
         ` : this._sentences.map((s, index) => `
           <div class="sentence-group" style="animation-delay: ${index * 0.15}s">
             <div class="formal-section">
-              <div class="label">✨ Standard Han</div>
+              <div class="label">${ui.masteryFormal}</div>
               <div class="chinese-text">${s.sentence}</div>
               <div class="pinyin">${s.pinyin}</div>
               <div class="translation">${s.translation}</div>
             </div>
             <div class="colloquial-section">
               <div class="context-tag">${s.context}</div>
-              <div class="label">🔥 Living Language</div>
+              <div class="label">${ui.masteryColloquial}</div>
               <div class="chinese-text">${s.colloquial_equivalent}</div>
               <div class="pinyin">${s.colloquial_pinyin}</div>
               <div class="translation">${s.colloquial_translation || ''}</div>

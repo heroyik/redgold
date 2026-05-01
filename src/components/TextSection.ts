@@ -2,8 +2,12 @@
  * <text-section> Web Component
  * Displays dialogues and monologues from the textbook.
  */
+import { getUiCopy } from '../utils/uiCopy';
+import type { AppLanguage } from '../utils/lessonTranslations';
+
 export class TextSection extends HTMLElement {
   private _data: any = null;
+  private _language: AppLanguage = 'en';
 
   constructor() {
     super();
@@ -15,12 +19,18 @@ export class TextSection extends HTMLElement {
     this.render();
   }
 
+  set language(value: AppLanguage) {
+    this._language = value;
+    this.render();
+  }
+
   connectedCallback() {
     this.render();
   }
 
   render() {
     if (!this._data || !this.shadowRoot) return;
+    const ui = getUiCopy(this._language);
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -291,7 +301,7 @@ export class TextSection extends HTMLElement {
               <svg viewBox="0 0 24 24" id="pause-icon" style="display:none;">
                 <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
               </svg>
-              <span>LISTENING</span>
+              <span>${ui.listening}</span>
             </button>
           ` : ''}
         </h3>
@@ -313,7 +323,7 @@ export class TextSection extends HTMLElement {
 
         ${this._data.vocabulary && this._data.vocabulary.length > 0 ? `
           <div class="vocab-section">
-            <div class="vocab-header">生词 (New Words)</div>
+            <div class="vocab-header">${ui.newWords}</div>
             <div class="vocab-grid">
               ${this._data.vocabulary.map((v: any, index: number) => `
                 <div class="vocab-item" id="vocab-${index}">
@@ -327,7 +337,7 @@ export class TextSection extends HTMLElement {
             
             ${this._data.proper_nouns && this._data.proper_nouns.length > 0 ? `
               <div class="proper-nouns-section">
-                <div class="proper-header">专有名词 (Proper Nouns)</div>
+                <div class="proper-header">${ui.properNouns}</div>
                 <div class="proper-grid">
                   ${this._data.proper_nouns.map((pn: any, index: number) => `
                     <div class="proper-item" id="proper-${index}">
