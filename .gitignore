@@ -32,3 +32,6 @@ dist-ssr
 
 # Firebase
 .firebase
+
+# Textbooks (Local Reference only)
+public/textbooks/

@@ -305,7 +305,7 @@ export class TextSection extends HTMLElement {
             
             ${this._data.proper_nouns && this._data.proper_nouns.length > 0 ? `
               <div class="proper-nouns-section">
-                <div class="proper-header">PROPER NOUNS (고유명사)</div>
+                <div class="proper-header">PROPER NOUNS</div>
                 <div class="proper-grid">
                   ${this._data.proper_nouns.map((pn: any, index: number) => `
                     <div class="proper-item" id="proper-${index}">

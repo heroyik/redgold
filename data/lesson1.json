@@ -175,7 +175,7 @@
       "point": "从来",
       "explanation": "Indicates something has always been like this. Often used in negative sentences (从来没/不).",
       "formal_example": "虽然我们认识的时间不长, 但我<b>从来没</b>这么快乐过。",
-      "formal_pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè quò.",
+      "formal_pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè guò.",
       "formal_translation": "Although we haven't known each other long, I have never been this happy.",
       "colloquial_pattern": "打从……起 / 压根儿没...",
       "colloquial_version": "<b>打从</b>认识他<b>起</b>, 我<b>压根儿没</b>这么开心过！",
@@ -223,10 +223,10 @@
   "key_sentences": [
     {
       "sentence": "虽然我们认识的时间不长，但我<b>从来没</b>这么快乐过。",
-      "pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè quò.",
+      "pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè guò.",
       "translation": "Although we haven't known each other for long, I've never been this happy.",
       "colloquial_equivalent": "认识没多久，但我这辈子都<b>压根儿没</b>这么爽过！",
-      "colloquial_pinyin": "Rènshì méi duōjiǔ, dàn wǒ zhè bèizi dōu yàgenr méi zhème shuǎng quò!",
+      "colloquial_pinyin": "Rènshì méi duōjiǔ, dàn wǒ zhè bèizi dōu yàgenr méi zhème shuǎng guò!",
       "context": "Expressing intense happiness in a new relationship."
     },
     {
@@ -241,7 +241,7 @@
       "sentence": "我能想到最浪漫的事，就是和你一起慢慢变老。",
       "pinyin": "Wǒ néng xiǎngdào zuì làngmàn de shì, jiùshì hé nǐ yīqǐ mànman biàn lǎo.",
       "translation": "The most romantic thing I can think of is growing old with you slowly.",
-      "colloquial_equivalent": "这辈子能跟你一块儿變老，我就知足了。",
+      "colloquial_equivalent": "这辈子能跟你一块儿变老，我就知足了。",
       "colloquial_pinyin": "Zhè bèizi néng gēn nǐ yīkuàir biàn lǎo, wǒ jiù zhīzú le.",
       "context": "Expressing deep, long-term commitment."
     },
@@ -279,8 +279,8 @@
         },
         {
           "speaker": "王静",
-          "text": "我们是在一次足球比赛中认识的. 我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。",
-          "pinyin": "Wǒmen shì zài yīcì zúqiú bǐsài zhōng rènshì de. Wǒmen bān gēn tāmen bān bǐsài, tā yīgè rén tī jìn liǎng gè qiú, wǒ duì tā yìnxiàng hěn shēn, hòulái jiù mànman shúxi le.",
+          "text": "我们是在一次足球比赛中认识的。我们班跟他们班比赛，他一个人踢进两个球，我对他印象很深，后来就慢慢熟悉了。",
+          "pinyin": "Wǒmen shì zài yīcì zúqiú bǐsài zhōng rènshi de. Wǒmen bān gēn tāmen bān bǐsài, tā yīgè rén tī jìn liǎng gè qiú, wǒ duì tā yìnxiàng hěn shēn, hòulái jiù mànman shúxi le.",
           "translation": "We met during a football match. Our class played against theirs. He scored two goals by himself, and I was very impressed by him. Later, we gradually got to know each other."
         },
         {
@@ -359,7 +359,7 @@
         {
           "speaker": "王静",
           "text": "虽然我们认识的时间不长，但我<b>从来没</b>这么快乐过。",
-          "pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè quò.",
+          "pinyin": "Suīrán wǒmen rènshi de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè guò.",
           "translation": "Although we haven't known each other for long, I've never been this happy."
         },
         {
@@ -426,8 +426,8 @@
         },
         {
           "speaker": "李老师",
-          "text": "到6월 9호, we would have been married for twenty years. 这么多年，我们的生活一直挺幸福的。",
-          "pinyin": "Dào 6 yuè 9 hào, wǒmen jiù jiéhūn èrshí nián le. Zhème duō nián, wǒmen de shēnghuó yīzhí tǐng xìngfú de.",
+          "text": "到6月9号，我们就结婚二十年了。这么多年，我们的生活一直挺幸福的。",
+          "pinyin": "Dào liùyuè jiǔ hào, wǒmen jiù jiéhūn èrshí nián le. Zhème duō nián, wǒmen de shēnghuó yīzhí tǐng xìngfú de.",
           "translation": "By June 9th, we will have been married for twenty years. Over these years, our life has always been quite happy."
         },
         {
@@ -505,7 +505,7 @@
         {
           "speaker": "独白",
           "text": "很多女孩子羡慕浪漫的爱情。那什么是浪漫呢？年轻人说：浪漫是她想要月亮时，你不会给她星星；中年人说：浪漫是<b>即使</b>晚上加班到零点，到家时，自己家里<b>也</b>还亮着灯；老年人说：浪漫其实就像歌中唱的那样，“我能想到最浪漫的事，就是和你一起慢慢变老”。其实，让我们感动的，就是生活中简单的爱情。有时候，简单就是最大的幸福。",
-          "pinyin": "Hěnduō nǚ háizi xiànmù làngmàn de àiqíng. Nà shénme shì làngmàn ne? Niánqīngrén shuō: làngmàn shì tā xiǎng yào yuèliàng shí, nǐ bù huì gěi tā xīngxing; zhōngniánrén shuō: làngmàn shì jíshǐ wǎnshàng jiā bān dào língdiǎn, dào jiā shí, zìjǐ jiā lǐ yě hái liàng zhe dēng; lǎoniánrén shuō: làngmàn qíshí jiù xiàng gē zhōng chàng de nàyàng, 'wǒ néng xiǎngdào zuì làngmàn de shì, jiùshì hé nǐ yīqǐ mànman biàn lǎo'. Qíshí, ràng wǒmen gǎndòng de, jiùshì shēnghuó zhōng jiǎndān de àiqíng. Yǒushíhòu, jiǎndān jiùshì zuìdà de xìngfú.",
+          "pinyin": "Hěnduō nǚháizi xiànmù làngmàn de àiqíng. Nà shénme shì làngmàn ne? Niánqīngrén shuō: Làngmàn shì tā xiǎngyào yuèliang shí, nǐ búhuì gěi tā xīngxing; zhōngniánrén shuō: Làngmàn shì jíshǐ wǎnshang jiābān dào língdiǎn, dàojiā shí, zìjǐ jiālǐ yě hái liàngzhe dēng; lǎoniánrén shuō: Làngmàn qíshí jiùxiàng gēzhōng chàng de nàyàng, \"Wǒ néng xiǎngdào zuì làngmàn de shì, jiùshì hé nǐ yīqǐ mànman biànlǎo\". Qíshí, ràng wǒmen gǎndòng de, jiùshì shēnghuózhōng jiǎndān de àiqíng. Yǒushíhòu, jiǎndān jiùshì zuìdà de xìngfú.",
           "translation": "Many girls envy romantic love. So what is romance? Young people say: romance is when she wants the moon, you won't give her a star; middle-aged people say: romance is even when working overtime until midnight, when you get home, the light in your house is still on; elderly people say: romance is actually like what is sung in the song, 'The most romantic thing I can think of is growing old with you slowly.' In fact, what moves us is the simple love in life. Sometimes, simplicity is the greatest happiness."
         }
       ],
@@ -564,7 +564,7 @@
       "content": [
         {
           "speaker": "独白",
-          "text": "说到结婚，人们就会很自然地想起爱情. 爱情是结婚的重要原因，但两个人共同生活，<b>不仅</b>需要浪漫的爱情，更需要<b>性格上</b>互相吸引。我丈夫是个很幽默的人。<b>即使</b>是很普通的事情，从他嘴里说出来<b>也</b>会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。",
+          "text": "说到结婚，人们就会很自然地想起爱情。爱情是结婚的重要原因，但两个人共同生活，<b>不仅</b>需要浪漫的爱情，更需要<b>性格上</b>互相吸引。我丈夫是个很幽默的人。<b>即使</b>是很普通的事情，从他嘴里说出来<b>也</b>会变得很有意思。在我难过的时候，他总是有办法让我高兴起来。而且他的脾气也不错，结婚快十年了，我们俩几乎没因为什么事红过脸，很多人都特别羡慕我们。",
           "pinyin": "Shuō dào jiéhūn, rénmen jiù huì hěn zìrán dì xiǎngqǐ àiqíng. Àiqíng shì jiéhūn de zhòngyào yuányīn, dàn liǎng gè rén gòngtóng shēnghuó, bùjǐn xūyào làngmàn de àiqíng, gèng xūyào xìnggé shàng hùxiāng xīyǐn. Wǒ zhàngfū shì gè hěn yōumò de rén. Jíshǐ shì hěn pǔtōng de shìqíng, cóng tā zuǐ lǐ shuō chūlái yě huì biàn dé hěn yǒuyìsi. Zài wǒ nánguò de shíhòu, tā zǒng shì yǒu bànfǎ ràng wǒ gāoxìng qǐlái. Érqiě tā de píqi yě bùcuò, jiéhūn kuài shí nián le, wǒmen liǎ jīhū méi yīnwèi shénme shì hóng guò liǎn, hěnduō rén dōu tèbié xiànmù wǒmen.",
           "translation": "When it comes to marriage, people naturally think of love. Love is an important reason for marriage, but living together not only requires romantic love, but also mutual attraction in personality. My husband is a very humorous person. Even very ordinary things become interesting when spoken from his mouth. When I am sad, he always has a way to cheer me up. And his temper is also quite good. Having been married for nearly ten years, we two have almost never turned red (argued) over anything; many people especially envy us."
         }
