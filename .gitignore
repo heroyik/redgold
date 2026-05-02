@@ -1,4 +1,11 @@
 # Logs
+.env
+.env.local
+.env
+.env.local
+# .gitignore content
+.env
+.env.local
 logs
 *.log
 npm-debug.log*
