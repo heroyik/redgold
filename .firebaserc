@@ -1,5 +1,7 @@
 {
   "projects": {
     "default": "vocachino-14c53"
-  }
+  },
+  "targets": {},
+  "etags": {}
 }

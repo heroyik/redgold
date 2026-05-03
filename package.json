@@ -1,6 +1,6 @@
 {
   "name": "redgold",
-  "version": "0.9.25",
+  "version": "0.9.26",
   "description": "Mobile-First Chinese Vocabulary App",
   "type": "module",
   "scripts": {
@@ -10,7 +10,9 @@
     "version:bump": "node scripts/bump-version.mjs"
   },
   "dependencies": {
-    "firebase": "^10.0.0"
+    "dotenv": "^17.4.2",
+    "firebase": "^10.0.0",
+    "firebase-admin": "^13.8.0"
   },
   "devDependencies": {
     "typescript": "^5.0.0",
