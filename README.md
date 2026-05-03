@@ -125,6 +125,21 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 
 ---
 
+### v0.9.46 — 2026-05-03
+> *Mobile-First UX Optimization & Cloud Sync.* The Review Tab gets a massive glow-up.
+
+- ☁️ **Firestore Integration** — Migrated local `lesson1.json` data to Firebase Firestore, laying the groundwork for a true backend architecture.
+- 📱 **Mobile UI/UX Polish** — Complete overhaul of the Review tab for modern, high-aspect-ratio screens (Galaxy S26 / iPhone Pro). Eliminated rogue left-margins and packed the top header icons perfectly into a single responsive row.
+- 🔄 **Click-to-Flip Refined** — Resolved PC vs Mobile interaction conflicts. Cards now flip flawlessly on a simple click or tap through a centralized `InteractionManager`.
+- 📐 **Perfect Card Boundaries** — Leveraged `dvh` calculations (`calc(100dvh - 380px)`) to aggressively subtract header real estate. Flashcard outlines now fit perfectly on-screen without clipping, and long texts (like complex meanings or examples) are neatly scrollable inside the card itself.
+- 🎯 **Absolute Center Alignment** — Chinese characters on the front face are perfectly centered vertically and horizontally. Fixed descender drifts by applying `line-height: 1` alongside precise flexbox layouts.
+- 🎧 **Visual Audio Triggers** — Replaced text-based audio buttons with sleek, static PNG icons for better intuition.
+- 📝 **App Manifesto Update** — Rewrote the intro messaging to sound more colloquial and explicitly highlight the "HSK4 learners" target audience, while strictly preserving the GitHub footer link.
+- ⬅️ **Navigation Enhancements** — Added tactile left/right arrows flanking the progress counter (`< 1/31 >`) for immediate visual navigation cues.
+- 🧹 **Layout Compaction** — Reduced unnecessary padding between the version badge and the logo to grant more breathing room to core content.
+
+---
+
 ### v0.9.0 — 2026-05-01
 > *The version system drops.* Things just got official.
 
