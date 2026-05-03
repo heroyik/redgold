@@ -77,9 +77,9 @@ class App extends HTMLElement {
 
   getLandingCopy() {
     const copy: Record<AppLanguage, string> = {
-      en: `<strong>Red</strong> = textbook-mode, clean and correct.<br><strong>Gold</strong> = the real-life vibe, the way people actually talk.<br>Put them together and you get <strong>RedGold</strong>: less robotic, more native, way more fun.`,
-      ko: `<strong>Red</strong>는 교과서식 중국어예요. 정확하고 반듯하죠.<br><strong>Gold</strong>는 진짜 사람들이 일상에서 툭툭 쓰는 살아 있는 말이고요.<br>그래서 <strong>RedGold</strong>는 둘 다 가져갑니다. 교과서의 정확함은 챙기고, 현지 말맛은 제대로 살리고.`,
-      ja: `<strong>Red</strong> = 教科書モード、きれいで正確な中国語。<br><strong>Gold</strong> = 実戦のノリ、ネイティブが本当に使う言い回し。<br>この二つを合わせたのが <strong>RedGold</strong>。固すぎず、ちゃんと自然で、勉強もちょっと楽しくなる。`
+      en: `HSK 4 prep, but make it vibe. <strong>Red</strong> is the textbook stuff you need to know. <strong>Gold</strong> is the real-world talk people actually use. <strong>RedGold</strong> brings it all together for the ultimate HSK 4 experience. No robots allowed.`,
+      ko: `HSK 4급, 이제 '진짜'로 배워보자고. <strong>Red</strong>는 우리가 꼭 알아야 할 교과서 정석. <strong>Gold</strong>는 현지인들이 입에 달고 사는 찐 생활 중국어. 이 둘이 만나 <strong>RedGold</strong>가 됐어. 뻔한 공부 말고 진짜 실력을 키워봐.`,
+      ja: `HSK 4級、もっとエモく学ぼう。<strong>Red</strong>は基本の教科書モード。<strong>Gold</strong>はネイティブがガチで使うリアルな言い回し。この二つが合体して <strong>RedGold</strong>。ロボットみたいな中国語はもう卒業しない？`
     };
 
     return copy[this._language];
@@ -228,7 +228,7 @@ class App extends HTMLElement {
           width: min(82vw, 520px);
           height: auto;
           display: block;
-          margin: 0 0 0.45rem;
+          margin: 0 0 -0.4rem; /* Reduced to tighten gap with version badge */
           filter: drop-shadow(0 18px 28px rgba(139, 0, 0, 0.08));
           /* Ensure vertical centering if needed, though hero is usually okay */
         }
@@ -239,7 +239,7 @@ class App extends HTMLElement {
           letter-spacing: 1.5px;
           color: #B8860B;
           opacity: 0.75;
-          margin-bottom: 0.75rem;
+          margin-bottom: 0.5rem; /* Tightened from 0.75rem */
           text-transform: uppercase;
           font-family: 'Outfit', monospace;
         }
@@ -355,7 +355,7 @@ class App extends HTMLElement {
 
           .hero-wordmark {
             width: min(78vw, 420px);
-            margin-bottom: 0.2rem;
+            margin-bottom: -0.3rem;
           }
 
           .version-badge {
@@ -471,7 +471,7 @@ class App extends HTMLElement {
       <div class="landing-container">
         <section class="landing-hero">
           <div class="hero-title">
-            <img src="assets/redgold-wordmark-fixed.png?v=${__APP_VERSION__}" alt="RedGold" class="hero-wordmark">
+            <img src="/redgold/assets/redgold-wordmark-fixed.png?v=${__APP_VERSION__}" alt="RedGold" class="hero-wordmark">
             <div class="version-badge">v${__APP_VERSION__} &nbsp;·&nbsp; ${__APP_BUILD_DATE__}</div>
             <p>${this.getLandingCopy()}</p>
           </div>
@@ -485,8 +485,8 @@ class App extends HTMLElement {
           <button class="start-btn" id="start-learning-btn">${ui.exploreLessons}</button>
           
           <div class="landing-books">
-            <img src="images/hsk4_upper.jpg" class="book-preview" alt="HSK 4 Upper" id="book-upper" decoding="async">
-            <img src="images/hsk4_lower.jpg" class="book-preview" alt="HSK 4 Lower" id="book-lower" decoding="async">
+            <img src="/redgold/images/hsk4_upper.jpg" class="book-preview" alt="HSK 4 Upper" id="book-upper" decoding="async">
+            <img src="/redgold/images/hsk4_lower.jpg" class="book-preview" alt="HSK 4 Lower" id="book-lower" decoding="async">
           </div>
         </section>
  
@@ -545,130 +545,101 @@ class App extends HTMLElement {
           position: sticky;
           top: 0;
           z-index: 1000;
-          background: rgba(253, 251, 247, 0.85);
+          background: rgba(253, 251, 247, 0.9);
           backdrop-filter: blur(20px);
           -webkit-backdrop-filter: blur(20px);
           border-bottom: 1px solid rgba(139, 0, 0, 0.05);
-          padding: calc(var(--safe-top, 0px) + 0.5rem) 0 0.5rem;
+          padding: calc(var(--safe-top, 0px) + 0.4rem) 0 0.4rem;
         }
 
-        .header-top {
+        .header-row {
           display: flex;
           align-items: center;
-          justify-content: space-between;
-          padding: 0 1.25rem 0.5rem;
+          gap: 0.75rem;
+          padding: 0 1rem;
+          height: 44px;
         }
 
         .home-link {
-          font-weight: 900;
-          color: #8B0000;
-          font-size: 1.1rem;
+          flex: 0 0 auto;
           cursor: pointer;
           display: flex;
           align-items: center;
-          gap: 4px;
-          transition: transform 0.3s;
+          transition: transform 0.2s;
         }
 
-        .home-link:active { transform: scale(0.95); }
+        .home-link:active { transform: scale(0.9); }
         
         .home-icon {
-          height: 1.55rem;
+          height: 1.8rem;
           width: auto;
           display: block;
-        }
-
-        .header-wordmark {
-          height: 1.55rem;
-          width: auto;
-          display: block;
-        }
-
-        .header-version {
-          font-size: 0.55rem;
-          font-weight: 700;
-          color: #B8860B;
-          background: rgba(184, 134, 11, 0.1);
-          border: 1px solid rgba(184, 134, 11, 0.3);
-          border-radius: 4px;
-          padding: 1px 5px;
-          letter-spacing: 0.5px;
-          display: inline-flex;
-          align-items: center;
-          height: fit-content;
-        }
-
-        .header-date {
-          font-size: 0.55rem;
-          font-weight: 700;
-          opacity: 0.35;
-          letter-spacing: 1px;
-          color: #333;
-          text-transform: uppercase;
-        }
-
-        .header-controls {
-          display: flex;
-          align-items: center;
-          gap: 0.6rem;
-        }
-
-        .mini-language-picker {
-          display: inline-flex;
-          gap: 0.25rem;
-          padding: 0.2rem;
-          border-radius: 999px;
-          background: rgba(255, 255, 255, 0.8);
-          border: 1px solid rgba(139, 0, 0, 0.08);
-        }
-
-        .mini-language-btn {
-          border: none;
-          background: transparent;
-          color: #777;
-          font-size: 0.62rem;
-          font-weight: 800;
-          letter-spacing: 0.3px;
-          padding: 0.35rem 0.55rem;
-          border-radius: 999px;
-          cursor: pointer;
-        }
-
-        .mini-language-btn.active {
-          background: #8B0000;
-          color: #fff;
         }
 
         .lesson-scroller {
+          flex: 1;
           display: flex;
           overflow-x: auto;
           scroll-behavior: smooth;
-          padding: 0.5rem 1.25rem 0.75rem;
-          gap: 0.6rem;
+          gap: 0.4rem;
           scrollbar-width: none;
+          mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
+          -webkit-mask-image: linear-gradient(to right, transparent, black 15%, black 85%, transparent);
         }
 
         .lesson-scroller::-webkit-scrollbar { display: none; }
 
         .lesson-chip {
           flex: 0 0 auto;
-          padding: 0.5rem 1.2rem;
-          border-radius: 50px;
-          background: #fff;
-          border: 1px solid rgba(139, 0, 0, 0.08);
+          padding: 0.35rem 0.75rem;
+          border-radius: 12px;
+          background: rgba(255, 255, 255, 0.6);
+          border: 1px solid rgba(139, 0, 0, 0.05);
           color: #666;
-          font-size: 0.8rem;
-          font-weight: 700;
+          font-size: 0.75rem;
+          font-weight: 800;
           cursor: pointer;
-          transition: all 0.3s;
-          box-shadow: 0 2px 6px rgba(0,0,0,0.02);
+          transition: all 0.2s;
         }
 
         .lesson-chip.active {
           background: #8B0000;
           color: #fff;
           border-color: #8B0000;
-          box-shadow: 0 4px 12px rgba(139, 0, 0, 0.2);
+          box-shadow: 0 4px 12px rgba(139, 0, 0, 0.15);
+        }
+
+        .header-controls {
+          flex: 0 0 auto;
+          display: flex;
+          align-items: center;
+          gap: 0.4rem;
+        }
+
+        .mini-language-picker {
+          display: inline-flex;
+          gap: 0.15rem;
+          padding: 0.15rem;
+          border-radius: 10px;
+          background: rgba(255, 255, 255, 0.5);
+          border: 1px solid rgba(139, 0, 0, 0.05);
+        }
+
+        .mini-language-btn {
+          border: none;
+          background: transparent;
+          color: #888;
+          font-size: 0.6rem;
+          font-weight: 900;
+          padding: 0.3rem 0.4rem;
+          border-radius: 8px;
+          cursor: pointer;
+          transition: all 0.2s;
+        }
+
+        .mini-language-btn.active {
+          background: #8B0000;
+          color: #fff;
         }
 
         .app-container {
@@ -791,27 +762,26 @@ class App extends HTMLElement {
       
       <div class="app-shell">
         <div class="sticky-header">
-          <div class="header-top">
+          <div class="header-row">
             <div class="home-link" id="home-link">
-              <img src="assets/home-icon.png" alt="Home" class="home-icon">
-              <img src="assets/redgold-wordmark-fixed.png?v=${__APP_VERSION__}" alt="RedGold" class="header-wordmark">
-              <span class="header-version">v${__APP_VERSION__}</span>
+              <img src="/redgold/assets/home-icon.png" alt="Home" class="home-icon">
             </div>
+            
+            <div class="lesson-scroller">
+              ${this._lessons.map(l => `
+                <div class="lesson-chip ${this._currentLesson === l.id ? 'active' : ''}" data-id="${l.id}">
+                  L${l.id}
+                </div>
+              `).join('')}
+            </div>
+
             <div class="header-controls">
               <div class="mini-language-picker">
                 <button class="mini-language-btn ${this._language === 'en' ? 'active' : ''}" data-lang="en">EN</button>
                 <button class="mini-language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">KO</button>
                 <button class="mini-language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">JP</button>
               </div>
-              <div class="header-date">${__APP_BUILD_DATE__}</div>
             </div>
-          </div>
-          <div class="lesson-scroller">
-            ${this._lessons.map(l => `
-              <div class="lesson-chip ${this._currentLesson === l.id ? 'active' : ''}" data-id="${l.id}">
-                L${l.id} • ${l.title.split(':')[1]?.trim() || l.title}
-              </div>
-            `).join('')}
           </div>
         </div>
 

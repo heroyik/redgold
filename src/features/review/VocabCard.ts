@@ -72,7 +72,8 @@ export class VocabCardComponent extends HTMLElement {
             height: 100%;
             border-radius: 16px;
             display: grid;
-            grid-template-columns: 100px 140px 1fr 48px;
+            grid-template-columns: 72px 90px 1fr 42px;
+            gap: 0.5rem;
             align-items: center;
             padding: 0 1.25rem;
             ${ReviewStyles.glassCard}
@@ -98,7 +99,7 @@ export class VocabCardComponent extends HTMLElement {
 
           .word {
             font-family: ${ReviewStyles.typography.serif};
-            font-size: 1.8rem;
+            font-size: 1.45rem;
             font-weight: 900;
             color: ${ReviewStyles.colors.deepRed};
             margin: 0;
@@ -108,25 +109,24 @@ export class VocabCardComponent extends HTMLElement {
 
           .pinyin {
             font-family: ${ReviewStyles.typography.sans};
-            font-size: 0.95rem;
+            font-size: 0.85rem;
             color: ${ReviewStyles.colors.gold};
             font-weight: 700;
-            letter-spacing: 0.2px;
+            letter-spacing: 0.1px;
             white-space: nowrap;
-            padding-right: 1rem;
           }
 
           .meaning {
             font-family: ${ReviewStyles.typography.sans};
-            font-size: 1.05rem;
+            font-size: 0.9rem;
             color: ${ReviewStyles.colors.text};
-            font-weight: 500;
+            font-weight: 600;
             white-space: nowrap;
             overflow: hidden;
             text-overflow: ellipsis;
-            opacity: 0.9;
+            opacity: 0.85;
             text-align: right;
-            padding-right: 1rem;
+            min-width: 0;
           }
 
           .audio-trigger {
@@ -136,22 +136,31 @@ export class VocabCardComponent extends HTMLElement {
             width: 32px;
             height: 32px;
             border-radius: 50%;
-            background: rgba(139, 0, 0, 0.05);
-            color: ${ReviewStyles.colors.deepRed};
-            font-size: 1rem;
+            background: rgba(139, 0, 0, 0.03);
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            border: 1px solid rgba(139, 0, 0, 0.05);
+          }
+
+          .audio-icon {
+            width: 18px;
+            height: 18px;
+            object-fit: contain;
+            opacity: 0.7;
             transition: all 0.2s;
-            opacity: 0.6;
           }
 
           .compact-card:hover .audio-trigger {
-            opacity: 1;
-            background: rgba(139, 0, 0, 0.1);
+            background: rgba(139, 0, 0, 0.08);
+            border-color: rgba(139, 0, 0, 0.15);
           }
 
-          .audio-trigger:hover {
+          .compact-card:hover .audio-icon {
+            opacity: 1;
             transform: scale(1.1);
-            background: ${ReviewStyles.colors.deepRed};
-            color: white;
+          }
+
+          .audio-trigger:active {
+            transform: scale(0.9);
           }
         </style>
 
@@ -160,7 +169,7 @@ export class VocabCardComponent extends HTMLElement {
           <div class="pinyin">${this._data.pinyin}</div>
           <div class="meaning">${this._data.meaning}</div>
           <div class="audio-trigger">
-            🔊
+            <img src="/redgold/assets/audio-icon-v3.png" class="audio-icon" alt="Play">
           </div>
           ${this._data.audio ? `<audio id="card-audio" src="${this._data.audio}"></audio>` : ''}
         </div>
