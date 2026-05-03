@@ -27,6 +27,15 @@ export class VocabCardComponent extends HTMLElement {
     if (inner) {
       inner.classList.toggle('is-flipped', this._isFlipped);
     }
+    
+    // Play audio when flipping to back
+    if (this._isFlipped && this._data?.audio) {
+      const audio = this.shadowRoot?.getElementById('card-audio') as HTMLAudioElement;
+      if (audio) {
+        audio.currentTime = 0;
+        audio.play().catch(() => {});
+      }
+    }
   }
 
   private getHint() {
@@ -164,14 +173,6 @@ export class VocabCardComponent extends HTMLElement {
     this.shadowRoot.querySelector('.vocab-card-inner')?.addEventListener('click', (e) => {
       e.stopPropagation();
       this.toggleFlip();
-      
-      if (this._isFlipped && this._data?.audio) {
-        const audio = this.shadowRoot?.getElementById('card-audio') as HTMLAudioElement;
-        if (audio) {
-          audio.currentTime = 0;
-          audio.play().catch(() => {});
-        }
-      }
     });
   }
 }

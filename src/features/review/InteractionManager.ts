@@ -15,6 +15,7 @@ export class InteractionManager {
   constructor(
     private element: HTMLElement,
     private onSwipe: (result: SwipeResult) => void,
+    private onTap?: () => void,
     private onDrag?: (x: number, y: number) => void
   ) {
     this.init();
@@ -36,6 +37,8 @@ export class InteractionManager {
     this.startY = e.clientY;
     this.startTime = Date.now();
     this.velocityX = 0;
+    this.currentX = 0;
+    this.currentY = 0;
     this.element.style.transition = 'none';
     this.element.setPointerCapture(e.pointerId);
   }
@@ -44,7 +47,7 @@ export class InteractionManager {
     if (!this.isDragging) return;
 
     const deltaX = e.clientX - this.startX;
-    const deltaTime = Date.now() - this.startTime;
+    const deltaTime = Math.max(1, Date.now() - this.startTime);
     
     this.currentX = deltaX;
     this.currentY = e.clientY - this.startY;
@@ -58,9 +61,10 @@ export class InteractionManager {
     }
   }
 
-  private handlePointerUp() {
+  private handlePointerUp(e: PointerEvent) {
     if (!this.isDragging) return;
     this.isDragging = false;
+    this.element.releasePointerCapture(e.pointerId);
 
     // Trigger swipe if past distance threshold OR high enough velocity (flick)
     const isHighVelocity = Math.abs(this.velocityX) > 0.5;
@@ -74,6 +78,11 @@ export class InteractionManager {
 
       this.completeSwipe(finalDirection);
     } else {
+      // Detect tap
+      const moveDistance = Math.sqrt(this.currentX ** 2 + this.currentY ** 2);
+      if (moveDistance < 10 && this.onTap) {
+        this.onTap();
+      }
       this.resetPosition();
     }
   }

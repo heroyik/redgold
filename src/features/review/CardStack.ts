@@ -248,13 +248,19 @@ export class CardStackComponent extends HTMLElement {
       this.stackContainer.appendChild(wrapper);
 
       if (i === 0) {
-        new InteractionManager(wrapper, (result) => {
-          if (result.direction === 'right') {
-            this.state?.markAsLearned();
-          } else {
-            this.state?.markAsNeedReview();
+        new InteractionManager(
+          wrapper, 
+          (result) => {
+            if (result.direction === 'right') {
+              this.state?.markAsLearned();
+            } else {
+              this.state?.markAsNeedReview();
+            }
+          },
+          () => {
+            card.toggleFlip();
           }
-        });
+        );
       }
     }
   }
