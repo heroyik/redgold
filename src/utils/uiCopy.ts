@@ -11,6 +11,7 @@ type UiCopy = {
   tabGrammar: string;
   tabTexts: string;
   tabMastery: string;
+  tabReview: string;
   footerTagline: string;
   footerBrand: string;
   formalLabel: string;
@@ -38,6 +39,7 @@ const UI_COPY: Record<AppLanguage, UiCopy> = {
     tabGrammar: 'Grammar',
     tabTexts: 'Texts',
     tabMastery: 'Mastery',
+    tabReview: 'Review',
     footerTagline: 'MODERN HAN ELEGANT • BLCUP OFFICIAL CURRICULUM',
     footerBrand: 'MODERN HAN ELEGANT',
     formalLabel: 'Textbook Formal',
@@ -63,6 +65,7 @@ const UI_COPY: Record<AppLanguage, UiCopy> = {
     tabGrammar: '표현',
     tabTexts: '본문',
     tabMastery: '마스터',
+    tabReview: '복습',
     footerTagline: 'MODERN HAN ELEGANT • BLCUP 공식 커리큘럼',
     footerBrand: 'MODERN HAN ELEGANT',
     formalLabel: '교과서 표현',
@@ -88,7 +91,8 @@ const UI_COPY: Record<AppLanguage, UiCopy> = {
     tabGrammar: '文法',
     tabTexts: '本文',
     tabMastery: '定着',
-    footerTagline: 'MODERN HAN ELEGANT • BLCUP公式カリキュラム',
+    tabReview: '復習',
+    footerTagline: 'MODERN HAN ELEGANT • BLCUP公式カリキュ럼',
     footerBrand: 'MODERN HAN ELEGANT',
     formalLabel: '教科書の表現',
     colloquialLabel: 'ネイティブの口語',

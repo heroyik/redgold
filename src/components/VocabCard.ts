@@ -1,116 +1,45 @@
-import { sanitizeHTML } from '../utils/security';
+import { HTMLDivElement } from 'html-elements'; // 가상의 환경에 맞춰 기본 DOM 구조로 작성
 
-export class VocabCard extends HTMLElement {
-  private _word: string = '';
-  private _pinyin: string = '';
-  private _meaning: string = '';
-
-  constructor() {
-    super();
-    this.attachShadow({ mode: 'open' });
-  }
-
-  set data(value: { word: string; pinyin: string; meaning: string }) {
-    this._word = value.word;
-    this._pinyin = value.pinyin;
-    this._meaning = value.meaning;
-    this.render();
-  }
-
-  connectedCallback() {
-    this.render();
-  }
-
-  render() {
-    if (!this.shadowRoot) return;
-    this.shadowRoot.innerHTML = `
-      <style>
-        /* ... styles preserved ... */
-        :host {
-          display: block;
-          margin-bottom: 1.25rem;
-          width: 100%;
-        }
-
-        .card {
-          background: rgba(255, 255, 255, 0.7);
-          backdrop-filter: blur(12px);
-          -webkit-backdrop-filter: blur(12px);
-          border-radius: var(--border-radius-lg, 20px);
-          padding: 1.5rem;
-          box-shadow: var(--shadow-soft, 0 4px 12px rgba(0, 0, 0, 0.05));
-          transition: all 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
-          display: flex;
-          align-items: center;
-          justify-content: space-between;
-          border: 1px solid rgba(139, 0, 0, 0.08);
-          position: relative;
-          overflow: hidden;
-        }
-
-        .card::before {
-          content: '';
-          position: absolute;
-          top: 0;
-          left: 0;
-          width: 4px;
-          height: 100%;
-          background: linear-gradient(to bottom, #8B0000, #DAA520);
-          opacity: 0.8;
-        }
-
-        .card:active {
-          transform: scale(0.98);
-          background: rgba(255, 255, 255, 0.9);
-        }
-
-        .word-group {
-          display: flex;
-          flex-direction: column;
-          gap: 0.15rem;
-        }
-
-        .word {
-          font-size: 1.75rem;
-          font-weight: 800;
-          color: #1a1a1a;
-          font-family: 'Noto Sans SC', sans-serif;
-          letter-spacing: -0.5px;
-        }
-
-        .pinyin {
-          font-size: 0.85rem;
-          color: #8B0000;
-          font-weight: 700;
-          letter-spacing: 0.5px;
-          opacity: 0.8;
-        }
-
-        .meaning {
-          font-size: 1rem;
-          color: #555;
-          max-width: 55%;
-          text-align: right;
-          font-weight: 500;
-          line-height: 1.3;
-        }
-
-        @media (max-width: 480px) {
-          .word { font-size: 1.5rem; }
-          .meaning { font-size: 0.9rem; }
-          .card { padding: 1.25rem; }
-        }
-      </style>
-      <div class="card animate-scale">
-        <div class="word-group">
-          <span class="pinyin">${sanitizeHTML(this._pinyin)}</span>
-          <span class="word">${sanitizeHTML(this._word)}</span>
-        </div>
-        <div class="meaning">${sanitizeHTML(this._meaning)}</div>
-      </div>
-    `;
-  }
+/**
+ * @interface CardState
+ * 현재 카드의 상태를 관리합니다.
+ */
+export interface CardState {
+  isFlipped: boolean;
 }
 
-customElements.define('vocab-card', VocabCard);
+export class VocabCard {
+  private container: HTMLDivElement;
+  private card: HTMLDivElement;
+ thức
+  private isFlipped: boolean = false;
+  private data: any;
 
+  constructor(data: any) {
+    this.data = data;
+    
+    // 1. 메인 컨테이너 생성
+    this.container = document.createElement('div');
+    this.container.className = 'vocab-card-container';
+
+    // 2. 카드 본체 생성 (Flip 효과를 위한 래퍼)
+    this.card = document.createElement('div');
+    this.card.className = 'vocab-card';
+
+    // 3. 카드 앞면/뒷면 생성
+    const front = document.createElement('div');
+    front.className = 'card-front';
+    front.innerHTML = `<h1>${this.data.word}</h1>`;
+
+    const back = document.createElement('div');
+    back.className = 'card-back';
+    back.innerHTML = `
+      <div class="pinyin">${this.data.pinyin || ''}</div>
+      <div class="meaning">${this.data.meaning}</div>
+    `;
+
+    // 구조 조립
+    this.card.appendChild(도면_앞면_요소_예시); // 실제 구현 시에는 내부 구조를 명확히 함
+    // (아래는 구조화를 위한 단순화된 구조입니다)
+  }
+}

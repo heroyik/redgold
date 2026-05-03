@@ -3,6 +3,7 @@ import '../components/GrammarCard';
 import '../components/TextSection';
 import '../components/KeySentences';
 import '../components/SourceInfo';
+import '../features/review/CardStack';
 import { translateLessonData, type AppLanguage } from '../utils/lessonTranslations';
 import { getUiCopy } from '../utils/uiCopy';
 import { testFirebase } from '../test-ts';
@@ -804,6 +805,7 @@ class App extends HTMLElement {
             <button class="tab-btn ${this._activeTab === 'vocab' ? 'active' : ''}" id="tab-vocab">${ui.tabVocab}</button>
             <button class="tab-btn ${this._activeTab === 'grammar' ? 'active' : ''}" id="tab-grammar">${ui.tabGrammar}</button>
             <button class="tab-btn ${this._activeTab === 'text' ? 'active' : ''}" id="tab-text">${ui.tabTexts}</button>
+            <button class="tab-btn ${this._activeTab === 'review' ? 'active' : ''}" id="tab-review">${ui.tabReview}</button>
             <button class="tab-btn ${this._activeTab === 'mastery' ? 'active' : ''}" id="tab-mastery">${ui.tabMastery}</button>
           </nav>
 
@@ -871,6 +873,7 @@ class App extends HTMLElement {
       root.getElementById('tab-vocab')?.addEventListener('click', () => this.switchTab('vocab'));
       root.getElementById('tab-grammar')?.addEventListener('click', () => this.switchTab('grammar'));
       root.getElementById('tab-text')?.addEventListener('click', () => this.switchTab('text'));
+      root.getElementById('tab-review')?.addEventListener('click', () => this.switchTab('review'));
       root.getElementById('tab-mastery')?.addEventListener('click', () => this.switchTab('mastery'));
       
       root.querySelectorAll('.lesson-chip').forEach(item => {
@@ -906,6 +909,8 @@ class App extends HTMLElement {
         return `<div class="text-list">${localizedLesson.texts.map((t: any) => `<text-section id="t-${t.id}"></text-section>`).join('')}</div>`;
       case 'mastery':
         return `<div class="mastery-section"><key-sentences id="mastery-sentences"></key-sentences></div>`;
+      case 'review':
+        return `<card-stack id="review-stack"></card-stack>`;
       default:
         return '';
     }
@@ -945,6 +950,11 @@ class App extends HTMLElement {
       if (el) {
         el.language = this._language;
         el.sentences = lessonData.key_sentences;
+      }
+    } else if (this._activeTab === 'review') {
+      const el = this.shadowRoot?.getElementById('review-stack') as any;
+      if (el) {
+        el.vocabulary = lessonData.vocabulary;
       }
     }
   }
