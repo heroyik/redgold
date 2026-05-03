@@ -33,7 +33,7 @@ body {
   background-color: var(--bg-cream);
   background-image: url('https://www.transparenttextures.com/patterns/handmade-paper.png');
   color: var(--text-dark);
-  font-family: 'Outfit', 'Inter', 'Noto Sans KR', system-ui, sans-serif;
+  font-family: 'Outfit', 'Inter', 'Noto Sans SC', system-ui, sans-serif;
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
