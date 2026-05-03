@@ -341,9 +341,6 @@ export class CardStackComponent extends HTMLElement {
             } else {
               this.state?.markAsNeedReview();
             }
-          },
-          () => {
-            card.toggleFlip();
           }
         );
       }
