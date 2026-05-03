@@ -253,6 +253,7 @@ export class VocabCardComponent extends HTMLElement {
           margin: 0;
           text-shadow: 0 2px 10px rgba(139, 0, 0, 0.1);
           letter-spacing: -2px;
+          line-height: 1;
         }
 
         .pinyin {

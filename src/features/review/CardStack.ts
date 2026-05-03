@@ -167,9 +167,9 @@ export class CardStackComponent extends HTMLElement {
         .stack-container {
           position: relative;
           width: 100%;
-          height: calc(100dvh - 200px);
-          max-height: 420px;
-          min-height: 300px;
+          height: calc(100dvh - 280px);
+          max-height: 400px;
+          min-height: 280px;
           perspective: 1500px;
         }
 
