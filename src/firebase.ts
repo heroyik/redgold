@@ -13,12 +13,23 @@ const firebaseConfig = {
   appId: import.meta.env.VITE_FIREBASE_APP_ID
 };
 
-// Firebase 초기화
-const app: FirebaseApp = initializeApp(firebaseConfig);
+// Firebase 초기화 (키가 있는 경우에만)
+let app: FirebaseApp | undefined;
+let db: Firestore | undefined;
+let auth: Auth | undefined;
 
-// 서비스 인스턴스 생성
-const db: Firestore = getFirestore(app);
-const auth: Auth = getAuth(app);
+if (firebaseConfig.apiKey) {
+  try {
+    app = initializeApp(firebaseConfig);
+    db = getFirestore(app);
+    auth = getAuth(app);
+    console.log("✅ Firebase initialized successfully");
+  } catch (error) {
+    console.error("❌ Firebase initialization failed:", error);
+  }
+} else {
+  console.warn("⚠️ Firebase API Key missing. Some features may not work.");
+}
 
 // 외부 사용을 위한 export
 export { app, db, auth };
