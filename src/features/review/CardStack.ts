@@ -52,6 +52,12 @@ export class CardStackComponent extends HTMLElement {
           padding: 1rem;
         }
 
+        @media (max-width: 480px) {
+          :host {
+            padding: 0.25rem 0.5rem;
+          }
+        }
+
         .review-header {
           display: flex;
           justify-content: space-between;
@@ -70,11 +76,55 @@ export class CardStackComponent extends HTMLElement {
 
         .stats {
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 0.85rem;
+          font-size: 0.8rem;
           color: ${ReviewStyles.colors.gold};
           font-weight: 700;
           text-transform: uppercase;
-          letter-spacing: 1px;
+          letter-spacing: 0.5px;
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-left: 0.5rem;
+        }
+
+        .nav-controls {
+          display: flex;
+          align-items: center;
+          gap: 0.5rem;
+          user-select: none;
+        }
+
+        .nav-btn {
+          background: rgba(139, 0, 0, 0.05);
+          border: 1px solid rgba(139, 0, 0, 0.1);
+          color: ${ReviewStyles.colors.deepRed};
+          width: 32px;
+          height: 32px;
+          border-radius: 50%;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          cursor: pointer;
+          transition: all 0.2s;
+          padding: 0;
+        }
+
+        .nav-btn:hover:not(:disabled) {
+          background: rgba(139, 0, 0, 0.1);
+          transform: translateY(-1px);
+        }
+
+        .nav-btn:active:not(:disabled) {
+          transform: scale(0.9);
+        }
+
+        .nav-btn:disabled {
+          opacity: 0.3;
+          cursor: not-allowed;
+        }
+
+        .nav-btn svg {
+          width: 18px;
+          height: 18px;
         }
 
         .progress-bar-container {
@@ -166,7 +216,15 @@ export class CardStackComponent extends HTMLElement {
       </style>
 
       <div class="review-header">
-        <div class="progress-info" id="progress-text">0 / 0</div>
+        <div class="nav-controls">
+          <button class="nav-btn" id="prev-btn" aria-label="Previous">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6"></polyline></svg>
+          </button>
+          <div class="progress-info" id="progress-text">0 / 0</div>
+          <button class="nav-btn" id="next-btn" aria-label="Next">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
+          </button>
+        </div>
         <div class="stats" id="stats-info">${labels.learned}: 0</div>
       </div>
 
@@ -184,6 +242,15 @@ export class CardStackComponent extends HTMLElement {
     `;
 
     this.stackContainer = this.shadowRoot.getElementById('stack-container');
+    
+    this.shadowRoot.getElementById('prev-btn')?.addEventListener('click', () => {
+      this.state?.previous();
+    });
+    
+    this.shadowRoot.getElementById('next-btn')?.addEventListener('click', () => {
+      this.state?.nextManual();
+    });
+
     this.shadowRoot.getElementById('restart-btn')?.addEventListener('click', () => {
       this.state?.reset();
     });
@@ -201,10 +268,15 @@ export class CardStackComponent extends HTMLElement {
     const progressBar = this.shadowRoot.getElementById('progress-bar');
     const statsInfo = this.shadowRoot.getElementById('stats-info');
     const celebration = this.shadowRoot.getElementById('celebration');
+    const prevBtn = this.shadowRoot.getElementById('prev-btn') as HTMLButtonElement;
+    const nextBtn = this.shadowRoot.getElementById('next-btn') as HTMLButtonElement;
 
     if (progressText) progressText.textContent = `${Math.min(current, total)} / ${total}`;
     if (progressBar) progressBar.style.width = `${this.state.progress}%`;
     if (statsInfo) statsInfo.textContent = `${labels.learned}: ${learned}`;
+
+    if (prevBtn) prevBtn.disabled = current <= 1;
+    if (nextBtn) nextBtn.disabled = current >= total || isComplete;
 
     if (isComplete) {
       this.stackContainer.style.display = 'none';

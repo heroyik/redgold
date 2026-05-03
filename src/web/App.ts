@@ -649,6 +649,12 @@ class App extends HTMLElement {
           padding: 1rem;
         }
 
+        @media (max-width: 480px) {
+          .app-container {
+            padding: 1rem 0.5rem;
+          }
+        }
+
         header {
           text-align: center;
           margin: 1rem 0 2rem;

@@ -89,6 +89,21 @@ export class ReviewState {
     this.notify();
   }
 
+  previous() {
+    if (this.data.currentIndex > 0) {
+      this.data.currentIndex--;
+      this.data.isComplete = false;
+      this.notify();
+    }
+  }
+
+  nextManual() {
+    if (this.data.currentIndex < this.data.items.length - 1) {
+      this.data.currentIndex++;
+      this.notify();
+    }
+  }
+
   private next() {
     this.data.currentIndex++;
     if (this.data.currentIndex >= this.data.items.length) {
