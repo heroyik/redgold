@@ -778,7 +778,7 @@ class App extends HTMLElement {
 
         .vocab-list vocab-card {
           width: 100%;
-          height: 240px; /* Reduced height for compact list cards */
+          height: 72px; /* Slim height for single-line horizontal cards */
           perspective: 1000px;
         }
 
