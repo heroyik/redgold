@@ -19,6 +19,7 @@ export interface ReviewStateData {
 }
 
 export class ReviewState {
+  private originalItems: VocabItem[];
   private data: ReviewStateData;
   private listeners: (() => void)[] = [];
 
@@ -27,8 +28,9 @@ export class ReviewState {
   }
 
   constructor(items: VocabItem[]) {
+    this.originalItems = [...items];
     this.data = {
-      items,
+      items: [...items],
       currentIndex: 0,
       learnedCount: 0,
       needReviewCount: 0,
@@ -65,9 +67,26 @@ export class ReviewState {
 
   markAsNeedReview() {
     this.data.needReviewCount++;
-    // In a stack interaction, we might want to put this card back to the end
-    // For now, just move to next to keep it simple
+    // Move the current item to the end of the items list so it appears again later
+    const currentItem = this.data.items[this.data.currentIndex];
+    if (currentItem) {
+      // We don't actually remove it, just push a copy to the end
+      // or we can just adjust the indexing. 
+      // For a simple implementation: append it to the end.
+      this.data.items.push({ ...currentItem });
+    }
     this.next();
+  }
+
+  reset() {
+    this.data = {
+      items: [...this.originalItems],
+      currentIndex: 0,
+      learnedCount: 0,
+      needReviewCount: 0,
+      isComplete: false
+    };
+    this.notify();
   }
 
   private next() {

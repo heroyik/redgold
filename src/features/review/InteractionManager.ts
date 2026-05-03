@@ -27,10 +27,15 @@ export class InteractionManager {
     window.addEventListener('pointercancel', this.handlePointerUp.bind(this));
   }
 
+  private startTime: number = 0;
+  private velocityX: number = 0;
+
   private handlePointerDown(e: PointerEvent) {
     this.isDragging = true;
     this.startX = e.clientX;
     this.startY = e.clientY;
+    this.startTime = Date.now();
+    this.velocityX = 0;
     this.element.style.transition = 'none';
     this.element.setPointerCapture(e.pointerId);
   }
@@ -38,11 +43,14 @@ export class InteractionManager {
   private handlePointerMove(e: PointerEvent) {
     if (!this.isDragging) return;
 
-    this.currentX = e.clientX - this.startX;
+    const deltaX = e.clientX - this.startX;
+    const deltaTime = Date.now() - this.startTime;
+    
+    this.currentX = deltaX;
     this.currentY = e.clientY - this.startY;
+    this.velocityX = deltaX / deltaTime; // px/ms
 
-    // Rotate based on drag distance
-    const rotation = this.currentX * 0.1;
+    const rotation = this.currentX * 0.08;
     this.element.style.transform = `translate(${this.currentX}px, ${this.currentY}px) rotate(${rotation}deg)`;
 
     if (this.onDrag) {
@@ -54,9 +62,18 @@ export class InteractionManager {
     if (!this.isDragging) return;
     this.isDragging = false;
 
-    if (Math.abs(this.currentX) > this.threshold) {
-      const direction = this.currentX > 0 ? 'right' : 'left';
-      this.completeSwipe(direction);
+    // Trigger swipe if past distance threshold OR high enough velocity (flick)
+    const isHighVelocity = Math.abs(this.velocityX) > 0.5;
+    const isPastThreshold = Math.abs(this.currentX) > this.threshold;
+
+    if (isPastThreshold || isHighVelocity) {
+      const direction = (this.velocityX > 0 || this.currentX > 0) ? 'right' : 'left';
+      // Safety check: if they move left but flick right, go by velocity
+      const finalDirection = (Math.abs(this.velocityX) > 0.3) 
+        ? (this.velocityX > 0 ? 'right' : 'left')
+        : (this.currentX > 0 ? 'right' : 'left');
+
+      this.completeSwipe(finalDirection);
     } else {
       this.resetPosition();
     }

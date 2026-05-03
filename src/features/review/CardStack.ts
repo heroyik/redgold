@@ -1,12 +1,12 @@
-
 import { ReviewState, VocabItem } from './ReviewState';
 import { VocabCardComponent } from './VocabCard';
 import { InteractionManager } from './InteractionManager';
+import { ReviewStyles } from './ReviewStyles';
 
 export class CardStackComponent extends HTMLElement {
   private state: ReviewState | null = null;
   private stackContainer: HTMLElement | null = null;
-  private progressInfo: HTMLElement | null = null;
+  private _language = 'en';
 
   constructor() {
     super();
@@ -23,8 +23,24 @@ export class CardStackComponent extends HTMLElement {
     this.vocabulary = value;
   }
 
+  set language(value: string) {
+    this._language = value;
+    this.render();
+  }
+
+  private getLabels() {
+    const labels: Record<string, any> = {
+      en: { learned: 'Learned', done: 'Well Done!', sub: "You've mastered this session.", restart: 'Restart Session' },
+      ko: { learned: '학습 완료', done: '참 잘했어요!', sub: '이번 세션을 모두 완료했습니다.', restart: '다시 시작' },
+      ja: { learned: '学習済み', done: 'お疲れ様でした！', sub: 'このセッションを完了しました。', restart: '再開する' }
+    };
+    return labels[this._language] || labels.en;
+  }
+
   private render() {
     if (!this.shadowRoot) return;
+
+    const labels = this.getLabels();
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -45,17 +61,17 @@ export class CardStackComponent extends HTMLElement {
         }
 
         .progress-info {
-          font-family: 'Outfit', sans-serif;
+          font-family: ${ReviewStyles.typography.sans};
           font-weight: 900;
-          color: #8B0000;
+          color: ${ReviewStyles.colors.deepRed};
           font-size: 1.5rem;
           letter-spacing: -1px;
         }
 
         .stats {
-          font-family: 'Outfit', sans-serif;
+          font-family: ${ReviewStyles.typography.sans};
           font-size: 0.85rem;
-          color: #DAA520;
+          color: ${ReviewStyles.colors.gold};
           font-weight: 700;
           text-transform: uppercase;
           letter-spacing: 1px;
@@ -97,7 +113,6 @@ export class CardStackComponent extends HTMLElement {
           will-change: transform, opacity;
         }
 
-        /* Celebration Screen */
         .celebration {
           display: none;
           flex-direction: column;
@@ -106,10 +121,8 @@ export class CardStackComponent extends HTMLElement {
           height: 480px;
           text-align: center;
           animation: celebrationPop 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-          background: rgba(255, 255, 255, 0.5);
-          backdrop-filter: blur(10px);
+          ${ReviewStyles.glassCard}
           border-radius: 32px;
-          border: 1px solid rgba(218, 165, 32, 0.2);
         }
 
         @keyframes celebrationPop {
@@ -118,27 +131,27 @@ export class CardStackComponent extends HTMLElement {
         }
 
         .celebration h2 {
-          font-family: 'Outfit', sans-serif;
-          color: #8B0000;
+          font-family: ${ReviewStyles.typography.sans};
+          color: ${ReviewStyles.colors.deepRed};
           font-size: 2.5rem;
           margin-bottom: 0.5rem;
           font-weight: 900;
         }
 
         .celebration p {
-          font-family: 'Outfit', sans-serif;
-          color: #666;
+          font-family: ${ReviewStyles.typography.sans};
+          color: ${ReviewStyles.colors.muted};
           font-size: 1.1rem;
           margin-bottom: 2rem;
         }
 
         .restart-btn {
-          background: #8B0000;
+          background: ${ReviewStyles.colors.deepRed};
           color: white;
           border: none;
           padding: 1rem 2.5rem;
           border-radius: 50px;
-          font-family: 'Outfit', sans-serif;
+          font-family: ${ReviewStyles.typography.sans};
           font-weight: 800;
           font-size: 1rem;
           cursor: pointer;
@@ -154,21 +167,19 @@ export class CardStackComponent extends HTMLElement {
 
       <div class="review-header">
         <div class="progress-info" id="progress-text">0 / 0</div>
-        <div class="stats" id="stats-info">Learned: 0</div>
+        <div class="stats" id="stats-info">${labels.learned}: 0</div>
       </div>
 
       <div class="progress-bar-container">
         <div class="progress-bar" id="progress-bar"></div>
       </div>
 
-      <div class="stack-container" id="stack-container">
-        <!-- Cards will be injected here -->
-      </div>
+      <div class="stack-container" id="stack-container"></div>
 
       <div class="celebration" id="celebration">
-        <h2>🎉 Well Done!</h2>
-        <p>You've mastered this session.</p>
-        <button class="restart-btn" id="restart-btn">Restart Session</button>
+        <h2>🎉 ${labels.done}</h2>
+        <p>${labels.sub}</p>
+        <button class="restart-btn" id="restart-btn">${labels.restart}</button>
       </div>
     `;
 
@@ -184,24 +195,26 @@ export class CardStackComponent extends HTMLElement {
 
     const { total, current, learned } = this.state.stats;
     const isComplete = this.state.currentItem === null;
+    const labels = this.getLabels();
 
-    // Update progress UI
     const progressText = this.shadowRoot.getElementById('progress-text');
     const progressBar = this.shadowRoot.getElementById('progress-bar');
     const statsInfo = this.shadowRoot.getElementById('stats-info');
+    const celebration = this.shadowRoot.getElementById('celebration');
 
     if (progressText) progressText.textContent = `${Math.min(current, total)} / ${total}`;
     if (progressBar) progressBar.style.width = `${this.state.progress}%`;
-    if (statsInfo) statsInfo.textContent = `Learned: ${learned}`;
+    if (statsInfo) statsInfo.textContent = `${labels.learned}: ${learned}`;
 
     if (isComplete) {
       this.stackContainer.style.display = 'none';
-      const celebration = this.shadowRoot.getElementById('celebration');
       if (celebration) celebration.style.display = 'flex';
       return;
+    } else {
+      this.stackContainer.style.display = 'block';
+      if (celebration) celebration.style.display = 'none';
     }
 
-    // Refresh Stack
     this.refreshStack();
   }
 
@@ -210,7 +223,6 @@ export class CardStackComponent extends HTMLElement {
 
     this.stackContainer.innerHTML = '';
     
-    // We only need to render the top 2-3 cards for performance and visual depth
     const itemsToShow = this.state.stats.total - this.state.stats.current + 1;
     const limit = Math.min(itemsToShow, 3);
 
@@ -222,7 +234,6 @@ export class CardStackComponent extends HTMLElement {
       const wrapper = document.createElement('div');
       wrapper.className = 'card-wrapper';
       
-      // Apply stack visual effects
       const scale = 1 - (i * 0.05);
       const translateY = i * 15;
       const opacity = 1 - (i * 0.3);
@@ -232,10 +243,10 @@ export class CardStackComponent extends HTMLElement {
 
       const card = document.createElement('vocab-card') as VocabCardComponent;
       card.data = item;
+      card.language = this._language;
       wrapper.appendChild(card);
       this.stackContainer.appendChild(wrapper);
 
-      // Only the top card is interactive
       if (i === 0) {
         new InteractionManager(wrapper, (result) => {
           if (result.direction === 'right') {

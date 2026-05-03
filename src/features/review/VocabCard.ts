@@ -1,9 +1,10 @@
-
 import { VocabItem } from './ReviewState';
+import { ReviewStyles } from './ReviewStyles';
 
 export class VocabCardComponent extends HTMLElement {
   private _data: VocabItem | null = null;
   private _isFlipped = false;
+  private _language = 'en';
 
   constructor() {
     super();
@@ -15,20 +16,32 @@ export class VocabCardComponent extends HTMLElement {
     this.render();
   }
 
+  set language(value: string) {
+    this._language = value;
+    this.render();
+  }
+
   toggleFlip() {
     this._isFlipped = !this._isFlipped;
     const inner = this.shadowRoot?.querySelector('.vocab-card-inner');
     if (inner) {
-      if (this._isFlipped) {
-        inner.classList.add('is-flipped');
-      } else {
-        inner.classList.remove('is-flipped');
-      }
+      inner.classList.toggle('is-flipped', this._isFlipped);
     }
+  }
+
+  private getHint() {
+    const hints: Record<string, { front: string; back: string }> = {
+      en: { front: 'Tap to flip', back: 'Tap to see word' },
+      ko: { front: '눌러서 뒤집기', back: '다시 단어 보기' },
+      ja: { front: 'タップで裏返す', back: '単語を再確認' }
+    };
+    return hints[this._language] || hints.en;
   }
 
   render() {
     if (!this._data || !this.shadowRoot) return;
+
+    const hint = this.getHint();
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -62,11 +75,7 @@ export class VocabCardComponent extends HTMLElement {
           align-items: center;
           justify-content: center;
           padding: 2rem;
-          background: rgba(255, 255, 255, 0.85);
-          backdrop-filter: blur(15px);
-          -webkit-backdrop-filter: blur(15px);
-          box-shadow: 0 15px 35px rgba(0,0,0,0.1);
-          border: 1px solid rgba(139, 0, 0, 0.1);
+          ${ReviewStyles.glassCard}
           box-sizing: border-box;
           overflow: hidden;
         }
@@ -74,10 +83,7 @@ export class VocabCardComponent extends HTMLElement {
         .card-face::before {
           content: '';
           position: absolute;
-          top: 0;
-          left: 0;
-          right: 0;
-          bottom: 0;
+          top: 0; left: 0; right: 0; bottom: 0;
           background: radial-gradient(circle at 20% 20%, rgba(255,255,255,0.4) 0%, transparent 50%);
           pointer-events: none;
         }
@@ -88,49 +94,50 @@ export class VocabCardComponent extends HTMLElement {
         }
 
         .word {
-          font-family: "Noto Serif SC", serif;
+          font-family: ${ReviewStyles.typography.serif};
           font-size: 5rem;
           font-weight: 900;
-          color: #8B0000;
+          color: ${ReviewStyles.colors.deepRed};
           margin: 0;
           text-shadow: 0 2px 10px rgba(139, 0, 0, 0.1);
           letter-spacing: -2px;
         }
 
         .pinyin {
-          font-family: 'Outfit', sans-serif;
+          font-family: ${ReviewStyles.typography.sans};
           font-size: 1.4rem;
-          color: #DAA520;
+          color: ${ReviewStyles.colors.gold};
           font-weight: 700;
           margin-top: 1.5rem;
           letter-spacing: 1px;
         }
 
         .meaning {
-          font-family: 'Outfit', sans-serif;
+          font-family: ${ReviewStyles.typography.sans};
           font-size: 1.8rem;
-          color: #1a1a1a;
+          color: ${ReviewStyles.colors.text};
           text-align: center;
           margin-top: 0.5rem;
           font-weight: 600;
         }
 
         .example {
-          font-family: 'Outfit', sans-serif;
+          font-family: ${ReviewStyles.typography.sans};
           font-size: 1rem;
-          color: #555;
+          color: ${ReviewStyles.colors.muted};
           margin-top: 2rem;
           text-align: center;
           line-height: 1.6;
-          padding: 0 1.5rem;
+          padding: 0.8rem;
           background: rgba(139, 0, 0, 0.03);
           border-radius: 12px;
-          padding: 0.8rem;
+          width: 80%;
         }
 
         .flip-hint {
           position: absolute;
           bottom: 1.5rem;
+          font-family: ${ReviewStyles.typography.sans};
           font-size: 0.7rem;
           color: #aaa;
           text-transform: uppercase;
@@ -142,14 +149,14 @@ export class VocabCardComponent extends HTMLElement {
       <div class="vocab-card-inner ${this._isFlipped ? 'is-flipped' : ''}">
         <div class="card-face card-face-front">
           <h1 class="word">${this._data.word}</h1>
-          <div class="flip-hint">Tap to flip</div>
+          <div class="flip-hint">${hint.front}</div>
         </div>
         <div class="card-face card-face-back">
           <div class="pinyin">${this._data.pinyin}</div>
           <div class="meaning">${this._data.meaning}</div>
           ${this._data.example ? `<div class="example">${this._data.example}</div>` : ''}
           ${this._data.audio ? `<audio id="card-audio" src="${this._data.audio}"></audio>` : ''}
-          <div class="flip-hint">Tap to see word</div>
+          <div class="flip-hint">${hint.back}</div>
         </div>
       </div>
     `;
@@ -158,12 +165,11 @@ export class VocabCardComponent extends HTMLElement {
       e.stopPropagation();
       this.toggleFlip();
       
-      // Play audio when revealing meaning
       if (this._isFlipped && this._data?.audio) {
         const audio = this.shadowRoot?.getElementById('card-audio') as HTMLAudioElement;
         if (audio) {
           audio.currentTime = 0;
-          audio.play().catch(err => console.log('Audio play failed:', err));
+          audio.play().catch(() => {});
         }
       }
     });

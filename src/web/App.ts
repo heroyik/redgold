@@ -954,6 +954,7 @@ class App extends HTMLElement {
     } else if (this._activeTab === 'review') {
       const el = this.shadowRoot?.getElementById('review-stack') as any;
       if (el) {
+        el.language = this._language;
         el.vocabulary = lessonData.vocabulary;
       }
     }
