@@ -221,10 +221,15 @@ export class VocabCardComponent extends HTMLElement {
           flex-direction: column;
           align-items: center;
           justify-content: center;
-          padding: 2rem;
+          padding: 1.5rem;
           ${ReviewStyles.glassCard}
           box-sizing: border-box;
-          overflow: hidden;
+          overflow-y: auto;
+          scrollbar-width: none;
+        }
+
+        .card-face::-webkit-scrollbar {
+          display: none;
         }
 
         .card-face::before {
@@ -252,33 +257,34 @@ export class VocabCardComponent extends HTMLElement {
 
         .pinyin {
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 1.4rem;
+          font-size: clamp(1rem, 5vw, 1.4rem);
           color: ${ReviewStyles.colors.gold};
           font-weight: 700;
-          margin-top: 1.5rem;
+          margin-top: 1rem;
           letter-spacing: 1px;
         }
 
         .meaning {
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 1.8rem;
+          font-size: clamp(1.2rem, 6vw, 1.8rem);
           color: ${ReviewStyles.colors.text};
           text-align: center;
           margin-top: 0.5rem;
           font-weight: 600;
+          line-height: 1.3;
         }
 
         .example {
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 1rem;
+          font-size: clamp(0.85rem, 4vw, 1rem);
           color: ${ReviewStyles.colors.muted};
-          margin-top: 2rem;
+          margin-top: 1rem;
           text-align: center;
-          line-height: 1.6;
+          line-height: 1.5;
           padding: 0.8rem;
           background: rgba(139, 0, 0, 0.03);
           border-radius: 12px;
-          width: 80%;
+          width: 90%;
         }
 
         .flip-hint {

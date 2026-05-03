@@ -145,9 +145,15 @@ export class CardStackComponent extends HTMLElement {
           height: 6px;
           background: rgba(139, 0, 0, 0.05);
           border-radius: 3px;
-          margin-bottom: 4rem;
+          margin-bottom: 2rem;
           overflow: hidden;
           box-shadow: inset 0 1px 3px rgba(0,0,0,0.05);
+        }
+        
+        @media (max-width: 600px) {
+          .progress-bar-container {
+            margin-bottom: 1.5rem;
+          }
         }
 
         .progress-bar {
@@ -161,9 +167,9 @@ export class CardStackComponent extends HTMLElement {
         .stack-container {
           position: relative;
           width: 100%;
-          height: calc(100vh - 240px);
-          max-height: 480px;
-          min-height: 320px;
+          height: calc(100dvh - 200px);
+          max-height: 420px;
+          min-height: 300px;
           perspective: 1500px;
         }
 
