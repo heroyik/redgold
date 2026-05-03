@@ -161,7 +161,9 @@ export class CardStackComponent extends HTMLElement {
         .stack-container {
           position: relative;
           width: 100%;
-          height: 480px;
+          height: calc(100vh - 240px);
+          max-height: 480px;
+          min-height: 320px;
           perspective: 1500px;
         }
 
@@ -341,6 +343,9 @@ export class CardStackComponent extends HTMLElement {
             } else {
               this.state?.markAsNeedReview();
             }
+          },
+          () => {
+            card.toggleFlip();
           }
         );
       }

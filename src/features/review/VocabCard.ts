@@ -242,7 +242,7 @@ export class VocabCardComponent extends HTMLElement {
 
         .word {
           font-family: ${ReviewStyles.typography.serif};
-          font-size: 5rem;
+          font-size: clamp(3rem, 15vw, 5rem);
           font-weight: 900;
           color: ${ReviewStyles.colors.deepRed};
           margin: 0;
@@ -307,11 +307,8 @@ export class VocabCardComponent extends HTMLElement {
         </div>
       </div>
     `;
-
-    this.shadowRoot.querySelector('.vocab-card-inner')?.addEventListener('click', (e) => {
-      e.stopPropagation();
-      this.toggleFlip();
-    });
+    // The click event is now handled entirely by InteractionManager via onTap
+    // to prevent conflicts with pointer capture and double-flipping.
   }
 
   private speakFallback() {
