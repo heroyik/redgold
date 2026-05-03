@@ -79,4 +79,4 @@
 ### Phase 4: The Polish (Final)
 
 - 모바일 환경 최적화 (Touch-event 정교화).
-- 에셋(Audio/Images) 연동.
+- 에셋(Audio/Images) 연동
