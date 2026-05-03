@@ -67,7 +67,6 @@ export class InteractionManager {
     const isPastThreshold = Math.abs(this.currentX) > this.threshold;
 
     if (isPastThreshold || isHighVelocity) {
-      const direction = (this.velocityX > 0 || this.currentX > 0) ? 'right' : 'left';
       // Safety check: if they move left but flick right, go by velocity
       const finalDirection = (Math.abs(this.velocityX) > 0.3) 
         ? (this.velocityX > 0 ? 'right' : 'left')

@@ -1,4 +1,4 @@
-import '../components/VocabCard';
+import '../features/review/VocabCard';
 import '../components/GrammarCard';
 import '../components/TextSection';
 import '../components/KeySentences';
