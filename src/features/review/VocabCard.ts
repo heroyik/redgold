@@ -5,6 +5,7 @@ export class VocabCardComponent extends HTMLElement {
   private _data: VocabItem | null = null;
   private _isFlipped = false;
   private _language = 'en';
+  private _compact = false;
 
   constructor() {
     super();
@@ -18,6 +19,11 @@ export class VocabCardComponent extends HTMLElement {
 
   set language(value: string) {
     this._language = value;
+    this.render();
+  }
+
+  set compact(value: boolean) {
+    this._compact = value;
     this.render();
   }
 
@@ -78,12 +84,12 @@ export class VocabCardComponent extends HTMLElement {
           width: 100%;
           height: 100%;
           backface-visibility: hidden;
-          border-radius: 32px;
+          border-radius: ${this._compact ? '24px' : '32px'};
           display: flex;
           flex-direction: column;
           align-items: center;
           justify-content: center;
-          padding: 2rem;
+          padding: ${this._compact ? '1rem' : '2rem'};
           ${ReviewStyles.glassCard}
           box-sizing: border-box;
           overflow: hidden;
@@ -104,7 +110,7 @@ export class VocabCardComponent extends HTMLElement {
 
         .word {
           font-family: ${ReviewStyles.typography.serif};
-          font-size: 5rem;
+          font-size: ${this._compact ? '4rem' : '5rem'};
           font-weight: 900;
           color: ${ReviewStyles.colors.deepRed};
           margin: 0;
@@ -114,16 +120,16 @@ export class VocabCardComponent extends HTMLElement {
 
         .pinyin {
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 1.4rem;
+          font-size: ${this._compact ? '1.1rem' : '1.4rem'};
           color: ${ReviewStyles.colors.gold};
           font-weight: 700;
-          margin-top: 1.5rem;
+          margin-top: ${this._compact ? '0.5rem' : '1.5rem'};
           letter-spacing: 1px;
         }
 
         .meaning {
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 1.8rem;
+          font-size: ${this._compact ? '1.4rem' : '1.8rem'};
           color: ${ReviewStyles.colors.text};
           text-align: center;
           margin-top: 0.5rem;
@@ -132,22 +138,23 @@ export class VocabCardComponent extends HTMLElement {
 
         .example {
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 1rem;
+          font-size: ${this._compact ? '0.85rem' : '1rem'};
           color: ${ReviewStyles.colors.muted};
-          margin-top: 2rem;
+          margin-top: ${this._compact ? '1rem' : '2rem'};
           text-align: center;
-          line-height: 1.6;
-          padding: 0.8rem;
+          line-height: 1.5;
+          padding: 0.6rem;
           background: rgba(139, 0, 0, 0.03);
           border-radius: 12px;
-          width: 80%;
+          width: 90%;
         }
 
         .flip-hint {
+          display: ${this._compact ? 'none' : 'block'};
           position: absolute;
-          bottom: 1.5rem;
+          bottom: ${this._compact ? '1rem' : '1.5rem'};
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 0.7rem;
+          font-size: 0.65rem;
           color: #aaa;
           text-transform: uppercase;
           letter-spacing: 2px;

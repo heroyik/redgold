@@ -767,6 +767,26 @@ class App extends HTMLElement {
           letter-spacing: 2px;
           opacity: 0.3;
         }
+
+        /* Vocab List Styles */
+        .vocab-list {
+          display: grid;
+          grid-template-columns: 1fr;
+          gap: 1.25rem;
+          padding-bottom: 2rem;
+        }
+
+        .vocab-list vocab-card {
+          width: 100%;
+          height: 240px; /* Reduced height for compact list cards */
+          perspective: 1000px;
+        }
+
+        @media (min-width: 640px) {
+          .vocab-list {
+            grid-template-columns: repeat(2, 1fr);
+          }
+        }
       </style>
       
       <div class="app-shell">
@@ -926,6 +946,7 @@ class App extends HTMLElement {
         const el = this.shadowRoot?.getElementById(`v-${v.word}`) as any;
         if (el) {
           el.language = this._language;
+          el.compact = true;
           el.data = v;
         }
       });
