@@ -52,39 +52,52 @@ export class CardStackComponent extends HTMLElement {
           padding: 1rem;
         }
 
-        @media (max-width: 480px) {
+        @media (max-width: 600px) {
           :host {
-            padding: 0.25rem 0.5rem;
+            padding: 0.25rem 0.25rem;
           }
         }
 
         .review-header {
           display: flex;
           justify-content: space-between;
-          align-items: flex-end;
+          align-items: center;
           margin-bottom: 0.5rem;
-          padding: 0 0.5rem;
+          padding: 0;
         }
 
         .progress-info {
           font-family: ${ReviewStyles.typography.sans};
           font-weight: 900;
           color: ${ReviewStyles.colors.deepRed};
-          font-size: 1.5rem;
+          font-size: 1.25rem;
           letter-spacing: -1px;
         }
 
         .stats {
           font-family: ${ReviewStyles.typography.sans};
-          font-size: 0.8rem;
+          font-size: 0.7rem;
           color: ${ReviewStyles.colors.gold};
-          font-weight: 700;
+          font-weight: 800;
           text-transform: uppercase;
-          letter-spacing: 0.5px;
+          letter-spacing: 0.3px;
           white-space: nowrap;
-          flex-shrink: 0;
-          margin-left: 0.5rem;
+          flex-shrink: 1; /* allow shrink if needed */
+          background: rgba(218, 165, 32, 0.08);
+          padding: 0.2rem 0.5rem;
+          border-radius: 6px;
+          overflow: hidden;
+          text-overflow: ellipsis;
         }
+
+        @media (max-width: 600px) {
+          .stats {
+            font-size: 0.65rem;
+            padding: 0.2rem 0.3rem;
+            letter-spacing: 0px;
+          }
+        }
+
 
         .nav-controls {
           display: flex;
@@ -97,8 +110,8 @@ export class CardStackComponent extends HTMLElement {
           background: rgba(139, 0, 0, 0.05);
           border: 1px solid rgba(139, 0, 0, 0.1);
           color: ${ReviewStyles.colors.deepRed};
-          width: 32px;
-          height: 32px;
+          width: 28px;
+          height: 28px;
           border-radius: 50%;
           display: flex;
           align-items: center;

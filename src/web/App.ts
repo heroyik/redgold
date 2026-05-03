@@ -532,6 +532,9 @@ class App extends HTMLElement {
 
     this.shadowRoot.innerHTML = `
       <style>
+        * {
+          box-sizing: border-box;
+        }
         :host {
           display: block;
           min-height: 100vh;
@@ -539,6 +542,7 @@ class App extends HTMLElement {
           color: #1a1a1a;
           overflow-x: hidden;
           background: #FDFBF7;
+          box-sizing: border-box;
         }
 
         .sticky-header {
@@ -649,9 +653,9 @@ class App extends HTMLElement {
           padding: 1rem;
         }
 
-        @media (max-width: 480px) {
+        @media (max-width: 600px) {
           .app-container {
-            padding: 1rem 0.5rem;
+            padding: 1rem 0.25rem;
           }
         }
 
