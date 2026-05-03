@@ -5,6 +5,10 @@ import '../components/KeySentences';
 import '../components/SourceInfo';
 import { translateLessonData, type AppLanguage } from '../utils/lessonTranslations';
 import { getUiCopy } from '../utils/uiCopy';
+import { testFirebase } from '../test-ts';
+
+// 앱 시작 시 테스트 실행
+testFirebase();
 
 type LessonData = {
   lessonId?: number;
