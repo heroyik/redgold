@@ -493,10 +493,6 @@ class App extends HTMLElement {
             <button class="language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">${ui.langJa}</button>
           </div>
 
-          <div style="margin-top: 2rem;">
-            <redgold-user-menu id="landing-user-menu"></redgold-user-menu>
-          </div>
-
           <button class="start-btn" id="start-learning-btn">${ui.exploreLessons}</button>
           
           <div class="landing-books">
@@ -850,9 +846,7 @@ class App extends HTMLElement {
     if (!root) return;
 
     // Initialize User Menus
-    const landingUserMenu = root.getElementById('landing-user-menu') as any;
     const lessonUserMenu = root.getElementById('lesson-user-menu') as any;
-    if (landingUserMenu) landingUserMenu.user = this._user;
     if (lessonUserMenu) lessonUserMenu.user = this._user;
 
     if (this._viewMode === 'landing') {
