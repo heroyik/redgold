@@ -80,16 +80,6 @@ class App extends HTMLElement {
     this.render();
   }
 
-  getLandingCopy() {
-    const copy: Record<AppLanguage, string> = {
-      en: `HSK 4 prep, but make it vibe. <strong>Red</strong> is the textbook stuff you need to know. <strong>Gold</strong> is the real-world talk people actually use. <strong>RedGold</strong> brings it all together for the ultimate HSK 4 experience. No robots allowed.`,
-      ko: `HSK 4급, 이제 '진짜'로 배워보자고. <strong>Red</strong>는 우리가 꼭 알아야 할 교과서 정석. <strong>Gold</strong>는 현지인들이 입에 달고 사는 찐 생활 중국어. 이 둘이 만나 <strong>RedGold</strong>가 됐어. 뻔한 공부 말고 진짜 실력을 키워봐.`,
-      ja: `HSK 4級、もっとエモく学ぼう。<strong>Red</strong>は基本の教科書モード。<strong>Gold</strong>はネイティブがガチで使うリアルな言い回し。この二つが合体して <strong>RedGold</strong>。ロボットみたいな中国語はもう卒業しない？`
-    };
-
-    return copy[this._language];
-  }
-
   connectedCallback() {
     this._authUnsubscribe = subscribeToAuthChanges((user) => {
       this._user = user;
@@ -125,6 +115,7 @@ class App extends HTMLElement {
           grammar: lesson.grammar || [],
           texts: lesson.texts || [],
           key_sentences: lesson.key_sentences || [],
+          translations: lesson.translations,
         };
         this._prefetchedLessons.set(this._currentLesson, this._data);
       }
@@ -486,13 +477,13 @@ class App extends HTMLElement {
           <div class="hero-title">
             <img src="/redgold/assets/redgold-wordmark-fixed.png?v=${__APP_VERSION__}" alt="RedGold" class="hero-wordmark">
             <div class="version-badge">v${__APP_VERSION__} &nbsp;·&nbsp; ${__APP_BUILD_DATE__}</div>
-            <p>${this.getLandingCopy()}</p>
+            <p>${ui.landingHero}</p>
           </div>
 
           <div class="language-picker" id="language-picker">
-            <button class="language-btn ${this._language === 'en' ? 'active' : ''}" data-lang="en">English</button>
-            <button class="language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">한국어</button>
-            <button class="language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">日本語</button>
+            <button class="language-btn ${this._language === 'en' ? 'active' : ''}" data-lang="en">${ui.langEn}</button>
+            <button class="language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">${ui.langKo}</button>
+            <button class="language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">${ui.langJa}</button>
           </div>
 
           <div style="margin-top: 2rem;">
@@ -541,16 +532,8 @@ class App extends HTMLElement {
     `;
   }
 
-  setupEventListeners() {
+  renderLesson() {
     if (!this.shadowRoot) return;
-
-    const landingUserMenu = this.shadowRoot.getElementById('landing-user-menu') as any;
-    const lessonUserMenu = this.shadowRoot.getElementById('lesson-user-menu') as any;
-    
-    if (landingUserMenu) landingUserMenu.user = this._user;
-    if (lessonUserMenu) lessonUserMenu.user = this._user;
-
-    const startBtn = this.shadowRoot.getElementById('start-learning-btn');
     const ui = getUiCopy(this._language);
 
     this.shadowRoot.innerHTML = `
@@ -772,7 +755,6 @@ class App extends HTMLElement {
           opacity: 0.3;
         }
 
-        /* Vocab List Styles */
         .vocab-list {
           display: grid;
           grid-template-columns: 1fr;
@@ -782,7 +764,7 @@ class App extends HTMLElement {
 
         .vocab-list vocab-card {
           width: 100%;
-          height: 72px; /* Slim height for single-line horizontal cards */
+          height: 72px;
           perspective: 1000px;
         }
 
@@ -803,7 +785,7 @@ class App extends HTMLElement {
             <div class="lesson-scroller">
               ${this._lessons.map(l => `
                 <div class="lesson-chip ${this._currentLesson === l.id ? 'active' : ''}" data-id="${l.id}">
-                  L${l.id}
+                   L${l.id}
                 </div>
               `).join('')}
             </div>
@@ -834,7 +816,7 @@ class App extends HTMLElement {
           </nav>
 
           <main>
-            ${this._data ? content : `
+            ${this._data ? this.renderContent() : `
               <div class="loading-container">
                 <div class="loading-spinner"></div>
               </div>
@@ -854,6 +836,7 @@ class App extends HTMLElement {
       </div>
     `;
   }
+
 
   setupEventListeners() {
     const root = this.shadowRoot;
@@ -928,7 +911,7 @@ class App extends HTMLElement {
   renderContent() {
     if (!this._data) return '';
 
-    const localizedLesson = translateLessonData(this._currentLesson, this._data, this._language);
+    const localizedLesson = translateLessonData(this._data, this._language);
 
     switch (this._activeTab) {
       case 'vocab':
@@ -949,7 +932,7 @@ class App extends HTMLElement {
   updated() {
     if (!this._data || this._viewMode === 'landing') return;
 
-    const lessonData = translateLessonData(this._currentLesson, this._data, this._language);
+    const lessonData = translateLessonData(this._data, this._language);
 
     if (this._activeTab === 'vocab') {
       lessonData.vocabulary.forEach((v: any) => {

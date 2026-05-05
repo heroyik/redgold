@@ -34,7 +34,7 @@ export function translateLessonData<T extends {
   key_sentences?: any[];
   texts?: any[];
   translations?: LessonTranslationPack;
-}>(lessonId: number, lessonData: T, language: AppLanguage): T {
+}>(lessonData: T, language: AppLanguage): T {
   if (language === 'en') return lessonData;
 
   const pack = lessonData.translations;

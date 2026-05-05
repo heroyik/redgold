@@ -292,7 +292,7 @@ export class TextSection extends HTMLElement {
 
       <div class="text-container">
         <h3>
-          <span>课文 ${this._data.id}: ${this._data.title}</span>
+          <span>${ui.textTitlePrefix} ${this._data.id}: ${this._data.title}</span>
           ${this._data.audio ? `
             <button class="audio-control" id="play-btn">
               <svg viewBox="0 0 24 24" id="play-icon">

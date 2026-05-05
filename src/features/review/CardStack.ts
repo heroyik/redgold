@@ -1,5 +1,6 @@
 import { ReviewState, VocabItem } from './ReviewState';
 import { VocabCardComponent } from './VocabCard';
+import { getUiCopy, AppLanguage } from '../../utils/uiCopy';
 import { InteractionManager } from './InteractionManager';
 import { ReviewStyles } from './ReviewStyles';
 
@@ -29,18 +30,13 @@ export class CardStackComponent extends HTMLElement {
   }
 
   private getLabels() {
-    const labels: Record<string, any> = {
-      en: { learned: 'Learned', done: 'Well Done!', sub: "You've mastered this session.", restart: 'Restart Session' },
-      ko: { learned: '학습 완료', done: '참 잘했어요!', sub: '이번 세션을 모두 완료했습니다.', restart: '다시 시작' },
-      ja: { learned: '学習済み', done: 'お疲れ様でした！', sub: 'このセッションを完了しました。', restart: '再開する' }
-    };
-    return labels[this._language] || labels.en;
+    return getUiCopy(this._language as AppLanguage);
   }
 
   private render() {
     if (!this.shadowRoot) return;
 
-    const labels = this.getLabels();
+    const ui = this.getLabels();
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -246,7 +242,7 @@ export class CardStackComponent extends HTMLElement {
             <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6"></polyline></svg>
           </button>
         </div>
-        <div class="stats" id="stats-info">${labels.learned}: 0</div>
+        <div class="stats" id="stats-info">${ui.learned}: 0</div>
       </div>
 
       <div class="progress-bar-container">
@@ -256,9 +252,9 @@ export class CardStackComponent extends HTMLElement {
       <div class="stack-container" id="stack-container"></div>
 
       <div class="celebration" id="celebration">
-        <h2>🎉 ${labels.done}</h2>
-        <p>${labels.sub}</p>
-        <button class="restart-btn" id="restart-btn">${labels.restart}</button>
+        <h2>🎉 ${ui.done}</h2>
+        <p>${ui.sub}</p>
+        <button class="restart-btn" id="restart-btn">${ui.restart}</button>
       </div>
     `;
 

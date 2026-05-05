@@ -1,5 +1,6 @@
 import { VocabItem } from './ReviewState';
 import { ReviewStyles } from './ReviewStyles';
+import { getUiCopy, AppLanguage } from '../../utils/uiCopy';
 
 export class VocabCardComponent extends HTMLElement {
   private _data: VocabItem | null = null;
@@ -45,17 +46,14 @@ export class VocabCardComponent extends HTMLElement {
   }
 
   private getHint() {
-    const hints: Record<string, { front: string; back: string }> = {
-      en: { front: 'Tap to flip', back: 'Tap to see word' },
-      ko: { front: '눌러서 뒤집기', back: '다시 단어 보기' },
-      ja: { front: 'タップで裏返す', back: '単語を再確認' }
-    };
-    return hints[this._language] || hints.en;
+    const ui = getUiCopy(this._language as AppLanguage);
+    return { front: ui.tapToFlipFront, back: ui.tapToFlipBack };
   }
 
   render() {
     if (!this._data || !this.shadowRoot) return;
 
+    const ui = getUiCopy(this._language as AppLanguage);
     const hint = this.getHint();
 
     if (this._compact) {
@@ -164,12 +162,12 @@ export class VocabCardComponent extends HTMLElement {
           }
         </style>
 
-        <div class="compact-card" title="Click to hear pronunciation">
+        <div class="compact-card" title="${ui.audioTooltip}">
           <div class="word">${this._data.word}</div>
           <div class="pinyin">${this._data.pinyin}</div>
           <div class="meaning">${this._data.meaning}</div>
           <div class="audio-trigger">
-            <img src="/redgold/assets/audio-icon-v3.png" class="audio-icon" alt="Play">
+            <img src="/redgold/assets/audio-icon-v3.png" class="audio-icon" alt="${ui.playAlt}">
           </div>
           ${this._data.audio ? `<audio id="card-audio" src="${this._data.audio}"></audio>` : ''}
         </div>
