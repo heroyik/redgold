@@ -229,29 +229,29 @@
   ],
   "key_sentences": [
     {
-      "text": "来中国快一年了，你<b>适应</b>这儿的生活了吗？",
       "pinyin": "Lái Zhōngguó kuài yīnián le, nǐ shìyìng zhèr de shēnghuó le ma?",
-      "translation": "Have you got used to the life here after being in China for nearly a year?"
+      "translation": "Have you got used to the life here after being in China for nearly a year?",
+      "sentence": "来中国快一年了，你<b>适应</b>这儿的生活了吗？"
     },
     {
-      "text": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。",
       "pinyin": "Jǐnguǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de.",
-      "translation": "Although we have been graduated for many years, we still keep in regular contact."
+      "translation": "Although we have been graduated for many years, we still keep in regular contact.",
+      "sentence": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。"
     },
     {
-      "text": "真正的朋友会站出来，<b>及时</b>给你帮助。",
       "pinyin": "Zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
-      "translation": "A true friend will stand up and give you timely help."
+      "translation": "A true friend will stand up and give you timely help.",
+      "sentence": "真正的朋友会站出来，<b>及时</b>给你帮助。"
     },
     {
-      "text": "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。",
       "pinyin": "Měi gèrén dōu xūyào péngyǒu, péngyǒu kěyǐ fēngfù wǒmen de shēnghuó.",
-      "translation": "Everyone needs friends, and friends can enrich our lives."
+      "translation": "Everyone needs friends, and friends can enrich our lives.",
+      "sentence": "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。"
     },
     {
-      "text": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。",
       "pinyin": "Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu.",
-      "translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends."
+      "translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends.",
+      "sentence": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。"
     }
   ],
   "texts": [
@@ -864,25 +864,17 @@
           "ja": "友達の大切さを語るとき。"
         }
       },
-      "一个脾气不好的人虽然不一定让人讨厌，하지만 <b>却</b>很难跟人交朋友。": {
+      "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。": {
         "translation": {
-          "ko": "성격이 좋지 않은 사람이 반드시 미움을 받는 것은 아니지만, 친구를 사귀기는 매우 어렵다."
-        },
-        "colloquial_translation": {
-          "ko": "성격 좀 까칠하다고 다 싫어하는 건 아니지만, 친구 사귀기는 확실히 어렵긴 해."
-        },
-        "context": {
-          "ko": "성격과 교우 관계에 대해 조언할 때."
-        }
-      },
-      "一个脾气不好的人虽然不一定让人讨厌，但是 <b>却</b>很难跟人交朋友。": {
-        "translation": {
+          "ko": "성격이 좋지 않은 사람이 반드시 미움을 받는 것은 아니지만, 친구를 사귀기는 매우 어렵다.",
           "ja": "性格が良くない人が必ずしも嫌われるわけではないが、友達を作るのは非常に難しい。"
         },
         "colloquial_translation": {
+          "ko": "성격 좀 까칠하다고 다 싫어하는 건 아니지만, 친구 사귀기는 확실히 어렵긴 해.",
           "ja": "性格がキツいからって嫌われるとは限らないけど、友達を作るのはやっぱり大変だよね。"
         },
         "context": {
+          "ko": "성격과 교우 관계에 대해 조언할 때.",
           "ja": "性格と友人関係について助言するとき。"
         }
       }
