@@ -1,0 +1,877 @@
+{
+  "lessonId": 2,
+  "title": "Lesson 2: 真正的朋友 (True Friends)",
+  "vocabulary": [
+    {
+      "word": "适应",
+      "pinyin": "shìyìng",
+      "meaning": "to get used to"
+    },
+    {
+      "word": "交",
+      "pinyin": "jiāo",
+      "meaning": "to make (friends)"
+    },
+    {
+      "word": "平时",
+      "pinyin": "píngshí",
+      "meaning": "normal times"
+    },
+    {
+      "word": "逛",
+      "pinyin": "guàng",
+      "meaning": "to stroll, to roam"
+    },
+    {
+      "word": "短信",
+      "pinyin": "duǎnxìn",
+      "meaning": "text message"
+    },
+    {
+      "word": "正好",
+      "pinyin": "zhènghǎo",
+      "meaning": "just in time, just right"
+    },
+    {
+      "word": "聚会",
+      "pinyin": "jùhuì",
+      "meaning": "party, get-together"
+    },
+    {
+      "word": "联系",
+      "pinyin": "liánxì",
+      "meaning": "to contact"
+    },
+    {
+      "word": "差不多",
+      "pinyin": "chàbuduō",
+      "meaning": "almost"
+    },
+    {
+      "word": "专门",
+      "pinyin": "zhuānmén",
+      "meaning": "specially"
+    },
+    {
+      "word": "毕业",
+      "pinyin": "bìyè",
+      "meaning": "to graduate"
+    },
+    {
+      "word": "麻烦",
+      "pinyin": "máfan",
+      "meaning": "to bother"
+    },
+    {
+      "word": "好像",
+      "pinyin": "hǎoxiàng",
+      "meaning": "as if"
+    },
+    {
+      "word": "重新",
+      "pinyin": "chóngxīn",
+      "meaning": "again, once more"
+    },
+    {
+      "word": "尽管",
+      "pinyin": "jǐn'guǎn",
+      "meaning": "although"
+    },
+    {
+      "word": "真正",
+      "pinyin": "zhēnzhèng",
+      "meaning": "true, real"
+    },
+    {
+      "word": "友谊",
+      "pinyin": "yǒuyì",
+      "meaning": "friendship"
+    },
+    {
+      "word": "丰富",
+      "pinyin": "fēngfù",
+      "meaning": "to enrich"
+    },
+    {
+      "word": "无聊",
+      "pinyin": "wúliáo",
+      "meaning": "boring"
+    },
+    {
+      "word": "讨厌",
+      "pinyin": "tǎoyàn",
+      "meaning": "to dislike"
+    },
+    {
+      "word": "却",
+      "pinyin": "què",
+      "meaning": "but, yet"
+    },
+    {
+      "word": "周围",
+      "pinyin": "zhōuwéi",
+      "meaning": "surrounding"
+    },
+    {
+      "word": "交流",
+      "pinyin": "jiāoliú",
+      "meaning": "to communicate"
+    },
+    {
+      "word": "理解",
+      "pinyin": "lǐjiě",
+      "meaning": "to understand"
+    },
+    {
+      "word": "镜子",
+      "pinyin": "jìngzi",
+      "meaning": "mirror"
+    },
+    {
+      "word": "而",
+      "pinyin": "ér",
+      "meaning": "while, yet"
+    },
+    {
+      "word": "当",
+      "pinyin": "dāng",
+      "meaning": "when"
+    },
+    {
+      "word": "困难",
+      "pinyin": "kùnnan",
+      "meaning": "difficulty"
+    },
+    {
+      "word": "及时",
+      "pinyin": "jíshí",
+      "meaning": "in time"
+    },
+    {
+      "word": "陪",
+      "pinyin": "péi",
+      "meaning": "to accompany"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "正好",
+      "explanation": "'正好' can be used as an adjective to mean 'just right', or as an adverb to mean 'it is the right time or opportunity to do something'.",
+      "formal_example": "我们下午要去踢足球, <b>正好</b>一起去吧。",
+      "formal_pinyin": "Wǒmen xiàwǔ yào qù tī zúqiú, zhènghǎo yīqǐ qù ba.",
+      "formal_translation": "We're going to play football this afternoon, let's go together.",
+      "colloquial_pattern": "赶得早不如赶得巧 / 凑巧",
+      "colloquial_version": "咱下午去踢球, 你来得<b>正好</b>, <b>凑巧</b>一块儿呗。",
+      "colloquial_pinyin": "Zán xiàwǔ qù tīqiú, nǐ láide zhènghǎo, còuqiǎo yīkuàir bei.",
+      "colloquial_translation": "We're playing ball this afternoon. You came at just the right time, let's just go together.",
+      "nuance": "Using '凑巧' (coincidentally) or ending with '呗' makes it sound more casual and friendly among peers."
+    },
+    {
+      "point": "差不多",
+      "explanation": "'差不多' can be used as an adjective to mean 'approximate' or 'without much difference'. It can also be used as an adverb to indicate being close in terms of degree, scope, time, distance, or quantity.",
+      "formal_example": "班里同学你联系得怎么样了？来多少人？<b>差不多</b>一半儿吧。",
+      "formal_pinyin": "Bānlǐ tóngxué nǐ liánxì de zěnmeyàng le? Lái duōshǎo rén? Chàbuduō yībànr ba.",
+      "formal_translation": "How's the contact with the classmates going? How many are coming? About half, I guess.",
+      "colloquial_pattern": "大差不差 (dà chā bù chā) / 基本上 (jīběn shàng)",
+      "colloquial_version": "班里人联系得<b>大差不差</b>了，<b>基本上</b>能来一半儿。",
+      "colloquial_pinyin": "Bānlǐ rén liánxì de dà chā bù chā le, jīběn shàng néng lái yībànr.",
+      "colloquial_translation": "The classmates are mostly contacted, basically about half can come.",
+      "nuance": "'大差不差' is a more northern, idiomatic way to say 'almost there' or 'pretty much' in a colloquial setting."
+    },
+    {
+      "point": "差不多 vs 几乎",
+      "explanation": "Both mean 'almost', but '差不多' is more common in spoken Chinese and can be an adjective or precede numbers. '几乎' is more formal and often used for undesirable things that almost happened.",
+      "formal_example": "他汉语说得很好, <b>几乎</b>跟中国人一样 / 我<b>几乎</b>忘了告诉你了。",
+      "formal_pinyin": "Tā hànyǔ shuō de hěn hǎo, jīhū gēn Zhōngguórén yīyàng / Wǒ jīhū wàngle gàosù nǐ le.",
+      "formal_translation": "He speaks Chinese so well, he's almost like a native / I almost forgot to tell you.",
+      "colloquial_pattern": "差一点儿 (chà yīdiǎnr)",
+      "colloquial_version": "哎呀，我<b>差一点儿</b>就忘了跟你说这事儿了。",
+      "colloquial_pinyin": "Āiyā, wǒ chà yīdiǎnr jiù wàngle gēn nǐ shuō zhè shìr le.",
+      "colloquial_translation": "Oops, I almost forgot to tell you about this matter.",
+      "nuance": "In daily speech, '差一点儿' is much more frequently used than '几乎' to describe a close call or something that almost happened but didn't."
+    },
+    {
+      "point": "尽管",
+      "explanation": "'尽管' is a conjunction used to state a fact in the first clause, followed by a transition word like '但是', '可是', '却', or '还是' in the second clause to show a result that wouldn't normally happen.",
+      "formal_example": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。",
+      "formal_pinyin": "Jǐnguǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de.",
+      "formal_translation": "Although we have been graduated for many years, we still keep in regular contact.",
+      "colloquial_pattern": "虽说... (suīshuō...)",
+      "colloquial_version": "<b>虽说</b>毕业好久了，咱俩这关系还是杠杠的，经常聚聚。",
+      "colloquial_pinyin": "Suīshuō bìyè hǎojiǔ le, zán liǎ zhè guānxì háishì gànggàng de, jīngcháng jùju.",
+      "colloquial_translation": "Even though we graduated ages ago, our relationship is still solid; we get together often.",
+      "nuance": "'虽说' is a very common oral substitute for '尽管' or '虽然'. Adding '杠杠的' (slang for excellent/solid) makes the sentence sound like a real conversation between close friends."
+    },
+    {
+      "point": "却",
+      "explanation": "The adverb '却' is used after the subject and before the verb to indicate a transition in meaning, often with a softer tone than '但是'.",
+      "formal_example": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。",
+      "formal_pinyin": "Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu.",
+      "formal_translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends.",
+      "colloquial_pattern": "倒 (dào) / 反而 (fǎn'ér)",
+      "colloquial_version": "住对门儿好几年，<b>倒</b>连个招呼都没打过，真是够尴尬的。",
+      "colloquial_pinyin": "Zhù duìménr hǎojǐ nián, dào lián gè zhāohu dōu méi dǎ guò, zhēnshi gòu gāngà de.",
+      "colloquial_translation": "Living across from each other for years, yet not even a greeting was exchanged; it's quite awkward.",
+      "nuance": "In spoken Chinese, '倒' is often used similarly to '却' to express something unexpected or contrary to expectation. Adding '够...的' emphasizes the degree of the situation (awkwardness)."
+    },
+    {
+      "point": "而",
+      "explanation": "The conjunction '而' is used in compound sentences to connect two clauses. It can represent a coordinate relationship (parallel) or an adversative relationship (contrast/transition).",
+      "formal_example": "有些人觉得朋友就是能和自己一起快乐的人，<b>而</b>我的理解是：当你遇到困难的时候，真正的朋友会站出来，及时给你帮助。",
+      "formal_pinyin": "Yǒuxiē rén juédé péngyǒu jiùshì néng hé zìjǐ yīqǐ kuàilè de rén, ér wǒ de lǐjiě shì: dāng nǐ yùdào kùnnan de shíhou, zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
+      "formal_translation": "Some people feel that friends are just people who can be happy with them, but my understanding is: when you encounter difficulties, a true friend will stand up and give you timely help.",
+      "colloquial_pattern": "..., 可是 (kěshì) / ..., 倒 (dào)",
+      "colloquial_version": "大家都忙着玩手机，<b>而</b>他却在一旁安静地看书。",
+      "colloquial_pinyin": "Dàjiā dōu mángzhe wán shǒujī, ér tā què zài yīpáng ānjìng de kànshū.",
+      "colloquial_translation": "Everyone is busy playing on their phones, while he is quietly reading a book on the side.",
+      "nuance": "'而' is slightly more formal and elegant than '但是' or '可是'. It is often used to create a balanced comparison between two subjects or situations. In daily conversation, it's frequently paired with '却' to strengthen the contrast."
+    }
+  ],
+  "key_sentences": [
+    {
+      "text": "来中国快一年了，你<b>适应</b>这儿的生活了吗？",
+      "pinyin": "Lái Zhōngguó kuài yīnián le, nǐ shìyìng zhèr de shēnghuó le ma?",
+      "translation": "Have you got used to the life here after being in China for nearly a year?"
+    },
+    {
+      "text": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。",
+      "pinyin": "Jǐnguǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de.",
+      "translation": "Although we have been graduated for many years, we still keep in regular contact."
+    },
+    {
+      "text": "真正的朋友会站出来，<b>及时</b>给你帮助。",
+      "pinyin": "Zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
+      "translation": "A true friend will stand up and give you timely help."
+    },
+    {
+      "text": "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。",
+      "pinyin": "Měi gèrén dōu xūyào péngyǒu, péngyǒu kěyǐ fēngfù wǒmen de shēnghuó.",
+      "translation": "Everyone needs friends, and friends can enrich our lives."
+    },
+    {
+      "text": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。",
+      "pinyin": "Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu.",
+      "translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends."
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "小夏和马克聊马克的中国朋友 (Xiao Xia and Mark talk about Mark's Chinese friend)",
+      "content": [
+        {
+          "speaker": "小夏",
+          "text": "来中国快一年了，你<b>适应</b>这儿的生活了吗？",
+          "pinyin": "Lái Zhōngguó kuài yīnián le, nǐ shìyìng zhèr de shēnghuó le ma?",
+          "translation": "You've been in China for almost a year. Have you got used to the life here?"
+        },
+        {
+          "speaker": "马克",
+          "text": "开始有点儿不习惯，后来就慢慢<b>适应</b>了，最近我还<b>交</b>了一个中国朋友。",
+          "pinyin": "Kāishǐ yǒudiǎnr bù xíguàn, hòulái jiù mànman shìyìng le, zuìjìn wǒ hái jiāo le yīgè Zhōngguó péngyǒu.",
+          "translation": "At first, I wasn't used to it, but later I gradually adapted. Recently, I also made a Chinese friend."
+        },
+        {
+          "speaker": "小夏",
+          "text": "那就好，快给我讲讲你新<b>交</b>的中国朋友。",
+          "pinyin": "Nà jiù hǎo, kuài gěi wǒ jiǎngjiang nǐ xīn jiāo de Zhōngguó péngyǒu.",
+          "translation": "That's good. Tell me about your new Chinese friend."
+        },
+        {
+          "speaker": "马克",
+          "text": "我们是在图书馆认识的。<b>平时</b>我们常常一起看书、<b>逛</b>街、踢足球。有时候他还给我发一些幽默<b>短信</b>。",
+          "pinyin": "Wǒmen shì zài túshūguǎn rènshi de. Píngshí wǒmen chángcháng yīqǐ kànshū, guàngjiē, tī zúqiú. Yǒushíhòu tā hái gěi wǒ fā yīxiē yōumò duǎnxìn.",
+          "translation": "We met in the library. Normally, we often read books, go shopping, and play football together. Sometimes he also sends me some humorous text messages."
+        },
+        {
+          "speaker": "小夏",
+          "text": "你的这个朋友真不错！下次介绍我们认识认识，怎么样？",
+          "pinyin": "Nǐ de zhège péngyǒu zhēn bùcuò! Xiàcì jièshào wǒmen rènshi rènshi, zěnmeyàng?",
+          "translation": "This friend of yours is really good! How about introducing us next time?"
+        },
+        {
+          "speaker": "马克",
+          "text": "没问题！我们下午要去踢足球，<b>正好</b>一起去吧。",
+          "pinyin": "Méi wèntí! Wǒmen xiàwǔ yào qù tī zúqiú, zhènghǎo yīqǐ qù ba.",
+          "translation": "No problem! We're going to play football this afternoon, let's go together."
+        }
+      ],
+      "audio": "audio/02-1.mp3",
+      "proper_nouns": [
+        {
+          "word": "夏",
+          "pinyin": "Xià",
+          "meaning": "Xia, a Chinese family name"
+        },
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "Mark"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "适应",
+          "pinyin": "shìyìng",
+          "meaning": "v. to get used to"
+        },
+        {
+          "word": "交",
+          "pinyin": "jiāo",
+          "meaning": "v. to make (friends)"
+        },
+        {
+          "word": "平时",
+          "pinyin": "píngshí",
+          "meaning": "n. normal times"
+        },
+        {
+          "word": "逛",
+          "pinyin": "guàng",
+          "meaning": "v. to stroll, to roam"
+        },
+        {
+          "word": "短信",
+          "pinyin": "duǎnxìn",
+          "meaning": "n. text message"
+        },
+        {
+          "word": "正好",
+          "pinyin": "zhènghǎo",
+          "meaning": "adv. just in time, just right"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "小李和小林聊同学聚会的事情 (Xiao Li and Xiao Lin talk about the classmate reunion)",
+      "content": [
+        {
+          "speaker": "小李",
+          "text": "星期天同学<b>聚会</b>，你能来吗？",
+          "pinyin": "Xīngqītiān tóngxué jùhuì, nǐ néng lái ma?",
+          "translation": "There's a classmate reunion on Sunday. Can you come?"
+        },
+        {
+          "speaker": "小林",
+          "text": "能来。班里同学你<b>联系</b>得怎么样了？来多少人？",
+          "pinyin": "Néng lái. Bānlǐ tóngxué nǐ liánxì de zěnmeyàng le? Lái duōshǎo rén?",
+          "translation": "I can. How's the contacting of the classmates going? How many people are coming?"
+        },
+        {
+          "speaker": "小李",
+          "text": "<b>差不多</b>一半儿吧，张远还<b>专门</b>从国外飞回来呢。",
+          "pinyin": "Chàbuduō yībànr ba, Zhāng Yuǎn hái zhuānmén cóng guówài fēi huílái ne.",
+          "translation": "About half, I'd say. Zhang Yuan even specially flew back from abroad."
+        },
+        {
+          "speaker": "小林",
+          "text": "是吗？<b>毕业</b>都快十年了，真想大家啊！对了，今天早上，我在地铁站遇到了王静，她<b>毕业</b>后就去上海工作了，她这次是来旅游的。",
+          "pinyin": "Shì ma? Bìyè dōu kuài shí nián le, zhēn xiǎng dàjiā a! Duìle, jīntiān zǎoshang, wǒ zài dìtiézhàn yùdào le Wáng Jìng, tā bìyè hòu jiù qù Shànghǎi gōngzuò le, tā zhècì shì lái lǚyóu de.",
+          "translation": "Really? It's been almost ten years since graduation, I really miss everyone! By the way, I met Wang Jing at the subway station this morning. She went to work in Shanghai after graduation, and she's here for a trip this time."
+        },
+        {
+          "speaker": "小李",
+          "text": "那太好了！<b>麻烦</b>你跟她<b>联系</b>一下，请 she 一起来参加同学<b>聚会</b>。<b>聚会</b>就在学校门口那个饭店，六点半。别迟到啊！",
+          "pinyin": "Nà tài hǎo le! Máfan nǐ gēn tā liánxì yīxià, qǐng tā yīqǐ lái cānjiā tóngxué jùhuì. Jùhuì jiù zài xuéxiào ménkǒu nàge fàndiàn, liùdiǎn bàn. Bié chídào a!",
+          "translation": "That's great! Could I trouble you to contact her and invite her to join the reunion? The reunion is at the restaurant at the school entrance, at 6:30. Don't be late!"
+        },
+        {
+          "speaker": "小林",
+          "text": "放心吧。星期天六点半见！",
+          "pinyin": "Fàngxīn ba. Xīngqītiān liùdiǎn bàn jiàn!",
+          "translation": "Don't worry. See you at 6:30 on Sunday!"
+        }
+      ],
+      "audio": "audio/02-2.mp3",
+      "proper_nouns": [
+        {
+          "word": "林",
+          "pinyin": "Lín",
+          "meaning": "Lin, a Chinese family name"
+        },
+        {
+          "word": "张远",
+          "pinyin": "Zhāng Yuǎn",
+          "meaning": "Zhang Yuan, name of a person"
+        },
+        {
+          "word": "上海",
+          "pinyin": "Shànghǎi",
+          "meaning": "Shanghai, a city of China"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "聚会",
+          "pinyin": "jùhuì",
+          "meaning": "v./n. to have a party; party, get-together"
+        },
+        {
+          "word": "联系",
+          "pinyin": "liánxì",
+          "meaning": "v. to contact"
+        },
+        {
+          "word": "差不多",
+          "pinyin": "chàbuduō",
+          "meaning": "adv. almost"
+        },
+        {
+          "word": "专门",
+          "pinyin": "zhuānmén",
+          "meaning": "adv. specially"
+        },
+        {
+          "word": "毕业",
+          "pinyin": "bìyè",
+          "meaning": "v. to graduate"
+        },
+        {
+          "word": "麻烦",
+          "pinyin": "máfan",
+          "meaning": "v. to bother"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "孙月和王静聊她们的朋友 (Sun Yue and Wang Jing talk about their friends)",
+      "content": [
+        {
+          "speaker": "孙月",
+          "text": "这是什么时候的照片？你真年轻！",
+          "pinyin": "Zhè shì shénme shíhou de zhàopiàn? Nǐ zhēn niánqīng!",
+          "translation": "When was this photo taken? You look so young!"
+        },
+        {
+          "speaker": "王静",
+          "text": "这是上大学时的照片。一看到这张照片，我就想起过去那段快乐的日子，<b>好像重新</b>回到了校园。",
+          "pinyin": "Zhè shì shàng dàxué shí de zhàopiàn. Yī kàndào zhè zhāng zhàopiàn, wǒ jiù xiǎngqǐ guòqù nà duàn kuàilè de rìzi, hǎoxiàng chóngxīn huídào le xiàoyuán.",
+          "translation": "This is a photo from my university days. As soon as I see this photo, I think of those happy days in the past, as if I've returned to the campus."
+        },
+        {
+          "speaker": "孙月",
+          "text": "旁边这个人一定是你的好朋友吧？你们现在还联系吗？",
+          "pinyin": "Pángbiān zhège rén yīdìng shì nǐ de hǎo péngyǒu ba? Nǐmen xiànzài hái liánxì ma?",
+          "translation": "The person next to you must be your good friend, right? Are you still in contact?"
+        },
+        {
+          "speaker": "王静",
+          "text": "当然了，<b>尽管</b>已经毕业这么多年，我们还是经常联系的，每次都有说不完的话。",
+          "pinyin": "Dāngrán le, jǐn'guǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de, měicì dōu yǒu shuō bù wán de huà.",
+          "translation": "Of course. Although it's been many years since graduation, we are still in regular contact. Every time we talk, we have endless things to say."
+        },
+        {
+          "speaker": "孙月",
+          "text": "真羡慕你！我上大学时最好的朋友去了南方工作，我们俩已经好久没联系了。我一会儿就给她打个电话。",
+          "pinyin": "Zhēn xiànmù nǐ! Wǒ shàng dàxué shí zuì hǎo de péngyǒu qù le nánfāng gōngzuò, wǒmen liǎ yǐjīng hǎojiǔ méi liánxì le. Wǒ yīhuìr jù gěi tā dǎ gè diànhuà.",
+          "translation": "I really envy you! My best friend from university went to work in the south, and we haven't been in contact for a long time. I'll give her a call in a bit."
+        },
+        {
+          "speaker": "王静",
+          "text": "对。要知道，能有一个<b>真正</b>的朋友，有一段<b>真正</b>的<b>友谊</b>，是多么不容易！",
+          "pinyin": "Duì. Yào zhīdào, néng yǒu yīgè zhēnzhèng de péngyǒu, yǒu yīduàn zhēnzhèng de yǒuyì, shì duōme bù róngyì!",
+          "translation": "Right. You know, having a true friend and a true friendship is not easy at all!"
+        }
+      ],
+      "audio": "audio/02-3.mp3",
+      "vocabulary": [
+        {
+          "word": "好像",
+          "pinyin": "hǎoxiàng",
+          "meaning": "adv. as if"
+        },
+        {
+          "word": "重新",
+          "pinyin": "chóngxīn",
+          "meaning": "adv. again, once more"
+        },
+        {
+          "word": "尽管",
+          "pinyin": "jǐn'guǎn",
+          "meaning": "conj. although"
+        },
+        {
+          "word": "真正",
+          "pinyin": "zhēnzhèng",
+          "meaning": "adj. true, real"
+        },
+        {
+          "word": "友谊",
+          "pinyin": "yǒuyì",
+          "meaning": "n. friendship"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "丰富生活 (Enriching Life - Monologue)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。离开朋友，我们的生活一定会非常<b>无聊</b>。那么，怎样才能交到更多的朋友呢？当然，要有好脾气. 一个脾气不好的人虽然不一定让人<b>讨厌</b>，但是<b>却</b>很难跟人交朋友. 因为没有人会喜欢跟一个总是容易生气的人在一起. 我们还要经常跟<b>周围</b>的人<b>交流</b>. <b>交流</b>能让人们互相了解, 如果有共同的兴趣、爱好或者习惯，就更容易成为朋友了。",
+          "pinyin": "Měi gèrén dōu xūyào péngyǒu, péngyǒu kěyǐ fēngfù wǒmen de shēnghuó. Líkāi péngyǒu, wǒmen de shēnghuó yīdìng huì fēicháng wúliáo. Nàme, zěnyàng cáinéng jiāo dào gèng duō de péngyǒu ne? Dāngrán, yào yǒu hǎo píqi. Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu. Yīnwèi méiyǒu rén huì xǐhuān gēn yīgè zǒngshì róngyì shēngqì de rén zài yīqǐ. Wǒmen hái yào jīngcháng gēn zhōuwéi de rén jiāoliú. Jiāoliú néng ràng rénmen hùxiāng liǎojiě, rúguǒ yǒu gòngtóng de xìngqù, àihào huòzhě xíguàn, jiù gèng róngyì chéngwéi péngyǒu le.",
+          "translation": "Everyone needs friends, and friends can enrich our lives. Without friends, our lives will definitely be very boring. So, how can we make more friends? Of course, you need to have a good temper. Although a person with a bad temper may not necessarily be disliked, it is difficult for them to make friends. This is because no one likes to be with someone who gets angry easily. We should also frequently communicate with the people around us. Communication allows people to understand each other; if there are common interests, hobbies, or habits, it becomes easier to become friends."
+        }
+      ],
+      "audio": "audio/02-4.mp3",
+      "vocabulary": [
+        {
+          "word": "丰富",
+          "pinyin": "fēngfù",
+          "meaning": "v. to enrich"
+        },
+        {
+          "word": "无聊",
+          "pinyin": "wúliáo",
+          "meaning": "adj. boring"
+        },
+        {
+          "word": "讨厌",
+          "pinyin": "tǎoyàn",
+          "meaning": "v. to dislike"
+        },
+        {
+          "word": "却",
+          "pinyin": "què",
+          "meaning": "adv. but, yet"
+        },
+        {
+          "word": "周围",
+          "pinyin": "zhōuwéi",
+          "meaning": "n. surrounding"
+        },
+        {
+          "word": "交流",
+          "pinyin": "jiāoliú",
+          "meaning": "v. to exchange, to communicate"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "什么是真正的朋友 (What is a True Friend - Monologue)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "人的一生可以什么都没有，但不能没有朋友，而且必须要有自己真正的朋友。什么是真正的朋友？不同的人会有不同的<b>理解</b>。有些人觉得朋友就是能和自己一起快乐的人；有些人觉得朋友应该像<b>镜子</b>，能帮自己看到缺点。<b>而</b>我的<b>理解</b>是：<b>当</b>你遇到<b>困难</b>的时候，真正的朋友会站出来，<b>及时</b>给你帮助；<b>当</b>你无聊或者难过的时候，真正的朋友会<b>陪</b>在你身边，想办法让你感到幸福。",
+          "pinyin": "Rén de yīshēng kěyǐ shénme dōu méiyǒu, dàn bùnéng méiyǒu péngyǒu, érqiě bìxū yào yǒu zìjǐ zhēnzhèng de péngyǒu. Shénme shì zhēnzhèng de péngyǒu? Bùtóng de rén huì yǒu bùtóng de lǐjiě. Yǒuxiē rén juédé péngyǒu jiùshì néng hé zìjǐ yīqǐ kuàilè de rén; yǒuxiē rén juédé péngyǒu yīnggāi xiàng jìngzi, néng bāng zìjǐ kàndào quēdiǎn. Ér wǒ de lǐjiě shì: Dāng nǐ yùdào kùnnan de shíhou, zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù; dāng nǐ wúliáo huòzhě nánguò de shíhou, zhēnzhèng de péngyǒu huì péi zài nǐ shēnbiān, xiǎng bànfǎ ràng nǐ gǎndào xìngfú.",
+          "translation": "A person can have nothing in their life, but they cannot be without friends, and they must have their own true friends. What is a true friend? Different people have different understandings. Some people feel that a friend is someone who can be happy with them; some feel that a friend should be like a mirror, helping them see their shortcomings. But my understanding is: when you encounter difficulties, a true friend will stand up and give you timely help; when you are bored or sad, a true friend will stay by your side and find ways to make you feel happy."
+        }
+      ],
+      "audio": "audio/02-5.mp3",
+      "vocabulary": [
+        {
+          "word": "理解",
+          "pinyin": "lǐjiě",
+          "meaning": "v. to understand"
+        },
+        {
+          "word": "镜子",
+          "pinyin": "jìngzi",
+          "meaning": "n. mirror"
+        },
+        {
+          "word": "而",
+          "pinyin": "ér",
+          "meaning": "conj. (showing a contrast) while, yet"
+        },
+        {
+          "word": "当",
+          "pinyin": "dāng",
+          "meaning": "prep. when, just at (a time or place)"
+        },
+        {
+          "word": "困难",
+          "pinyin": "kùnnan",
+          "meaning": "n. difficulty"
+        },
+        {
+          "word": "及时",
+          "pinyin": "jíshí",
+          "meaning": "adv. in time"
+        },
+        {
+          "word": "陪",
+          "pinyin": "péi",
+          "meaning": "v. to accompany"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "ko": {
+      "vocabulary": {
+        "适应": "적응하다",
+        "交": "사귀다",
+        "平时": "평소",
+        "逛": "거닐다, 구경하다",
+        "短信": "문자 메시지",
+        "正好": "마침, 알맞다",
+        "聚会": "모임, 파티",
+        "联系": "연락하다",
+        "差不多": "거의 비슷하다",
+        "专门": "전문적으로, 특별히",
+        "毕业": "졸업하다",
+        "麻烦": "번거롭게 하다",
+        "好像": "마치 ~인 것 같다",
+        "重新": "다시, 새로이",
+        "尽管": "비록 ~일지라도",
+        "真正": "진짜의, 진정한",
+        "友谊": "우정",
+        "丰富": "풍부하게 하다, 풍부하다",
+        "无聊": "무료하다, 심심하다",
+        "讨厌": "싫어하다",
+        "却": "오히려, 도리어",
+        "周围": "주위",
+        "交流": "교류하다, 소통하다",
+        "理解": "이해하다",
+        "镜子": "거울",
+        "而": "그러나, 그런데",
+        "当": "~할 때",
+        "困难": "곤란, 어려움",
+        "及时": "제때에, 즉시",
+        "陪": "동반하다, 함께 있다"
+      },
+      "properNouns": {
+        "夏": "인명: 샤",
+        "马克": "마크",
+        "林": "인명: 린",
+        "张远": "인명: 장위안",
+        "上海": "상하이"
+      },
+      "grammar": {
+        "正好": {
+          "formal_translation": "우리 오후에 축구 하러 갈 건데, 마침 잘 됐네, 같이 가자.",
+          "colloquial_translation": "우리 오후에 축구 하러 가는데, 너 마침 잘 왔다. 같이 갈래?"
+        },
+        "差不多": {
+          "formal_translation": "반 친구들에게는 연락이 어떻게 되었나요? 몇 명이나 오나요? 거의 절반 정도일 거예요.",
+          "colloquial_translation": "과 애들한테 연락 다 돌렸어? 얼마나 온대? 대충 절반은 올걸."
+        },
+        "差不多 vs 几乎": {
+          "formal_translation": "그는 중국어를 아주 잘해서 거의 중국인 같다 / 내가 너에게 말하는 것을 거의 잊을 뻔했다.",
+          "colloquial_translation": "와, 얘 중국어 진짜 잘한다. 거의 중국 사람인 줄 알겠어. 아, 맞다! 하마터면 너한테 이 얘기 하는 거 까먹을 뻔했네."
+        },
+        "尽管": {
+          "formal_translation": "비록 졸업한 지 이렇게 오래되었지만, 우리는 여전히 자주 연락한다.",
+          "colloquial_translation": "졸업한 지가 언젠데, 우리 사이는 아직도 짱짱해. 자주 보거든."
+        },
+        "却": {
+          "formal_translation": "성격이 좋지 않은 사람이 반드시 미움을 받는 것은 아니지만, 친구를 사귀기는 매우 어렵다.",
+          "colloquial_translation": "성격 안 좋다고 다들 싫어하는 건 아닌데, 친구 사귀기는 확실히 좀 힘들지."
+        },
+        "而": {
+          "formal_translation": "어떤 이들은 친구가 자신과 함께 즐거울 수 있는 사람이라고 생각하지만, 나의 이해는 이렇다: 당신이 어려움에 처했을 때, 진정한 친구는 발 벗고 나서서 제때 도움을 주는 사람이다.",
+          "colloquial_translation": "친구라는 게 같이 놀 때만 좋은 사람도 있겠지만, 내가 생각하는 진짜 친구는 말이야, 힘들 때 딱 나타나서 도와주는 그런 사람이야."
+        }
+      },
+      "keySentences": {
+        "来中国快一年了，你<b>适应</b>这儿的生活了吗？": {
+          "translation": "중국에 온 지 곧 1년이 되는데, 이곳 생활에 적응했니?",
+          "colloquial_translation": "중국 온 지도 벌써 1년 다 돼가네. 이제 좀 살만해?",
+          "context": "상대방의 적응 상태를 물어볼 때."
+        },
+        "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。": {
+          "translation": "비록 졸업한 지 이렇게 오래되었지만, 우리는 여전히 자주 연락한다.",
+          "colloquial_translation": "졸업하고 한참 지났는데도 우린 여전히 자주 연락하고 지내.",
+          "context": "오랜 우정을 강조할 때."
+        },
+        "真正的朋友会站出来，<b>及时</b>给你帮助。": {
+          "translation": "진정한 친구는 발 벗고 나서서 제때 도움을 준다.",
+          "colloquial_translation": "진짜 친구라면 어려울 때 딱 나타나서 도와줘야지.",
+          "context": "진정한 우정의 정의를 말할 때."
+        },
+        "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。": {
+          "translation": "누구나 친구가 필요하며, 친구는 우리의 삶을 풍요롭게 해 준다.",
+          "colloquial_translation": "사람한테 친구가 없으면 안 돼. 친구가 있어야 사는 게 즐겁지.",
+          "context": "친구의 중요성을 말할 때."
+        },
+        "一个脾气不好的人虽然不一定让人讨厌，하지만 <b>却</b>很难跟人交朋友。": {
+          "translation": "성격이 좋지 않은 사람이 반드시 미움을 받는 것은 아니지만, 친구를 사귀기는 매우 어렵다.",
+          "colloquial_translation": "성격 좀 까칠하다고 다 싫어하는 건 아니지만, 친구 사귀기는 확실히 어렵긴 해.",
+          "context": "성격과 교우 관계에 대해 조언할 때."
+        }
+      },
+      "texts": {
+        "1": {
+          "lines": {
+            "0": "중국에 온 지 곧 1년이 되는데, 이곳 생활에 적응했니?",
+            "1": "처음에는 좀 익숙하지 않았는데, 나중에는 천천히 적응했어. 최근에는 중국 친구도 한 명 사귀었어.",
+            "2": "그거 잘됐네! 새로 사귄 중국 친구 이야기 좀 해줘.",
+            "3": "우리 도서관에서 알게 됐어. 평소에 우리는 자주 같이 책도 보고, 쇼핑도 하고, 축구도 해. 가끔은 그가 유머러스한 문자 메시지도 보내줘.",
+            "4": "네 친구 정말 괜찮네! 다음에 우리도 인사 시켜줘, 어때?",
+            "5": "문제없지! 우리 오후에 축구 하러 갈 건데, 마침 잘 됐네, 같이 가자."
+          }
+        },
+        "2": {
+          "lines": {
+            "0": "일요일에 동창회 하는데, 너 올 수 있어?",
+            "1": "갈 수 있지. 반 친구들한테는 연락이 어떻게 됐어? 몇 명이나 온대?",
+            "2": "거의 절반 정도 올 거야. 장위안은 특별히 외국에서 비행기 타고 돌아온대.",
+            "3": "그래? 졸업한 지 곧 10년인데, 다들 정말 보고 싶다! 아 참, 오늘 아침에 지하철역에서 왕징을 만났어. 그녀는 졸업 후에 상하이로 가서 일했는데, 이번에는 여행하러 왔대.",
+            "4": "와 잘됐다! 번거롭겠지만 그녀에게 연락 좀 해서 동창회에 같이 오라고 해줘. 모임은 학교 정문 앞 식당에서 6시 반이야. 늦지 마!",
+            "5": "걱정 마. 일요일 6시 반에 봐!"
+          }
+        },
+        "3": {
+          "lines": {
+            "0": "이건 언제 찍은 사진이야? 너 정말 젊다!",
+            "1": "이건 대학교 때 사진이야. 이 사진만 보면 예전의 그 즐거웠던 날들이 생각나서, 마치 다시 캠퍼스로 돌아간 것 같아.",
+            "2": "옆에 이 사람은 분명 네 친한 친구지? 너희 지금도 연락하니?",
+            "3": "당연하지. 비록 졸업한 지 이렇게 오래되었지만, 우리는 여전히 자주 연락해. 만날 때마다 할 말이 끝이 없다니까.",
+            "4": "정말 부럽다! 내가 대학교 때 가장 친했던 친구는 남쪽으로 일하러 가서 우리 둘은 한참 동안 연락을 못 했어. 이따가 그녀에게 전화 한 통 해봐야겠다.",
+            "5": "그래. 진정한 친구 한 명, 진정한 우정 하나를 갖는다는 게 얼마나 쉽지 않은 일인지 알아야 해!"
+          }
+        },
+        "4": {
+          "lines": {
+            "0": "누구나 친구가 필요하며, 친구는 우리의 삶을 풍요롭게 해 준다. 친구를 떠나면 우리의 삶은 분명 매우 무료해질 것이다. 그렇다면 어떻게 해야 더 많은 친구를 사귈 수 있을까? 물론 좋은 성격을 가져야 한다. 성격이 좋지 않은 사람이 반드시 미움을 받는 것은 아니지만, 친구를 사귀기는 매우 어렵다. 왜냐하면 아무도 늘 쉽게 화를 내는 사람과 함께 있고 싶어 하지 않기 때문이다. 우리는 또한 주변 사람들과 자주 소통해야 한다. 소통은 사람들이 서로를 이해하게 해 주며, 공통의 관심사나 취미, 습관이 있다면 친구가 되기 더 쉽다."
+          }
+        },
+        "5": {
+          "lines": {
+            "0": "사람은 인생에서 아무것도 없을 수 있지만, 친구가 없을 수는 없으며, 반드시 자신만의 진정한 친구가 있어야 한다. 진정한 친구란 무엇일까? 사람마다 이해하는 바가 다를 것이다. 어떤 이들은 친구가 자신과 함께 즐거울 수 있는 사람이라고 생각하고, 어떤 이들은 친구가 거울처럼 자신의 단점을 보게 도와주는 사람이어야 한다고 생각한다. 하지만 나의 이해는 이렇다: 당신이 어려움에 처했을 때, 진정한 친구는 발 벗고 나서서 제때 도움을 주는 사람이다. 당신이 무료하거나 슬플 때, 진정한 친구는 곁에 있어 주며 당신을 행복하게 해 줄 방법을 찾는 사람이다."
+          }
+        }
+      }
+    },
+    "ja": {
+      "vocabulary": {
+        "适应": "適応する、慣れる",
+        "交": "交わる、(友達を)作る",
+        "平时": "平生、普段",
+        "逛": "ぶらぶら歩く、見て回る",
+        "短信": "ショートメール",
+        "正好": "ちょうどよい",
+        "聚会": "集まり、パーティー",
+        "联系": "連絡する",
+        "差不多": "ほとんど同じ、だいたい",
+        "专门": "専門的に、わざわざ",
+        "毕业": "卒業する",
+        "麻烦": "面倒をかける、お手数ですが",
+        "好像": "まるで〜のようだ",
+        "重新": "改めて、再び",
+        "尽管": "たとえ〜でも、〜にもかかわらず",
+        "真正": "本物の、真の",
+        "友谊": "友情",
+        "丰富": "豊かにする、豊富な",
+        "无聊": "退屈だ",
+        "讨厌": "嫌う、嫌な",
+        "却": "かえって、しかし",
+        "周围": "周囲",
+        "交流": "交流する、やり取りする",
+        "理解": "理解する",
+        "镜子": "鏡",
+        "而": "しかも、しかし",
+        "当": "〜の時",
+        "困难": "困難",
+        "及时": "タイミングよく、すぐに",
+        "陪": "付き添う、一緒にいる"
+      },
+      "properNouns": {
+        "夏": "人名: 夏",
+        "马克": "マーク",
+        "林": "人名: 林",
+        "张远": "人名: 張遠",
+        "上海": "上海"
+      },
+      "grammar": {
+        "正好": {
+          "formal_translation": "午後からサッカーに行くんだ、ちょうどいいから一緒に行こうよ。",
+          "colloquial_translation": "午後からサッカー行くんだけど、君、ちょうどいいところに来たね。一緒にどう？"
+        },
+        "差不多": {
+          "formal_translation": "クラスメートへの連絡はどうなりましたか？何人くらい来ますか？だいたい半分くらいでしょう。",
+          "colloquial_translation": "クラスのみんなに連絡ついた？何人くらい来れそう？まあ、ざっと半分ってとこかな。"
+        },
+        "差不多 vs 几乎": {
+          "formal_translation": "彼は中国語がとても上手で、ほとんど中国人のようだ / あなたに言うのをほとんど忘れるところだった。",
+          "colloquial_translation": "うわ、彼中国語めちゃくちゃ上手いね。もう中国人かと思ったよ。あ、いっけな！君にこのこと言うの、危うく忘れるところだった。"
+        },
+        "尽管": {
+          "formal_translation": "卒業してもう何年も経つが、私たちは今でもよく連絡を取り合っている。",
+          "colloquial_translation": "卒業してから随分経つけど、うちらの仲は相変わらずだよ。しょっちゅう会ってるしね。"
+        },
+        "却": {
+          "formal_translation": "性格が良くない人が必ずしも嫌われるわけではないが、友達を作るのは非常に難しい。",
+          "colloquial_translation": "性格に難があるからって皆に嫌われるとは限らないけど、友達作りとなると話は別だよね。"
+        },
+        "而": {
+          "formal_translation": "ある人は友達を自分と一緒に楽しく過ごせる人だと考えるが、私の理解はこうだ：困難に直面したとき、本当の友達は立ち上がって、タイミングよく助けてくれるものだ。",
+          "colloquial_translation": "友達ってのは一緒に遊んで楽しいだけの人もいるだろうけどさ、私が思う本当の友達ってのは、困った時にパッと現れて助けてくれる、そんな人のことだよ。"
+        }
+      },
+      "keySentences": {
+        "来中国快一年了，你<b>适应</b>这儿的生活了吗？": {
+          "translation": "中国に来てそろそろ一年になるけど、ここの生活には慣れた？",
+          "colloquial_translation": "中国に来てからもうすぐ一年だね。こっちの生活、馴染んできた？",
+          "context": "相手の適応具合を尋ねるとき。"
+        },
+        "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。": {
+          "translation": "卒業してもう何年も経つけど、私たちは今でもよく連絡を取り合っている。",
+          "colloquial_translation": "卒業して随分経つのに、今でもしょっちゅう連絡取り合ってるんだ。",
+          "context": "長い友情を強調するとき。"
+        },
+        "真正的朋友会站出来，<b>及时</b>给你帮助。": {
+          "translation": "本当の友達は立ち上がって、タイミングよく助けてくれるものだ。",
+          "colloquial_translation": "本当の友達なら、いざという時にパッと助けてくれないとね。",
+          "context": "真の友情の定義を語るとき。"
+        },
+        "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。": {
+          "translation": "誰にでも友達は必要で、友達は私たちの生活を豊かにしてくれる。",
+          "colloquial_translation": "人間、友達がいないとね。友達のおかげで人生が豊かになるんだ。",
+          "context": "友達の大切さを語るとき。"
+        },
+        "一个脾气不好的人虽然不一定让人讨厌，但是 <b>却</b>很难跟人交朋友。": {
+          "translation": "性格が良くない人が必ずしも嫌われるわけではないが、友達を作るのは非常に難しい。",
+          "colloquial_translation": "性格がキツいからって嫌われるとは限らないけど、友達を作るのはやっぱり大変だよね。",
+          "context": "性格と友人関係について助言するとき。"
+        }
+      },
+      "texts": {
+        "1": {
+          "lines": {
+            "0": "中国に来てそろそろ一年になるけど、ここの生活には慣れた？",
+            "1": "最初は慣れなかったけど、後からだんだん適応してきたよ。最近は中国人の友達も一人できたんだ。",
+            "2": "それは良かった！新しくできた中国人の友達のこと、早く教えてよ。",
+            "3": "図書館で知り合ったんだ。普段、僕たちはよく一緒に本を読んだり、買い物に行ったり、サッカーをしたりしてるよ。時々、彼が面白いメールを送ってくれることもあるんだ。",
+            "4": "その友達、すごくいいね！今度紹介してよ、どうかな？",
+            "5": "いいよ！午後からサッカーに行くんだ、ちょうどいいから一緒に行こうよ。"
+          }
+        },
+        "2": {
+          "lines": {
+            "0": "日曜日に同窓会があるんだけど、来られる？",
+            "1": "行けるよ。クラスの皆への連絡はどうなった？何人くらい来るかな？",
+            "2": "だいたい半分くらいかな。張遠なんて、わざわざ海外から飛行機で戻ってくるんだよ。",
+            "3": "そうなの？卒業してもうすぐ10年だもんね、皆に本当に会いたいな！あ、そうだ、今朝地下鉄の駅で王静に会ったよ。彼女、卒業後は上海に行って働いてたんだけど、今回は旅行で来てるんだって。",
+            "4": "それはすごい！お手数だけど彼女に連絡して、同窓会に一緒に来るよう誘ってよ。同窓会は学校の正門前のレストランで、6時半からだよ。遅れないでね！",
+            "5": "任せて。日曜日、6時半に会おう！"
+          }
+        },
+        "3": {
+          "lines": {
+            "0": "これはいつの写真？すごく若いね！",
+            "1": "これは大学時代の写真だよ。この写真を見るたびに、昔のあの楽しかった日々を思い出して、まるで大学に戻ったような気分になるんだ。",
+            "2": "隣のこの人は、きっと親友だよね？今でも連絡取り合ってるの？",
+            "3": "もちろんだよ。卒業してもう何年も経つけど、今でもしょっちゅう連絡してるよ。会うたびに話が尽きないんだ。",
+            "4": "本当にうらやましい！私が大学時代一番仲が良かった友達は南の方へ働きに行って、二人でもう長いこと連絡取ってないんだ。後で彼女に電話してみようかな。",
+            "5": "そうだね。一人の本当の友達、一つの本当の友情を持つことがどれほど簡単じゃないか、分かっておかないとね！"
+          }
+        },
+        "4": {
+          "lines": {
+            "0": "誰にでも友達は必要で、友達は私たちの生活を豊かにしてくれる。友達がいなくなれば、私たちの生活はきっと非常に退屈なものになるだろう。では、どうすればもっと多くの友達を作ることができるだろうか。もちろん、良い性格を持つ必要がある。性格が良くない人が必ずしも嫌われるわけではないが、友達を作るのは非常に難しい。なぜなら、いつも怒りやすい人と一緒にいたいと思う人はいないからだ。また、私たちは周囲の人々と頻繁に交流する必要がある。交流は人々がお互いを理解することを可能にし、共通の興味や趣味、習慣があれば、友達になりやすくなるのだ。"
+          }
+        },
+        "5": {
+          "lines": {
+            "0": "人は一生のうちに何も持たなくてもいいが、友達がいないわけにはいかない。そして、自分だけの本当の友達が必ず必要だ。本当の友達とは何だろうか。人によって理解は異なるだろう。ある人は友達を自分と一緒に楽しく過ごせる人だと考え、ある人は友達が鏡のように自分の短所を見るのを助けてくれる人であるべきだと考える。しかし、私の理解はこうだ：困難に直面したとき、本当の友達は立ち上がって、タイミングよく助けてくれるものだ。退屈な時や悲しい時、本当の友達はそばにいてくれて、あなたを幸せにする方法を考えてくれる人である。"
+          }
+        }
+      }
+    }
+  }
+}

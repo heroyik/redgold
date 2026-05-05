@@ -114,14 +114,24 @@ npm run build
 | **Logic** | Forward-only Scroll Sync Engine | ✅ Done |
 | **Pedagogy** | Proper Nouns with Pinyin + English Meaning | ✅ Done |
 | **Versioning** | Pre-commit patch bump + versioned commit messages + header badge | ✅ Done |
-| **Auth** | Firebase Authentication Implementation | ⏳ Next |
-| **Data** | Mastery Quiz System & Progress Tracking | ⏳ Planned |
+| **Auth** | Firebase Authentication Implementation | ✅ Done |
+| **Data** | Mastery Quiz System & Progress Tracking | ⏳ Next |
 
 ---
 
 ## 📋 Changelog
 
 Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
+
+---
+
+### v0.9.49 — 2026-05-05
+> *Firebase Authentication & User Profile.* Identity is now live.
+
+- 🔐 **Firebase Authentication** — Implemented Google Sign-In with a custom `UserMenu` Web Component.
+- 👤 **User Profile UI** — Added a sleek, glassmorphic profile menu to both the landing page and lesson view header, showing user name, email, and photo.
+- 🛠 **Auth Utility** — Created a centralized `auth.ts` utility for handling user state and authentication logic.
+- 🔢 **Version Bump** — Updated to v0.9.49 as part of the automated versioning workflow.
 
 ---
 
