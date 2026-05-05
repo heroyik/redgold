@@ -1,4 +1,5 @@
 import type { AppLanguage } from './lessonTranslations';
+export type { AppLanguage } from './lessonTranslations';
 
 type UiCopy = {
   chapter: string;

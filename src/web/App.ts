@@ -21,6 +21,7 @@ type LessonData = {
   grammar: any[];
   texts: any[];
   key_sentences?: any[];
+  translations?: any;
 };
 
 const lessonModules = import.meta.glob('../../data/lesson*.json', {
@@ -58,6 +59,18 @@ class App extends HTMLElement {
     super();
     this.attachShadow({ mode: 'open' });
     this._language = this.getSavedLanguage();
+  }
+
+  private normalizeLessonData(lesson: LessonData): LessonData {
+    return {
+      lessonId: lesson.lessonId,
+      title: lesson.title,
+      vocabulary: lesson.vocabulary || [],
+      grammar: lesson.grammar || [],
+      texts: lesson.texts || [],
+      key_sentences: lesson.key_sentences || [],
+      translations: lesson.translations,
+    };
   }
 
   getSavedLanguage(): AppLanguage {
@@ -109,15 +122,9 @@ class App extends HTMLElement {
         const loader = lessonModules[path];
         if (!loader) throw new Error(`Lesson ${this._currentLesson} loader not found`);
         const lesson = await loader();
-        this._data = {
-          title: lesson.title,
-          vocabulary: lesson.vocabulary || [],
-          grammar: lesson.grammar || [],
-          texts: lesson.texts || [],
-          key_sentences: lesson.key_sentences || [],
-          translations: lesson.translations,
-        };
-        this._prefetchedLessons.set(this._currentLesson, this._data);
+        const normalizedLesson = this.normalizeLessonData(lesson);
+        this._data = normalizedLesson;
+        this._prefetchedLessons.set(this._currentLesson, normalizedLesson);
       }
     } catch (error) {
       console.error('Error fetching lesson data:', error);
@@ -139,7 +146,7 @@ class App extends HTMLElement {
       const path = `../../data/lesson${id}.json`;
       const loader = lessonModules[path];
       if (loader) {
-        const data = await loader();
+        const data = this.normalizeLessonData(await loader());
         this._prefetchedLessons.set(id, data);
         
         // Prefetch audio files for this lesson
