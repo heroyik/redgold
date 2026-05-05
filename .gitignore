@@ -42,3 +42,8 @@ dist-ssr
 
 # Textbooks (Local Reference only)
 public/textbooks/
+
+# Context Mode session and index data
+.github/context-mode/sessions/
+.github/context-mode/index/
+
