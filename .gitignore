@@ -44,6 +44,5 @@ dist-ssr
 public/textbooks/
 
 # Context Mode session and index data
-.github/context-mode/sessions/
-.github/context-mode/index/
+.github/context-mode/
 
