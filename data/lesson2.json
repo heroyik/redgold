@@ -229,26 +229,46 @@
   ],
   "key_sentences": [
     {
+      "context": "Asking whether someone has settled into a new environment.",
+      "colloquial_translation": "You've been in China almost a year now. Settling in okay?",
+      "colloquial_pinyin": "Lái Zhōngguó yě kuài yīnián le ba? Xiànzài zài zhèrbianr hái suàn shìyìng ma?",
+      "colloquial_equivalent": "来中国也快一年了吧？现在在这边儿还算<b>适应</b>吗？",
       "pinyin": "Lái Zhōngguó kuài yīnián le, nǐ shìyìng zhèr de shēnghuó le ma?",
       "translation": "Have you got used to the life here after being in China for nearly a year?",
       "sentence": "来中国快一年了，你<b>适应</b>这儿的生活了吗？"
     },
     {
+      "context": "Emphasizing a friendship that has lasted for years.",
+      "colloquial_translation": "It's been ages since graduation, but we're still super close and talk all the time.",
+      "colloquial_pinyin": "Suīshuō bìyè hǎojiǔ le, zán liǎ zhè guānxì háishi gànggàng de, jīngcháng liánxì.",
+      "colloquial_equivalent": "<b>虽说</b>毕业好久了，咱俩这关系还是杠杠的，经常联系。",
       "pinyin": "Jǐnguǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de.",
       "translation": "Although we have been graduated for many years, we still keep in regular contact.",
       "sentence": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。"
     },
     {
+      "context": "Describing what true friendship looks like in a hard moment.",
+      "colloquial_translation": "A real friend shows up right when things get tough and helps you out.",
+      "colloquial_pinyin": "Zhēn péngyou jiùshì nǐ yǒu shìr de shíhou, mǎshàng zhàn chūlái lā nǐ yī bǎ.",
+      "colloquial_equivalent": "真朋友就是你有事儿的时候，马上站出来拉你一把。",
       "pinyin": "Zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
       "translation": "A true friend will stand up and give you timely help.",
       "sentence": "真正的朋友会站出来，<b>及时</b>给你帮助。"
     },
     {
+      "context": "Talking about why friends make life feel fuller.",
+      "colloquial_translation": "You really can't do without friends. They're what make life fun.",
+      "colloquial_pinyin": "Rén huózhe nǎr néng méi péngyou a? Yǒu péngyou rìzi cái gèng yǒu jìnr.",
+      "colloquial_equivalent": "人活着哪儿能没朋友啊？有朋友，日子才更有劲儿。",
       "pinyin": "Měi gèrén dōu xūyào péngyǒu, péngyǒu kěyǐ fēngfù wǒmen de shēnghuó.",
       "translation": "Everyone needs friends, and friends can enrich our lives.",
       "sentence": "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。"
     },
     {
+      "context": "Giving advice about personality and making friends.",
+      "colloquial_translation": "Being a little prickly doesn't mean everyone will hate you, but it definitely makes friendship harder.",
+      "colloquial_pinyin": "Xìngge yǒudiǎn chōu bù děngyú rénrén dōu tǎoyàn nǐ, kě péngyou quèshí bù tài hǎo jiāo.",
+      "colloquial_equivalent": "性格有点儿冲，不等于人人都讨厌你，可朋友确实不太好交。",
       "pinyin": "Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu.",
       "translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends.",
       "sentence": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。"

@@ -31,6 +31,30 @@ export class KeySentences extends HTMLElement {
   render() {
     if (!this.shadowRoot) return;
     const ui = getUiCopy(this._language);
+    const sentenceGroups = this._sentences.map((s, index) => {
+      const context = s.context || '';
+      const colloquialSentence = s.colloquial_equivalent || s.sentence || '';
+      const colloquialPinyin = s.colloquial_pinyin || s.pinyin || '';
+      const colloquialTranslation = s.colloquial_translation || s.translation || '';
+
+      return `
+        <div class="sentence-group" style="animation-delay: ${index * 0.15}s">
+          <div class="formal-section">
+            <div class="label">${ui.masteryFormal}</div>
+            <div class="chinese-text">${s.sentence || ''}</div>
+            <div class="pinyin">${s.pinyin || ''}</div>
+            <div class="translation">${s.translation || ''}</div>
+          </div>
+          <div class="colloquial-section">
+            ${context ? `<div class="context-tag">${context}</div>` : ''}
+            <div class="label">${ui.masteryColloquial}</div>
+            <div class="chinese-text">${colloquialSentence}</div>
+            <div class="pinyin">${colloquialPinyin}</div>
+            <div class="translation">${colloquialTranslation}</div>
+          </div>
+        </div>
+      `;
+    });
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -181,23 +205,7 @@ export class KeySentences extends HTMLElement {
       <div class="mastery-container">
         ${this._sentences.length === 0 ? `
           <div class="empty-state">${ui.masteryEmpty}</div>
-        ` : this._sentences.map((s, index) => `
-          <div class="sentence-group" style="animation-delay: ${index * 0.15}s">
-            <div class="formal-section">
-              <div class="label">${ui.masteryFormal}</div>
-              <div class="chinese-text">${s.sentence}</div>
-              <div class="pinyin">${s.pinyin}</div>
-              <div class="translation">${s.translation}</div>
-            </div>
-            <div class="colloquial-section">
-              <div class="context-tag">${s.context}</div>
-              <div class="label">${ui.masteryColloquial}</div>
-              <div class="chinese-text">${s.colloquial_equivalent}</div>
-              <div class="pinyin">${s.colloquial_pinyin}</div>
-              <div class="translation">${s.colloquial_translation || ''}</div>
-            </div>
-          </div>
-        `).join('')}
+        ` : sentenceGroups.join('')}
       </div>
     `;
   }
