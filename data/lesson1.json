@@ -249,9 +249,9 @@
           "translation": "I just borrowed that book this morning; how come I can't find it?"
         },
         {
-          "chinese": "A: 我<b>刚</b>从会议室过来，怎么一个人也没有？ B: 对不起，今天的会议改到明天上午了。",
-          "pinyin": "A: Wǒ gāng cóng huìyìshì guòlái, zěnme yīgè rén yě méiyǒu? B: Duìbuqǐ, jīntiān de huìyì gǎi dào míngtiān shàngwǔle.",
-          "translation": "A: I just came from the meeting room; how come there's no one there? B: Sorry, today's meeting has been moved to tomorrow morning."
+          "chinese": "A: 我<b>刚</b>从会议室过来，怎么一个人也没有？<br/>B: 对不起，今天的会议改到明天上午了。",
+          "pinyin": "A: Wǒ gāng cóng huìyìshì guòlái, zěnme yīgè rén yě méiyǒu?<br/>B: Duìbuqǐ, jīntiān de huìyì gǎi dào míngtiān shàngwǔle.",
+          "translation": "A: I just came from the meeting room; how come there's no one there?<br/>B: Sorry, today's meeting has been moved to tomorrow morning."
         },
         {
           "chinese": "我和丈夫<b>刚</b>结婚的时候，每天都觉得很新鲜，在一起有说不完的话。",

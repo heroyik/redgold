@@ -29,5 +29,6 @@ export function sanitizeHTML(str: string): string {
     .replace(/&lt;b&gt;/g, '<b>')
     .replace(/&lt;\/b&gt;/g, '</b>')
     .replace(/&lt;i&gt;/g, '<i>')
-    .replace(/&lt;\/i&gt;/g, '</i>');
+    .replace(/&lt;\/i&gt;/g, '</i>')
+    .replace(/&lt;br\s*\/?&gt;/g, '<br/>');
 }
