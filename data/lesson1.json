@@ -162,62 +162,237 @@
     {
       "point": "不仅……也/还/而且……",
       "explanation": "Not only... but also...",
-      "formal_example": "他<b>不仅</b>足球踢得好, 性格<b>也</b>不错。",
-      "formal_pinyin": "Tā bùjǐn zúqiú tī dé hǎo, xìnggé yě bùcuò.",
-      "formal_translation": "He not only plays football well, but also has a good personality.",
+      "formal_examples": [
+        {
+          "chinese": "他<b>不仅</b>足球踢得好，性格<b>也</b>不错。",
+          "pinyin": "Tā bùjǐn zúqiú tī dé hǎo, xìnggé yě bùcuò.",
+          "translation": "Not only does he play football well, but his personality is also quite good."
+        },
+        {
+          "chinese": "小时候，他经常生病，所以每天都去跑步锻炼身体。谁也没有想到，长大以后，他<b>不仅</b>身体健康，<b>还</b>成了一名长跑运动员。",
+          "pinyin": "Xiǎoshíhòu, tā jīngcháng shēngbìng, suǒyǐ měitiān dōu qù pǎobù duànliàn shēntǐ. Shéi yě méiyǒu xiǎngdào, zhǎngdà yǐhòu, tā bùjǐn shēntǐ jiànkāng, hái chéngle yī míng chángpǎo yùndòngyuán.",
+          "translation": "When he was a child, he often got sick, so he went running every day to exercise. No one expected that after growing up, he would not only be healthy but also become a long-distance runner."
+        },
+        {
+          "chinese": "我打算去云南玩儿，听说那边<b>不仅</b>很美，<b>而且</b>人也非常热情。",
+          "pinyin": "Wǒ dǎsuàn qù Yúnnán wánr, tīngshuō nàbiān bùjǐn hěn měi, érqiě rén yě fēicháng rèqíng.",
+          "translation": "I plan to go to Yunnan for fun. I heard that not only is it very beautiful there, but the people are also very enthusiastic."
+        }
+      ],
       "colloquial_pattern": "不光……还……",
-      "colloquial_version": "他<b>不光</b>球踢得贼溜, 人<b>还</b>挺给力的。",
-      "colloquial_pinyin": "Tā bùguāng qiú tī dé zéi liū, rén hái tǐng gěilì de.",
-      "colloquial_translation": "He's not just a pro at football, he's also a really stand-up guy.",
-      "nuance": "In casual speech, '贼溜' (very smooth/skilled) adds a native flavor compared to just '好'."
+      "colloquial_examples": [
+        {
+          "chinese": "他<b>不光</b>球踢得贼溜，人<b>还</b>挺给力的。",
+          "pinyin": "Tā bùguāng qiú tī dé zéi liū, rén hái tǐng gěilì de.",
+          "translation": "He's not just a pro at football, he's also a really stand-up guy."
+        },
+        {
+          "chinese": "他<b>不光</b>身体棒得跟头牛似的，<b>还</b>成了个长跑健将。",
+          "pinyin": "Tā bùguāng shēntǐ bàng dé gēn tóu niú shì de, hái chéngle gè chángpǎo jiànjiàng.",
+          "translation": "He's not just strong as an ox, he even became a pro long-distance runner."
+        },
+        {
+          "chinese": "那地儿<b>不光</b>美得冒泡，人<b>还</b>特别好客。",
+          "pinyin": "Nà dìr bùguāng měi dé màopào, rén hái tèbié hàokè.",
+          "translation": "That place is not just insanely beautiful, the people are super welcoming too."
+        }
+      ],
+      "nuance": "In casual speech, '贼溜' (very smooth/skilled) and '美得冒泡' (bubbling with beauty) add a much more native flavor."
     },
     {
       "point": "从来",
       "explanation": "Indicates something has always been like this. Often used in negative sentences (从来没/不).",
-      "formal_example": "虽然我们认识的时间不长, 但我<b>从来没</b>这么快乐过。",
-      "formal_pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè guò.",
-      "formal_translation": "Although we haven't known each other long, I have never been this happy.",
+      "formal_examples": [
+        {
+          "chinese": "老张这个人开会<b>从来不</b>迟到。",
+          "pinyin": "Lǎo Zhāng zhège rén kāihuì cónglái bù chídào.",
+          "translation": "Old Zhang never comes late to meetings."
+        },
+        {
+          "chinese": "虽然我们认识的时间不长，但我<b>从来没</b>这么快乐过。",
+          "pinyin": "Suīrán wǒmen rènshì de shíjiān bù cháng, dàn wǒ cónglái méi zhème kuàilè guò.",
+          "translation": "Although we haven't known each other long, I have never been this happy."
+        },
+        {
+          "chinese": "这家面馆儿<b>从来</b>只卖一种东西：牛肉面。",
+          "pinyin": "Zhè jiā miànguǎnr cónglái zhǐ mài yī zhǒng dōngxī: niúròumiàn.",
+          "translation": "This noodle shop has always only sold one thing: beef noodles."
+        }
+      ],
       "colloquial_pattern": "打从……起 / 压根儿没...",
-      "colloquial_version": "<b>打从</b>认识他<b>起</b>, 我<b>压根儿没</b>这么开心过！",
-      "colloquial_pinyin": "Dǎcóng rènshì tā qǐ, wǒ yàgenr méi zhème kāixīn guò!",
-      "colloquial_translation": "Ever since I met him, I haven't been this happy at all!",
-      "nuance": "'这辈子都没这么爽过' is much more expressive and common among friends."
+      "colloquial_examples": [
+        {
+          "chinese": "老张开会<b>压根儿就没</b>迟到过，人稳得很。",
+          "pinyin": "Lǎo Zhāng kāihuì yàgēnr jiù méi chídào guò, rén wěn de hěn.",
+          "translation": "Old Zhang has never once been late to a meeting; he's super reliable."
+        },
+        {
+          "chinese": "<b>打从</b>认识他<b>起</b>，我<b>压根儿没</b>这么开心过！",
+          "pinyin": "Dǎcóng rènshì tā qǐ, wǒ yàgenr méi zhème kāixīn guò!",
+          "translation": "Ever since I met him, I haven't been this happy at all!"
+        },
+        {
+          "chinese": "这面馆儿<b>一直以来</b>就死磕一种面：牛肉面。",
+          "pinyin": "Zhè miànguǎnr yīzhí yǐlái jiù sǐkē yī zhǒng miàn: niúròumiàn.",
+          "translation": "This noodle shop has been stuck on just one thing forever: beef noodles."
+        }
+      ],
+      "nuance": "'压根儿没' and '死磕' (stubbornly focus on) are much more expressive and common in casual Northern Chinese dialect."
     },
     {
-      "point": "刚 vs 刚才",
-      "explanation": "刚 is an adverb (after subject, before verb). 刚才 is a temporal noun.",
-      "formal_example": "我和丈夫<b>刚</b>结婚的时候, 每天都觉得很新鲜。",
-      "formal_pinyin": "Wǒ hé zhàngfū gāng jiéhūn de shíhòu, měitiān dōu juédé hěn xīnxiān.",
-      "formal_translation": "When my husband and I first got married, every day felt fresh.",
-      "colloquial_pattern": "才 / 刚……就……",
-      "colloquial_version": "我跟我老公<b>刚</b>领证那会儿, 每天一睁眼<b>就</b>觉得挺新鲜的。",
-      "colloquial_pinyin": "Wǒ gēn wǒ lǎogōng gāng lǐngzhèng nà huìr, měitiān yī zhēngyǎn jiù juédé hěn xīnxiān de.",
-      "colloquial_translation": "Back when my husband and I just got hitched, every day I woke up feeling everything was so fresh.",
-      "nuance": "'领证' (registering marriage) is a very common colloquial term for getting married."
+      "point": "刚",
+      "explanation": "Indicates that an action or a situation took place only a while ago. Used after the subject and before the verb.",
+      "formal_examples": [
+        {
+          "chinese": "我上午<b>刚</b>借的那本书，怎么找不到了？",
+          "pinyin": "Wǒ shàngwǔ gāng jiè de nà běn shū, zěnme zhǎo bù dàole?",
+          "translation": "I just borrowed that book this morning; how come I can't find it?"
+        },
+        {
+          "chinese": "A: 我<b>刚</b>从会议室过来，怎么一个人也没有？ B: 对不起，今天的会议改到明天上午了。",
+          "pinyin": "A: Wǒ gāng cóng huìyìshì guòlái, zěnme yīgè rén yě méiyǒu? B: Duìbuqǐ, jīntiān de huìyì gǎi dào míngtiān shàngwǔle.",
+          "translation": "A: I just came from the meeting room; how come there's no one there? B: Sorry, today's meeting has been moved to tomorrow morning."
+        },
+        {
+          "chinese": "我和丈夫<b>刚</b>结婚的时候，每天都觉得很新鲜，在一起有说不完的话。",
+          "pinyin": "Wǒ hé zhàngfū gāng jiéhūn de shíhòu, měitiān dōu juédé hěn xīnxiān, zài yīqǐ yǒu shuō bù wán de huà.",
+          "translation": "When my husband and I first got married, every day felt fresh, and we had endless things to talk about."
+        }
+      ],
+      "colloquial_pattern": "才 / 刚……就…… / 前脚...后脚...",
+      "colloquial_examples": [
+        {
+          "chinese": "我上午<b>才</b>借的那本书，咋一转眼就没了？",
+          "pinyin": "Wǒ shàngwǔ cái jiè de nà běn shū, zǎ yī zhuǎnyǎn jiù méile?",
+          "translation": "I only just borrowed that book this morning, how is it gone already?"
+        },
+        {
+          "chinese": "我<b>前脚</b>刚从会议室出来，<b>后脚</b>这就没人了？",
+          "pinyin": "Wǒ qiánjiǎo gāng cóng huìyìshì chūlái, hòujiǎo zhè jiù méi rénle?",
+          "translation": "I just stepped out of the meeting room and everyone's already gone?"
+        },
+        {
+          "chinese": "我跟我老公<b>刚</b>领证那会儿，每天一睁眼就觉得挺新鲜的。",
+          "pinyin": "Wǒ gēn wǒ lǎogōng gāng lǐngzhèng nà huìr, měitiān yī zhēngyǎn jiù juédé hěn xīnxiān de.",
+          "translation": "Back when my husband and I just got hitched, every day I woke up feeling everything was so fresh."
+        }
+      ],
+      "nuance": "'领证' (registering marriage) and '前脚...后脚' (one after another) are very common colloquial terms."
     },
     {
       "point": "即使……也……",
       "explanation": "Even if... still... (Hypothetical concession)",
-      "formal_example": "<b>即使</b>每天忙得没时间休息, 他<b>也</b>觉得很幸福。",
-      "formal_pinyin": "Jíshǐ měitiān máng dé méi shíjiān xiūxí, tā yě juédé hěn xìngfú.",
-      "formal_translation": "Even if he is so busy every day that he has no time to rest, he still feels happy.",
+      "formal_examples": [
+        {
+          "chinese": "你应该多回家看看老人，<b>即使</b>只是跟他们吃吃饭、聊聊天，他们<b>也</b>会觉得很幸福。",
+          "pinyin": "Nǐ yīnggāi duō huí jiā kànkan lǎorén, jíshǐ zhǐshì gēn tāmen chīchī fàn, liáoliáo tiān, tāmen yě huì juédé hěn xìngfú.",
+          "translation": "You should go home more often to see the elderly; even if you just eat and chat with them, they will feel very happy."
+        },
+        {
+          "chinese": "大部分人每天晚上最少应该睡7个小时，但有些人<b>即使</b>只睡5个小时<b>也</b>没问题。",
+          "pinyin": "Dà bùfèn rén měitiān wǎnshàng zuìshǎo yīnggāi shuì qī gè xiǎoshí, dàn yǒuxiē rén jíshǐ zhǐ shuì wǔ gè xiǎoshí yě méi wèntí.",
+          "translation": "Most people should sleep at least 7 hours every night, but for some people, even sleeping only 5 hours is no problem."
+        },
+        {
+          "chinese": "浪漫是<b>即使</b>晚上加班到零点，到家时，自己家里<b>也</b>还亮着灯。",
+          "pinyin": "Làngmàn shì jíshǐ wǎnshàng jiābān dào língdiǎn, dào jiā shí, zìjǐ jiālǐ yě hái liàngzhe dēng.",
+          "translation": "Romance is even if you work overtime until midnight, when you get home, your own home's lights are still on."
+        }
+      ],
       "colloquial_pattern": "就算 / 哪怕……也……",
-      "colloquial_version": "<b>就算</b>忙得脚底板朝天, 他<b>也</b>挺乐在其中的。",
-      "colloquial_pinyin": "Jiùsuàn máng dé jiǎodǐbǎn cháotiān, tā yě tǐng lè zài qízhōng de.",
-      "colloquial_translation": "Even if he's swamped with work, he's actually pretty happy about it.",
-      "nuance": "'忙得脚底板朝天' is a very vivid colloquialism for being extremely busy."
+      "colloquial_examples": [
+        {
+          "chinese": "<b>就算</b>只是陪他们吃个饭唠唠嗑，老人家<b>也</b>乐得不行。",
+          "pinyin": "Jiùsuàn zhǐshì péi tāmen chī gè fàn láolao kē, lǎorénjiā yě lè dé bùxíng.",
+          "translation": "Even if you just grab a bite and chat with them, the elders will be over the moon."
+        },
+        {
+          "chinese": "<b>哪怕</b>只睡五个钟头，有些人<b>也</b>照样精神百倍。",
+          "pinyin": "Nǎpà zhǐ shuì wǔ gè zhōngtou, yǒuxiē rén yě zhàoyàng jīngshén bǎibèi.",
+          "translation": "Even if they only sleep five hours, some folks are still full of energy."
+        },
+        {
+          "chinese": "<b>就算</b>忙得脚底板朝天, 到家还有盏灯留着，这就是浪漫。",
+          "pinyin": "Jiùsuàn máng dé jiǎodǐbǎn cháotiān, dào jiā hái yǒu zhǎn dēng liúzhe, zhè jiùshì làngmàn.",
+          "translation": "Even if you're swamped with work, having a light left on at home—that's romance."
+        }
+      ],
+      "nuance": "'唠唠嗑' (to chat) and '忙得脚底板朝天' (extremely busy) are very vivid colloquialisms."
     },
     {
       "point": "（在）……上",
       "explanation": "In terms of, regarding, on the aspect of...",
-      "formal_example": "<b>在</b>性格<b>上</b>, 他<b>不仅</b>足球踢得好, 性格也不错。",
-      "formal_pinyin": "Zài xìnggé shàng, tā bùjǐn zúqiú tī dé hǎo, xìnggé yě bùcuò.",
-      "formal_translation": "In terms of personality, he not only plays football well but also has a good character.",
+      "formal_examples": [
+        {
+          "chinese": "今天的作业是复习生词，明天课<b>上</b>听写。",
+          "pinyin": "Jīntiān de zuòyè shì fùxí shēngcí, míngtiān kè shàng tīngxiě.",
+          "translation": "Today's homework is to review new words; there will be a dictation in class tomorrow."
+        },
+        {
+          "chinese": "来北方好几年了吧？你觉得北方和南方<b>在</b>饮食<b>上</b>有什么不同？",
+          "pinyin": "Lái běifāng hǎojǐ nián le ba? Nǐ juédé běifāng hé nánfāng zài yǐnshí shàng yǒu shé me bùtóng?",
+          "translation": "You've been in the north for several years, right? What differences do you think there are between the north and the south in terms of diet?"
+        },
+        {
+          "chinese": "两个人共同生活，不仅需要浪漫的爱情，更需要性格<b>上</b>互相吸引。",
+          "pinyin": "Liǎng gè rén gòngtóng shēnghuó, bùjǐn xūyào làngmàn de àiqíng, gèng xūyào xìnggé shàng hùxiāng xīyǐn.",
+          "translation": "For two people to live together, it requires not only romantic love, but more importantly, mutual attraction in terms of personality."
+        }
+      ],
       "colloquial_pattern": "……这块儿 / 说起……那块儿",
-      "colloquial_version": "<b>说起</b>性格<b>那块儿</b>, 他人挺仗义的, 踢球也贼溜。",
-      "colloquial_pinyin": "Shuōqǐ xìnggé nà kuàir, tā rén tǐng zhàngyì de, tīqiú yě zéi liū.",
-      "colloquial_translation": "Speaking of his personality, he's a real stand-up guy and plays football like a boss.",
-      "nuance": "Using '说起...那块儿' is a very natural way to introduce a topic in conversation."
+      "colloquial_examples": [
+        {
+          "chinese": "明天课<b>上</b>得听写，今晚赶紧把生词过一遍。",
+          "pinyin": "Míngtiān kè shàng děi tīngxiě, jīnwǎn gǎnjǐn bǎ shēngcí guò yībiàn.",
+          "translation": "Dictation in class tomorrow, better go over those new words fast tonight."
+        },
+        {
+          "chinese": "南北方的吃食<b>这块儿</b>，你觉得差在哪儿？",
+          "pinyin": "Nánběifāng de chīshi zhè kuàir, nǐ juédé chà zài nǎr?",
+          "translation": "Regarding the food scene between North and South, what's the big difference to you?"
+        },
+        {
+          "chinese": "<b>说起</b>性格<b>那块儿</b>, 他人挺仗义的, 踢球也贼溜。",
+          "pinyin": "Shuōqǐ xìnggé nà kuàir, tā rén tǐng zhàngyì de, tīqiú yě zéi liū.",
+          "translation": "Speaking of his personality, he's a real stand-up guy and plays football like a boss."
+        }
+      ],
+      "nuance": "Using '这块儿' (this area/aspect) or '说起...那块儿' is a very natural way to introduce a topic in conversation."
+    },
+    {
+      "point": "刚 vs 刚才",
+      "explanation": "Both indicate a short time ago, but '刚' is an adverb (follows subject), while '刚才' is a time noun (can precede subject).",
+      "formal_examples": [
+        {
+          "chinese": "他<b>刚</b>走。 / 他<b>刚才</b>走了。",
+          "pinyin": "Tā gāng zǒu. / Tā gāngcái zǒule.",
+          "translation": "He just left. / He left just now."
+        },
+        {
+          "chinese": "我<b>刚</b>来一会儿。 / 我<b>刚才</b>来了一会儿。",
+          "pinyin": "Wǒ gāng lái yīhuìr. / Wǒ gāngcái láile yīhuìr.",
+          "translation": "I just arrived a moment ago."
+        },
+        {
+          "chinese": "他<b>刚</b>到北京。",
+          "pinyin": "Tā gāng dào Běijīng.",
+          "translation": "He just arrived in Beijing."
+        }
+      ],
+      "colloquial_pattern": "才 / 刚刚 / 前脚...后脚...",
+      "colloquial_examples": [
+        {
+          "chinese": "他<b>前脚</b>刚迈出门。 / 他<b>刚才</b>溜了。",
+          "pinyin": "Tā qiánjiǎo gāng mài chūmén. / Tā gāngcái liūle.",
+          "translation": "He just stepped out. / He just slipped away just now."
+        },
+        {
+          "chinese": "我<b>才</b>到这儿没多会儿。 / <b>刚才</b>我就在这儿呢。",
+          "pinyin": "Wǒ cái dào zhèr méi duōhuìr. / Gāngcái wǒ jiù zài zhèr ne.",
+          "translation": "I've only just arrived. / I was right here just a second ago."
+        }
+      ],
+      "nuance": "'前脚...后脚' or '溜了' (slipped away) adds a vivid colloquial touch to the concept of 'just happened'."
     }
   ],
   "key_sentences": [

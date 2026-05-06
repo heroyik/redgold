@@ -109,7 +109,7 @@ export class GrammarCard extends HTMLElement {
         .example {
           font-size: 1.15rem;
           line-height: 1.5;
-          margin-bottom: 0.5rem;
+          margin-bottom: 0.25rem;
           font-weight: 500;
         }
 
@@ -127,7 +127,7 @@ export class GrammarCard extends HTMLElement {
         .translation {
           font-size: 0.95rem;
           color: #666;
-          margin-bottom: 1rem;
+          margin-bottom: 0.5rem;
           line-height: 1.4;
           font-weight: 400;
         }
@@ -173,13 +173,25 @@ export class GrammarCard extends HTMLElement {
         .pinyin {
           font-size: 0.85rem;
           color: #8B0000;
-          margin-bottom: 1rem;
+          margin-bottom: 0.25rem;
           font-weight: 600;
           opacity: 0.7;
         }
 
         .back .pinyin {
           color: rgba(255, 255, 255, 0.6);
+        }
+
+        .example-group {
+          margin-bottom: 1.5rem;
+          display: flex;
+          flex-direction: column;
+          gap: 0.75rem;
+        }
+
+        .example-item {
+          border-left: 2px solid rgba(139, 0, 0, 0.1);
+          padding-left: 0.75rem;
         }
 
         .tip {
@@ -206,9 +218,23 @@ export class GrammarCard extends HTMLElement {
         <div class="side front">
           <div class="label">${ui.formalLabel}</div>
           <div class="point">${sanitizeHTML(this._data.point)}</div>
-          <div class="example">${sanitizeHTML(this._data.formal_example)}</div>
-          ${this._data.formal_pinyin ? `<div class="pinyin">${sanitizeHTML(this._data.formal_pinyin)}</div>` : ''}
-          ${this._data.formal_translation ? `<div class="translation">${sanitizeHTML(this._data.formal_translation)}</div>` : ''}
+          
+          <div class="example-group">
+            ${this._data.formal_examples ? this._data.formal_examples.map((ex: any) => `
+              <div class="example-item">
+                <div class="example">${sanitizeHTML(ex.chinese)}</div>
+                ${ex.pinyin ? `<div class="pinyin">${sanitizeHTML(ex.pinyin)}</div>` : ''}
+                ${ex.translation ? `<div class="translation">${sanitizeHTML(ex.translation)}</div>` : ''}
+              </div>
+            `).join('') : `
+              <div class="example-item">
+                <div class="example">${sanitizeHTML(this._data.formal_example)}</div>
+                ${this._data.formal_pinyin ? `<div class="pinyin">${sanitizeHTML(this._data.formal_pinyin)}</div>` : ''}
+                ${this._data.formal_translation ? `<div class="translation">${sanitizeHTML(this._data.formal_translation)}</div>` : ''}
+              </div>
+            `}
+          </div>
+
           <div class="explanation">${sanitizeHTML(this._data.explanation)}</div>
           <div class="tip">${ui.tipToColloquial}</div>
         </div>
@@ -223,9 +249,21 @@ export class GrammarCard extends HTMLElement {
             </div>
           ` : ''}
 
-          <div class="example">${sanitizeHTML(this._data.colloquial_version)}</div>
-          ${this._data.colloquial_pinyin ? `<div class="pinyin">${sanitizeHTML(this._data.colloquial_pinyin)}</div>` : ''}
-          ${this._data.colloquial_translation ? `<div class="translation">${sanitizeHTML(this._data.colloquial_translation)}</div>` : ''}
+          <div class="example-group">
+            ${this._data.colloquial_examples ? this._data.colloquial_examples.map((ex: any) => `
+              <div class="example-item">
+                <div class="example">${sanitizeHTML(ex.chinese)}</div>
+                ${ex.pinyin ? `<div class="pinyin">${sanitizeHTML(ex.pinyin)}</div>` : ''}
+                ${ex.translation ? `<div class="translation">${sanitizeHTML(ex.translation)}</div>` : ''}
+              </div>
+            `).join('') : `
+              <div class="example-item">
+                <div class="example">${sanitizeHTML(this._data.colloquial_version)}</div>
+                ${this._data.colloquial_pinyin ? `<div class="pinyin">${sanitizeHTML(this._data.colloquial_pinyin)}</div>` : ''}
+                ${this._data.colloquial_translation ? `<div class="translation">${sanitizeHTML(this._data.colloquial_translation)}</div>` : ''}
+              </div>
+            `}
+          </div>
           <div class="nuance">${sanitizeHTML(this._data.nuance)}</div>
           <div class="tip">${ui.tipToBack}</div>
         </div>
