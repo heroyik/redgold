@@ -10,6 +10,8 @@ context-mode MCP tools available. Rules protect context window from flooding. On
 
 Analyze/count/filter/compare/search/parse/transform data: **write code** via `mcp__context-mode__ctx_execute(language, code)`, `console.log()` only the answer. Do NOT read raw data into context. PROGRAM the analysis, not COMPUTE it. Pure JavaScript — Node.js built-ins only (`fs`, `path`, `child_process`). `try/catch`, handle `null`/`undefined`. One script replaces ten tool calls.
 
+playwrite를 사용할 때는 반드시 contex-mode의 콘트롤하에서 진행해줘
+
 ## BLOCKED — do NOT use
 
 ### curl / wget — FORBIDDEN

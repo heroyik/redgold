@@ -4,12 +4,11 @@ import '../components/TextSection';
 import '../components/KeySentences';
 import '../components/SourceInfo';
 import '../features/review/CardStack';
-import '../components/UserMenu';
+
 import { translateLessonData, type AppLanguage } from '../utils/lessonTranslations';
 import { getUiCopy } from '../utils/uiCopy';
 import { testFirebase } from '../test-ts';
-import { subscribeToAuthChanges } from '../utils/auth';
-import { User } from 'firebase/auth';
+
 
 // 앱 시작 시 테스트 실행
 testFirebase();
@@ -37,8 +36,7 @@ class App extends HTMLElement {
   private _language: AppLanguage = 'en';
   private _prefetchedLessons = new Map<number, LessonData>();
   private _prefetchedAudio = new Set<string>();
-  private _user: User | null = null;
-  private _authUnsubscribe: (() => void) | null = null;
+
   
   private _lessons = Array.from({ length: 20 }, (_, i) => ({
     id: i + 1,
@@ -94,18 +92,13 @@ class App extends HTMLElement {
   }
 
   connectedCallback() {
-    this._authUnsubscribe = subscribeToAuthChanges((user) => {
-      this._user = user;
-      this.render();
-    });
+
     this.render();
     // Warm up the first lesson
     this.prefetchLesson(1);
   }
 
-  disconnectedCallback() {
-    if (this._authUnsubscribe) this._authUnsubscribe();
-  }
+
 
   async fetchData() {
     if (this._viewMode === 'landing') return;
@@ -799,7 +792,7 @@ class App extends HTMLElement {
                 <button class="mini-language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">KO</button>
                 <button class="mini-language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">JP</button>
               </div>
-              <redgold-user-menu id="lesson-user-menu"></redgold-user-menu>
+
             </div>
           </div>
         </div>
@@ -846,8 +839,7 @@ class App extends HTMLElement {
     if (!root) return;
 
     // Initialize User Menus
-    const lessonUserMenu = root.getElementById('lesson-user-menu') as any;
-    if (lessonUserMenu) lessonUserMenu.user = this._user;
+
 
     if (this._viewMode === 'landing') {
       root.querySelectorAll('[data-lang]').forEach(button => {

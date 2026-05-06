@@ -1,25 +1,13 @@
 
 import { 
-  GoogleAuthProvider, 
-  signInWithPopup, 
   signOut, 
   onAuthStateChanged,
   User
 } from "firebase/auth";
 import { auth } from "../firebase";
 
-const googleProvider = new GoogleAuthProvider();
+// GoogleAuthProvider was removed as per request to remove Google Sign In.
 
-export const signInWithGoogle = async (): Promise<User | null> => {
-  if (!auth) return null;
-  try {
-    const result = await signInWithPopup(auth, googleProvider);
-    return result.user;
-  } catch (error) {
-    console.error("Error signing in with Google:", error);
-    return null;
-  }
-};
 
 export const logout = async (): Promise<void> => {
   if (!auth) return;
