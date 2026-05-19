@@ -68,18 +68,18 @@ export class VocabCardComponent extends HTMLElement {
           .compact-card {
             width: 100%;
             height: 100%;
+            min-height: 3.5rem;
             border-radius: 16px;
             display: grid;
-            grid-template-columns: 72px 90px 1fr 42px;
-            gap: 0.5rem;
+            grid-template-columns: auto auto 1fr auto;
+            gap: 0.25rem 0.75rem;
             align-items: center;
-            padding: 0 1.25rem;
+            padding: 0.5rem 1rem;
             ${ReviewStyles.glassCard}
             box-sizing: border-box;
             cursor: pointer;
             transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
             position: relative;
-            overflow: hidden;
             border: 1px solid rgba(139, 0, 0, 0.05);
           }
 
@@ -97,33 +97,35 @@ export class VocabCardComponent extends HTMLElement {
 
           .word {
             font-family: ${ReviewStyles.typography.serif};
-            font-size: 1.45rem;
+            font-size: clamp(1.1rem, 3.5vw, 1.45rem);
             font-weight: 900;
             color: ${ReviewStyles.colors.deepRed};
             margin: 0;
-            line-height: 1;
-            white-space: nowrap;
+            line-height: 1.2;
+            word-break: break-word;
+            min-width: 0;
           }
 
           .pinyin {
             font-family: ${ReviewStyles.typography.sans};
-            font-size: 0.85rem;
+            font-size: clamp(0.7rem, 2.2vw, 0.85rem);
             color: ${ReviewStyles.colors.gold};
             font-weight: 700;
             letter-spacing: 0.1px;
-            white-space: nowrap;
+            word-break: break-word;
+            min-width: 0;
           }
 
           .meaning {
             font-family: ${ReviewStyles.typography.sans};
-            font-size: 0.9rem;
+            font-size: clamp(0.72rem, 2.3vw, 0.9rem);
             color: ${ReviewStyles.colors.text};
             font-weight: 600;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
+            word-break: break-word;
+            overflow-wrap: break-word;
             opacity: 0.85;
-            text-align: right;
+            text-align: left;
+            line-height: 1.3;
             min-width: 0;
           }
 
@@ -131,12 +133,13 @@ export class VocabCardComponent extends HTMLElement {
             display: flex;
             align-items: center;
             justify-content: center;
-            width: 32px;
-            height: 32px;
+            width: 34px;
+            height: 34px;
             border-radius: 50%;
             background: rgba(139, 0, 0, 0.03);
             transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
             border: 1px solid rgba(139, 0, 0, 0.05);
+            flex-shrink: 0;
           }
 
           .audio-icon {

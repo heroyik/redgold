@@ -760,13 +760,20 @@ class App extends HTMLElement {
 
         .vocab-list vocab-card {
           width: 100%;
-          height: 72px;
+          min-height: 56px;
+          height: auto;
           perspective: 1000px;
         }
 
         @media (min-width: 640px) {
           .vocab-list {
             grid-template-columns: repeat(2, 1fr);
+          }
+        }
+
+        @media (min-width: 1024px) {
+          .vocab-list {
+            grid-template-columns: repeat(3, 1fr);
           }
         }
       </style>
