@@ -32,6 +32,10 @@ export class TextSection extends HTMLElement {
     if (!this._data || !this.shadowRoot) return;
     const ui = getUiCopy(this._language);
 
+    // Check if this is a monologue (all speakers are "独白")
+    const isMonologue = this._data.content && this._data.content.length > 0 &&
+      this._data.content.every((line: any) => line.speaker === '独白');
+
     this.shadowRoot.innerHTML = `
       <style>
         :host {
@@ -103,6 +107,11 @@ export class TextSection extends HTMLElement {
           margin-bottom: 3rem;
         }
 
+        /* Monologue: continuous paragraph style */
+        .dialogue.monologue {
+          gap: 0;
+        }
+
         .line {
           padding: 1.25rem;
           border-radius: 20px;
@@ -118,9 +127,89 @@ export class TextSection extends HTMLElement {
           transform: translateX(4px);
         }
 
-        /* Active class is now only for logic tracking, no visual highlight */
         .line.active {
           border-color: rgba(139, 0, 0, 0.05);
+        }
+
+        /* Monologue line: flush continuous passage */
+        .line.monologue {
+          padding: 0.15rem 1.25rem;
+          margin-bottom: 0;
+          border-radius: 0;
+          background: transparent;
+          border: none;
+          border-left: 3px solid transparent;
+        }
+
+        .line.monologue:hover {
+          background: rgba(255, 255, 255, 0.2);
+          transform: none;
+        }
+
+        .line.monologue.active {
+          border-left-color: #8B0000;
+          background: rgba(139, 0, 0, 0.04);
+        }
+
+        .line.monologue + .line.monologue {
+          border-top: none;
+        }
+
+        /* Monologue: hide per-line pinyin/translation, show as combined blocks below */
+        .line.monologue .content .pinyin,
+        .line.monologue .content .translation {
+          display: none;
+        }
+
+        .line.monologue .content .main-text {
+          display: inline;
+        }
+
+        /* Combined pinyin block */
+        .monologue-pinyin {
+          margin-top: 2rem;
+          padding: 1.25rem 1.5rem;
+          background: rgba(139, 0, 0, 0.03);
+          border-radius: 20px;
+          border: 1px solid rgba(139, 0, 0, 0.06);
+          font-size: 0.9rem;
+          line-height: 1.8;
+          color: #8B0000;
+          font-weight: 600;
+          opacity: 0.7;
+        }
+
+        .monologue-pinyin-label {
+          font-size: 0.6rem;
+          font-weight: 900;
+          color: #8B0000;
+          opacity: 0.4;
+          text-transform: uppercase;
+          letter-spacing: 2px;
+          margin-bottom: 0.5rem;
+        }
+
+        /* Combined translation block */
+        .monologue-translation {
+          margin-top: 1rem;
+          padding: 1.25rem 1.5rem;
+          background: rgba(255, 255, 255, 0.4);
+          border-radius: 20px;
+          border: 1px solid rgba(0, 0, 0, 0.04);
+          font-size: 0.95rem;
+          line-height: 1.7;
+          color: #555;
+          font-weight: 400;
+        }
+
+        .monologue-translation-label {
+          font-size: 0.6rem;
+          font-weight: 900;
+          color: #666;
+          opacity: 0.4;
+          text-transform: uppercase;
+          letter-spacing: 2px;
+          margin-bottom: 0.5rem;
         }
 
         .speaker {
@@ -157,6 +246,8 @@ export class TextSection extends HTMLElement {
           line-height: 1.4;
           font-weight: 400;
         }
+
+
 
         /* Vocabulary Section */
         .vocab-section {
@@ -308,18 +399,29 @@ export class TextSection extends HTMLElement {
         
         ${this._data.audio ? `<audio id="audio-player" src="${this._data.audio}"></audio>` : ''}
 
-        <div class="dialogue" id="dialogue-container">
+        <div class="dialogue ${isMonologue ? 'monologue' : ''}" id="dialogue-container">
           ${this._data.content.map((line: any, index: number) => `
-            <div class="line" id="line-${index}">
-              <span class="speaker">${line.speaker}</span>
+            <div class="line ${isMonologue ? 'monologue' : ''}" id="line-${index}">
+              ${!isMonologue ? `<span class="speaker">${line.speaker}</span>` : ''}
               <div class="content">
                 <div class="main-text">${line.text}</div>
-                ${line.pinyin ? `<div class="pinyin">${line.pinyin}</div>` : ''}
-                ${line.translation ? `<div class="translation">${line.translation}</div>` : ''}
+                ${!isMonologue && line.pinyin ? `<div class="pinyin">${line.pinyin}</div>` : ''}
+                ${!isMonologue && line.translation ? `<div class="translation">${line.translation}</div>` : ''}
               </div>
             </div>
           `).join('')}
         </div>
+
+        ${isMonologue ? `
+          <div class="monologue-pinyin">
+            <div class="monologue-pinyin-label">${ui.pinyinLabel}</div>
+            ${this._data.content.map((line: any) => line.pinyin || '').filter(Boolean).join(' ')}
+          </div>
+          <div class="monologue-translation">
+            <div class="monologue-translation-label">${ui.translationLabel}</div>
+            ${this._data.content.map((line: any) => line.translation || '').filter(Boolean).join(' ')}
+          </div>
+        ` : ''}
 
         ${this._data.vocabulary && this._data.vocabulary.length > 0 ? `
           <div class="vocab-section">

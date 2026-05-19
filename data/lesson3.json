@@ -1,0 +1,775 @@
+{
+  "lessonId": 3,
+  "title": "Lesson 3: 经理对我印象很好 (Manager has a good impression of me)",
+  "vocabulary": [],
+  "grammar": [],
+  "key_sentences": [],
+  "texts": [
+    {
+      "id": 1,
+      "title": "小夏和小雨聊小雨面试的情况 (Xiao Xia and Xiao Yu talk about Xiao Yu's job interview)",
+      "audio": "audio/03-1.mp3",
+      "content": [
+        {
+          "speaker": "小夏",
+          "text": "你上午的面试怎么样？",
+          "pinyin": "Nǐ shàngwǔ de miànshì zěnmeyàng?",
+          "translation": "How was your morning interview?"
+        },
+        {
+          "speaker": "小雨",
+          "text": "还可以，他们问的问题都<b>挺</b>容易<b>的</b>，<b>就是</b>我有点儿紧张。",
+          "pinyin": "Hái kěyǐ, tāmen wèn de wèntí dōu tǐng róngyì de, jiùshì wǒ yǒudiǎnr jǐnzhāng.",
+          "translation": "It was okay, the questions they asked were quite easy; it's just that I was a little nervous."
+        },
+        {
+          "speaker": "小夏",
+          "text": "面试的时候，一定要对自己有信心，要相信自己的<b>能力</b>。",
+          "pinyin": "Miànshì de shíhòu, yīdìng yào duì zìjǐ yǒu xìnxīn, yào xiāngxìn zìjǐ de nénglì.",
+          "translation": "When you're in an interview, you must have confidence in yourself, you must believe in your own abilities."
+        },
+        {
+          "speaker": "小雨",
+          "text": "你说的对！3月15号上午8点在学校体育馆还有一个<b>招聘</b>会，去吗？",
+          "pinyin": "Nǐ shuō de duì! Sān yuè shíwǔ hào shàngwǔ bā diǎn zài xuéxiào tǐyùguǎn hái yǒu yīgè zhāopìnhuì, qù ma?",
+          "translation": "You're right! On March 15th at 8 AM, there's also a job fair at the school gymnasium. Want to go?"
+        },
+        {
+          "speaker": "小夏",
+          "text": "我<b>还没</b>决定<b>呢</b>。",
+          "pinyin": "Wǒ hái méi juédìng ne.",
+          "translation": "I haven't decided yet."
+        },
+        {
+          "speaker": "小雨",
+          "text": "<b>听说</b>这次招聘会<b>提供</b>的工作机会很多，我们一起去看看吧。",
+          "pinyin": "Tīng shuō zhè cì zhāopìnhuì tígōng de gōngzuò jīhuì hěn duō, wǒmen yīqǐ qù kànkan ba.",
+          "translation": "I heard this job fair offers a lot of job opportunities. Let's go check it out together."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "小夏",
+          "pinyin": "Xiǎo Xià",
+          "meaning": "Xiao Xia, name of a person"
+        },
+        {
+          "word": "小雨",
+          "pinyin": "Xiǎo Yǔ",
+          "meaning": "Xiao Yu, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "挺",
+          "pinyin": "tǐng",
+          "meaning": "adv. quite, rather"
+        },
+        {
+          "word": "紧张",
+          "pinyin": "jǐnzhāng",
+          "meaning": "adj. nervous"
+        },
+        {
+          "word": "信心",
+          "pinyin": "xìnxīn",
+          "meaning": "n. confidence"
+        },
+        {
+          "word": "能力",
+          "pinyin": "nénglì",
+          "meaning": "n. ability, competence"
+        },
+        {
+          "word": "招聘",
+          "pinyin": "zhāopìn",
+          "meaning": "v. to recruit"
+        },
+        {
+          "word": "提供",
+          "pinyin": "tígōng",
+          "meaning": "v. to provide"
+        },
+        {
+          "word": "决定",
+          "pinyin": "juédìng",
+          "meaning": "v. to decide"
+        },
+        {
+          "word": "机会",
+          "pinyin": "jīhuì",
+          "meaning": "n. opportunity"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "马经理和小林聊招聘的事情 (Manager Ma and Xiao Lin talk about recruitment)",
+      "audio": "audio/03-2.mp3",
+      "content": [
+        {
+          "speaker": "马经理",
+          "text": "小林，这次招聘<b>不是</b>小李负责<b>吗</b>？",
+          "pinyin": "Xiǎo Lín, zhè cì zhāopìn bùshì Xiǎo Lǐ fùzé ma?",
+          "translation": "Xiao Lin, isn't Xiao Li responsible for this recruitment?"
+        },
+        {
+          "speaker": "小林",
+          "text": "<b>本来</b>是小李负责的，<b>但是</b>他突然生病住院了，所以就交给我来做了。",
+          "pinyin": "Běnlái shì Xiǎo Lǐ fùzé de, dànshì tā tūrán shēngbìng zhùyuàn le, suǒyǐ jiù jiāo gěi wǒ lái zuò le.",
+          "translation": "Originally it was Xiao Li's responsibility, but he suddenly got sick and was hospitalized, so he handed it over to me."
+        },
+        {
+          "speaker": "马经理",
+          "text": "哦，这次应聘的人多吗？",
+          "pinyin": "Ò, zhè cì yìngpìn de rén duō ma?",
+          "translation": "Oh, are there many applicants this time?"
+        },
+        {
+          "speaker": "小林",
+          "text": "经理，这次来应聘的一共有15人。<b>经过</b>笔试和面试，有两个不错。这是他们的材料，您看看。",
+          "pinyin": "Jīnglǐ, zhè cì lái yìngpìn de yīgòng yǒu shíwǔ rén. Jīngguò bǐshì hé miànshì, yǒu liǎng gè bùcuò. Zhè shì tāmen de cáiliào, nín kànkan.",
+          "translation": "Manager, there are 15 applicants in total this time. After the written test and interview, two are quite good. Here are their materials, please take a look."
+        },
+        {
+          "speaker": "马经理",
+          "text": "这两个人的能力都<b>比较</b>符合我们的要求。你<b>通知</b>他们下周一上午九点来我办公室吧。",
+          "pinyin": "Zhè liǎng gè rén de nénglì dōu bǐjiào fúhé wǒmen de yāoqiú. Nǐ tōngzhī tāmen xià zhōuyī shàngwǔ jiǔ diǎn lái wǒ bàngōngshì ba.",
+          "translation": "Both of these candidates' abilities relatively meet our requirements. Notify them to come to my office at 9 AM next Monday."
+        },
+        {
+          "speaker": "小林",
+          "text": "好的，那我马上跟他们联系。",
+          "pinyin": "Hǎo de, nà wǒ mǎshàng gēn tāmen liánxì.",
+          "translation": "Okay, I'll contact them right away."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "马经理",
+          "pinyin": "Mǎ jīnglǐ",
+          "meaning": "Manager Ma"
+        },
+        {
+          "word": "小林",
+          "pinyin": "Xiǎo Lín",
+          "meaning": "Xiao Lin, name of a person"
+        },
+        {
+          "word": "小李",
+          "pinyin": "Xiǎo Lǐ",
+          "meaning": "Xiao Li, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "招聘",
+          "pinyin": "zhāopìn",
+          "meaning": "v. to recruit"
+        },
+        {
+          "word": "负责",
+          "pinyin": "fùzé",
+          "meaning": "v. to be responsible for"
+        },
+        {
+          "word": "本来",
+          "pinyin": "běnlái",
+          "meaning": "adv. originally"
+        },
+        {
+          "word": "突然",
+          "pinyin": "tūrán",
+          "meaning": "adv. suddenly"
+        },
+        {
+          "word": "生病",
+          "pinyin": "shēngbìng",
+          "meaning": "v. to get sick"
+        },
+        {
+          "word": "住院",
+          "pinyin": "zhùyuàn",
+          "meaning": "v. to be hospitalized"
+        },
+        {
+          "word": "应聘",
+          "pinyin": "yìngpìn",
+          "meaning": "v. to apply for a job"
+        },
+        {
+          "word": "经过",
+          "pinyin": "jīngguò",
+          "meaning": "prep. after, through"
+        },
+        {
+          "word": "笔试",
+          "pinyin": "bǐshì",
+          "meaning": "n. written test"
+        },
+        {
+          "word": "面试",
+          "pinyin": "miànshì",
+          "meaning": "n. interview"
+        },
+        {
+          "word": "材料",
+          "pinyin": "cáiliào",
+          "meaning": "n. materials, documents"
+        },
+        {
+          "word": "能力",
+          "pinyin": "nénglì",
+          "meaning": "n. ability"
+        },
+        {
+          "word": "比较",
+          "pinyin": "bǐjiào",
+          "meaning": "adv. relatively, quite"
+        },
+        {
+          "word": "符合",
+          "pinyin": "fúhé",
+          "meaning": "v. to conform to, to meet"
+        },
+        {
+          "word": "要求",
+          "pinyin": "yāoqiú",
+          "meaning": "n. requirement, demand"
+        },
+        {
+          "word": "通知",
+          "pinyin": "tōngzhī",
+          "meaning": "v. to notify"
+        },
+        {
+          "word": "联系",
+          "pinyin": "liánxì",
+          "meaning": "v. to contact"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "小林和王静聊王静的工作情况 (Xiao Lin and Wang Jing talk about Wang Jing's job)",
+      "audio": "audio/03-3.mp3",
+      "content": [
+        {
+          "speaker": "小林",
+          "text": "王静，好久不见了！大学毕业后就没联系了，你现在在哪儿工作呢？",
+          "pinyin": "Wáng Jìng, hǎojiǔ bùjiàn le! Dàxué bìyè hòu jiù méi liánxì le, nǐ xiànzài zài nǎr gōngzuò ne?",
+          "translation": "Wang Jing, long time no see! We haven't been in touch since graduation. Where are you working now?"
+        },
+        {
+          "speaker": "王静",
+          "text": "我<b>一</b>毕业<b>就</b>去上海当律师了。",
+          "pinyin": "Wǒ yī bìyè jiù qù Shànghǎi dāng lǜshī le.",
+          "translation": "I went to Shanghai to work as a lawyer right after graduation."
+        },
+        {
+          "speaker": "小林",
+          "text": "你对现在的工作一定非常满意吧？",
+          "pinyin": "Nǐ duì xiànzài de gōngzuò yīdìng fēicháng mǎnyì ba?",
+          "translation": "You must be very satisfied with your current job, right?"
+        },
+        {
+          "speaker": "王静",
+          "text": "我很喜欢现在的工作，因为我学的<b>就是</b>法律<b>专业</b>，而且同事们都很喜欢我。<b>另外</b>，<b>收入</b>也不错。",
+          "pinyin": "Wǒ hěn xǐhuān xiànzài de gōngzuò, yīnwèi wǒ xué de jiùshì fǎlǜ zhuānyè, érqiě tóngshìmen dōu hěn xǐhuān wǒ. Lìngwài, shōurù yě bùcuò.",
+          "translation": "I really like my current job, because I studied law, and my colleagues all like me. Besides, the income is not bad either."
+        },
+        {
+          "speaker": "小林",
+          "text": "星期天<b>咱们</b>同学聚会，你能来参加吗？",
+          "pinyin": "Xīngqītiān zánmen tóngxué jùhuì, nǐ néng lái cānjiā ma?",
+          "translation": "We have a class reunion on Sunday. Can you come?"
+        },
+        {
+          "speaker": "王静",
+          "text": "能来。<b>虽然</b>这次来北京，时间<b>安排</b>得很紧张，<b>但</b>我一定借这次机会去跟大家见见面。",
+          "pinyin": "Néng lái. Suīrán zhè cì lái Běijīng, shíjiān ānpái de hěn jǐnzhāng, dàn wǒ yīdìng jiè zhè cì jīhuì qù gēn dàjiā jiàn jian miàn.",
+          "translation": "I can come. Although my schedule this time in Beijing is very tight, I'll definitely take this opportunity to meet everyone."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "小林",
+          "pinyin": "Xiǎo Lín",
+          "meaning": "Xiao Lin, name of a person"
+        },
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, name of a person"
+        },
+        {
+          "word": "上海",
+          "pinyin": "Shànghǎi",
+          "meaning": "Shanghai, a city in China"
+        },
+        {
+          "word": "北京",
+          "pinyin": "Běijīng",
+          "meaning": "Beijing, capital of China"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "毕业",
+          "pinyin": "bìyè",
+          "meaning": "v. to graduate"
+        },
+        {
+          "word": "律师",
+          "pinyin": "lǜshī",
+          "meaning": "n. lawyer"
+        },
+        {
+          "word": "满意",
+          "pinyin": "mǎnyì",
+          "meaning": "v. to be satisfied"
+        },
+        {
+          "word": "专业",
+          "pinyin": "zhuānyè",
+          "meaning": "n. specialty, major"
+        },
+        {
+          "word": "另外",
+          "pinyin": "lìngwài",
+          "meaning": "conj. besides, in addition"
+        },
+        {
+          "word": "收入",
+          "pinyin": "shōurù",
+          "meaning": "n. income"
+        },
+        {
+          "word": "咱们",
+          "pinyin": "zánmen",
+          "meaning": "pron. we, us (including listener)"
+        },
+        {
+          "word": "安排",
+          "pinyin": "ānpái",
+          "meaning": "v. to arrange"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "小雨谈面试经验 (Xiao Yu talks about interview experience)",
+      "audio": "audio/03-4.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "面试的时候，经理对我印象不错，还通知我明天就可以上班了。真没想到，找工作这么顺利。",
+          "pinyin": "Miànshì de shíhòu, jīnglǐ duì wǒ yìnxiàng bùcuò, hái tōngzhī wǒ míngtiān jiù kěyǐ shàngbān le. Zhēn méi xiǎngdào, zhǎo gōngzuò zhème shùnlì.",
+          "translation": "During the interview, the manager had a good impression of me, and even told me I could start working tomorrow. I never thought finding a job would be so smooth."
+        },
+        {
+          "speaker": "独白",
+          "text": "你想知道面试需要注意什么吗？",
+          "pinyin": "Nǐ xiǎng zhīdào miànshì xūyào zhùyì shénme ma?",
+          "translation": "Do you want to know what to pay attention to in an interview?"
+        },
+        {
+          "speaker": "独白",
+          "text": "<b>首先</b>，要穿<b>正式</b>的衣服，这会给你<b>留</b>下一个好的印象，让他觉得你是一个认真的人。",
+          "pinyin": "Shǒuxiān, yào chuān zhèngshì de yīfu, zhè huì gěi nǐ liú xià yīgè hǎo de yìnxiàng, ràng tā juéde nǐ shì yīgè rènzhēn de rén.",
+          "translation": "First, wear formal clothes. This will leave a good impression and make them think you are a serious person."
+        },
+        {
+          "speaker": "独白",
+          "text": "<b>其次</b>，应聘时不要紧张。回答问题时，说得不要太快，声音也不要太小，要相信自己有能力做好。",
+          "pinyin": "Qícì, yìngpìn shí bùyào jǐnzhāng. Huídá wèntí shí, shuō de bùyào tài kuài, shēngyīn yě bùyào tài xiǎo, yào xiāngxìn zìjǐ yǒu nénglì zuò hǎo.",
+          "translation": "Second, don't be nervous during the interview. When answering questions, don't speak too fast or too quietly. Believe that you have the ability to do well."
+        },
+        {
+          "speaker": "独白",
+          "text": "当然，最重要的是回答问题要<b>诚实</b>。",
+          "pinyin": "Dāngrán, zuì zhòngyào de shì huídá wèntí yào chéngshí.",
+          "translation": "Of course, the most important thing is to answer questions honestly."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "小雨",
+          "pinyin": "Xiǎo Yǔ",
+          "meaning": "Xiao Yu, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "首先",
+          "pinyin": "shǒuxiān",
+          "meaning": "pron. first, firstly"
+        },
+        {
+          "word": "正式",
+          "pinyin": "zhèngshì",
+          "meaning": "adj. formal"
+        },
+        {
+          "word": "留",
+          "pinyin": "liú",
+          "meaning": "v. to leave, to remain"
+        },
+        {
+          "word": "其次",
+          "pinyin": "qícì",
+          "meaning": "pron. second, next"
+        },
+        {
+          "word": "诚实",
+          "pinyin": "chéngshí",
+          "meaning": "adj. honest"
+        },
+        {
+          "word": "印象",
+          "pinyin": "yìnxiàng",
+          "meaning": "n. impression"
+        },
+        {
+          "word": "顺利",
+          "pinyin": "shùnlì",
+          "meaning": "adj. smooth, successful"
+        },
+        {
+          "word": "注意",
+          "pinyin": "zhùyì",
+          "meaning": "v. to pay attention to"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "第一印象 (First Impression)",
+      "audio": "audio/03-5.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "<b>第一印象</b>就是在第一次见面时给别人留下的印象。虽然第一印象不总是对的，但如果想<b>改变</b>却很困难。",
+          "pinyin": "Dì-yī yìnxiàng jiù shì zài dì-yī cì jiànmiàn shí gěi biérén liú xià de yìnxiàng. Suīrán dì-yī yìnxiàng bù zǒngshì duì de, dàn rúguǒ xiǎng gǎibiàn què hěn kùnnán.",
+          "translation": "First impression is the impression you leave on others when meeting for the first time. Although first impressions aren't always right, if you want to change them it's very difficult."
+        },
+        {
+          "speaker": "独白",
+          "text": "你给别人的第一印象会影响他们以后对你的<b>感觉</b>和<b>判断</b>。",
+          "pinyin": "Nǐ gěi biérén de dì-yī yìnxiàng huì yǐngxiǎng tāmen yǐhòu duì nǐ de gǎnjué hé pànduàn.",
+          "translation": "The first impression you give to others will affect their future feelings and judgments about you."
+        },
+        {
+          "speaker": "独白",
+          "text": "所以，给第一次见面的同事留下好的印象，以后的工作可能会更顺利；给第一次见面的<b>顾客</b>留下好的印象，你可能会卖出更多的东西。",
+          "pinyin": "Suǒyǐ, gěi dì-yī cì jiànmiàn de tóngshì liú xià hǎo de yìnxiàng, yǐhòu de gōngzuò kěnéng huì gèng shùnlì; gěi dì-yī cì jiànmiàn de gùkè liú xià hǎo de yìnxiàng, nǐ kěnéng huì mài chū gèng duō de dōngxi.",
+          "translation": "So, leaving a good impression on colleagues you meet for the first time may make future work go more smoothly; leaving a good impression on first-time customers, you might sell more things."
+        },
+        {
+          "speaker": "独白",
+          "text": "但是，如果第一次见面给别人留下像不<b>准时</b>这样的坏印象，那么以后就很难让别人相信你。",
+          "pinyin": "Dànshì, rúguǒ dì-yī cì jiànmiàn gěi biérén liú xià xiàng bù zhǔnshí zhèyàng de huài yìnxiàng, nàme yǐhòu jiù hěn nán ràng biérén xiāngxìn nǐ.",
+          "translation": "But if you leave a bad impression like being unpunctual when meeting someone for the first time, then it will be very hard to make others trust you later."
+        },
+        {
+          "speaker": "独白",
+          "text": "所以<b>不管</b>是上课、上班，还是<b>与</b>别人<b>约会</b>，<b>准时</b>都非常重要。",
+          "pinyin": "Suǒyǐ bùguǎn shì shàngkè, shàngbān, háishì yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.",
+          "translation": "So whether it's attending class, going to work, or going on a date with someone, punctuality is very important."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "改变",
+          "pinyin": "gǎibiàn",
+          "meaning": "v. to change"
+        },
+        {
+          "word": "感觉",
+          "pinyin": "gǎnjué",
+          "meaning": "n. feeling"
+        },
+        {
+          "word": "判断",
+          "pinyin": "pànduàn",
+          "meaning": "v. to judge, to decide"
+        },
+        {
+          "word": "顾客",
+          "pinyin": "gùkè",
+          "meaning": "n. customer, client"
+        },
+        {
+          "word": "准时",
+          "pinyin": "zhǔnshí",
+          "meaning": "adj. punctual, on time"
+        },
+        {
+          "word": "不管",
+          "pinyin": "bùguǎn",
+          "meaning": "conj. no matter (what, how, etc.)"
+        },
+        {
+          "word": "与",
+          "pinyin": "yǔ",
+          "meaning": "prep. with"
+        },
+        {
+          "word": "约会",
+          "pinyin": "yuēhuì",
+          "meaning": "v. to date, to go to an appointment"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "vocabulary": {
+      "挺": { "ko": "꽤, 제법", "ja": "かなり、結構" },
+      "紧张": { "ko": "긴장하다", "ja": "緊張する" },
+      "信心": { "ko": "자신, 신념", "ja": "自信" },
+      "能力": { "ko": "능력", "ja": "能力" },
+      "招聘": { "ko": "채용하다", "ja": "募集する" },
+      "提供": { "ko": "제공하다", "ja": "提供する" },
+      "决定": { "ko": "결정하다", "ja": "決める" },
+      "机会": { "ko": "기회", "ja": "機会" },
+      "负责": { "ko": "책임지다", "ja": "担当する" },
+      "本来": { "ko": "원래", "ja": "元々" },
+      "突然": { "ko": "갑자기", "ja": "突然" },
+      "生病": { "ko": "병에 걸리다", "ja": "病気になる" },
+      "住院": { "ko": "입원하다", "ja": "入院する" },
+      "应聘": { "ko": "지원하다, 응모하다", "ja": "応募する" },
+      "经过": { "ko": "거쳐, 통과하여", "ja": "経て、通して" },
+      "笔试": { "ko": "필기시험", "ja": "筆記試験" },
+      "面试": { "ko": "면접", "ja": "面接" },
+      "材料": { "ko": "서류, 자료", "ja": "書類、資料" },
+      "比较": { "ko": "비교적, 꽤", "ja": "比較的" },
+      "符合": { "ko": "부합하다, 맞다", "ja": "合致する" },
+      "要求": { "ko": "요구", "ja": "要求" },
+      "通知": { "ko": "통지하다, 알리다", "ja": "通知する" },      "联系": { "ko": "연락하다", "ja": "連絡する" },
+      "毕业": { "ko": "졸업하다", "ja": "卒業する" },
+      "律师": { "ko": "변호사", "ja": "弁護士" },
+      "满意": { "ko": "만족하다", "ja": "満足する" },
+      "专业": { "ko": "전공, 전문", "ja": "専門" },
+      "另外": { "ko": "게다가, 그 밖에", "ja": "その他に、さらに" },
+      "收入": { "ko": "수입", "ja": "収入" },
+      "咱们": { "ko": "우리 (듣는 사람 포함)", "ja": "私たち（聞き手含む）" },
+      "安排": { "ko": "안배하다, 계획하다", "ja": "手配する、計画する" },
+      "首先": { "ko": "첫째, 먼저", "ja": "まず、最初に" },
+      "正式": { "ko": "정식, 공식적인", "ja": "正式な" },
+      "留": { "ko": "남기다, 머무르다", "ja": "残す、留める" },
+      "其次": { "ko": "둘째, 다음으로", "ja": "次に、第二に" },
+      "诚实": { "ko": "정직하다", "ja": "誠実である" },
+      "印象": { "ko": "인상", "ja": "印象" },
+      "顺利": { "ko": "순조롭다, 잘 되다", "ja": "順調である" },
+      "注意": { "ko": "주의하다", "ja": "注意する" },
+      "改变": { "ko": "바꾸다, 변화하다", "ja": "変える、変化する" },
+      "感觉": { "ko": "느낌, 감정", "ja": "感じ、感情" },
+      "判断": { "ko": "판단하다", "ja": "判断する" },
+      "顾客": { "ko": "고객", "ja": "顧客" },
+      "准时": { "ko": "시간을 지키다, 정각", "ja": "時間を守る、正確な" },
+      "不管": { "ko": "~에 관계없이", "ja": "〜に関わらず" },
+      "与": { "ko": "~와/과", "ja": "〜と" },
+      "约会": { "ko": "약속, 데이트", "ja": "デート、約束" }
+        },
+    "properNouns": {
+      "小夏": { "ko": "인명: 샤오샤", "ja": "人名: 小夏" },
+      "小雨": { "ko": "인명: 샤오위", "ja": "人名: 小雨" },
+      "马经理": { "ko": "인명: 마 부장님", "ja": "人名: マー部長" },
+      "小林": { "ko": "인명: 샤오린", "ja": "人名: 小林" },      "小李": { "ko": "인명: 샤오리", "ja": "人名: 小李" },
+      "王静": { "ko": "인명: 왕징", "ja": "人名: 王静" },
+      "上海": { "ko": "중국 도시: 상하이", "ja": "中国の都市: 上海" },
+      "北京": { "ko": "중국 수도: 베이징", "ja": "中国の首都: 北京" }
+        },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "오전 면접 어땠어?",
+              "ja": "午前の面接はどうだった？"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "그냥저냥 괜찮았어. 질문들은 다 꽤 쉬웠는데, 내가 좀 긴장됐었어.",
+              "ja": "まあまあ大丈夫だった。質問は結構簡単だったんだけど、ちょっと緊張しちゃって。"
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "면접 볼 때는 꼭 자신감을 가져야 해. 자기 능력을 믿어야 한다고.",
+              "ja": "面接の時は必ず自信を持たなきゃ。自分の能力を信じないとね。"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "맞아! 3월 15일 오전 8시에 학교 체육관에서 채용박람회도 있대, 같이 갈래?",
+              "ja": "そうだね！3月15日午前8時に学校の体育館で採用説明会もあるんだ、行かない？"
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "아직 결정 안 했어.",
+              "ja": "まだ決めてないよ。"
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "이번 채용박람회가 제공하는 일자리가 많다고 하던데, 우리 같이 가보자.",
+              "ja": "今回の採用説明会は仕事のチャンスが多いって聞いたよ。一緒に行ってみようよ。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "샤오린, 이번 채용은 샤오리가 책임지는 거 아니었나요?",
+              "ja": "小林さん、今回の採用は小李さんの担当じゃなかったんですか？"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "원래 샤오리가 담당했었는데, 갑자기 아파서 입원하는 바람에 저한테 넘겨졌어요.",
+              "ja": "もともと小李さんが担当だったんですが、急に病気で入院してしまって、私に回ってきたんです。"
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "아, 이번 지원자는 많아요?",
+              "ja": "ああ、今回の応募者は多いんですか？"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "부장님, 이번에 지원한 사람은 총 15명입니다. 필기시험과 면접을 거쳐 두 명이 괜찮았어요. 여기 서류입니다, 보세요.",
+              "ja": "部長、今回の応募者は全部で15人です。筆記試験と面接を経て、2人が良さそうでした。こちらが書類です、ご覧ください。"
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "이 두 사람의 능력이 비교적 우리 요구에 부합하는 편이야. 다음 주 월요일 오전 9시에 내 사무실로 오라고 통지해 줘.",
+              "ja": "この二人の能力はどちらも我々の要求に比較的合っている。来週の月曜午前9時に私のオフィスに来るよう通知しておいて。"
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "네, 그럼 바로 연락드리겠습니다.",
+              "ja": "はい、ではすぐに連絡します。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "왕징, 정말 오랜만이다! 대학교 졸업하고는 연락이 없었는데, 지금 어디서 일하고 있어?",
+              "ja": "王静さん、お久しぶりです！大学卒業してから連絡してなかったけど、今どこで働いてるの？"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "저는 졸업하자마자 상하이에 가서 변호사가 되었어요.",
+              "ja": "卒業したらすぐに上海に行って弁護士になりました。"
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "지금 하는 일에 정말 만족하겠구나?",
+              "ja": "今の仕事にきっとすごく満足してるんでしょ？"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "지금 하는 일이 정말 좋아요. 제가 배운 게 바로 법학 전공이고, 동료들도 저를 좋아해 줘요. 게다가 수입도 괜찮아요.",
+              "ja": "今の仕事がとても好きです。勉強したのは法律専門で、同僚もみんな私のことを好きでいてくれます。それに、収入も悪くないです。"
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "일요일에 우리 동창 모임이 있는데, 올 수 있어?",
+              "ja": "日曜日に同窓会があるんだけど、来られる？"
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "갈 수 있어요. 이번에 북경에 온 것은 일정이 빡빡하지만, 꼭 이 기회에 여러분과 만나러 갈게요.",
+              "ja": "行けますよ。今回北京に来たのはスケジュールがぎっしりですが、必ずこの機会にみんなに会いに行きます。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "첫인상은 처음 만날 때 상대방에게 남기는 인상이야. 첫인상이 항상 맞는 것은 아니지만, 바꾸려고 하면 매우 어려워.",
+              "ja": "第一印象とは、初めて会う時に相手に与える印象のことです。第一印象はいつも正しいとは限りませんが、変えようとするのはとても難しいです。"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "네가 남에게 준 첫인상은 나중에 그들이 너에 대해 갖는 감정과 판단에 영향을 미쳐.",
+              "ja": "あなたが与えた第一印象は、後の相手のあなたに対する感情や判断に影響します。"
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "그러니까, 처음 만나는 동료에게 좋은 인상을 남기면 앞으로 일이 더 순조로울 수 있고; 처음 만나는 고객에게 좋은 인상을 남기면 더 많은 물건을 팔 수 있을 거야.",
+              "ja": "ですから、初めて会う同僚に良い印象を残せば、今後の仕事がより順調に進むかもしれません。初めて会うお客様に良い印象を残せば、より多くの商品を売れるかもしれません。"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "하지만, 처음 만날 때 시간을 안 지키는 등의 나쁜 인상을 남기면, 나중에 남들이 너를 믿기 어렵게 돼.",
+              "ja": "しかし、初めて会う時に時間を守らないなどの悪い印象を残すと、その後相手に信頼してもらうのはとても難しくなります。"
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "그러니까 수업을 듣든, 출근을 하든, 누군가와 약속을 하든, 시간을 지키는 것은 정말 중요해.",
+              "ja": "ですから、授業でも、出勤でも、誰かとのデートでも、時間を守ることはとても大切です。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "면접 때 부장님이 나에 대해 좋은 인상을 가지셨고, 내일부터 출근해도 된다고 알려주셨어. 취직이 이렇게 순조로울 줄은 정말 몰랐어.",
+              "ja": "面接の時、部長は私に良い印象を持って、明日から出勤していいと言ってくれました。就職がこんなにうまくいくとは思ってもみませんでした。"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "면접 때 무엇을 주의해야 하는지 알고 싶어?",
+              "ja": "面接で何に注意すべきか知りたい？"
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "첫째, 정장을 입어야 해. 그래야 좋은 인상을 남겨서, 너를 진지한 사람이라고 생각하게 할 거야.",
+              "ja": "まず、フォーマルな服を着ること。そうすれば良い印象を残して、あなたを真面目な人だと思ってもらえる。"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "둘째, 면접 볼 때 긴장하지 마. 질문에 대답할 때 너무 빠르게 말하지 말고, 목소리도 너무 작지 않게 해. 자신이 잘할 수 있는 능력이 있다고 믿어.",
+              "ja": "次に、面接の時は緊張しないこと。質問に答える時は、早く話しすぎず、声も小さすぎないように。自分にはうまくやる能力があると信じること。"
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "물론, 가장 중요한 것은 질문에 정직하게 대답하는 거야.",
+              "ja": "もちろん、一番大切なのは質問に誠実に答えることです。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

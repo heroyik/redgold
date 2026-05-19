@@ -36,6 +36,8 @@ type UiCopy = {
   sub: string;
   restart: string;
   textTitlePrefix: string;
+  pinyinLabel: string;
+  translationLabel: string;
   langEn: string;
   langKo: string;
   langJa: string;
@@ -77,6 +79,8 @@ const UI_COPY: Record<AppLanguage, UiCopy> = {
     sub: "You've mastered this session.",
     restart: 'Restart Session',
     textTitlePrefix: 'Text',
+    pinyinLabel: 'Pīnyīn',
+    translationLabel: 'Translation',
     langEn: 'English',
     langKo: 'Korean',
     langJa: 'Japanese'
@@ -104,7 +108,7 @@ const UI_COPY: Record<AppLanguage, UiCopy> = {
     masteryFormal: '✨ 표준 표현',
     masteryColloquial: '🔥 실전 표현',
     listening: '듣기',
-    newWords: '생词 (새 단어)',
+    newWords: '生词 (새 단어)',
     properNouns: '专有名词 (고유명사)',
     tapToFlipFront: '눌러서 뒤집기',
     tapToFlipBack: '다시 단어 보기',
@@ -116,6 +120,8 @@ const UI_COPY: Record<AppLanguage, UiCopy> = {
     sub: '이번 세션을 모두 완료했습니다.',
     restart: '다시 시작',
     textTitlePrefix: '본문',
+    pinyinLabel: '병음 (Pīnyīn)',
+    translationLabel: '번역',
     langEn: '영어',
     langKo: '한국어',
     langJa: '일본어'
@@ -155,6 +161,8 @@ const UI_COPY: Record<AppLanguage, UiCopy> = {
     sub: 'このセッションを完了しました。',
     restart: '再開する',
     textTitlePrefix: '本文',
+    pinyinLabel: 'ピンイン (Pīnyīn)',
+    translationLabel: '翻訳',
     langEn: '英語',
     langKo: '韓国語',
     langJa: '日本語'
