@@ -50,8 +50,325 @@
     {"word": "与", "pinyin": "yǔ", "meaning": "with"},
     {"word": "约会", "pinyin": "yuēhuì", "meaning": "to date"}
   ],
-  "grammar": [],
-  "key_sentences": [],
+  "grammar": [
+    {
+      "point": "挺……的",
+      "explanation": "The adverb '挺' means 'quite' or 'rather', similar to '很'. It is often used in the structure '挺……的' to describe a quality, degree, or impression in a natural spoken tone.",
+      "formal_examples": [
+        {
+          "chinese": "他们问的问题都<b>挺</b>容易<b>的</b>。",
+          "pinyin": "Tāmen wèn de wèntí dōu tǐng róngyì de.",
+          "translation": "The questions they asked were all quite easy."
+        },
+        {
+          "chinese": "这家店的东西<b>挺</b>好<b>的</b>，我经常来这儿买东西。",
+          "pinyin": "Zhè jiā diàn de dōngxi tǐng hǎo de, wǒ jīngcháng lái zhèr mǎi dōngxi.",
+          "translation": "The things in this shop are quite good; I often come here to buy things."
+        },
+        {
+          "chinese": "我<b>挺</b>喜欢这个地方<b>的</b>，周围环境比以前住的地方安静很多。",
+          "pinyin": "Wǒ tǐng xǐhuan zhège dìfang de, zhōuwéi huánjìng bǐ yǐqián zhù de dìfang ānjìng hěn duō.",
+          "translation": "I quite like this place; the surrounding environment is much quieter than where I lived before."
+        }
+      ],
+      "colloquial_pattern": "挺……的 / 蛮……的 / 还挺……",
+      "colloquial_examples": [
+        {
+          "chinese": "他们问的题<b>还挺</b>简单<b>的</b>，就是我当时有点儿慌。",
+          "pinyin": "Tāmen wèn de tí hái tǐng jiǎndān de, jiùshì wǒ dāngshí yǒudiǎnr huāng.",
+          "translation": "The questions they asked were actually pretty easy; I was just a bit nervous at the time."
+        },
+        {
+          "chinese": "这家店东西<b>蛮</b>靠谱<b>的</b>，我基本都在这儿买。",
+          "pinyin": "Zhè jiā diàn dōngxi mán kàopǔ de, wǒ jīběn dōu zài zhèr mǎi.",
+          "translation": "The stuff at this shop is pretty reliable; I basically buy things here all the time."
+        },
+        {
+          "chinese": "我<b>还挺</b>喜欢这片儿<b>的</b>，安静多了，住着舒服。",
+          "pinyin": "Wǒ hái tǐng xǐhuan zhè piànr de, ānjìng duō le, zhù zhe shūfu.",
+          "translation": "I actually quite like this area; it's much quieter and comfortable to live in."
+        }
+      ],
+      "nuance": "'挺……的' is already common in spoken Chinese and sounds softer than a direct '很'. '还挺……' adds a sense of mild surprise or positive evaluation, while '蛮……的' is also very conversational and common in many regions."
+    },
+    {
+      "point": "本来",
+      "explanation": "The adverb '本来' indicates that something is naturally so or goes without saying. It can also mean 'originally' or 'at first', especially when contrasting the original situation with what actually happened later.",
+      "formal_examples": [
+        {
+          "chinese": "这件事<b>本来</b>应该听他的。",
+          "pinyin": "Zhè jiàn shì běnlái yīnggāi tīng tā de.",
+          "translation": "For this matter, we should naturally have listened to him."
+        },
+        {
+          "chinese": "我<b>本来</b>不会开车，但现在开得特别好。",
+          "pinyin": "Wǒ běnlái bù huì kāichē, dàn xiànzài kāi de tèbié hǎo.",
+          "translation": "I originally couldn't drive, but now I drive especially well."
+        },
+        {
+          "chinese": "这次招聘<b>本来</b>是小李负责的。",
+          "pinyin": "Zhè cì zhāopìn běnlái shì Xiǎo Lǐ fùzé de.",
+          "translation": "This round of hiring was originally Xiao Li's responsibility."
+        }
+      ],
+      "colloquial_pattern": "原本 / 一开始 / 按理说",
+      "colloquial_examples": [
+        {
+          "chinese": "这事儿<b>按理说</b>就该听他的，结果大家非要自己瞎折腾。",
+          "pinyin": "Zhè shìr ànlǐshuō jiù gāi tīng tā de, jiéguǒ dàjiā fēi yào zìjǐ xiā zhēteng.",
+          "translation": "Logically, we should have just listened to him on this, but everyone insisted on messing around by themselves."
+        },
+        {
+          "chinese": "我<b>一开始</b>连车都不敢碰，现在开得还挺溜。",
+          "pinyin": "Wǒ yì kāishǐ lián chē dōu bù gǎn pèng, xiànzài kāi de hái tǐng liū.",
+          "translation": "At first I didn't even dare touch a car, but now I drive pretty smoothly."
+        },
+        {
+          "chinese": "这次招人<b>原本</b>归小李管，后来临时换人了。",
+          "pinyin": "Zhè cì zhāo rén yuánběn guī Xiǎo Lǐ guǎn, hòulái línshí huàn rén le.",
+          "translation": "This hiring was originally under Xiao Li, but they switched people at the last minute."
+        }
+      ],
+      "nuance": "'本来' is neutral and textbook-like. In casual speech, '一开始' highlights the original starting point, '原本' sounds natural for an original arrangement, and '按理说' adds the feeling of 'logically speaking, this should have been obvious.'"
+    },
+    {
+      "point": "另外",
+      "explanation": "'另外' can be used as a pronoun to mean another person or thing beyond what has already been mentioned, often in the structures '另外（+的）+ number-measure word（+ noun）' or '另外 + 的（+ noun）'. It can also be used as an adverb meaning beyond the previous scope, often with '还', '再', or '又', and as a conjunction meaning 'besides' to connect clauses or sentences. When meaning 'another' before a verb, '另' usually modifies a monosyllabic verb, while '另外' has no such restriction. '另外' can be a conjunction, but '另' cannot.",
+      "formal_examples": [
+        {
+          "chinese": "前面车有点儿多，我们走<b>另外</b>一条路，不会迟到的。",
+          "pinyin": "Qiánmiàn chē yǒudiǎnr duō, wǒmen zǒu lìngwài yì tiáo lù, bú huì chídào de.",
+          "translation": "There are quite a few cars ahead. Let's take another road; we won't be late."
+        },
+        {
+          "chinese": "这件衣服有点儿大，你试试<b>另外</b>的那件吧。",
+          "pinyin": "Zhè jiàn yīfu yǒudiǎnr dà, nǐ shìshi lìngwài de nà jiàn ba.",
+          "translation": "This piece of clothing is a bit big. Try that other one."
+        },
+        {
+          "chinese": "除了她说的，我<b>另外又</b>补充了几条意见。",
+          "pinyin": "Chúle tā shuō de, wǒ lìngwài yòu bǔchōng le jǐ tiáo yìjiàn.",
+          "translation": "Besides what she said, I added several more suggestions."
+        },
+        {
+          "chinese": "家里的空调坏了，咱们<b>另外再</b>买一个吧。",
+          "pinyin": "Jiālǐ de kōngtiáo huài le, zánmen lìngwài zài mǎi yí ge ba.",
+          "translation": "The air conditioner at home is broken. Let's buy another one."
+        },
+        {
+          "chinese": "我学的就是法律专业，而且同事们都很喜欢我。<b>另外</b>，收入也不错。",
+          "pinyin": "Wǒ xué de jiù shì fǎlǜ zhuānyè, érqiě tóngshìmen dōu hěn xǐhuan wǒ. Lìngwài, shōurù yě búcuò.",
+          "translation": "I studied law, and my colleagues all like me. Besides, the income is also good."
+        },
+        {
+          "chinese": "现在上网买东西很方便，卖家可以把你买的东西送到你办公室或者家里。<b>另外</b>，还比较便宜。",
+          "pinyin": "Xiànzài shàngwǎng mǎi dōngxi hěn fāngbiàn, màijiā kěyǐ bǎ nǐ mǎi de dōngxi sòng dào nǐ bàngōngshì huòzhě jiālǐ. Lìngwài, hái bǐjiào piányi.",
+          "translation": "Shopping online is very convenient now. Sellers can deliver what you buy to your office or home. Besides, it is also relatively cheap."
+        },
+        {
+          "chinese": "最近小雨太忙了，没时间帮你，你还是<b>另外</b>/<b>另</b>找别人吧。",
+          "pinyin": "Zuìjìn Xiǎo Yǔ tài máng le, méi shíjiān bāng nǐ, nǐ háishi lìngwài/lìng zhǎo biérén ba.",
+          "translation": "Xiao Yu has been too busy recently and has no time to help you. You should find someone else."
+        },
+        {
+          "chinese": "他这次来参加会议，不但帮我们解决了现在的问题，还<b>另外</b>提供了不少新的材料。",
+          "pinyin": "Tā zhè cì lái cānjiā huìyì, búdàn bāng wǒmen jiějué le xiànzài de wèntí, hái lìngwài tígōng le bù shǎo xīn de cáiliào.",
+          "translation": "This time he came to attend the meeting, he not only helped us solve the current problem, but also provided quite a few new materials."
+        },
+        {
+          "chinese": "冬季应该注意多吃水果。<b>另外</b>，还要记得多喝水。",
+          "pinyin": "Dōngjì yīnggāi zhùyì duō chī shuǐguǒ. Lìngwài, hái yào jìde duō hē shuǐ.",
+          "translation": "In winter, you should pay attention to eating more fruit. In addition, remember to drink more water."
+        }
+      ],
+      "colloquial_pattern": "别的 / 另一个 / 另外还 / 再说",
+      "colloquial_examples": [
+        {
+          "chinese": "前面堵成那样，咱走<b>别的</b>路吧，应该来得及。",
+          "pinyin": "Qiánmiàn dǔ chéng nàyàng, zán zǒu bié de lù ba, yīnggāi láidejí.",
+          "translation": "It's jammed up ahead like that. Let's take another route; we should still make it."
+        },
+        {
+          "chinese": "这件太大了，你试试<b>另一个</b>码，应该更合身。",
+          "pinyin": "Zhè jiàn tài dà le, nǐ shìshi lìng yí ge mǎ, yīnggāi gèng héshēn.",
+          "translation": "This one is too big. Try another size; it should fit better."
+        },
+        {
+          "chinese": "她说的我都记下了，我<b>另外还</b>补了几条，省得漏掉。",
+          "pinyin": "Tā shuō de wǒ dōu jìxià le, wǒ lìngwài hái bǔ le jǐ tiáo, shěngde lòudiào.",
+          "translation": "I wrote down everything she said, and I added a few more so nothing gets missed."
+        },
+        {
+          "chinese": "空调坏了就别修了，咱<b>再</b>买个新的吧。",
+          "pinyin": "Kōngtiáo huài le jiù bié xiū le, zán zài mǎi ge xīn de ba.",
+          "translation": "If the AC is broken, let's stop fixing it and just buy a new one."
+        },
+        {
+          "chinese": "这工作跟我专业对口，同事也挺好，<b>再说</b>钱也不少。",
+          "pinyin": "Zhè gōngzuò gēn wǒ zhuānyè duìkǒu, tóngshì yě tǐng hǎo, zàishuō qián yě bù shǎo.",
+          "translation": "This job matches my major, the coworkers are nice, and besides, the pay is pretty good."
+        },
+        {
+          "chinese": "网购是真方便，直接送到家，<b>另外还</b>便宜不少。",
+          "pinyin": "Wǎnggòu shì zhēn fāngbiàn, zhíjiē sòng dào jiā, lìngwài hái piányi bù shǎo.",
+          "translation": "Online shopping is really convenient; it gets delivered straight home, and it's also a lot cheaper."
+        },
+        {
+          "chinese": "小雨最近忙飞了，帮不上你，你<b>另找</b>个人吧。",
+          "pinyin": "Xiǎo Yǔ zuìjìn máng fēi le, bāng bú shàng nǐ, nǐ lìng zhǎo ge rén ba.",
+          "translation": "Xiao Yu has been insanely busy lately and can't help you. Find someone else."
+        },
+        {
+          "chinese": "他这次来不光把问题解决了，<b>另外还</b>带了不少新资料，挺给力的。",
+          "pinyin": "Tā zhè cì lái bùguāng bǎ wèntí jiějué le, lìngwài hái dài le bù shǎo xīn zīliào, tǐng gěilì de.",
+          "translation": "He didn't just solve the problem this time; he also brought a lot of new materials. Pretty helpful."
+        },
+        {
+          "chinese": "冬天水果得多吃，<b>另外</b>水也别忘了多喝。",
+          "pinyin": "Dōngtiān shuǐguǒ děi duō chī, lìngwài shuǐ yě bié wàng le duō hē.",
+          "translation": "In winter, eat more fruit, and don't forget to drink more water too."
+        }
+      ],
+      "nuance": "'另外' is clear and slightly formal, especially as a connector. In daily speech, people often use '别的' or '另一个' for another item, '另外还' for an extra point, and '再说' when adding another reason in a persuasive or conversational tone. Use '另' mainly in compact verb phrases like '另找' or '另买'; use '另外' when the following verb phrase is longer or when connecting a new sentence."
+    },
+    {
+      "point": "首先……其次……",
+      "explanation": "'首先' and '其次' are pronouns often used together in written Chinese to enumerate items in order. '首先' can also be used as an adverb meaning 'first of all' or 'the earliest'.",
+      "formal_examples": [
+        {
+          "chinese": "不管做什么事情，<b>首先</b>应该明白你为什么要做，<b>其次</b>要知道怎么做。",
+          "pinyin": "Bùguǎn zuò shénme shìqing, shǒuxiān yīnggāi míngbai nǐ wèishénme yào zuò, qícì yào zhīdào zěnme zuò.",
+          "translation": "No matter what you do, first you should understand why you want to do it; second, you need to know how to do it."
+        },
+        {
+          "chinese": "<b>首先</b>，要穿正式的衣服，这会给面试者留下一个好的印象，让他觉得你是一个认真的人。<b>其次</b>，应聘时不要紧张。",
+          "pinyin": "Shǒuxiān, yào chuān zhèngshì de yīfu, zhè huì gěi miànshìzhě liú xià yí ge hǎo de yìnxiàng, ràng tā juéde nǐ shì yí ge rènzhēn de rén. Qícì, yìngpìn shí bú yào jǐnzhāng.",
+          "translation": "First, wear formal clothes. This will leave a good impression on the interviewer and make them feel you are a serious person. Second, don't be nervous during the interview."
+        },
+        {
+          "chinese": "不管以后做什么工作，你<b>首先</b>应该有一个好身体。",
+          "pinyin": "Bùguǎn yǐhòu zuò shénme gōngzuò, nǐ shǒuxiān yīnggāi yǒu yí ge hǎo shēntǐ.",
+          "translation": "No matter what job you do in the future, first of all, you should have a healthy body."
+        },
+        {
+          "chinese": "很多人遇到不明白的地方，<b>首先</b>想到的是上网查一查。",
+          "pinyin": "Hěn duō rén yùdào bù míngbai de dìfang, shǒuxiān xiǎngdào de shì shàngwǎng chá yì chá.",
+          "translation": "When many people encounter something they do not understand, the first thing they think of is looking it up online."
+        }
+      ],
+      "colloquial_pattern": "先……再…… / 第一……第二…… / 最先",
+      "colloquial_examples": [
+        {
+          "chinese": "不管干啥，<b>先</b>想清楚为啥要干，<b>再</b>想具体怎么干。",
+          "pinyin": "Bùguǎn gàn shá, xiān xiǎng qīngchu wèishá yào gàn, zài xiǎng jùtǐ zěnme gàn.",
+          "translation": "Whatever you're doing, first figure out why you're doing it, then think about exactly how to do it."
+        },
+        {
+          "chinese": "面试嘛，<b>第一</b>衣服得正式点儿，给人感觉靠谱；<b>第二</b>别太紧张。",
+          "pinyin": "Miànshì ma, dì-yī yīfu děi zhèngshì diǎnr, gěi rén gǎnjué kàopǔ; dì-èr bié tài jǐnzhāng.",
+          "translation": "For an interview, first dress a bit formally so you look reliable; second, don't get too nervous."
+        },
+        {
+          "chinese": "以后干啥都一样，<b>先</b>把身体顾好。",
+          "pinyin": "Yǐhòu gàn shá dōu yíyàng, xiān bǎ shēntǐ gù hǎo.",
+          "translation": "Whatever you do in the future, take care of your health first."
+        },
+        {
+          "chinese": "现在大家一碰到不懂的，<b>最先</b>想到的就是上网搜一下。",
+          "pinyin": "Xiànzài dàjiā yí pèngdào bù dǒng de, zuìxiān xiǎngdào de jiù shì shàngwǎng sōu yíxià.",
+          "translation": "These days, when people run into something they don't understand, the first thing they think of is searching online."
+        }
+      ],
+      "nuance": "'首先……其次……' is organized and formal, making it good for written explanations, speeches, and interview advice. In daily speech, '先……再……' and '第一……第二……' sound more natural and direct, while '最先' emphasizes the very first thing that comes to mind."
+    },
+    {
+      "point": "不管……都……",
+      "explanation": "The conjunction '不管' indicates that the conclusion or result will not change under any assumed circumstance. It is often used with interrogative pronouns such as '什么', '怎么', '谁', '哪儿', and '多（么）'. It is also often paired with '还是' or an affirmative-negative phrase, and the following clause usually contains '都' or a similar word.",
+      "formal_examples": [
+        {
+          "chinese": "山本<b>不管</b>做什么事<b>都</b>非常认真。",
+          "pinyin": "Shānběn bùguǎn zuò shénme shì dōu fēicháng rènzhēn.",
+          "translation": "No matter what Yamamoto does, he is always very serious."
+        },
+        {
+          "chinese": "<b>不管</b>是上课、上班，<b>还是</b>与别人约会，准时<b>都</b>非常重要。",
+          "pinyin": "Bùguǎn shì shàngkè, shàngbān, háishi yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.",
+          "translation": "Whether it is going to class, going to work, or meeting someone, being on time is always very important."
+        },
+        {
+          "chinese": "<b>不管</b>忙不忙，他每天<b>都</b>要锻炼一个小时身体。",
+          "pinyin": "Bùguǎn máng bù máng, tā měitiān dōu yào duànliàn yí ge xiǎoshí shēntǐ.",
+          "translation": "Whether he is busy or not, he exercises for one hour every day."
+        }
+      ],
+      "colloquial_pattern": "不管……都…… / 管它……都…… / 再……也……",
+      "colloquial_examples": [
+        {
+          "chinese": "山本这人<b>不管</b>干啥<b>都</b>特别较真。",
+          "pinyin": "Shānběn zhè rén bùguǎn gàn shá dōu tèbié jiàozhēn.",
+          "translation": "Yamamoto is the kind of guy who takes everything seriously, no matter what he's doing."
+        },
+        {
+          "chinese": "<b>不管</b>上课、上班，<b>还是</b>跟人约好了见面，守时<b>都</b>很关键。",
+          "pinyin": "Bùguǎn shàngkè, shàngbān, háishi gēn rén yuē hǎo le jiànmiàn, shǒushí dōu hěn guānjiàn.",
+          "translation": "Whether it's class, work, or meeting someone you've made plans with, being on time really matters."
+        },
+        {
+          "chinese": "<b>再</b>忙他<b>也</b>每天抽一个小时锻炼，真挺自律的。",
+          "pinyin": "Zài máng tā yě měitiān chōu yí ge xiǎoshí duànliàn, zhēn tǐng zìlǜ de.",
+          "translation": "No matter how busy he is, he still makes an hour every day to exercise. He's really disciplined."
+        }
+      ],
+      "nuance": "'不管……都……' is a stable and versatile pattern for 'no matter what/who/where/how'. In conversation, '再……也……' is often punchier when talking about degree, like '再忙也...' for 'no matter how busy'. '管它...' is more casual and dismissive, closer to 'whatever it is...'."
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "还可以，他们问的问题都<b>挺</b>容易<b>的</b>，<b>就是</b>我有点儿紧张。",
+      "pinyin": "Hái kěyǐ, tāmen wèn de wèntí dōu tǐng róngyì de, jiùshì wǒ yǒudiǎnr jǐnzhāng.",
+      "translation": "It was okay, the questions they asked were quite easy; it's just that I was a little nervous.",
+      "colloquial_equivalent": "还行，他们问的题<b>还挺</b>简单<b>的</b>，就是我当时有点儿慌。",
+      "colloquial_pinyin": "Hái xíng, tāmen wèn de tí hái tǐng jiǎndān de, jiùshì wǒ dāngshí yǒudiǎnr huāng.",
+      "colloquial_translation": "It was alright. The questions were actually pretty easy; I was just a bit nervous at the time.",
+      "context": "Talking about how an interview went."
+    },
+    {
+      "sentence": "<b>本来</b>是小李负责的，<b>但是</b>他突然生病住院了，所以就交给我来做了。",
+      "pinyin": "Běnlái shì Xiǎo Lǐ fùzé de, dànshì tā tūrán shēngbìng zhùyuàn le, suǒyǐ jiù jiāo gěi wǒ lái zuò le.",
+      "translation": "Originally it was Xiao Li's responsibility, but he suddenly got sick and was hospitalized, so he handed it over to me.",
+      "colloquial_equivalent": "这事儿<b>原本</b>归小李管，结果他突然住院了，就临时让我接手了。",
+      "colloquial_pinyin": "Zhè shìr yuánběn guī Xiǎo Lǐ guǎn, jiéguǒ tā tūrán zhùyuàn le, jiù línshí ràng wǒ jiēshǒu le.",
+      "colloquial_translation": "This was originally Xiao Li's job, but he suddenly ended up in the hospital, so they had me take it over at the last minute.",
+      "context": "Explaining a change of responsibility."
+    },
+    {
+      "sentence": "我很喜欢现在的工作，因为我学的<b>就是</b>法律<b>专业</b>，而且同事们都很喜欢我。<b>另外</b>，<b>收入</b>也不错。",
+      "pinyin": "Wǒ hěn xǐhuan xiànzài de gōngzuò, yīnwèi wǒ xué de jiùshì fǎlǜ zhuānyè, érqiě tóngshìmen dōu hěn xǐhuan wǒ. Lìngwài, shōurù yě búcuò.",
+      "translation": "I really like my current job, because I studied law, and my colleagues all like me. Besides, the income is not bad either.",
+      "colloquial_equivalent": "我现在这工作挺满意的，专业也对口，同事也好相处，<b>再说</b>工资也不低。",
+      "colloquial_pinyin": "Wǒ xiànzài zhè gōngzuò tǐng mǎnyì de, zhuānyè yě duìkǒu, tóngshì yě hǎo xiāngchǔ, zàishuō gōngzī yě bù dī.",
+      "colloquial_translation": "I'm pretty happy with my current job. It matches my major, the coworkers are easy to get along with, and besides, the pay isn't low.",
+      "context": "Explaining why you like a job."
+    },
+    {
+      "sentence": "<b>首先</b>，要穿<b>正式</b>的衣服，这会给你<b>留</b>下一个好的印象，让他觉得你是一个认真的人。",
+      "pinyin": "Shǒuxiān, yào chuān zhèngshì de yīfu, zhè huì gěi nǐ liú xià yí ge hǎo de yìnxiàng, ràng tā juéde nǐ shì yí ge rènzhēn de rén.",
+      "translation": "First, wear formal clothes. This will leave a good impression and make them think you are a serious person.",
+      "colloquial_equivalent": "面试的时候，<b>先</b>把衣服穿正式点儿，这样人家会觉得你靠谱、认真。",
+      "colloquial_pinyin": "Miànshì de shíhòu, xiān bǎ yīfu chuān zhèngshì diǎnr, zhèyàng rénjiā huì juéde nǐ kàopǔ, rènzhēn.",
+      "colloquial_translation": "For an interview, first dress a bit formally. That way people will feel you're reliable and serious.",
+      "context": "Giving interview advice."
+    },
+    {
+      "sentence": "所以<b>不管</b>是上课、上班，还是<b>与</b>别人<b>约会</b>，<b>准时</b>都非常重要。",
+      "pinyin": "Suǒyǐ bùguǎn shì shàngkè, shàngbān, háishì yǔ biérén yuēhuì, zhǔnshí dōu fēicháng zhòngyào.",
+      "translation": "So whether it's attending class, going to work, or going on a date with someone, punctuality is very important.",
+      "colloquial_equivalent": "所以<b>不管</b>上课、上班，<b>还是</b>跟人约好了见面，守时<b>都</b>特别关键。",
+      "colloquial_pinyin": "Suǒyǐ bùguǎn shàngkè, shàngbān, háishì gēn rén yuē hǎo le jiànmiàn, shǒushí dōu tèbié guānjiàn.",
+      "colloquial_translation": "So whether it's class, work, or meeting someone you've made plans with, being on time really matters.",
+      "context": "Emphasizing punctuality in any situation."
+    }
+  ],
   "texts": [
     {
       "id": 1,
@@ -816,6 +1133,130 @@
               "ja": "もちろん、一番大切なのは質問に誠実に答えることです。"
             }
           }
+        }
+      }
+    },
+    "grammar": {
+      "挺……的": {
+        "formal_translation": {
+          "ko": "'挺'은 '꽤, 상당히'라는 뜻으로 '很'과 비슷합니다. 보통 '挺……的' 구조로 성질이나 정도, 인상을 자연스러운 말투로 표현할 때 씁니다.",
+          "ja": "「挺」は「かなり、わりと」という意味で、「很」に近い表現です。よく「挺……的」の形で、性質や程度、印象を自然な話し言葉で表します。"
+        },
+        "colloquial_translation": {
+          "ko": "'还挺……'은 '생각보다 꽤...'라는 느낌을 더하고, '蛮……的'도 일상 대화에서 자연스럽게 쓰이는 표현입니다.",
+          "ja": "「还挺……」は「思ったよりけっこう…」というニュアンスを加え、「蛮……的」も日常会話で自然によく使われます。"
+        }
+      },
+      "本来": {
+        "formal_translation": {
+          "ko": "'本来'는 일이 원래 그렇거나 당연히 그래야 함을 나타내며, '원래, 처음에는'이라는 뜻으로 실제 결과와 대비할 때도 씁니다.",
+          "ja": "「本来」は、物事がもともとそうである、または当然そうあるべきだという意味を表します。「もともと、初めは」という意味で、実際の結果と対比する時にも使います。"
+        },
+        "colloquial_translation": {
+          "ko": "일상 대화에서는 '一开始', '原本', '按理说'을 상황에 따라 쓰면 더 자연스럽습니다. 특히 '按理说'은 '원래라면 당연히'라는 느낌을 줍니다.",
+          "ja": "日常会話では「一开始」「原本」「按理说」を状況に応じて使うと自然です。特に「按理说」は「理屈から言えば当然」という感じを出します。"
+        }
+      },
+      "另外": {
+        "formal_translation": {
+          "ko": "'另外'는 앞에서 말한 범위 밖의 다른 사람이나 사물을 가리키거나, '추가로, 게다가'라는 뜻의 부사/접속사로도 쓰입니다. '另'은 보통 짧은 동사를 꾸미지만, '另外'는 더 자유롭게 쓸 수 있습니다.",
+          "ja": "「另外」は、前に述べた範囲以外の人や物を指したり、「さらに、ほかに」という意味の副詞・接続詞として使われます。「另」は短い動詞を修飾することが多いですが、「另外」はより自由に使えます。"
+        },
+        "colloquial_translation": {
+          "ko": "대화에서는 다른 것을 말할 때 '别的', '另一个'을 자주 쓰고, 이유를 덧붙일 때는 '再说'이 자연스럽습니다. '另外还'은 추가 정보를 더할 때 좋습니다.",
+          "ja": "会話では、別のものを言う時に「别的」「另一个」をよく使い、理由を付け加える時は「再说」が自然です。「另外还」は追加情報を加える時に使いやすい表現です。"
+        }
+      },
+      "首先……其次……": {
+        "formal_translation": {
+          "ko": "'首先'과 '其次'는 주로 글말에서 순서를 세워 항목을 나열할 때 함께 쓰입니다. '首先'은 부사로 '가장 먼저, 우선'이라는 뜻도 나타냅니다.",
+          "ja": "「首先」と「其次」は、主に書き言葉で順序立てて項目を列挙する時に一緒に使われます。「首先」は副詞として「まず、最初に」という意味も表します。"
+        },
+        "colloquial_translation": {
+          "ko": "일상 대화에서는 '先……再……'나 '第一……第二……'가 더 직접적이고 자연스럽습니다. '最先'은 가장 먼저 떠오르는 것을 강조합니다.",
+          "ja": "日常会話では「先……再……」や「第一……第二……」の方が直接的で自然です。「最先」は真っ先に思いつくことを強調します。"
+        }
+      },
+      "不管……都……": {
+        "formal_translation": {
+          "ko": "'不管'은 어떤 가정 조건에서도 결론이나 결과가 변하지 않음을 나타냅니다. '什么', '怎么', '谁', '哪儿', '多么' 같은 의문대명사와 자주 쓰이며, 뒤 절에는 보통 '都'가 옵니다.",
+          "ja": "「不管」は、どんな仮定条件でも結論や結果が変わらないことを表します。「什么」「怎么」「谁」「哪儿」「多么」などの疑問代名詞とよく使われ、後ろの節には普通「都」が来ます。"
+        },
+        "colloquial_translation": {
+          "ko": "'不管……都……'는 '무엇이든/누구든/어디든 상관없이'를 말할 때 안정적인 표현입니다. 정도를 말할 때는 '再……也……'가 더 짧고 힘 있게 들립니다.",
+          "ja": "「不管……都……」は「何であっても、誰であっても、どこであっても」という意味を表す安定した表現です。程度を言う時は「再……也……」の方が短く力強く聞こえます。"
+        }
+      }
+    },
+    "keySentences": {
+      "还可以，他们问的问题都<b>挺</b>容易<b>的</b>，<b>就是</b>我有点儿紧张。": {
+        "translation": {
+          "ko": "괜찮았어. 그 사람들이 물어본 질문은 다 꽤 쉬웠는데, 그냥 내가 조금 긴장했어.",
+          "ja": "まあまあでした。聞かれた質問はどれもかなり簡単でしたが、ただ少し緊張していました。"
+        },
+        "colloquial_translation": {
+          "ko": "나쁘지 않았어. 질문은 생각보다 꽤 쉬웠는데, 그때 내가 좀 당황했을 뿐이야.",
+          "ja": "悪くなかったよ。質問は思ったよりけっこう簡単で、ただその時ちょっと焦ってただけ。"
+        },
+        "context": {
+          "ko": "면접이 어땠는지 말할 때",
+          "ja": "面接がどうだったか話す時"
+        }
+      },
+      "<b>本来</b>是小李负责的，<b>但是</b>他突然生病住院了，所以就交给我来做了。": {
+        "translation": {
+          "ko": "원래는 샤오리가 맡은 일이었는데, 갑자기 병이 나서 입원하는 바람에 저에게 넘겨졌어요.",
+          "ja": "もともとは李さんが担当していたのですが、急に病気で入院したので、私が引き継ぐことになりました。"
+        },
+        "colloquial_translation": {
+          "ko": "이 일은 원래 샤오리 담당이었는데, 갑자기 입원해서 제가 임시로 맡게 됐어요.",
+          "ja": "この件はもともと李さんの担当だったんですが、急に入院して、私が急きょ引き継ぐことになりました。"
+        },
+        "context": {
+          "ko": "담당자가 바뀐 이유를 설명할 때",
+          "ja": "担当が変わった理由を説明する時"
+        }
+      },
+      "我很喜欢现在的工作，因为我学的<b>就是</b>法律<b>专业</b>，而且同事们都很喜欢我。<b>另外</b>，<b>收入</b>也不错。": {
+        "translation": {
+          "ko": "저는 지금 하는 일이 정말 좋아요. 제가 배운 게 바로 법학 전공이고, 동료들도 저를 좋아해 줘요. 게다가 수입도 괜찮아요.",
+          "ja": "今の仕事がとても好きです。勉強したのはまさに法律専門で、同僚もみんな私のことを好いてくれています。それに、収入も悪くありません。"
+        },
+        "colloquial_translation": {
+          "ko": "지금 일에 꽤 만족해요. 전공이랑도 맞고, 동료들도 지내기 좋고, 게다가 월급도 낮지 않아요.",
+          "ja": "今の仕事にはけっこう満足しています。専攻とも合っているし、同僚とも付き合いやすいし、それに給料も悪くありません。"
+        },
+        "context": {
+          "ko": "현재 직업이 마음에 드는 이유를 설명할 때",
+          "ja": "今の仕事が気に入っている理由を説明する時"
+        }
+      },
+      "<b>首先</b>，要穿<b>正式</b>的衣服，这会给你<b>留</b>下一个好的印象，让他觉得你是一个认真的人。": {
+        "translation": {
+          "ko": "첫째, 정장을 입어야 해요. 그래야 좋은 인상을 남겨서 상대가 당신을 진지한 사람이라고 생각하게 됩니다.",
+          "ja": "まず、フォーマルな服を着ることです。そうすれば良い印象を残し、相手にあなたは真面目な人だと思ってもらえます。"
+        },
+        "colloquial_translation": {
+          "ko": "면접 때는 우선 옷을 좀 단정하게 입어요. 그래야 상대가 믿음직하고 진지한 사람이라고 느껴요.",
+          "ja": "面接の時は、まず服装を少しきちんとしましょう。そうすると相手に、信頼できて真面目な人だと思ってもらえます。"
+        },
+        "context": {
+          "ko": "면접 조언을 할 때",
+          "ja": "面接のアドバイスをする時"
+        }
+      },
+      "所以<b>不管</b>是上课、上班，还是<b>与</b>别人<b>约会</b>，<b>准时</b>都非常重要。": {
+        "translation": {
+          "ko": "그러니까 수업을 듣든, 출근을 하든, 누군가와 약속을 하든, 시간을 지키는 것은 정말 중요해요.",
+          "ja": "ですから、授業でも、出勤でも、誰かと約束して会う時でも、時間を守ることはとても大切です。"
+        },
+        "colloquial_translation": {
+          "ko": "그러니까 수업이든 일이든 약속이든, 시간 지키는 건 정말 중요해요.",
+          "ja": "だから、授業でも仕事でも約束でも、時間を守ることは本当に大事です。"
+        },
+        "context": {
+          "ko": "어떤 상황에서도 시간 엄수가 중요하다고 강조할 때",
+          "ja": "どんな場面でも時間厳守が大切だと強調する時"
         }
       }
     }
