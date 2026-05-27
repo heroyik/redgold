@@ -26,6 +26,7 @@ export class CardStackComponent extends HTMLElement {
 
   set language(value: string) {
     this._language = value;
+    this.setAttribute('data-lang', value);
     this.render();
   }
 
@@ -43,14 +44,16 @@ export class CardStackComponent extends HTMLElement {
         :host {
           display: block;
           width: 100%;
-          max-width: 500px;
+          max-width: 560px;
           margin: 0 auto;
-          padding: 1rem;
+          padding: 1rem 0;
+          min-width: 0;
+          box-sizing: border-box;
         }
 
         @media (max-width: 600px) {
           :host {
-            padding: 0.25rem 0.25rem;
+            padding: 0.25rem 0;
           }
         }
 
@@ -60,6 +63,8 @@ export class CardStackComponent extends HTMLElement {
           align-items: center;
           margin-bottom: 0.5rem;
           padding: 0;
+          gap: 0.75rem;
+          min-width: 0;
         }
 
         .progress-info {
@@ -67,7 +72,8 @@ export class CardStackComponent extends HTMLElement {
           font-weight: 900;
           color: ${ReviewStyles.colors.deepRed};
           font-size: 1.25rem;
-          letter-spacing: -1px;
+          letter-spacing: 0;
+          white-space: nowrap;
         }
 
         .stats {
@@ -84,6 +90,7 @@ export class CardStackComponent extends HTMLElement {
           border-radius: 6px;
           overflow: hidden;
           text-overflow: ellipsis;
+          min-width: 0;
         }
 
         @media (max-width: 600px) {

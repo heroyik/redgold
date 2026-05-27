@@ -21,6 +21,7 @@ export class KeySentences extends HTMLElement {
 
   set language(value: AppLanguage) {
     this._language = value;
+    this.setAttribute('data-lang', value);
     this.render();
   }
 
@@ -60,9 +61,12 @@ export class KeySentences extends HTMLElement {
       <style>
         :host {
           display: block;
-          padding: 0.5rem;
-          max-width: 800px;
+          padding: 0.5rem 0;
+          width: 100%;
+          max-width: 860px;
           margin: 0 auto;
+          min-width: 0;
+          box-sizing: border-box;
         }
 
         .mastery-container {
@@ -79,6 +83,7 @@ export class KeySentences extends HTMLElement {
           box-shadow: var(--shadow-premium, 0 10px 30px -10px rgba(0, 0, 0, 0.1));
           border: 1px solid var(--glass-border, rgba(139, 0, 0, 0.1));
           animation: slideUp 0.6s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+          min-width: 0;
         }
 
         .formal-section {
@@ -105,6 +110,8 @@ export class KeySentences extends HTMLElement {
           align-items: center;
           gap: 0.5rem;
           font-family: 'Outfit', sans-serif;
+          max-width: 100%;
+          flex-wrap: wrap;
         }
 
         .formal-section .label {
@@ -122,7 +129,8 @@ export class KeySentences extends HTMLElement {
           margin-bottom: 0.75rem;
           line-height: 1.4;
           font-family: 'Noto Sans SC', sans-serif;
-          letter-spacing: -0.01em;
+          letter-spacing: 0;
+          overflow-wrap: anywhere;
         }
 
         .pinyin {
@@ -131,6 +139,7 @@ export class KeySentences extends HTMLElement {
           opacity: 0.6;
           font-family: 'Outfit', sans-serif;
           font-weight: 500;
+          overflow-wrap: anywhere;
         }
 
         .translation {
@@ -138,6 +147,15 @@ export class KeySentences extends HTMLElement {
           line-height: 1.6;
           opacity: 0.85;
           font-weight: 400;
+          word-break: normal;
+          overflow-wrap: break-word;
+          hyphens: auto;
+        }
+
+        :host([data-lang="ko"]) .translation,
+        :host([data-lang="ja"]) .translation {
+          word-break: keep-all;
+          overflow-wrap: anywhere;
         }
 
         .formal-section .pinyin { color: #555; }
@@ -156,6 +174,8 @@ export class KeySentences extends HTMLElement {
           font-weight: 600;
           font-family: 'Outfit', sans-serif;
           backdrop-filter: blur(4px);
+          max-width: calc(100% - 3rem);
+          overflow-wrap: anywhere;
         }
 
         .empty-state {
@@ -199,6 +219,12 @@ export class KeySentences extends HTMLElement {
           .chinese-text { font-size: 1.35rem; }
           .sentence-group { border-radius: 24px; }
           .formal-section, .colloquial-section { padding: 1.5rem; }
+          .context-tag {
+            position: static;
+            display: inline-flex;
+            max-width: 100%;
+            margin-bottom: 1rem;
+          }
         }
       </style>
 

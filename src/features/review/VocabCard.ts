@@ -20,6 +20,7 @@ export class VocabCardComponent extends HTMLElement {
 
   set language(value: string) {
     this._language = value;
+    this.setAttribute('data-lang', value);
     this.render();
   }
 
@@ -63,6 +64,8 @@ export class VocabCardComponent extends HTMLElement {
             display: block;
             width: 100%;
             height: 100%;
+            min-width: 0;
+            container-type: inline-size;
           }
           
           .compact-card {
@@ -71,7 +74,7 @@ export class VocabCardComponent extends HTMLElement {
             min-height: 3.5rem;
             border-radius: 16px;
             display: grid;
-            grid-template-columns: auto auto 1fr auto;
+            grid-template-columns: auto minmax(4.5rem, auto) minmax(0, 1fr) auto;
             gap: 0.25rem 0.75rem;
             align-items: center;
             padding: 0.5rem 1rem;
@@ -102,7 +105,8 @@ export class VocabCardComponent extends HTMLElement {
             color: ${ReviewStyles.colors.deepRed};
             margin: 0;
             line-height: 1.2;
-            word-break: break-word;
+            word-break: keep-all;
+            overflow-wrap: normal;
             min-width: 0;
           }
 
@@ -112,7 +116,8 @@ export class VocabCardComponent extends HTMLElement {
             color: ${ReviewStyles.colors.gold};
             font-weight: 700;
             letter-spacing: 0.1px;
-            word-break: break-word;
+            word-break: normal;
+            overflow-wrap: anywhere;
             min-width: 0;
           }
 
@@ -121,12 +126,19 @@ export class VocabCardComponent extends HTMLElement {
             font-size: clamp(0.72rem, 2.3vw, 0.9rem);
             color: ${ReviewStyles.colors.text};
             font-weight: 600;
-            word-break: break-word;
+            word-break: normal;
             overflow-wrap: break-word;
+            hyphens: auto;
             opacity: 0.85;
             text-align: left;
             line-height: 1.3;
             min-width: 0;
+          }
+
+          :host([data-lang="ko"]) .meaning,
+          :host([data-lang="ja"]) .meaning {
+            word-break: keep-all;
+            overflow-wrap: anywhere;
           }
 
           .audio-trigger {
@@ -163,6 +175,19 @@ export class VocabCardComponent extends HTMLElement {
           .audio-trigger:active {
             transform: scale(0.9);
           }
+
+          @container (max-width: 300px) {
+            .compact-card {
+              grid-template-columns: auto minmax(0, 1fr) auto;
+              gap: 0.3rem 0.65rem;
+              padding: 0.65rem 0.8rem;
+            }
+
+            .meaning {
+              grid-column: 1 / -1;
+              padding-top: 0.1rem;
+            }
+          }
         </style>
 
         <div class="compact-card" title="${ui.audioTooltip}">
@@ -197,6 +222,7 @@ export class VocabCardComponent extends HTMLElement {
           display: block;
           width: 100%;
           height: 100%;
+          min-width: 0;
         }
         
         .vocab-card-inner {
@@ -206,6 +232,7 @@ export class VocabCardComponent extends HTMLElement {
           transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
           transform-style: preserve-3d;
           cursor: pointer;
+          min-width: 0;
         }
 
         .is-flipped {
@@ -227,6 +254,7 @@ export class VocabCardComponent extends HTMLElement {
           box-sizing: border-box;
           overflow-y: auto;
           scrollbar-width: none;
+          min-width: 0;
         }
 
         .card-face::-webkit-scrollbar {
@@ -253,8 +281,9 @@ export class VocabCardComponent extends HTMLElement {
           color: ${ReviewStyles.colors.deepRed};
           margin: 0;
           text-shadow: 0 2px 10px rgba(139, 0, 0, 0.1);
-          letter-spacing: -2px;
+          letter-spacing: 0;
           line-height: 1;
+          overflow-wrap: anywhere;
         }
 
         .pinyin {
@@ -264,6 +293,8 @@ export class VocabCardComponent extends HTMLElement {
           font-weight: 700;
           margin-top: 1rem;
           letter-spacing: 1px;
+          overflow-wrap: anywhere;
+          text-align: center;
         }
 
         .meaning {
@@ -274,6 +305,16 @@ export class VocabCardComponent extends HTMLElement {
           margin-top: 0.5rem;
           font-weight: 600;
           line-height: 1.3;
+          word-break: normal;
+          overflow-wrap: break-word;
+          hyphens: auto;
+          max-width: 100%;
+        }
+
+        :host([data-lang="ko"]) .meaning,
+        :host([data-lang="ja"]) .meaning {
+          word-break: keep-all;
+          overflow-wrap: anywhere;
         }
 
         .example {
@@ -287,6 +328,7 @@ export class VocabCardComponent extends HTMLElement {
           background: rgba(139, 0, 0, 0.03);
           border-radius: 12px;
           width: 90%;
+          overflow-wrap: anywhere;
         }
 
         .flip-hint {

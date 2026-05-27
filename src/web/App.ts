@@ -649,15 +649,16 @@ class App extends HTMLElement {
         }
 
         .app-container {
-          max-width: 600px;
+          max-width: 1120px;
           margin: 0 auto;
           width: 100%;
-          padding: 1rem;
+          padding: 1rem clamp(0.75rem, 3vw, 2rem);
+          box-sizing: border-box;
         }
 
         @media (max-width: 600px) {
           .app-container {
-            padding: 1rem 0.25rem;
+            padding: 1rem 0.5rem;
           }
         }
 
@@ -718,6 +719,20 @@ class App extends HTMLElement {
           box-shadow: 0 4px 12px rgba(0,0,0,0.05);
         }
 
+        .content-panel {
+          width: 100%;
+          min-width: 0;
+          margin: 0 auto;
+        }
+
+        .content-panel.reading {
+          max-width: 860px;
+        }
+
+        .content-panel.review {
+          max-width: 620px;
+        }
+
         .loading-container {
           display: flex;
           align-items: center;
@@ -753,9 +768,11 @@ class App extends HTMLElement {
 
         .vocab-list {
           display: grid;
-          grid-template-columns: 1fr;
-          gap: 1.25rem;
+          grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr));
+          gap: clamp(0.75rem, 2vw, 1.25rem);
           padding-bottom: 2rem;
+          width: 100%;
+          min-width: 0;
         }
 
         .vocab-list vocab-card {
@@ -765,16 +782,11 @@ class App extends HTMLElement {
           perspective: 1000px;
         }
 
-        @media (min-width: 640px) {
-          .vocab-list {
-            grid-template-columns: repeat(2, 1fr);
-          }
-        }
-
-        @media (min-width: 1024px) {
-          .vocab-list {
-            grid-template-columns: repeat(3, 1fr);
-          }
+        .grammar-list,
+        .text-list,
+        .mastery-section {
+          width: 100%;
+          min-width: 0;
         }
       </style>
       
@@ -917,13 +929,13 @@ class App extends HTMLElement {
       case 'vocab':
         return `<div class="vocab-list">${localizedLesson.vocabulary.map((v: any) => `<vocab-card id="v-${v.word}"></vocab-card>`).join('')}</div>`;
       case 'grammar':
-        return `<div class="grammar-list">${localizedLesson.grammar.map((g: any) => `<grammar-card id="g-${g.point}"></grammar-card>`).join('')}</div>`;
+        return `<div class="content-panel reading"><div class="grammar-list">${localizedLesson.grammar.map((g: any) => `<grammar-card id="g-${g.point}"></grammar-card>`).join('')}</div></div>`;
       case 'text':
-        return `<div class="text-list">${localizedLesson.texts.map((t: any) => `<text-section id="t-${t.id}"></text-section>`).join('')}</div>`;
+        return `<div class="content-panel reading"><div class="text-list">${localizedLesson.texts.map((t: any) => `<text-section id="t-${t.id}"></text-section>`).join('')}</div></div>`;
       case 'mastery':
-        return `<div class="mastery-section"><key-sentences id="mastery-sentences"></key-sentences></div>`;
+        return `<div class="content-panel reading"><div class="mastery-section"><key-sentences id="mastery-sentences"></key-sentences></div></div>`;
       case 'review':
-        return `<card-stack id="review-stack"></card-stack>`;
+        return `<div class="content-panel review"><card-stack id="review-stack"></card-stack></div>`;
       default:
         return '';
     }

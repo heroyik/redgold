@@ -19,6 +19,7 @@ export class GrammarCard extends HTMLElement {
 
   set language(value: AppLanguage) {
     this._language = value;
+    this.setAttribute('data-lang', value);
     this.render();
   }
 
@@ -42,6 +43,8 @@ export class GrammarCard extends HTMLElement {
           display: block;
           margin-bottom: 1.5rem;
           perspective: 1200px;
+          width: 100%;
+          min-width: 0;
         }
 
         .card {
@@ -52,6 +55,7 @@ export class GrammarCard extends HTMLElement {
           transform-style: preserve-3d;
           cursor: pointer;
           display: grid;
+          min-width: 0;
         }
 
         .card.is-flipped {
@@ -72,6 +76,7 @@ export class GrammarCard extends HTMLElement {
           border: 1px solid rgba(139, 0, 0, 0.08);
           position: relative;
           overflow: hidden;
+          min-width: 0;
         }
 
         .front {
@@ -104,6 +109,8 @@ export class GrammarCard extends HTMLElement {
           margin-bottom: 1rem;
           font-family: 'Outfit', 'Noto Sans SC', sans-serif;
           color: inherit;
+          line-height: 1.25;
+          overflow-wrap: anywhere;
         }
 
         .example {
@@ -111,6 +118,7 @@ export class GrammarCard extends HTMLElement {
           line-height: 1.5;
           margin-bottom: 0.25rem;
           font-weight: 500;
+          overflow-wrap: anywhere;
         }
 
         .explanation {
@@ -120,6 +128,7 @@ export class GrammarCard extends HTMLElement {
           font-style: italic;
           margin-bottom: 1.25rem;
           color: #555;
+          overflow-wrap: anywhere;
         }
 
         .back .explanation { color: rgba(255, 255, 255, 0.8); }
@@ -130,6 +139,9 @@ export class GrammarCard extends HTMLElement {
           margin-bottom: 0.5rem;
           line-height: 1.4;
           font-weight: 400;
+          word-break: normal;
+          overflow-wrap: break-word;
+          hyphens: auto;
         }
 
         .back .translation {
@@ -157,6 +169,7 @@ export class GrammarCard extends HTMLElement {
           font-size: 1.1rem;
           font-weight: 700;
           color: #fff;
+          overflow-wrap: anywhere;
         }
 
         .nuance {
@@ -168,6 +181,7 @@ export class GrammarCard extends HTMLElement {
           color: #DAA520;
           margin-bottom: 1rem;
           font-weight: 500;
+          overflow-wrap: anywhere;
         }
 
         .pinyin {
@@ -176,6 +190,13 @@ export class GrammarCard extends HTMLElement {
           margin-bottom: 0.25rem;
           font-weight: 600;
           opacity: 0.7;
+          overflow-wrap: anywhere;
+        }
+
+        :host([data-lang="ko"]) .translation,
+        :host([data-lang="ja"]) .translation {
+          word-break: keep-all;
+          overflow-wrap: anywhere;
         }
 
         .back .pinyin {

@@ -21,6 +21,7 @@ export class TextSection extends HTMLElement {
 
   set language(value: AppLanguage) {
     this._language = value;
+    this.setAttribute('data-lang', value);
     this.render();
   }
 
@@ -42,14 +43,17 @@ export class TextSection extends HTMLElement {
           display: block;
           margin-bottom: 2.5rem;
           width: 100%;
+          min-width: 0;
         }
 
         .text-container {
           background: rgba(255, 255, 255, 0.5);
           border-radius: 28px;
-          padding: 2rem 1.5rem;
+          padding: clamp(1rem, 3vw, 2rem) clamp(0.9rem, 3vw, 1.5rem);
           border: 1px solid rgba(139, 0, 0, 0.08);
           box-shadow: var(--shadow-soft, 0 4px 12px rgba(0, 0, 0, 0.05));
+          min-width: 0;
+          box-sizing: border-box;
         }
 
         h3 {
@@ -60,10 +64,12 @@ export class TextSection extends HTMLElement {
           display: flex;
           align-items: center;
           justify-content: space-between;
+          gap: 0.75rem;
           margin-bottom: 2rem;
           padding-bottom: 0.75rem;
           border-bottom: 1px solid rgba(139, 0, 0, 0.1);
           font-family: 'Outfit', sans-serif;
+          min-width: 0;
         }
 
         .audio-control {
@@ -80,6 +86,7 @@ export class TextSection extends HTMLElement {
           font-weight: 800;
           color: #8B0000;
           backdrop-filter: blur(4px);
+          flex: 0 0 auto;
         }
 
         .audio-control:hover {
@@ -120,6 +127,7 @@ export class TextSection extends HTMLElement {
           border: 1px solid transparent;
           background: rgba(255, 255, 255, 0.3);
           cursor: pointer;
+          min-width: 0;
         }
 
         .line:hover {
@@ -229,6 +237,8 @@ export class TextSection extends HTMLElement {
           line-height: 1.5;
           color: #1a1a1a;
           font-family: 'Noto Sans SC', sans-serif;
+          min-width: 0;
+          overflow-wrap: anywhere;
         }
 
         .pinyin {
@@ -237,6 +247,7 @@ export class TextSection extends HTMLElement {
           margin-top: 0.5rem;
           font-weight: 600;
           opacity: 0.6;
+          overflow-wrap: anywhere;
         }
 
         .translation {
@@ -245,6 +256,19 @@ export class TextSection extends HTMLElement {
           margin-top: 0.5rem;
           line-height: 1.4;
           font-weight: 400;
+          word-break: normal;
+          overflow-wrap: break-word;
+          hyphens: auto;
+        }
+
+        :host([data-lang="ko"]) .translation,
+        :host([data-lang="ja"]) .translation,
+        :host([data-lang="ko"]) .monologue-translation,
+        :host([data-lang="ja"]) .monologue-translation,
+        :host([data-lang="ko"]) .vocab-item .meaning,
+        :host([data-lang="ja"]) .vocab-item .meaning {
+          word-break: keep-all;
+          overflow-wrap: anywhere;
         }
 
 
@@ -274,13 +298,7 @@ export class TextSection extends HTMLElement {
         .vocab-grid {
           display: grid;
           gap: 1rem;
-          grid-template-columns: 1fr;
-        }
-
-        @media (min-width: 480px) {
-          .vocab-grid {
-            grid-template-columns: repeat(2, 1fr);
-          }
+          grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
         }
 
         .vocab-item {
@@ -294,6 +312,7 @@ export class TextSection extends HTMLElement {
           background: rgba(255, 255, 255, 0.4);
           border: 1px solid rgba(255, 255, 255, 0.5);
           transition: all 0.3s ease;
+          min-width: 0;
         }
 
         .vocab-item:hover {
@@ -329,6 +348,8 @@ export class TextSection extends HTMLElement {
           opacity: 0.6;
           margin-top: 0;
           line-height: 1.45;
+          overflow-wrap: break-word;
+          min-width: 0;
         }
 
         /* Proper Nouns Section */
