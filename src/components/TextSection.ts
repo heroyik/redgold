@@ -8,7 +8,6 @@ import type { AppLanguage } from '../utils/lessonTranslations';
 export class TextSection extends HTMLElement {
   private _data: any = null;
   private _language: AppLanguage = 'en';
-
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
@@ -22,6 +21,11 @@ export class TextSection extends HTMLElement {
   set language(value: AppLanguage) {
     this._language = value;
     this.setAttribute('data-lang', value);
+    this.render();
+  }
+
+  set pinyinVisible(value: boolean) {
+    this.setAttribute('data-pinyin-visible', value ? 'true' : 'false');
     this.render();
   }
 
@@ -56,8 +60,15 @@ export class TextSection extends HTMLElement {
           box-sizing: border-box;
         }
 
-        h3 {
-          margin-top: 0;
+        .text-header {
+          margin-bottom: 2rem;
+          padding-bottom: 0.75rem;
+          border-bottom: 1px solid rgba(139, 0, 0, 0.1);
+          min-width: 0;
+        }
+
+        .text-header h3 {
+          margin: 0;
           color: #8B0000;
           font-size: 1.25rem;
           font-weight: 900;
@@ -65,11 +76,15 @@ export class TextSection extends HTMLElement {
           align-items: center;
           justify-content: space-between;
           gap: 0.75rem;
-          margin-bottom: 2rem;
-          padding-bottom: 0.75rem;
-          border-bottom: 1px solid rgba(139, 0, 0, 0.1);
           font-family: 'Outfit', sans-serif;
           min-width: 0;
+        }
+
+        .text-header .locale-title {
+          color: #666;
+          font-size: 0.9rem;
+          margin-top: 0.3rem;
+          font-weight: 400;
         }
 
         .audio-control {
@@ -271,6 +286,14 @@ export class TextSection extends HTMLElement {
           overflow-wrap: anywhere;
         }
 
+        /* Pinyin visibility toggle */
+        :host([data-pinyin-visible="false"]) .pinyin,
+        :host([data-pinyin-visible="false"]) .monologue-pinyin,
+        :host([data-pinyin-visible="false"]) .vocab-item .pinyin,
+        :host([data-pinyin-visible="false"]) .proper-item .pinyin {
+          display: none;
+        }
+
 
 
         /* Vocabulary Section */
@@ -403,20 +426,24 @@ export class TextSection extends HTMLElement {
       </style>
 
       <div class="text-container">
-        <h3>
-          <span>${ui.textTitlePrefix} ${this._data.id}: ${this._data.title}</span>
-          ${this._data.audio ? `
-            <button class="audio-control" id="play-btn">
-              <svg viewBox="0 0 24 24" id="play-icon">
-                <path d="M8 5v14l11-7z"/>
-              </svg>
-              <svg viewBox="0 0 24 24" id="pause-icon" style="display:none;">
-                <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
-              </svg>
-              <span>${ui.listening}</span>
-            </button>
-          ` : ''}
-        </h3>
+        <div class="text-header">
+          <h3>
+            <span>${ui.textTitlePrefix} ${this._data.id}: ${this._data.title}</span>
+            ${this._data.audio ? `
+              <button class="audio-control" id="play-btn">
+                <svg viewBox="0 0 24 24" id="play-icon">
+                  <path d="M8 5v14l11-7z"/>
+                </svg>
+                <svg viewBox="0 0 24 24" id="pause-icon" style="display:none;">
+                  <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+                </svg>
+                <span>${ui.listening}</span>
+              </button>
+            ` : ''}
+          </h3>
+          ${this._data.titlePinyin ? `<div class="pinyin">${this._data.titlePinyin}</div>` : ''}
+          ${this._data.localeTitle ? `<div class="locale-title">${this._data.localeTitle}</div>` : ''}
+        </div>
         
         ${this._data.audio ? `<audio id="audio-player" src="${this._data.audio}"></audio>` : ''}
 

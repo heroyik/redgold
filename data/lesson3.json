@@ -1,54 +1,242 @@
 {
   "lessonId": 3,
-  "title": "Lesson 3: 经理对我印象很好 (Manager has a good impression of me)",
+  "title": "Lesson 3: 经理对我印象很好 (jīng lǐ duì wǒ yìn xiàng hěn hǎo) (Manager has a good impression of me)",
   "vocabulary": [
-    {"word": "挺", "pinyin": "tǐng", "meaning": "quite, rather"},
-    {"word": "紧张", "pinyin": "jǐnzhāng", "meaning": "nervous"},
-    {"word": "信心", "pinyin": "xìnxīn", "meaning": "confidence"},
-    {"word": "能力", "pinyin": "nénglì", "meaning": "ability"},
-    {"word": "招聘", "pinyin": "zhāopìn", "meaning": "to recruit"},
-    {"word": "提供", "pinyin": "tígōng", "meaning": "to provide"},
-    {"word": "决定", "pinyin": "juédìng", "meaning": "to decide"},
-    {"word": "机会", "pinyin": "jīhuì", "meaning": "opportunity"},
-    {"word": "负责", "pinyin": "fùzé", "meaning": "to be responsible for"},
-    {"word": "本来", "pinyin": "běnlái", "meaning": "originally"},
-    {"word": "突然", "pinyin": "tūrán", "meaning": "suddenly"},
-    {"word": "生病", "pinyin": "shēngbìng", "meaning": "to get sick"},
-    {"word": "住院", "pinyin": "zhùyuàn", "meaning": "to be hospitalized"},
-    {"word": "应聘", "pinyin": "yìngpìn", "meaning": "to apply for a job"},
-    {"word": "经过", "pinyin": "jīngguò", "meaning": "after, through"},
-    {"word": "笔试", "pinyin": "bǐshì", "meaning": "written test"},
-    {"word": "面试", "pinyin": "miànshì", "meaning": "interview"},
-    {"word": "材料", "pinyin": "cáiliào", "meaning": "materials"},
-    {"word": "比较", "pinyin": "bǐjiào", "meaning": "relatively"},
-    {"word": "符合", "pinyin": "fúhé", "meaning": "to meet (requirements)"},
-    {"word": "要求", "pinyin": "yāoqiú", "meaning": "requirement"},
-    {"word": "通知", "pinyin": "tōngzhī", "meaning": "to notify"},
-    {"word": "联系", "pinyin": "liánxì", "meaning": "to contact"},
-    {"word": "毕业", "pinyin": "bìyè", "meaning": "to graduate"},
-    {"word": "律师", "pinyin": "lǜshī", "meaning": "lawyer"},
-    {"word": "满意", "pinyin": "mǎnyì", "meaning": "to be satisfied"},
-    {"word": "专业", "pinyin": "zhuānyè", "meaning": "major, specialty"},
-    {"word": "另外", "pinyin": "lìngwài", "meaning": "besides, in addition"},
-    {"word": "收入", "pinyin": "shōurù", "meaning": "income"},
-    {"word": "咱们", "pinyin": "zánmen", "meaning": "we, us"},
-    {"word": "安排", "pinyin": "ānpái", "meaning": "to arrange"},
-    {"word": "首先", "pinyin": "shǒuxiān", "meaning": "first"},
-    {"word": "正式", "pinyin": "zhèngshì", "meaning": "formal"},
-    {"word": "留", "pinyin": "liú", "meaning": "to leave"},
-    {"word": "其次", "pinyin": "qícì", "meaning": "second, next"},
-    {"word": "诚实", "pinyin": "chéngshí", "meaning": "honest"},
-    {"word": "印象", "pinyin": "yìnxiàng", "meaning": "impression"},
-    {"word": "顺利", "pinyin": "shùnlì", "meaning": "smooth"},
-    {"word": "注意", "pinyin": "zhùyì", "meaning": "to pay attention to"},
-    {"word": "改变", "pinyin": "gǎibiàn", "meaning": "to change"},
-    {"word": "感觉", "pinyin": "gǎnjué", "meaning": "feeling"},
-    {"word": "判断", "pinyin": "pànduàn", "meaning": "to judge"},
-    {"word": "顾客", "pinyin": "gùkè", "meaning": "customer"},
-    {"word": "准时", "pinyin": "zhǔnshí", "meaning": "punctual"},
-    {"word": "不管", "pinyin": "bùguǎn", "meaning": "no matter"},
-    {"word": "与", "pinyin": "yǔ", "meaning": "with"},
-    {"word": "约会", "pinyin": "yuēhuì", "meaning": "to date"}
+    {
+      "word": "挺",
+      "pinyin": "tǐng",
+      "meaning": "quite, rather"
+    },
+    {
+      "word": "紧张",
+      "pinyin": "jǐnzhāng",
+      "meaning": "nervous"
+    },
+    {
+      "word": "信心",
+      "pinyin": "xìnxīn",
+      "meaning": "confidence"
+    },
+    {
+      "word": "能力",
+      "pinyin": "nénglì",
+      "meaning": "ability"
+    },
+    {
+      "word": "招聘",
+      "pinyin": "zhāopìn",
+      "meaning": "to recruit"
+    },
+    {
+      "word": "提供",
+      "pinyin": "tígōng",
+      "meaning": "to provide"
+    },
+    {
+      "word": "决定",
+      "pinyin": "juédìng",
+      "meaning": "to decide"
+    },
+    {
+      "word": "机会",
+      "pinyin": "jīhuì",
+      "meaning": "opportunity"
+    },
+    {
+      "word": "负责",
+      "pinyin": "fùzé",
+      "meaning": "to be responsible for"
+    },
+    {
+      "word": "本来",
+      "pinyin": "běnlái",
+      "meaning": "originally"
+    },
+    {
+      "word": "突然",
+      "pinyin": "tūrán",
+      "meaning": "suddenly"
+    },
+    {
+      "word": "生病",
+      "pinyin": "shēngbìng",
+      "meaning": "to get sick"
+    },
+    {
+      "word": "住院",
+      "pinyin": "zhùyuàn",
+      "meaning": "to be hospitalized"
+    },
+    {
+      "word": "应聘",
+      "pinyin": "yìngpìn",
+      "meaning": "to apply for a job"
+    },
+    {
+      "word": "经过",
+      "pinyin": "jīngguò",
+      "meaning": "after, through"
+    },
+    {
+      "word": "笔试",
+      "pinyin": "bǐshì",
+      "meaning": "written test"
+    },
+    {
+      "word": "面试",
+      "pinyin": "miànshì",
+      "meaning": "interview"
+    },
+    {
+      "word": "材料",
+      "pinyin": "cáiliào",
+      "meaning": "materials"
+    },
+    {
+      "word": "比较",
+      "pinyin": "bǐjiào",
+      "meaning": "relatively"
+    },
+    {
+      "word": "符合",
+      "pinyin": "fúhé",
+      "meaning": "to meet (requirements)"
+    },
+    {
+      "word": "要求",
+      "pinyin": "yāoqiú",
+      "meaning": "requirement"
+    },
+    {
+      "word": "通知",
+      "pinyin": "tōngzhī",
+      "meaning": "to notify"
+    },
+    {
+      "word": "联系",
+      "pinyin": "liánxì",
+      "meaning": "to contact"
+    },
+    {
+      "word": "毕业",
+      "pinyin": "bìyè",
+      "meaning": "to graduate"
+    },
+    {
+      "word": "律师",
+      "pinyin": "lǜshī",
+      "meaning": "lawyer"
+    },
+    {
+      "word": "满意",
+      "pinyin": "mǎnyì",
+      "meaning": "to be satisfied"
+    },
+    {
+      "word": "专业",
+      "pinyin": "zhuānyè",
+      "meaning": "major, specialty"
+    },
+    {
+      "word": "另外",
+      "pinyin": "lìngwài",
+      "meaning": "besides, in addition"
+    },
+    {
+      "word": "收入",
+      "pinyin": "shōurù",
+      "meaning": "income"
+    },
+    {
+      "word": "咱们",
+      "pinyin": "zánmen",
+      "meaning": "we, us"
+    },
+    {
+      "word": "安排",
+      "pinyin": "ānpái",
+      "meaning": "to arrange"
+    },
+    {
+      "word": "首先",
+      "pinyin": "shǒuxiān",
+      "meaning": "first"
+    },
+    {
+      "word": "正式",
+      "pinyin": "zhèngshì",
+      "meaning": "formal"
+    },
+    {
+      "word": "留",
+      "pinyin": "liú",
+      "meaning": "to leave"
+    },
+    {
+      "word": "其次",
+      "pinyin": "qícì",
+      "meaning": "second, next"
+    },
+    {
+      "word": "诚实",
+      "pinyin": "chéngshí",
+      "meaning": "honest"
+    },
+    {
+      "word": "印象",
+      "pinyin": "yìnxiàng",
+      "meaning": "impression"
+    },
+    {
+      "word": "顺利",
+      "pinyin": "shùnlì",
+      "meaning": "smooth"
+    },
+    {
+      "word": "注意",
+      "pinyin": "zhùyì",
+      "meaning": "to pay attention to"
+    },
+    {
+      "word": "改变",
+      "pinyin": "gǎibiàn",
+      "meaning": "to change"
+    },
+    {
+      "word": "感觉",
+      "pinyin": "gǎnjué",
+      "meaning": "feeling"
+    },
+    {
+      "word": "判断",
+      "pinyin": "pànduàn",
+      "meaning": "to judge"
+    },
+    {
+      "word": "顾客",
+      "pinyin": "gùkè",
+      "meaning": "customer"
+    },
+    {
+      "word": "准时",
+      "pinyin": "zhǔnshí",
+      "meaning": "punctual"
+    },
+    {
+      "word": "不管",
+      "pinyin": "bùguǎn",
+      "meaning": "no matter"
+    },
+    {
+      "word": "与",
+      "pinyin": "yǔ",
+      "meaning": "with"
+    },
+    {
+      "word": "约会",
+      "pinyin": "yuēhuì",
+      "meaning": "to date"
+    }
   ],
   "grammar": [
     {
@@ -372,7 +560,7 @@
   "texts": [
     {
       "id": 1,
-      "title": "小夏和小雨聊小雨面试的情况 (Xiao Xia and Xiao Yu talk about Xiao Yu's job interview)",
+      "title": "小夏和小雨聊小雨面试的情况 (xiǎo xià hé xiǎo yǔ liáo xiǎo yǔ miàn shì de qíng kuàng) (Xiao Xia and Xiao Yu talk about Xiao Yu's job interview)",
       "audio": "audio/03-1.mp3",
       "content": [
         {
@@ -469,7 +657,7 @@
     },
     {
       "id": 2,
-      "title": "马经理和小林聊招聘的事情 (Manager Ma and Xiao Lin talk about recruitment)",
+      "title": "马经理和小林聊招聘的事情 (mǎ jīng lǐ hé xiǎo lín liáo zhāo pìn de shì qíng) (Manager Ma and Xiao Lin talk about recruitment)",
       "audio": "audio/03-2.mp3",
       "content": [
         {
@@ -616,7 +804,7 @@
     },
     {
       "id": 3,
-      "title": "小林和王静聊王静的工作情况 (Xiao Lin and Wang Jing talk about Wang Jing's job)",
+      "title": "小林和王静聊王静的工作情况 (xiǎo lín hé wáng jìng liáo wáng jìng de gōng zuò qíng kuàng) (Xiao Lin and Wang Jing talk about Wang Jing's job)",
       "audio": "audio/03-3.mp3",
       "content": [
         {
@@ -723,7 +911,7 @@
     },
     {
       "id": 4,
-      "title": "小雨谈面试经验 (Xiao Yu talks about interview experience)",
+      "title": "小雨谈面试经验 (xiǎo yǔ tán miàn shì jīng yàn) (Xiao Yu talks about interview experience)",
       "audio": "audio/03-4.mp3",
       "content": [
         {
@@ -809,7 +997,7 @@
     },
     {
       "id": 5,
-      "title": "第一印象 (First Impression)",
+      "title": "第一印象 (dì yī yìn xiàng) (First Impression)",
       "audio": "audio/03-5.mp3",
       "content": [
         {
@@ -890,99 +1078,327 @@
   ],
   "translations": {
     "vocabulary": {
-      "挺": { "ko": "꽤, 제법", "ja": "かなり、結構" },
-      "紧张": { "ko": "긴장하다", "ja": "緊張する" },
-      "信心": { "ko": "자신, 신념", "ja": "自信" },
-      "能力": { "ko": "능력", "ja": "能力" },
-      "招聘": { "ko": "채용하다", "ja": "募集する" },
-      "提供": { "ko": "제공하다", "ja": "提供する" },
-      "决定": { "ko": "결정하다", "ja": "決める" },
-      "机会": { "ko": "기회", "ja": "機会" },
-      "负责": { "ko": "책임지다", "ja": "担当する" },
-      "本来": { "ko": "원래", "ja": "元々" },
-      "突然": { "ko": "갑자기", "ja": "突然" },
-      "生病": { "ko": "병에 걸리다", "ja": "病気になる" },
-      "住院": { "ko": "입원하다", "ja": "入院する" },
-      "应聘": { "ko": "지원하다, 응모하다", "ja": "応募する" },
-      "经过": { "ko": "거쳐, 통과하여", "ja": "経て、通して" },
-      "笔试": { "ko": "필기시험", "ja": "筆記試験" },
-      "面试": { "ko": "면접", "ja": "面接" },
-      "材料": { "ko": "서류, 자료", "ja": "書類、資料" },
-      "比较": { "ko": "비교적, 꽤", "ja": "比較的" },
-      "符合": { "ko": "부합하다, 맞다", "ja": "合致する" },
-      "要求": { "ko": "요구", "ja": "要求" },
-      "通知": { "ko": "통지하다, 알리다", "ja": "通知する" },      "联系": { "ko": "연락하다", "ja": "連絡する" },
-      "毕业": { "ko": "졸업하다", "ja": "卒業する" },
-      "律师": { "ko": "변호사", "ja": "弁護士" },
-      "满意": { "ko": "만족하다", "ja": "満足する" },
-      "专业": { "ko": "전공, 전문", "ja": "専門" },
-      "另外": { "ko": "게다가, 그 밖에", "ja": "その他に、さらに" },
-      "收入": { "ko": "수입", "ja": "収入" },
-      "咱们": { "ko": "우리 (듣는 사람 포함)", "ja": "私たち（聞き手含む）" },
-      "安排": { "ko": "안배하다, 계획하다", "ja": "手配する、計画する" },
-      "首先": { "ko": "첫째, 먼저", "ja": "まず、最初に" },
-      "正式": { "ko": "정식, 공식적인", "ja": "正式な" },
-      "留": { "ko": "남기다, 머무르다", "ja": "残す、留める" },
-      "其次": { "ko": "둘째, 다음으로", "ja": "次に、第二に" },
-      "诚实": { "ko": "정직하다", "ja": "誠実である" },
-      "印象": { "ko": "인상", "ja": "印象" },
-      "顺利": { "ko": "순조롭다, 잘 되다", "ja": "順調である" },
-      "注意": { "ko": "주의하다", "ja": "注意する" },
-      "改变": { "ko": "바꾸다, 변화하다", "ja": "変える、変化する" },
-      "感觉": { "ko": "느낌, 감정", "ja": "感じ、感情" },
-      "判断": { "ko": "판단하다", "ja": "判断する" },
-      "顾客": { "ko": "고객", "ja": "顧客" },
-      "准时": { "ko": "시간을 지키다, 정각", "ja": "時間を守る、正確な" },
-      "不管": { "ko": "~에 관계없이", "ja": "〜に関わらず" },
-      "与": { "ko": "~와/과", "ja": "〜と" },
-      "约会": { "ko": "약속, 데이트", "ja": "デート、約束" }
-        },
+      "挺": {
+        "ko": "꽤, 제법",
+        "ja": "かなり、結構",
+        "en": "quite, rather"
+      },
+      "紧张": {
+        "ko": "긴장하다",
+        "ja": "緊張する",
+        "en": "nervous"
+      },
+      "信心": {
+        "ko": "자신, 신념",
+        "ja": "自信",
+        "en": "confidence"
+      },
+      "能力": {
+        "ko": "능력",
+        "ja": "能力",
+        "en": "ability"
+      },
+      "招聘": {
+        "ko": "채용하다",
+        "ja": "募集する",
+        "en": "to recruit"
+      },
+      "提供": {
+        "ko": "제공하다",
+        "ja": "提供する",
+        "en": "to provide"
+      },
+      "决定": {
+        "ko": "결정하다",
+        "ja": "決める",
+        "en": "to decide"
+      },
+      "机会": {
+        "ko": "기회",
+        "ja": "機会",
+        "en": "opportunity"
+      },
+      "负责": {
+        "ko": "책임지다",
+        "ja": "担当する",
+        "en": "to be responsible for"
+      },
+      "本来": {
+        "ko": "원래",
+        "ja": "元々",
+        "en": "originally"
+      },
+      "突然": {
+        "ko": "갑자기",
+        "ja": "突然",
+        "en": "suddenly"
+      },
+      "生病": {
+        "ko": "병에 걸리다",
+        "ja": "病気になる",
+        "en": "to get sick"
+      },
+      "住院": {
+        "ko": "입원하다",
+        "ja": "入院する",
+        "en": "to be hospitalized"
+      },
+      "应聘": {
+        "ko": "지원하다, 응모하다",
+        "ja": "応募する",
+        "en": "to apply for a job"
+      },
+      "经过": {
+        "ko": "거쳐, 통과하여",
+        "ja": "経て、通して",
+        "en": "after, through"
+      },
+      "笔试": {
+        "ko": "필기시험",
+        "ja": "筆記試験",
+        "en": "written test"
+      },
+      "面试": {
+        "ko": "면접",
+        "ja": "面接",
+        "en": "interview"
+      },
+      "材料": {
+        "ko": "서류, 자료",
+        "ja": "書類、資料",
+        "en": "materials"
+      },
+      "比较": {
+        "ko": "비교적, 꽤",
+        "ja": "比較的",
+        "en": "relatively"
+      },
+      "符合": {
+        "ko": "부합하다, 맞다",
+        "ja": "合致する",
+        "en": "to meet (requirements)"
+      },
+      "要求": {
+        "ko": "요구",
+        "ja": "要求",
+        "en": "requirement"
+      },
+      "通知": {
+        "ko": "통지하다, 알리다",
+        "ja": "通知する",
+        "en": "to notify"
+      },
+      "联系": {
+        "ko": "연락하다",
+        "ja": "連絡する",
+        "en": "to contact"
+      },
+      "毕业": {
+        "ko": "졸업하다",
+        "ja": "卒業する",
+        "en": "to graduate"
+      },
+      "律师": {
+        "ko": "변호사",
+        "ja": "弁護士",
+        "en": "lawyer"
+      },
+      "满意": {
+        "ko": "만족하다",
+        "ja": "満足する",
+        "en": "to be satisfied"
+      },
+      "专业": {
+        "ko": "전공, 전문",
+        "ja": "専門",
+        "en": "major, specialty"
+      },
+      "另外": {
+        "ko": "게다가, 그 밖에",
+        "ja": "その他に、さらに",
+        "en": "besides, in addition"
+      },
+      "收入": {
+        "ko": "수입",
+        "ja": "収入",
+        "en": "income"
+      },
+      "咱们": {
+        "ko": "우리 (듣는 사람 포함)",
+        "ja": "私たち（聞き手含む）",
+        "en": "we, us"
+      },
+      "安排": {
+        "ko": "안배하다, 계획하다",
+        "ja": "手配する、計画する",
+        "en": "to arrange"
+      },
+      "首先": {
+        "ko": "첫째, 먼저",
+        "ja": "まず、最初に",
+        "en": "first"
+      },
+      "正式": {
+        "ko": "정식, 공식적인",
+        "ja": "正式な",
+        "en": "formal"
+      },
+      "留": {
+        "ko": "남기다, 머무르다",
+        "ja": "残す、留める",
+        "en": "to leave"
+      },
+      "其次": {
+        "ko": "둘째, 다음으로",
+        "ja": "次に、第二に",
+        "en": "second, next"
+      },
+      "诚实": {
+        "ko": "정직하다",
+        "ja": "誠実である",
+        "en": "honest"
+      },
+      "印象": {
+        "ko": "인상",
+        "ja": "印象",
+        "en": "impression"
+      },
+      "顺利": {
+        "ko": "순조롭다, 잘 되다",
+        "ja": "順調である",
+        "en": "smooth"
+      },
+      "注意": {
+        "ko": "주의하다",
+        "ja": "注意する",
+        "en": "to pay attention to"
+      },
+      "改变": {
+        "ko": "바꾸다, 변화하다",
+        "ja": "変える、変化する",
+        "en": "to change"
+      },
+      "感觉": {
+        "ko": "느낌, 감정",
+        "ja": "感じ、感情",
+        "en": "feeling"
+      },
+      "判断": {
+        "ko": "판단하다",
+        "ja": "判断する",
+        "en": "to judge"
+      },
+      "顾客": {
+        "ko": "고객",
+        "ja": "顧客",
+        "en": "customer"
+      },
+      "准时": {
+        "ko": "시간을 지키다, 정각",
+        "ja": "時間を守る、正確な",
+        "en": "punctual"
+      },
+      "不管": {
+        "ko": "~에 관계없이",
+        "ja": "〜に関わらず",
+        "en": "no matter"
+      },
+      "与": {
+        "ko": "~와/과",
+        "ja": "〜と",
+        "en": "with"
+      },
+      "约会": {
+        "ko": "약속, 데이트",
+        "ja": "デート、約束",
+        "en": "to date"
+      }
+    },
     "properNouns": {
-      "小夏": { "ko": "인명: 샤오샤", "ja": "人名: 小夏" },
-      "小雨": { "ko": "인명: 샤오위", "ja": "人名: 小雨" },
-      "马经理": { "ko": "인명: 마 부장님", "ja": "人名: マー部長" },
-      "小林": { "ko": "인명: 샤오린", "ja": "人名: 小林" },      "小李": { "ko": "인명: 샤오리", "ja": "人名: 小李" },
-      "王静": { "ko": "인명: 왕징", "ja": "人名: 王静" },
-      "上海": { "ko": "중국 도시: 상하이", "ja": "中国の都市: 上海" },
-      "北京": { "ko": "중국 수도: 베이징", "ja": "中国の首都: 北京" }
-        },
+      "小夏": {
+        "ko": "인명: 샤오샤",
+        "ja": "人名: 小夏",
+        "en": "Xiao Xia, name of a person"
+      },
+      "小雨": {
+        "ko": "인명: 샤오위",
+        "ja": "人名: 小雨",
+        "en": "Xiao Yu, name of a person"
+      },
+      "马经理": {
+        "ko": "인명: 마 부장님",
+        "ja": "人名: マー部長",
+        "en": "Manager Ma"
+      },
+      "小林": {
+        "ko": "인명: 샤오린",
+        "ja": "人名: 小林",
+        "en": "Xiao Lin, name of a person"
+      },
+      "小李": {
+        "ko": "인명: 샤오리",
+        "ja": "人名: 小李",
+        "en": "Xiao Li, name of a person"
+      },
+      "王静": {
+        "ko": "인명: 왕징",
+        "ja": "人名: 王静",
+        "en": "Wang Jing, name of a person"
+      },
+      "上海": {
+        "ko": "중국 도시: 상하이",
+        "ja": "中国の都市: 上海",
+        "en": "Shanghai, a city in China"
+      },
+      "北京": {
+        "ko": "중국 수도: 베이징",
+        "ja": "中国の首都: 北京",
+        "en": "Beijing, capital of China"
+      }
+    },
     "texts": {
       "1": {
         "lines": {
           "0": {
             "translation": {
               "ko": "오전 면접 어땠어?",
-              "ja": "午前の面接はどうだった？"
+              "ja": "午前の面接はどうだった？",
+              "en": "How was your morning interview?"
             }
           },
           "1": {
             "translation": {
               "ko": "그냥저냥 괜찮았어. 질문들은 다 꽤 쉬웠는데, 내가 좀 긴장됐었어.",
-              "ja": "まあまあ大丈夫だった。質問は結構簡単だったんだけど、ちょっと緊張しちゃって。"
+              "ja": "まあまあ大丈夫だった。質問は結構簡単だったんだけど、ちょっと緊張しちゃって。",
+              "en": "It was okay, the questions they asked were quite easy; it's just that I was a little nervous."
             }
           },
           "2": {
             "translation": {
               "ko": "면접 볼 때는 꼭 자신감을 가져야 해. 자기 능력을 믿어야 한다고.",
-              "ja": "面接の時は必ず自信を持たなきゃ。自分の能力を信じないとね。"
+              "ja": "面接の時は必ず自信を持たなきゃ。自分の能力を信じないとね。",
+              "en": "When you're in an interview, you must have confidence in yourself, you must believe in your own abilities."
             }
           },
           "3": {
             "translation": {
               "ko": "맞아! 3월 15일 오전 8시에 학교 체육관에서 채용박람회도 있대, 같이 갈래?",
-              "ja": "そうだね！3月15日午前8時に学校の体育館で採用説明会もあるんだ、行かない？"
+              "ja": "そうだね！3月15日午前8時に学校の体育館で採用説明会もあるんだ、行かない？",
+              "en": "You're right! On March 15th at 8 AM, there's also a job fair at the school gymnasium. Want to go?"
             }
           },
           "4": {
             "translation": {
               "ko": "아직 결정 안 했어.",
-              "ja": "まだ決めてないよ。"
+              "ja": "まだ決めてないよ。",
+              "en": "I haven't decided yet."
             }
           },
           "5": {
             "translation": {
               "ko": "이번 채용박람회가 제공하는 일자리가 많다고 하던데, 우리 같이 가보자.",
-              "ja": "今回の採用説明会は仕事のチャンスが多いって聞いたよ。一緒に行ってみようよ。"
+              "ja": "今回の採用説明会は仕事のチャンスが多いって聞いたよ。一緒に行ってみようよ。",
+              "en": "I heard this job fair offers a lot of job opportunities. Let's go check it out together."
             }
           }
         }
@@ -992,37 +1408,43 @@
           "0": {
             "translation": {
               "ko": "샤오린, 이번 채용은 샤오리가 책임지는 거 아니었나요?",
-              "ja": "小林さん、今回の採用は小李さんの担当じゃなかったんですか？"
+              "ja": "小林さん、今回の採用は小李さんの担当じゃなかったんですか？",
+              "en": "Xiao Lin, isn't Xiao Li responsible for this recruitment?"
             }
           },
           "1": {
             "translation": {
               "ko": "원래 샤오리가 담당했었는데, 갑자기 아파서 입원하는 바람에 저한테 넘겨졌어요.",
-              "ja": "もともと小李さんが担当だったんですが、急に病気で入院してしまって、私に回ってきたんです。"
+              "ja": "もともと小李さんが担当だったんですが、急に病気で入院してしまって、私に回ってきたんです。",
+              "en": "Originally it was Xiao Li's responsibility, but he suddenly got sick and was hospitalized, so he handed it over to me."
             }
           },
           "2": {
             "translation": {
               "ko": "아, 이번 지원자는 많아요?",
-              "ja": "ああ、今回の応募者は多いんですか？"
+              "ja": "ああ、今回の応募者は多いんですか？",
+              "en": "Oh, are there many applicants this time?"
             }
           },
           "3": {
             "translation": {
               "ko": "부장님, 이번에 지원한 사람은 총 15명입니다. 필기시험과 면접을 거쳐 두 명이 괜찮았어요. 여기 서류입니다, 보세요.",
-              "ja": "部長、今回の応募者は全部で15人です。筆記試験と面接を経て、2人が良さそうでした。こちらが書類です、ご覧ください。"
+              "ja": "部長、今回の応募者は全部で15人です。筆記試験と面接を経て、2人が良さそうでした。こちらが書類です、ご覧ください。",
+              "en": "Manager, there are 15 applicants in total this time. After the written test and interview, two are quite good. Here are their materials, please take a look."
             }
           },
           "4": {
             "translation": {
               "ko": "이 두 사람의 능력이 비교적 우리 요구에 부합하는 편이야. 다음 주 월요일 오전 9시에 내 사무실로 오라고 통지해 줘.",
-              "ja": "この二人の能力はどちらも我々の要求に比較的合っている。来週の月曜午前9時に私のオフィスに来るよう通知しておいて。"
+              "ja": "この二人の能力はどちらも我々の要求に比較的合っている。来週の月曜午前9時に私のオフィスに来るよう通知しておいて。",
+              "en": "Both of these candidates' abilities relatively meet our requirements. Notify them to come to my office at 9 AM next Monday."
             }
           },
           "5": {
             "translation": {
               "ko": "네, 그럼 바로 연락드리겠습니다.",
-              "ja": "はい、ではすぐに連絡します。"
+              "ja": "はい、ではすぐに連絡します。",
+              "en": "Okay, I'll contact them right away."
             }
           }
         }
@@ -1032,71 +1454,43 @@
           "0": {
             "translation": {
               "ko": "왕징, 정말 오랜만이다! 대학교 졸업하고는 연락이 없었는데, 지금 어디서 일하고 있어?",
-              "ja": "王静さん、お久しぶりです！大学卒業してから連絡してなかったけど、今どこで働いてるの？"
+              "ja": "王静さん、お久しぶりです！大学卒業してから連絡してなかったけど、今どこで働いてるの？",
+              "en": "Wang Jing, long time no see! We haven't been in touch since graduation. Where are you working now?"
             }
           },
           "1": {
             "translation": {
               "ko": "저는 졸업하자마자 상하이에 가서 변호사가 되었어요.",
-              "ja": "卒業したらすぐに上海に行って弁護士になりました。"
+              "ja": "卒業したらすぐに上海に行って弁護士になりました。",
+              "en": "I went to Shanghai to work as a lawyer right after graduation."
             }
           },
           "2": {
             "translation": {
               "ko": "지금 하는 일에 정말 만족하겠구나?",
-              "ja": "今の仕事にきっとすごく満足してるんでしょ？"
+              "ja": "今の仕事にきっとすごく満足してるんでしょ？",
+              "en": "You must be very satisfied with your current job, right?"
             }
           },
           "3": {
             "translation": {
               "ko": "지금 하는 일이 정말 좋아요. 제가 배운 게 바로 법학 전공이고, 동료들도 저를 좋아해 줘요. 게다가 수입도 괜찮아요.",
-              "ja": "今の仕事がとても好きです。勉強したのは法律専門で、同僚もみんな私のことを好きでいてくれます。それに、収入も悪くないです。"
+              "ja": "今の仕事がとても好きです。勉強したのは法律専門で、同僚もみんな私のことを好きでいてくれます。それに、収入も悪くないです。",
+              "en": "I really like my current job, because I studied law, and my colleagues all like me. Besides, the income is not bad either."
             }
           },
           "4": {
             "translation": {
               "ko": "일요일에 우리 동창 모임이 있는데, 올 수 있어?",
-              "ja": "日曜日に同窓会があるんだけど、来られる？"
+              "ja": "日曜日に同窓会があるんだけど、来られる？",
+              "en": "We have a class reunion on Sunday. Can you come?"
             }
           },
           "5": {
             "translation": {
               "ko": "갈 수 있어요. 이번에 북경에 온 것은 일정이 빡빡하지만, 꼭 이 기회에 여러분과 만나러 갈게요.",
-              "ja": "行けますよ。今回北京に来たのはスケジュールがぎっしりですが、必ずこの機会にみんなに会いに行きます。"
-            }
-          }
-        }
-      },
-      "5": {
-        "lines": {
-          "0": {
-            "translation": {
-              "ko": "첫인상은 처음 만날 때 상대방에게 남기는 인상이야. 첫인상이 항상 맞는 것은 아니지만, 바꾸려고 하면 매우 어려워.",
-              "ja": "第一印象とは、初めて会う時に相手に与える印象のことです。第一印象はいつも正しいとは限りませんが、変えようとするのはとても難しいです。"
-            }
-          },
-          "1": {
-            "translation": {
-              "ko": "네가 남에게 준 첫인상은 나중에 그들이 너에 대해 갖는 감정과 판단에 영향을 미쳐.",
-              "ja": "あなたが与えた第一印象は、後の相手のあなたに対する感情や判断に影響します。"
-            }
-          },
-          "2": {
-            "translation": {
-              "ko": "그러니까, 처음 만나는 동료에게 좋은 인상을 남기면 앞으로 일이 더 순조로울 수 있고; 처음 만나는 고객에게 좋은 인상을 남기면 더 많은 물건을 팔 수 있을 거야.",
-              "ja": "ですから、初めて会う同僚に良い印象を残せば、今後の仕事がより順調に進むかもしれません。初めて会うお客様に良い印象を残せば、より多くの商品を売れるかもしれません。"
-            }
-          },
-          "3": {
-            "translation": {
-              "ko": "하지만, 처음 만날 때 시간을 안 지키는 등의 나쁜 인상을 남기면, 나중에 남들이 너를 믿기 어렵게 돼.",
-              "ja": "しかし、初めて会う時に時間を守らないなどの悪い印象を残すと、その後相手に信頼してもらうのはとても難しくなります。"
-            }
-          },
-          "4": {
-            "translation": {
-              "ko": "그러니까 수업을 듣든, 출근을 하든, 누군가와 약속을 하든, 시간을 지키는 것은 정말 중요해.",
-              "ja": "ですから、授業でも、出勤でも、誰かとのデートでも、時間を守ることはとても大切です。"
+              "ja": "行けますよ。今回北京に来たのはスケジュールがぎっしりですが、必ずこの機会にみんなに会いに行きます。",
+              "en": "I can come. Although my schedule this time in Beijing is very tight, I'll definitely take this opportunity to meet everyone."
             }
           }
         }
@@ -1106,31 +1500,75 @@
           "0": {
             "translation": {
               "ko": "면접 때 부장님이 나에 대해 좋은 인상을 가지셨고, 내일부터 출근해도 된다고 알려주셨어. 취직이 이렇게 순조로울 줄은 정말 몰랐어.",
-              "ja": "面接の時、部長は私に良い印象を持って、明日から出勤していいと言ってくれました。就職がこんなにうまくいくとは思ってもみませんでした。"
+              "ja": "面接の時、部長は私に良い印象を持って、明日から出勤していいと言ってくれました。就職がこんなにうまくいくとは思ってもみませんでした。",
+              "en": "During the interview, the manager had a good impression of me, and even told me I could start working tomorrow. I never thought finding a job would be so smooth."
             }
           },
           "1": {
             "translation": {
               "ko": "면접 때 무엇을 주의해야 하는지 알고 싶어?",
-              "ja": "面接で何に注意すべきか知りたい？"
+              "ja": "面接で何に注意すべきか知りたい？",
+              "en": "Do you want to know what to pay attention to in an interview?"
             }
           },
           "2": {
             "translation": {
               "ko": "첫째, 정장을 입어야 해. 그래야 좋은 인상을 남겨서, 너를 진지한 사람이라고 생각하게 할 거야.",
-              "ja": "まず、フォーマルな服を着ること。そうすれば良い印象を残して、あなたを真面目な人だと思ってもらえる。"
+              "ja": "まず、フォーマルな服を着ること。そうすれば良い印象を残して、あなたを真面目な人だと思ってもらえる。",
+              "en": "First, wear formal clothes. This will leave a good impression and make them think you are a serious person."
             }
           },
           "3": {
             "translation": {
               "ko": "둘째, 면접 볼 때 긴장하지 마. 질문에 대답할 때 너무 빠르게 말하지 말고, 목소리도 너무 작지 않게 해. 자신이 잘할 수 있는 능력이 있다고 믿어.",
-              "ja": "次に、面接の時は緊張しないこと。質問に答える時は、早く話しすぎず、声も小さすぎないように。自分にはうまくやる能力があると信じること。"
+              "ja": "次に、面接の時は緊張しないこと。質問に答える時は、早く話しすぎず、声も小さすぎないように。自分にはうまくやる能力があると信じること。",
+              "en": "Second, don't be nervous during the interview. When answering questions, don't speak too fast or too quietly. Believe that you have the ability to do well."
             }
           },
           "4": {
             "translation": {
               "ko": "물론, 가장 중요한 것은 질문에 정직하게 대답하는 거야.",
-              "ja": "もちろん、一番大切なのは質問に誠実に答えることです。"
+              "ja": "もちろん、一番大切なのは質問に誠実に答えることです。",
+              "en": "Of course, the most important thing is to answer questions honestly."
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "첫인상은 처음 만날 때 상대방에게 남기는 인상이야. 첫인상이 항상 맞는 것은 아니지만, 바꾸려고 하면 매우 어려워.",
+              "ja": "第一印象とは、初めて会う時に相手に与える印象のことです。第一印象はいつも正しいとは限りませんが、変えようとするのはとても難しいです。",
+              "en": "First impression is the impression you leave on others when meeting for the first time. Although first impressions aren't always right, if you want to change them it's very difficult."
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "네가 남에게 준 첫인상은 나중에 그들이 너에 대해 갖는 감정과 판단에 영향을 미쳐.",
+              "ja": "あなたが与えた第一印象は、後の相手のあなたに対する感情や判断に影響します。",
+              "en": "The first impression you give to others will affect their future feelings and judgments about you."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "그러니까, 처음 만나는 동료에게 좋은 인상을 남기면 앞으로 일이 더 순조로울 수 있고; 처음 만나는 고객에게 좋은 인상을 남기면 더 많은 물건을 팔 수 있을 거야.",
+              "ja": "ですから、初めて会う同僚に良い印象を残せば、今後の仕事がより順調に進むかもしれません。初めて会うお客様に良い印象を残せば、より多くの商品を売れるかもしれません。",
+              "en": "So, leaving a good impression on colleagues you meet for the first time may make future work go more smoothly; leaving a good impression on first-time customers, you might sell more things."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "하지만, 처음 만날 때 시간을 안 지키는 등의 나쁜 인상을 남기면, 나중에 남들이 너를 믿기 어렵게 돼.",
+              "ja": "しかし、初めて会う時に時間を守らないなどの悪い印象を残すと、その後相手に信頼してもらうのはとても難しくなります。",
+              "en": "But if you leave a bad impression like being unpunctual when meeting someone for the first time, then it will be very hard to make others trust you later."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "그러니까 수업을 듣든, 출근을 하든, 누군가와 약속을 하든, 시간을 지키는 것은 정말 중요해.",
+              "ja": "ですから、授業でも、出勤でも、誰かとのデートでも、時間を守ることはとても大切です。",
+              "en": "So whether it's attending class, going to work, or going on a date with someone, punctuality is very important."
             }
           }
         }
@@ -1140,124 +1578,509 @@
       "挺……的": {
         "formal_translation": {
           "ko": "'挺'은 '꽤, 상당히'라는 뜻으로 '很'과 비슷합니다. 보통 '挺……的' 구조로 성질이나 정도, 인상을 자연스러운 말투로 표현할 때 씁니다.",
-          "ja": "「挺」は「かなり、わりと」という意味で、「很」に近い表現です。よく「挺……的」の形で、性質や程度、印象を自然な話し言葉で表します。"
+          "ja": "「挺」は「かなり、わりと」という意味で、「很」に近い表現です。よく「挺……的」の形で、性質や程度、印象を自然な話し言葉で表します。",
+          "en": "The adverb '挺' means 'quite' or 'rather', similar to '很'. It is often used in the structure '挺……的' to describe a quality, degree, or impression in a natural spoken tone."
         },
         "colloquial_translation": {
           "ko": "'还挺……'은 '생각보다 꽤...'라는 느낌을 더하고, '蛮……的'도 일상 대화에서 자연스럽게 쓰이는 표현입니다.",
-          "ja": "「还挺……」は「思ったよりけっこう…」というニュアンスを加え、「蛮……的」も日常会話で自然によく使われます。"
-        }
+          "ja": "「还挺……」は「思ったよりけっこう…」というニュアンスを加え、「蛮……的」も日常会話で自然によく使われます。",
+          "en": "'挺……的' is already common in spoken Chinese and sounds softer than a direct '很'. '还挺……' adds a sense of mild surprise or positive evaluation, while '蛮……的' is also very conversational and common in many regions."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "그들이 물어본 질문은 모두 꽤 쉬웠어요.",
+              "ja": "彼らが聞いた質問はどれもかなり簡単でした。",
+              "en": "The questions they asked were all quite easy."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 가게 물건은 꽤 좋아서 저는 자주 여기 와서 물건을 사요.",
+              "ja": "この店の商品はかなり良いので、私はよくここに買い物に来ます。",
+              "en": "The things in this shop are quite good; I often come here to buy things."
+            }
+          },
+          {
+            "translation": {
+              "ko": "저는 이곳이 꽤 마음에 들어요. 주변 환경이 예전에 살던 곳보다 훨씬 조용해요.",
+              "ja": "私はこの場所がかなり気に入っています。周りの環境は以前住んでいた所よりずっと静かです。",
+              "en": "I quite like this place; the surrounding environment is much quieter than where I lived before."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "그들이 낸 문제는 생각보다 꽤 쉬웠고, 그냥 그때 제가 좀 당황했어요.",
+              "ja": "彼らが出した問題は思ったよりけっこう簡単で、ただその時ちょっと焦っていました。",
+              "en": "The questions they asked were actually pretty easy; I was just a bit nervous at the time."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 가게 물건은 꽤 믿을 만해서 저는 거의 여기서 사요.",
+              "ja": "この店の商品はかなり信頼できるので、私はだいたいここで買っています。",
+              "en": "The stuff at this shop is pretty reliable; I basically buy things here all the time."
+            }
+          },
+          {
+            "translation": {
+              "ko": "저는 이 동네가 생각보다 꽤 좋아요. 훨씬 조용하고 살기 편해요.",
+              "ja": "私はこの辺りが思ったよりけっこう好きです。ずっと静かで住みやすいです。",
+              "en": "I actually quite like this area; it's much quieter and comfortable to live in."
+            }
+          }
+        ]
       },
       "本来": {
         "formal_translation": {
           "ko": "'本来'는 일이 원래 그렇거나 당연히 그래야 함을 나타내며, '원래, 처음에는'이라는 뜻으로 실제 결과와 대비할 때도 씁니다.",
-          "ja": "「本来」は、物事がもともとそうである、または当然そうあるべきだという意味を表します。「もともと、初めは」という意味で、実際の結果と対比する時にも使います。"
+          "ja": "「本来」は、物事がもともとそうである、または当然そうあるべきだという意味を表します。「もともと、初めは」という意味で、実際の結果と対比する時にも使います。",
+          "en": "The adverb '本来' indicates that something is naturally so or goes without saying. It can also mean 'originally' or 'at first', especially when contrasting the original situation with what actually happened later."
         },
         "colloquial_translation": {
           "ko": "일상 대화에서는 '一开始', '原本', '按理说'을 상황에 따라 쓰면 더 자연스럽습니다. 특히 '按理说'은 '원래라면 당연히'라는 느낌을 줍니다.",
-          "ja": "日常会話では「一开始」「原本」「按理说」を状況に応じて使うと自然です。特に「按理说」は「理屈から言えば当然」という感じを出します。"
-        }
+          "ja": "日常会話では「一开始」「原本」「按理说」を状況に応じて使うと自然です。特に「按理说」は「理屈から言えば当然」という感じを出します。",
+          "en": "'本来' is neutral and textbook-like. In casual speech, '一开始' highlights the original starting point, '原本' sounds natural for an original arrangement, and '按理说' adds the feeling of 'logically speaking, this should have been obvious.'"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "이 일은 원래 그의 말을 들었어야 했어요.",
+              "ja": "この件は本来、彼の言うことを聞くべきでした。",
+              "en": "For this matter, we should naturally have listened to him."
+            }
+          },
+          {
+            "translation": {
+              "ko": "저는 원래 운전을 못했지만, 지금은 아주 잘해요.",
+              "ja": "私はもともと運転できませんでしたが、今はとても上手に運転できます。",
+              "en": "I originally couldn't drive, but now I drive especially well."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이번 채용은 원래 샤오리가 맡은 일이었어요.",
+              "ja": "今回の採用はもともと李さんが担当するはずでした。",
+              "en": "This round of hiring was originally Xiao Li's responsibility."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "이 일은 원래라면 그의 말을 들었어야 했는데, 다들 굳이 직접 우왕좌왕했어요.",
+              "ja": "この件は理屈から言えば彼の言うことを聞くべきだったのに、みんな自分たちで無理にバタバタしました。",
+              "en": "Logically, we should have just listened to him on this, but everyone insisted on messing around by themselves."
+            }
+          },
+          {
+            "translation": {
+              "ko": "처음에는 차를 만지는 것도 겁났는데, 지금은 운전을 꽤 매끄럽게 해요.",
+              "ja": "最初は車に触るのも怖かったのに、今はけっこうスムーズに運転できます。",
+              "en": "At first I didn't even dare touch a car, but now I drive pretty smoothly."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이번 채용은 원래 샤오리가 맡았는데, 나중에 갑자기 담당자가 바뀌었어요.",
+              "ja": "今回の採用はもともと李さんの担当でしたが、後で急に担当者が変わりました。",
+              "en": "This hiring was originally under Xiao Li, but they switched people at the last minute."
+            }
+          }
+        ]
       },
       "另外": {
         "formal_translation": {
           "ko": "'另外'는 앞에서 말한 범위 밖의 다른 사람이나 사물을 가리키거나, '추가로, 게다가'라는 뜻의 부사/접속사로도 쓰입니다. '另'은 보통 짧은 동사를 꾸미지만, '另外'는 더 자유롭게 쓸 수 있습니다.",
-          "ja": "「另外」は、前に述べた範囲以外の人や物を指したり、「さらに、ほかに」という意味の副詞・接続詞として使われます。「另」は短い動詞を修飾することが多いですが、「另外」はより自由に使えます。"
+          "ja": "「另外」は、前に述べた範囲以外の人や物を指したり、「さらに、ほかに」という意味の副詞・接続詞として使われます。「另」は短い動詞を修飾することが多いですが、「另外」はより自由に使えます。",
+          "en": "'另外' can be used as a pronoun to mean another person or thing beyond what has already been mentioned, often in the structures '另外（+的）+ number-measure word（+ noun）' or '另外 + 的（+ noun）'. It can also be used as an adverb meaning beyond the previous scope, often with '还', '再', or '又', and as a conjunction meaning 'besides' to connect clauses or sentences. When meaning 'another' before a verb, '另' usually modifies a monosyllabic verb, while '另外' has no such restriction. '另外' can be a conjunction, but '另' cannot."
         },
         "colloquial_translation": {
           "ko": "대화에서는 다른 것을 말할 때 '别的', '另一个'을 자주 쓰고, 이유를 덧붙일 때는 '再说'이 자연스럽습니다. '另外还'은 추가 정보를 더할 때 좋습니다.",
-          "ja": "会話では、別のものを言う時に「别的」「另一个」をよく使い、理由を付け加える時は「再说」が自然です。「另外还」は追加情報を加える時に使いやすい表現です。"
-        }
+          "ja": "会話では、別のものを言う時に「别的」「另一个」をよく使い、理由を付け加える時は「再说」が自然です。「另外还」は追加情報を加える時に使いやすい表現です。",
+          "en": "'另外' is clear and slightly formal, especially as a connector. In daily speech, people often use '别的' or '另一个' for another item, '另外还' for an extra point, and '再说' when adding another reason in a persuasive or conversational tone. Use '另' mainly in compact verb phrases like '另找' or '另买'; use '另外' when the following verb phrase is longer or when connecting a new sentence."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "앞에 차가 좀 많으니 다른 길로 가면 늦지 않을 거예요.",
+              "ja": "前方は車が少し多いので、別の道を行けば遅れないでしょう。",
+              "en": "There are quite a few cars ahead. Let's take another road; we won't be late."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 옷은 조금 크니 다른 그 옷을 입어 보세요.",
+              "ja": "この服は少し大きいので、別のあの服を試してみてください。",
+              "en": "This piece of clothing is a bit big. Try that other one."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그녀가 말한 것 외에, 저는 추가로 몇 가지 의견을 보충했어요.",
+              "ja": "彼女が言ったこと以外に、私はさらにいくつか意見を補足しました。",
+              "en": "Besides what she said, I added several more suggestions."
+            }
+          },
+          {
+            "translation": {
+              "ko": "집 에어컨이 고장 났으니, 우리 따로 하나 더 사요.",
+              "ja": "家のエアコンが壊れたので、別にもう一台買いましょう。",
+              "en": "The air conditioner at home is broken. Let's buy another one."
+            }
+          },
+          {
+            "translation": {
+              "ko": "제가 배운 것은 법학 전공이고, 동료들도 모두 저를 좋아해요. 게다가 수입도 괜찮아요.",
+              "ja": "私が学んだのは法律専門で、同僚もみんな私を好いてくれます。それに、収入も悪くありません。",
+              "en": "I studied law, and my colleagues all like me. Besides, the income is also good."
+            }
+          },
+          {
+            "translation": {
+              "ko": "요즘 온라인 쇼핑은 편리해서 판매자가 물건을 사무실이나 집으로 보내 줄 수 있어요. 게다가 비교적 저렴해요.",
+              "ja": "今はネットで買い物するのが便利で、売り手は買った物をオフィスや家に届けてくれます。それに、比較的安いです。",
+              "en": "Shopping online is very convenient now. Sellers can deliver what you buy to your office or home. Besides, it is also relatively cheap."
+            }
+          },
+          {
+            "translation": {
+              "ko": "요즘 샤오위가 너무 바빠서 도와줄 시간이 없으니, 다른 사람을 찾아보세요.",
+              "ja": "最近小雨はとても忙しくて手伝う時間がないので、別の人を探してください。",
+              "en": "Xiao Yu has been too busy recently and has no time to help you. You should find someone else."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그는 이번 회의에 와서 현재 문제를 해결해 줬을 뿐만 아니라, 새 자료도 많이 제공했어요.",
+              "ja": "彼は今回会議に参加して、現在の問題を解決してくれただけでなく、新しい資料もたくさん提供してくれました。",
+              "en": "This time he came to attend the meeting, he not only helped us solve the current problem, but also provided quite a few new materials."
+            }
+          },
+          {
+            "translation": {
+              "ko": "겨울에는 과일을 많이 먹는 데 주의해야 해요. 또 물도 많이 마시는 것을 기억해야 합니다.",
+              "ja": "冬は果物を多く食べるように気をつけるべきです。さらに、水を多く飲むことも忘れないでください。",
+              "en": "In winter, you should pay attention to eating more fruit. In addition, remember to drink more water."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "앞이 저렇게 막히니 다른 길로 가요. 아마 시간 맞출 수 있을 거예요.",
+              "ja": "前があんなに渋滞しているなら、別の道で行きましょう。たぶん間に合います。",
+              "en": "It's jammed up ahead like that. Let's take another route; we should still make it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이건 너무 크니까 다른 사이즈를 입어 보세요. 더 잘 맞을 거예요.",
+              "ja": "これは大きすぎるので、別のサイズを試してみてください。もっと合うはずです。",
+              "en": "This one is too big. Try another size; it should fit better."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그녀가 말한 건 다 적어 뒀고, 빠뜨리지 않으려고 몇 가지를 더 보충했어요.",
+              "ja": "彼女が言ったことは全部メモして、漏れがないようにさらにいくつか補足しました。",
+              "en": "I wrote down everything she said, and I added a few more so nothing gets missed."
+            }
+          },
+          {
+            "translation": {
+              "ko": "에어컨이 고장 났으면 고치지 말고 새 걸 하나 더 사요.",
+              "ja": "エアコンが壊れたなら修理せずに、新しいのをもう一台買いましょう。",
+              "en": "If the AC is broken, let's stop fixing it and just buy a new one."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 일은 제 전공과 맞고 동료들도 괜찮아요. 게다가 돈도 꽤 돼요.",
+              "ja": "この仕事は自分の専門に合っているし、同僚もいい人たちです。それにお金も少なくありません。",
+              "en": "This job matches my major, the coworkers are nice, and besides, the pay is pretty good."
+            }
+          },
+          {
+            "translation": {
+              "ko": "온라인 쇼핑은 정말 편해요. 바로 집까지 오고, 게다가 훨씬 싸요.",
+              "ja": "ネットショッピングは本当に便利です。家まで直接届くし、しかもかなり安いです。",
+              "en": "Online shopping is really convenient; it gets delivered straight home, and it's also a lot cheaper."
+            }
+          },
+          {
+            "translation": {
+              "ko": "샤오위가 요즘 너무 바빠서 못 도와주니, 다른 사람을 찾아보세요.",
+              "ja": "小雨は最近忙しすぎて手伝えないので、別の人を探してください。",
+              "en": "Xiao Yu has been insanely busy lately and can't help you. Find someone else."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그는 이번에 문제만 해결한 게 아니라 새 자료도 많이 가져왔어요. 꽤 든든했어요.",
+              "ja": "彼は今回、問題を解決しただけでなく、新しい資料もたくさん持ってきてくれました。かなり頼もしかったです。",
+              "en": "He didn't just solve the problem this time; he also brought a lot of new materials. Pretty helpful."
+            }
+          },
+          {
+            "translation": {
+              "ko": "겨울에는 과일을 많이 먹고, 물도 많이 마시는 걸 잊지 마세요.",
+              "ja": "冬は果物を多く食べて、水もたくさん飲むのを忘れないでください。",
+              "en": "In winter, eat more fruit, and don't forget to drink more water too."
+            }
+          }
+        ]
       },
       "首先……其次……": {
         "formal_translation": {
           "ko": "'首先'과 '其次'는 주로 글말에서 순서를 세워 항목을 나열할 때 함께 쓰입니다. '首先'은 부사로 '가장 먼저, 우선'이라는 뜻도 나타냅니다.",
-          "ja": "「首先」と「其次」は、主に書き言葉で順序立てて項目を列挙する時に一緒に使われます。「首先」は副詞として「まず、最初に」という意味も表します。"
+          "ja": "「首先」と「其次」は、主に書き言葉で順序立てて項目を列挙する時に一緒に使われます。「首先」は副詞として「まず、最初に」という意味も表します。",
+          "en": "'首先' and '其次' are pronouns often used together in written Chinese to enumerate items in order. '首先' can also be used as an adverb meaning 'first of all' or 'the earliest'."
         },
         "colloquial_translation": {
           "ko": "일상 대화에서는 '先……再……'나 '第一……第二……'가 더 직접적이고 자연스럽습니다. '最先'은 가장 먼저 떠오르는 것을 강조합니다.",
-          "ja": "日常会話では「先……再……」や「第一……第二……」の方が直接的で自然です。「最先」は真っ先に思いつくことを強調します。"
-        }
+          "ja": "日常会話では「先……再……」や「第一……第二……」の方が直接的で自然です。「最先」は真っ先に思いつくことを強調します。",
+          "en": "'首先……其次……' is organized and formal, making it good for written explanations, speeches, and interview advice. In daily speech, '先……再……' and '第一……第二……' sound more natural and direct, while '最先' emphasizes the very first thing that comes to mind."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "무슨 일을 하든 먼저 왜 해야 하는지 분명히 알아야 하고, 그다음 어떻게 해야 하는지 알아야 해요.",
+              "ja": "何をするにしても、まずなぜそれをするのかを理解し、次にどうやるのかを知るべきです。",
+              "en": "No matter what you do, first you should understand why you want to do it; second, you need to know how to do it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "첫째, 정장을 입어야 해요. 그래야 면접관에게 좋은 인상을 남기고, 당신이 진지한 사람이라고 느끼게 합니다. 둘째, 지원할 때 긴장하지 마세요.",
+              "ja": "まず、フォーマルな服を着ることです。そうすれば面接官に良い印象を残し、あなたが真面目な人だと思ってもらえます。次に、応募面接の時は緊張しないことです。",
+              "en": "First, wear formal clothes. This will leave a good impression on the interviewer and make them feel you are a serious person. Second, don't be nervous during the interview."
+            }
+          },
+          {
+            "translation": {
+              "ko": "앞으로 어떤 일을 하든, 먼저 건강한 몸을 가져야 해요.",
+              "ja": "将来どんな仕事をするにしても、まず健康な体を持つべきです。",
+              "en": "No matter what job you do in the future, first of all, you should have a healthy body."
+            }
+          },
+          {
+            "translation": {
+              "ko": "많은 사람은 모르는 부분을 만나면 가장 먼저 인터넷에서 찾아보려고 해요.",
+              "ja": "多くの人は分からないことに出会うと、まずネットで調べようとします。",
+              "en": "When many people encounter something they do not understand, the first thing they think of is looking it up online."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "뭘 하든 먼저 왜 하는지 생각하고, 그다음 구체적으로 어떻게 할지 생각해요.",
+              "ja": "何をするにしても、まずなぜやるのかをはっきり考えて、それから具体的にどうやるかを考えましょう。",
+              "en": "Whatever you're doing, first figure out why you're doing it, then think about exactly how to do it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "면접은 첫째 옷을 좀 단정하게 입어서 믿음직해 보여야 하고, 둘째 너무 긴장하지 않는 게 좋아요.",
+              "ja": "面接では、第一に服装を少しきちんとして信頼できる印象を与えること、第二に緊張しすぎないことです。",
+              "en": "For an interview, first dress a bit formally so you look reliable; second, don't get too nervous."
+            }
+          },
+          {
+            "translation": {
+              "ko": "앞으로 뭘 하든 먼저 몸부터 잘 챙기세요.",
+              "ja": "これから何をするにしても、まず体を大事にしてください。",
+              "en": "Whatever you do in the future, take care of your health first."
+            }
+          },
+          {
+            "translation": {
+              "ko": "요즘 사람들은 모르는 걸 만나면 제일 먼저 인터넷 검색을 떠올려요.",
+              "ja": "今の人たちは分からないことに出会うと、真っ先にネット検索を思い浮かべます。",
+              "en": "These days, when people run into something they don't understand, the first thing they think of is searching online."
+            }
+          }
+        ]
       },
       "不管……都……": {
         "formal_translation": {
           "ko": "'不管'은 어떤 가정 조건에서도 결론이나 결과가 변하지 않음을 나타냅니다. '什么', '怎么', '谁', '哪儿', '多么' 같은 의문대명사와 자주 쓰이며, 뒤 절에는 보통 '都'가 옵니다.",
-          "ja": "「不管」は、どんな仮定条件でも結論や結果が変わらないことを表します。「什么」「怎么」「谁」「哪儿」「多么」などの疑問代名詞とよく使われ、後ろの節には普通「都」が来ます。"
+          "ja": "「不管」は、どんな仮定条件でも結論や結果が変わらないことを表します。「什么」「怎么」「谁」「哪儿」「多么」などの疑問代名詞とよく使われ、後ろの節には普通「都」が来ます。",
+          "en": "The conjunction '不管' indicates that the conclusion or result will not change under any assumed circumstance. It is often used with interrogative pronouns such as '什么', '怎么', '谁', '哪儿', and '多（么）'. It is also often paired with '还是' or an affirmative-negative phrase, and the following clause usually contains '都' or a similar word."
         },
         "colloquial_translation": {
           "ko": "'不管……都……'는 '무엇이든/누구든/어디든 상관없이'를 말할 때 안정적인 표현입니다. 정도를 말할 때는 '再……也……'가 더 짧고 힘 있게 들립니다.",
-          "ja": "「不管……都……」は「何であっても、誰であっても、どこであっても」という意味を表す安定した表現です。程度を言う時は「再……也……」の方が短く力強く聞こえます。"
-        }
+          "ja": "「不管……都……」は「何であっても、誰であっても、どこであっても」という意味を表す安定した表現です。程度を言う時は「再……也……」の方が短く力強く聞こえます。",
+          "en": "'不管……都……' is a stable and versatile pattern for 'no matter what/who/where/how'. In conversation, '再……也……' is often punchier when talking about degree, like '再忙也...' for 'no matter how busy'. '管它...' is more casual and dismissive, closer to 'whatever it is...'."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "야마모토는 무슨 일을 하든 모두 매우 진지합니다.",
+              "ja": "山本さんは何をするにしても、いつもとても真面目です。",
+              "en": "No matter what Yamamoto does, he is always very serious."
+            }
+          },
+          {
+            "translation": {
+              "ko": "수업이든 출근이든 다른 사람과 약속이든, 시간을 지키는 것은 모두 매우 중요합니다.",
+              "ja": "授業でも、出勤でも、誰かとの約束でも、時間を守ることはとても大切です。",
+              "en": "Whether it is going to class, going to work, or meeting someone, being on time is always very important."
+            }
+          },
+          {
+            "translation": {
+              "ko": "바쁘든 바쁘지 않든, 그는 매일 한 시간씩 운동합니다.",
+              "ja": "忙しいかどうかに関係なく、彼は毎日一時間体を鍛えます。",
+              "en": "Whether he is busy or not, he exercises for one hour every day."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "야마모토는 뭘 하든 정말 꼼꼼하고 진지한 사람이에요.",
+              "ja": "山本さんは何をするにしても、本当に細かいところまで真剣な人です。",
+              "en": "Yamamoto is the kind of guy who takes everything seriously, no matter what he's doing."
+            }
+          },
+          {
+            "translation": {
+              "ko": "수업이든 일이든 약속이든, 시간을 지키는 건 정말 중요해요.",
+              "ja": "授業でも仕事でも約束でも、時間を守ることは本当に大事です。",
+              "en": "Whether it's class, work, or meeting someone you've made plans with, being on time really matters."
+            }
+          },
+          {
+            "translation": {
+              "ko": "아무리 바빠도 그는 매일 한 시간씩 운동해요. 정말 자기관리가 철저해요.",
+              "ja": "どんなに忙しくても、彼は毎日一時間運動します。本当に自律しています。",
+              "en": "No matter how busy he is, he still makes an hour every day to exercise. He's really disciplined."
+            }
+          }
+        ]
       }
     },
     "keySentences": {
       "还可以，他们问的问题都<b>挺</b>容易<b>的</b>，<b>就是</b>我有点儿紧张。": {
         "translation": {
           "ko": "괜찮았어. 그 사람들이 물어본 질문은 다 꽤 쉬웠는데, 그냥 내가 조금 긴장했어.",
-          "ja": "まあまあでした。聞かれた質問はどれもかなり簡単でしたが、ただ少し緊張していました。"
+          "ja": "まあまあでした。聞かれた質問はどれもかなり簡単でしたが、ただ少し緊張していました。",
+          "en": "It was okay, the questions they asked were quite easy; it's just that I was a little nervous."
         },
         "colloquial_translation": {
           "ko": "나쁘지 않았어. 질문은 생각보다 꽤 쉬웠는데, 그때 내가 좀 당황했을 뿐이야.",
-          "ja": "悪くなかったよ。質問は思ったよりけっこう簡単で、ただその時ちょっと焦ってただけ。"
+          "ja": "悪くなかったよ。質問は思ったよりけっこう簡単で、ただその時ちょっと焦ってただけ。",
+          "en": "It was alright. The questions were actually pretty easy; I was just a bit nervous at the time."
         },
         "context": {
           "ko": "면접이 어땠는지 말할 때",
-          "ja": "面接がどうだったか話す時"
+          "ja": "面接がどうだったか話す時",
+          "en": "Talking about how an interview went."
         }
       },
       "<b>本来</b>是小李负责的，<b>但是</b>他突然生病住院了，所以就交给我来做了。": {
         "translation": {
           "ko": "원래는 샤오리가 맡은 일이었는데, 갑자기 병이 나서 입원하는 바람에 저에게 넘겨졌어요.",
-          "ja": "もともとは李さんが担当していたのですが、急に病気で入院したので、私が引き継ぐことになりました。"
+          "ja": "もともとは李さんが担当していたのですが、急に病気で入院したので、私が引き継ぐことになりました。",
+          "en": "Originally it was Xiao Li's responsibility, but he suddenly got sick and was hospitalized, so he handed it over to me."
         },
         "colloquial_translation": {
           "ko": "이 일은 원래 샤오리 담당이었는데, 갑자기 입원해서 제가 임시로 맡게 됐어요.",
-          "ja": "この件はもともと李さんの担当だったんですが、急に入院して、私が急きょ引き継ぐことになりました。"
+          "ja": "この件はもともと李さんの担当だったんですが、急に入院して、私が急きょ引き継ぐことになりました。",
+          "en": "This was originally Xiao Li's job, but he suddenly ended up in the hospital, so they had me take it over at the last minute."
         },
         "context": {
           "ko": "담당자가 바뀐 이유를 설명할 때",
-          "ja": "担当が変わった理由を説明する時"
+          "ja": "担当が変わった理由を説明する時",
+          "en": "Explaining a change of responsibility."
         }
       },
       "我很喜欢现在的工作，因为我学的<b>就是</b>法律<b>专业</b>，而且同事们都很喜欢我。<b>另外</b>，<b>收入</b>也不错。": {
         "translation": {
           "ko": "저는 지금 하는 일이 정말 좋아요. 제가 배운 게 바로 법학 전공이고, 동료들도 저를 좋아해 줘요. 게다가 수입도 괜찮아요.",
-          "ja": "今の仕事がとても好きです。勉強したのはまさに法律専門で、同僚もみんな私のことを好いてくれています。それに、収入も悪くありません。"
+          "ja": "今の仕事がとても好きです。勉強したのはまさに法律専門で、同僚もみんな私のことを好いてくれています。それに、収入も悪くありません。",
+          "en": "I really like my current job, because I studied law, and my colleagues all like me. Besides, the income is not bad either."
         },
         "colloquial_translation": {
           "ko": "지금 일에 꽤 만족해요. 전공이랑도 맞고, 동료들도 지내기 좋고, 게다가 월급도 낮지 않아요.",
-          "ja": "今の仕事にはけっこう満足しています。専攻とも合っているし、同僚とも付き合いやすいし、それに給料も悪くありません。"
+          "ja": "今の仕事にはけっこう満足しています。専攻とも合っているし、同僚とも付き合いやすいし、それに給料も悪くありません。",
+          "en": "I'm pretty happy with my current job. It matches my major, the coworkers are easy to get along with, and besides, the pay isn't low."
         },
         "context": {
           "ko": "현재 직업이 마음에 드는 이유를 설명할 때",
-          "ja": "今の仕事が気に入っている理由を説明する時"
+          "ja": "今の仕事が気に入っている理由を説明する時",
+          "en": "Explaining why you like a job."
         }
       },
       "<b>首先</b>，要穿<b>正式</b>的衣服，这会给你<b>留</b>下一个好的印象，让他觉得你是一个认真的人。": {
         "translation": {
           "ko": "첫째, 정장을 입어야 해요. 그래야 좋은 인상을 남겨서 상대가 당신을 진지한 사람이라고 생각하게 됩니다.",
-          "ja": "まず、フォーマルな服を着ることです。そうすれば良い印象を残し、相手にあなたは真面目な人だと思ってもらえます。"
+          "ja": "まず、フォーマルな服を着ることです。そうすれば良い印象を残し、相手にあなたは真面目な人だと思ってもらえます。",
+          "en": "First, wear formal clothes. This will leave a good impression and make them think you are a serious person."
         },
         "colloquial_translation": {
           "ko": "면접 때는 우선 옷을 좀 단정하게 입어요. 그래야 상대가 믿음직하고 진지한 사람이라고 느껴요.",
-          "ja": "面接の時は、まず服装を少しきちんとしましょう。そうすると相手に、信頼できて真面目な人だと思ってもらえます。"
+          "ja": "面接の時は、まず服装を少しきちんとしましょう。そうすると相手に、信頼できて真面目な人だと思ってもらえます。",
+          "en": "For an interview, first dress a bit formally. That way people will feel you're reliable and serious."
         },
         "context": {
           "ko": "면접 조언을 할 때",
-          "ja": "面接のアドバイスをする時"
+          "ja": "面接のアドバイスをする時",
+          "en": "Giving interview advice."
         }
       },
       "所以<b>不管</b>是上课、上班，还是<b>与</b>别人<b>约会</b>，<b>准时</b>都非常重要。": {
         "translation": {
           "ko": "그러니까 수업을 듣든, 출근을 하든, 누군가와 약속을 하든, 시간을 지키는 것은 정말 중요해요.",
-          "ja": "ですから、授業でも、出勤でも、誰かと約束して会う時でも、時間を守ることはとても大切です。"
+          "ja": "ですから、授業でも、出勤でも、誰かと約束して会う時でも、時間を守ることはとても大切です。",
+          "en": "So whether it's attending class, going to work, or going on a date with someone, punctuality is very important."
         },
         "colloquial_translation": {
           "ko": "그러니까 수업이든 일이든 약속이든, 시간 지키는 건 정말 중요해요.",
-          "ja": "だから、授業でも仕事でも約束でも、時間を守ることは本当に大事です。"
+          "ja": "だから、授業でも仕事でも約束でも、時間を守ることは本当に大事です。",
+          "en": "So whether it's class, work, or meeting someone you've made plans with, being on time really matters."
         },
         "context": {
           "ko": "어떤 상황에서도 시간 엄수가 중요하다고 강조할 때",
-          "ja": "どんな場面でも時間厳守が大切だと強調する時"
+          "ja": "どんな場面でも時間厳守が大切だと強調する時",
+          "en": "Emphasizing punctuality in any situation."
         }
+      }
+    },
+    "lessonTitle": {
+      "en": "Manager has a good impression of me",
+      "ko": "매니저가 나에 대해 좋은 인상을 가지셨어요",
+      "ja": "マネージャーは私に良い印象を持っています"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Xiao Xia and Xiao Yu talk about Xiao Yu's job interview",
+        "ko": "샤오샤와 샤오위가 샤오위의 취업 면접에 대해 이야기하다",
+        "ja": "小夏と小雨が小雨の就職面接について話す"
+      },
+      "2": {
+        "en": "Manager Ma and Xiao Lin talk about recruitment",
+        "ko": "마 부장님과 샤오린이 채용에 대해 이야기하다",
+        "ja": "マー部長と小林が採用について話す"
+      },
+      "3": {
+        "en": "Xiao Lin and Wang Jing talk about Wang Jing's job",
+        "ko": "샤오린과 왕징이 왕징의 직장에 대해 이야기하다",
+        "ja": "小林と王静が王静の仕事について話す"
+      },
+      "4": {
+        "en": "Xiao Yu talks about interview experience",
+        "ko": "샤오위가 면접 경험에 대해 이야기하다",
+        "ja": "小雨が面接経験について話す"
+      },
+      "5": {
+        "en": "First Impression",
+        "ko": "첫인상",
+        "ja": "第一印象"
       }
     }
   }

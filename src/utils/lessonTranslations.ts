@@ -1,6 +1,6 @@
 export type AppLanguage = 'en' | 'ko' | 'ja';
 
-type LocalizedText = Partial<Record<Exclude<AppLanguage, 'en'>, string>>;
+type LocalizedText = Partial<Record<AppLanguage, string>>;
 
 type LocalizedLine = {
   translation?: LocalizedText;
@@ -9,9 +9,13 @@ type LocalizedLine = {
 type LessonTranslationPack = {
   vocabulary?: Record<string, LocalizedText>;
   properNouns?: Record<string, LocalizedText>;
+  lessonTitle?: LocalizedText;
+  textTitles?: Record<number, LocalizedText>;
   grammar?: Record<string, {
     formal_translation?: LocalizedText;
     colloquial_translation?: LocalizedText;
+    formal_examples?: Array<{ translation?: LocalizedText }>;
+    colloquial_examples?: Array<{ translation?: LocalizedText }>;
   }>;
   keySentences?: Record<string, {
     translation?: LocalizedText;
@@ -23,9 +27,20 @@ type LessonTranslationPack = {
   }>;
 };
 
-function pickLocalized(baseValue: string | undefined, localized: LocalizedText | undefined, language: AppLanguage) {
-  if (language === 'en') return baseValue;
-  return localized?.[language] ?? baseValue;
+function pickLocalized(localized: LocalizedText | undefined, language: AppLanguage) {
+  return localized?.[language];
+}
+
+export function getTextVocab(data: { texts?: any[] }): any[] {
+  const map = new Map<string, any>();
+  data.texts?.forEach((t: any) => {
+    (t.vocabulary || []).forEach((v: any) => {
+      if (!map.has(v.word)) {
+        map.set(v.word, v);
+      }
+    });
+  });
+  return [...map.values()];
 }
 
 export function translateLessonData<T extends {
@@ -35,8 +50,6 @@ export function translateLessonData<T extends {
   texts?: any[];
   translations?: LessonTranslationPack;
 }>(lessonData: T, language: AppLanguage): T {
-  if (language === 'en') return lessonData;
-
   const pack = lessonData.translations;
   if (!pack) return lessonData;
 
@@ -44,33 +57,56 @@ export function translateLessonData<T extends {
     ...lessonData,
     vocabulary: lessonData.vocabulary?.map((item: any) => ({
       ...item,
-      meaning: pickLocalized(item.meaning, pack.vocabulary?.[item.word], language) ?? item.meaning
+      meaning: pickLocalized(pack.vocabulary?.[item.word], language)
     })),
-    grammar: lessonData.grammar?.map((item: any) => ({
-      ...item,
-      formal_translation: pickLocalized(item.formal_translation, pack.grammar?.[item.point]?.formal_translation, language) ?? item.formal_translation,
-      colloquial_translation: pickLocalized(item.colloquial_translation, pack.grammar?.[item.point]?.colloquial_translation, language) ?? item.colloquial_translation
-    })),
+    grammar: lessonData.grammar?.map((item: any) => {
+      const grammarPack = pack.grammar?.[item.point];
+      return {
+        ...item,
+        explanation: pickLocalized(grammarPack?.formal_translation, language),
+        nuance: pickLocalized(grammarPack?.colloquial_translation, language),
+        formal_translation: pickLocalized(grammarPack?.formal_translation, language),
+        colloquial_translation: pickLocalized(grammarPack?.colloquial_translation, language),
+        formal_examples: item.formal_examples?.map((example: any, index: number) => ({
+          ...example,
+          translation: pickLocalized(grammarPack?.formal_examples?.[index]?.translation, language)
+        })),
+        colloquial_examples: item.colloquial_examples?.map((example: any, index: number) => ({
+          ...example,
+          translation: pickLocalized(grammarPack?.colloquial_examples?.[index]?.translation, language)
+        }))
+      };
+    }),
     key_sentences: lessonData.key_sentences?.map((item: any) => ({
       ...item,
-      translation: pickLocalized(item.translation, pack.keySentences?.[item.sentence]?.translation, language) ?? item.translation,
-      colloquial_translation: pickLocalized(item.colloquial_translation, pack.keySentences?.[item.sentence]?.colloquial_translation, language) ?? item.colloquial_translation,
-      context: pickLocalized(item.context, pack.keySentences?.[item.sentence]?.context, language) ?? item.context
+      translation: pickLocalized(pack.keySentences?.[item.sentence]?.translation, language),
+      colloquial_translation: pickLocalized(pack.keySentences?.[item.sentence]?.colloquial_translation, language),
+      context: pickLocalized(pack.keySentences?.[item.sentence]?.context, language)
     })),
-    texts: lessonData.texts?.map((text: any) => ({
-      ...text,
-      content: text.content?.map((line: any, index: number) => ({
-        ...line,
-        translation: pickLocalized(line.translation, pack.texts?.[text.id]?.lines?.[index]?.translation, language) ?? line.translation
-      })),
-      vocabulary: text.vocabulary?.map((item: any) => ({
-        ...item,
-        meaning: pickLocalized(item.meaning, pack.vocabulary?.[item.word], language) ?? item.meaning
-      })),
-      proper_nouns: text.proper_nouns?.map((item: any) => ({
-        ...item,
-        meaning: pickLocalized(item.meaning, pack.properNouns?.[item.word], language) ?? item.meaning
-      }))
-    }))
+    texts: lessonData.texts?.map((text: any) => {
+      // Strip English (last paren group), then extract/strip pinyin (remaining paren group)
+      let titlePart = text.title?.replace(/\([^)]*\)\s*$/, '').trim() || text.title;
+      const pinyinMatch = titlePart.match(/\(([^)]+)\)\s*$/);
+      const titlePinyin = pinyinMatch ? pinyinMatch[1] : '';
+      const titleClean = titlePinyin ? titlePart.replace(/\([^)]+\)\s*$/, '').trim() : titlePart;
+      return {
+        ...text,
+        title: titleClean,
+        titlePinyin,
+        localeTitle: pickLocalized(pack.textTitles?.[text.id], language) || '',
+        content: text.content?.map((line: any, index: number) => ({
+          ...line,
+          translation: pickLocalized(pack.texts?.[text.id]?.lines?.[index]?.translation, language)
+        })),
+        vocabulary: text.vocabulary?.map((item: any) => ({
+          ...item,
+          meaning: pickLocalized(pack.vocabulary?.[item.word], language) || item.meaning
+        })),
+        proper_nouns: text.proper_nouns?.map((item: any) => ({
+          ...item,
+          meaning: pickLocalized(pack.properNouns?.[item.word], language)
+        }))
+      };
+    })
   };
 }

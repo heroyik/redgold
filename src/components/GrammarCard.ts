@@ -6,7 +6,6 @@ export class GrammarCard extends HTMLElement {
   private _data: any = null;
   private _isColloquial: boolean = false;
   private _language: AppLanguage = 'en';
-
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
@@ -20,6 +19,11 @@ export class GrammarCard extends HTMLElement {
   set language(value: AppLanguage) {
     this._language = value;
     this.setAttribute('data-lang', value);
+    this.render();
+  }
+
+  set pinyinVisible(value: boolean) {
+    this.setAttribute('data-pinyin-visible', value ? 'true' : 'false');
     this.render();
   }
 
@@ -201,6 +205,10 @@ export class GrammarCard extends HTMLElement {
 
         .back .pinyin {
           color: rgba(255, 255, 255, 0.6);
+        }
+
+        :host([data-pinyin-visible="false"]) .pinyin {
+          display: none;
         }
 
         .example-group {

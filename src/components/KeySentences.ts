@@ -8,7 +8,6 @@ import type { AppLanguage } from '../utils/lessonTranslations';
 export class KeySentences extends HTMLElement {
   private _sentences: any[] = [];
   private _language: AppLanguage = 'en';
-
   constructor() {
     super();
     this.attachShadow({ mode: 'open' });
@@ -22,6 +21,11 @@ export class KeySentences extends HTMLElement {
   set language(value: AppLanguage) {
     this._language = value;
     this.setAttribute('data-lang', value);
+    this.render();
+  }
+
+  set pinyinVisible(value: boolean) {
+    this.setAttribute('data-pinyin-visible', value ? 'true' : 'false');
     this.render();
   }
 
@@ -156,6 +160,10 @@ export class KeySentences extends HTMLElement {
         :host([data-lang="ja"]) .translation {
           word-break: keep-all;
           overflow-wrap: anywhere;
+        }
+
+        :host([data-pinyin-visible="false"]) .pinyin {
+          display: none;
         }
 
         .formal-section .pinyin { color: #555; }

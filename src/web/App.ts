@@ -5,7 +5,7 @@ import '../components/KeySentences';
 import '../components/SourceInfo';
 import '../features/review/CardStack';
 
-import { translateLessonData, type AppLanguage } from '../utils/lessonTranslations';
+import { translateLessonData, getTextVocab, type AppLanguage } from '../utils/lessonTranslations';
 import { getUiCopy } from '../utils/uiCopy';
 import { testFirebase } from '../test-ts';
 
@@ -34,6 +34,7 @@ class App extends HTMLElement {
   private _currentLesson: number = 1;
   private _viewMode: 'landing' | 'lesson' = 'landing';
   private _language: AppLanguage = 'en';
+  private _pinyinVisible: boolean = true;
   private _prefetchedLessons = new Map<number, LessonData>();
   private _prefetchedAudio = new Set<string>();
 
@@ -57,6 +58,8 @@ class App extends HTMLElement {
     super();
     this.attachShadow({ mode: 'open' });
     this._language = this.getSavedLanguage();
+    this._pinyinVisible = this.getSavedPinyinVisible();
+    this.setAttribute('data-pinyin-visible', this._pinyinVisible ? 'true' : 'false');
   }
 
   private normalizeLessonData(lesson: LessonData): LessonData {
@@ -88,6 +91,19 @@ class App extends HTMLElement {
   setLanguage(language: AppLanguage) {
     this._language = language;
     window.localStorage.setItem('redgold-language', language);
+    this.render();
+  }
+
+  getSavedPinyinVisible(): boolean {
+    const saved = window.localStorage.getItem('redgold-pinyin-visible');
+    if (saved === 'false') return false;
+    return true;
+  }
+
+  setPinyinVisible(visible: boolean) {
+    this._pinyinVisible = visible;
+    this.setAttribute('data-pinyin-visible', visible ? 'true' : 'false');
+    window.localStorage.setItem('redgold-pinyin-visible', visible ? 'true' : 'false');
     this.render();
   }
 
@@ -470,6 +486,29 @@ class App extends HTMLElement {
           opacity: 1;
           transform: translateY(-1px);
         }
+        .pinyin-toggle-lang {
+          border: none;
+          background: transparent;
+          color: #7a7a7a;
+          font-size: 0.82rem;
+          font-weight: 800;
+          padding: 0.65rem 0.75rem;
+          border-radius: 999px;
+          cursor: pointer;
+          transition: all 0.25s ease;
+          font-family: 'Noto Sans SC', sans-serif;
+          line-height: 1;
+        }
+
+        .pinyin-toggle-lang.active {
+          background: #8B0000;
+          color: #fff;
+          box-shadow: 0 8px 18px rgba(139, 0, 0, 0.18);
+        }
+
+        .pinyin-toggle-lang:not(.active) {
+          opacity: 0.5;
+        }
       </style>
       
       <div class="landing-container">
@@ -484,6 +523,7 @@ class App extends HTMLElement {
             <button class="language-btn ${this._language === 'en' ? 'active' : ''}" data-lang="en">${ui.langEn}</button>
             <button class="language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">${ui.langKo}</button>
             <button class="language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">${ui.langJa}</button>
+            <button class="pinyin-toggle-lang ${this._pinyinVisible ? 'active' : ''}" id="pinyin-toggle-lang">拼</button>
           </div>
 
           <button class="start-btn" id="start-learning-btn">${ui.exploreLessons}</button>
@@ -648,6 +688,33 @@ class App extends HTMLElement {
           color: #fff;
         }
 
+        .pinyin-toggle {
+          border: none;
+          background: transparent;
+          color: #888;
+          font-size: 0.65rem;
+          font-weight: 900;
+          padding: 0.3rem 0.35rem;
+          border-radius: 8px;
+          cursor: pointer;
+          transition: all 0.2s;
+          font-family: 'Noto Sans SC', sans-serif;
+          line-height: 1;
+        }
+
+        .pinyin-toggle.active {
+          background: #8B0000;
+          color: #fff;
+        }
+
+        .pinyin-toggle:not(.active) {
+          opacity: 0.5;
+        }
+
+        :host([data-pinyin-visible="false"]) .subtitle {
+          display: none;
+        }
+
         .app-container {
           max-width: 1120px;
           margin: 0 auto;
@@ -681,6 +748,13 @@ class App extends HTMLElement {
           margin-top: 0.4rem;
           font-weight: 500;
           letter-spacing: 0.5px;
+        }
+
+        .locale-title {
+          color: #888;
+          font-size: 0.9rem;
+          margin-top: 0.6rem;
+          font-weight: 400;
         }
 
         nav {
@@ -811,7 +885,7 @@ class App extends HTMLElement {
                 <button class="mini-language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">KO</button>
                 <button class="mini-language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">JP</button>
               </div>
-
+              <button class="pinyin-toggle ${this._pinyinVisible ? 'active' : ''}" id="pinyin-toggle">拼</button>
             </div>
           </div>
         </div>
@@ -819,7 +893,8 @@ class App extends HTMLElement {
         <div class="app-container">
           <header>
             <h1>${this._data ? this._data.title.split('(')[0].trim() : 'HSK 4'}</h1>
-            <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || ui.loading : ui.loading}</p>
+            <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || '' : ''}</p>
+            ${this._data && this._data.translations?.lessonTitle?.[this._language] ? `<p class="locale-title">${this._data.translations.lessonTitle[this._language]}</p>` : ''}
           </header>
 
           <nav>
@@ -881,6 +956,10 @@ class App extends HTMLElement {
           this.prefetchLesson(id);
         }, { once: true });
       });
+      root.getElementById('pinyin-toggle-lang')?.addEventListener('click', () => {
+        this.setPinyinVisible(!this._pinyinVisible);
+      });
+
       root.getElementById('book-upper')?.addEventListener('click', () => {
         root.getElementById('selection-area')?.scrollIntoView({ behavior: 'smooth' });
       });
@@ -900,6 +979,10 @@ class App extends HTMLElement {
       root.getElementById('tab-text')?.addEventListener('click', () => this.switchTab('text'));
       root.getElementById('tab-review')?.addEventListener('click', () => this.switchTab('review'));
       root.getElementById('tab-mastery')?.addEventListener('click', () => this.switchTab('mastery'));
+      
+      root.getElementById('pinyin-toggle')?.addEventListener('click', () => {
+        this.setPinyinVisible(!this._pinyinVisible);
+      });
       
       root.querySelectorAll('.lesson-chip').forEach(item => {
         item.addEventListener('click', () => {
@@ -927,7 +1010,8 @@ class App extends HTMLElement {
 
     switch (this._activeTab) {
       case 'vocab':
-        return `<div class="vocab-list">${localizedLesson.vocabulary.map((v: any) => `<vocab-card id="v-${v.word}"></vocab-card>`).join('')}</div>`;
+        const vocabItems = getTextVocab(localizedLesson);
+        return `<div class="vocab-list">${vocabItems.map((v: any) => `<vocab-card id="v-${v.word}"></vocab-card>`).join('')}</div>`;
       case 'grammar':
         return `<div class="content-panel reading"><div class="grammar-list">${localizedLesson.grammar.map((g: any) => `<grammar-card id="g-${g.point}"></grammar-card>`).join('')}</div></div>`;
       case 'text':
@@ -946,12 +1030,16 @@ class App extends HTMLElement {
 
     const lessonData = translateLessonData(this._data, this._language);
 
+    const pinyinVisible = this._pinyinVisible;
+
     if (this._activeTab === 'vocab') {
-      lessonData.vocabulary.forEach((v: any) => {
+      const vocabItems = getTextVocab(lessonData);
+      vocabItems.forEach((v: any) => {
         const el = this.shadowRoot?.getElementById(`v-${v.word}`) as any;
         if (el) {
           el.language = this._language;
           el.compact = true;
+          el.pinyinVisible = pinyinVisible;
           el.data = v;
         }
       });
@@ -960,6 +1048,7 @@ class App extends HTMLElement {
         const el = this.shadowRoot?.getElementById(`g-${g.point}`) as any;
         if (el) {
           el.language = this._language;
+          el.pinyinVisible = pinyinVisible;
           el.data = g;
         }
       });
@@ -968,6 +1057,7 @@ class App extends HTMLElement {
         const el = this.shadowRoot?.getElementById(`t-${t.id}`) as any;
         if (el) {
           el.language = this._language;
+          el.pinyinVisible = pinyinVisible;
           el.data = t;
         }
       });
@@ -975,13 +1065,14 @@ class App extends HTMLElement {
       const el = this.shadowRoot?.getElementById('mastery-sentences') as any;
       if (el) {
         el.language = this._language;
+        el.pinyinVisible = pinyinVisible;
         el.sentences = lessonData.key_sentences;
       }
     } else if (this._activeTab === 'review') {
       const el = this.shadowRoot?.getElementById('review-stack') as any;
       if (el) {
         el.language = this._language;
-        el.vocabulary = lessonData.vocabulary;
+        el.vocabulary = getTextVocab(lessonData);
       }
     }
   }

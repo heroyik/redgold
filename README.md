@@ -125,6 +125,17 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 
 ---
 
+### v0.9.74 — 2026-06-01
+> *生词-Sourced Vocab, Lesson Title i18n & Pinyin Toggle Polish.* Precision over assumptions.
+
+- 📝 **Pinyin Toggle Fix for Text Titles** — Extracted pinyin from text titles (e.g., `孙月和王静聊王静的男朋友 (sūn yuè hé wáng jìng liáo wáng jìng de nán péng yǒu)`) into a separate `.pinyin` div via `titlePinyin` field in `lessonTranslations.ts`, so the global pinyin toggle CSS properly hides/shows it.
+- 🎯 **Vocab & Review Tabs Now Sourced from 生词** — Both tabs now collect unique vocabulary items from each text's 生词 (new words) section instead of the top-level `lesson.vocabulary` array. This ensures only words actually introduced in the textbook pages appear.
+- 🔧 **`getTextVocab()` Extracted** — Deduplicated vocab collection logic into a reusable exported function in `lessonTranslations.ts`, used by both the vocab tab and review tab.
+- 🛡️ **Meaning Fallback Fix** — Added `pickLocalized(...) || item.meaning` so text vocabulary items without a translation pack entry still display their original English meaning (e.g., `幸福` → `adj. happy`).
+- 🌏 **Lesson Title Korean/Japanese i18n** — Filled in `lessonTitle` and `textTitles` translations (ko/ja) for Lessons 1–4. Now the lesson header properly displays the locale-specific subtitle below the pinyin line.
+
+---
+
 ### v0.9.49 — 2026-05-05
 > *Firebase Authentication & User Profile.* Identity is now live.
 

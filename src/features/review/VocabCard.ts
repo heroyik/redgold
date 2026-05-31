@@ -7,6 +7,7 @@ export class VocabCardComponent extends HTMLElement {
   private _isFlipped = false;
   private _language = 'en';
   private _compact = false;
+  private _pinyinVisible: boolean = true;
 
   constructor() {
     super();
@@ -26,6 +27,12 @@ export class VocabCardComponent extends HTMLElement {
 
   set compact(value: boolean) {
     this._compact = value;
+    this.render();
+  }
+
+  set pinyinVisible(value: boolean) {
+    this._pinyinVisible = value;
+    this.setAttribute('data-pinyin-visible', value ? 'true' : 'false');
     this.render();
   }
 
@@ -176,6 +183,10 @@ export class VocabCardComponent extends HTMLElement {
             transform: scale(0.9);
           }
 
+          :host([data-pinyin-visible="false"]) .compact-card {
+            grid-template-columns: auto minmax(0, 1fr) auto;
+          }
+
           @container (max-width: 300px) {
             .compact-card {
               grid-template-columns: auto minmax(0, 1fr) auto;
@@ -192,7 +203,7 @@ export class VocabCardComponent extends HTMLElement {
 
         <div class="compact-card" title="${ui.audioTooltip}">
           <div class="word">${this._data.word}</div>
-          <div class="pinyin">${this._data.pinyin}</div>
+          ${this._pinyinVisible ? `<div class="pinyin">${this._data.pinyin}</div>` : ''}
           <div class="meaning">${this._data.meaning}</div>
           <div class="audio-trigger">
             <img src="/redgold/assets/audio-icon-v3.png" class="audio-icon" alt="${ui.playAlt}">

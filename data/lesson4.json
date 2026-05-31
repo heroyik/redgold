@@ -1,0 +1,155 @@
+{
+  "lessonId": 4,
+  "title": "Lesson 4: 不要太着急赚钱 (bú yào tài zháo jí zhuàn qián) (Don't be too anxious to make money)",
+  "vocabulary": [
+    {
+      "word": "提",
+      "pinyin": "tí",
+      "meaning": "to mention"
+    },
+    {
+      "word": "以为",
+      "pinyin": "yǐwéi",
+      "meaning": "to think, to believe"
+    },
+    {
+      "word": "份",
+      "pinyin": "fèn",
+      "meaning": "used for jobs among other things"
+    },
+    {
+      "word": "完全",
+      "pinyin": "wánquán",
+      "meaning": "completely"
+    },
+    {
+      "word": "赚",
+      "pinyin": "zhuàn",
+      "meaning": "to earn"
+    },
+    {
+      "word": "收入",
+      "pinyin": "shōurù",
+      "meaning": "income"
+    },
+    {
+      "word": "着急",
+      "pinyin": "zhāojí",
+      "meaning": "to be in a hurry / anxious"
+    },
+    {
+      "word": "重要",
+      "pinyin": "zhòngyào",
+      "meaning": "important"
+    }
+  ],
+  "grammar": [],
+  "key_sentences": [],
+  "texts": [
+    {
+      "id": 1,
+      "title": "小林和小李聊小李的工作 (xiǎo lín hé xiǎo lǐ liáo xiǎo lǐ de gōng zuò) (Xiao Lin and Xiao Li talk about Xiao Li's job)",
+      "content": [
+        {
+          "speaker": "小林",
+          "text": "听说你<b>又</b>换工作了？今年<b>已经</b>换了三次工作了吧?",
+          "pinyin": "tīngshuō nǐ yòu huàn gōngzuò le? jīnnián yǐjīng huànle sāncì gōngzuò le ba?",
+          "translation": "I heard you changed jobs again? You've already changed jobs three times this year, haven't you?"
+        },
+        {
+          "speaker": "小李",
+          "text": "别提了！我<b>以为</b>新工作比以前的好，没想到还没有以前好呢。",
+          "pinyin": "biétí le! wǒ yǐwéi xīn gōngzuò bǐ yǐqián de hǎo, méi xiǎngdào hái méiyǒu yǐqián hǎo ne.",
+          "translation": "Don't mention it! I thought the new job would be better than the old one, but it turns out it's not even as good as before."
+        },
+        {
+          "speaker": "小林",
+          "text": "上次那份工作你只做了两个月就离开了，其实，<b>完全</b>适应一个新的工作需要一年时间，所以，经常换工作不一定好。",
+          "pinyin": "shàngcì nà fèn gōngzuò nǐ zhǐ zuòle liǎng gè yuè jiù líkāile, qíshí, wánquán shìyìng yīgè xīn de gōngzuò xūyào yī nián shíjiān, suǒyǐ, jīngcháng huàn gōngzuò bù yīdìng hǎo.",
+          "translation": "You only did that last job for two months before leaving. In fact, it takes a year to fully adapt to a new job, so changing jobs frequently isn't necessarily a good thing."
+        },
+        {
+          "speaker": "小李",
+          "text": "我也明白。但是那份工作的收入太少了!",
+          "pinyin": "wǒ yě míngbái. dànshì nà fèn gōngzuò de shōurù tài shǎo le!",
+          "translation": "I understand. But the income from that job was too low!"
+        },
+        {
+          "speaker": "小林",
+          "text": "你<b>才</b>到新公司，不要太着急赚钱，多学习才是最重要的。",
+          "pinyin": "nǐ cái dào xīn gōngsī, bùyào tài zhāojí zhuànqián, duō xuéxí cáishì zuì zhòngyào de.",
+          "translation": "You've just joined the new company, so don't be in too much of a hurry to make money. Learning more is what's most important."
+        },
+        {
+          "speaker": "小李",
+          "text": "好。我一定会努力把现在这份工作做好。",
+          "pinyin": "hǎo. wǒ yīdìng huì nǔlì bǎ xiànzài zhè fèn gōngzuò zuò hǎo.",
+          "translation": "Okay. I will definitely work hard to do this job well."
+        }
+      ],
+      "audio": "audio/04-1.mp3",
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "提",
+          "pinyin": "tí",
+          "meaning": "v. to mention"
+        },
+        {
+          "word": "以为",
+          "pinyin": "yǐwéi",
+          "meaning": "v. to think, to believe"
+        },
+        {
+          "word": "份",
+          "pinyin": "fèn",
+          "meaning": "m. used for jobs among other things"
+        },
+        {
+          "word": "完全",
+          "pinyin": "wánquán",
+          "meaning": "adv. completely"
+        },
+        {
+          "word": "赚",
+          "pinyin": "zhuàn",
+          "meaning": "v. to earn"
+        },
+        {
+          "word": "收入",
+          "pinyin": "shōurù",
+          "meaning": "n. income"
+        },
+        {
+          "word": "着急",
+          "pinyin": "zhāojí",
+          "meaning": "v. to be in a hurry / anxious"
+        },
+        {
+          "word": "重要",
+          "pinyin": "zhòngyào",
+          "meaning": "adj. important"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "vocabulary": {},
+    "properNouns": {},
+    "grammar": {},
+    "keySentences": {},
+    "texts": {},
+    "lessonTitle": {
+      "en": "Don't be too anxious to make money",
+      "ko": "너무 서둘러 돈을 벌지 마세요",
+      "ja": "あまり焦ってお金を稼ごうとしないで"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Xiao Lin and Xiao Li talk about Xiao Li's job",
+        "ko": "샤오린과 샤오리가 샤오리의 직장에 대해 이야기하다",
+        "ja": "小林と小李が小李の仕事について話す"
+      }
+    }
+  }
+}
