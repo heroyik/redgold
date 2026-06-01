@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.9.0-B8860B?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.9.75-B8860B?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
@@ -122,6 +122,21 @@ npm run build
 ## 📋 Changelog
 
 Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
+
+---
+
+### v0.9.75 — 2026-06-01
+> *Lesson 4 Image Recognition Pass, Canonical Schema Rules & Fixed Lesson Header.* Today's work tightened the data pipeline and made lesson navigation stay put.
+
+- 📌 **Always-Fixed Lesson Selector Header** — The top lesson chip bar (`Home`, `L1...`, language picker, pinyin toggle) now uses viewport-level fixed positioning, so it remains visible while scrolling anywhere inside a lesson page.
+- 🧭 **Sticky Lesson Toolbar** — The lesson title and tab row are grouped into a dedicated sticky toolbar below the fixed lesson selector. This keeps the current lesson context and tab controls accessible without covering the content.
+- 📚 **Lesson 4 Textbook Data Build-Out** — Expanded `data/lesson4.json` from the provided textbook images: 5 text sections, 36 vocabulary items, 6 grammar points, 5 mastery sentences, and complete text-line translations.
+- 🌐 **Missing Translation Fixes** — Filled the previously missing translations for Lesson 4 text 1 line 0, text 4, and text 5. The translation map now covers all 20 Lesson 4 text lines with KO, JA, and EN entries.
+- 🧩 **0-Based Text Translation Rule** — Updated localization rules so `translations.texts[{textId}].lines` must use JavaScript array indices (`0`, `1`, `2...`) instead of textbook-style line numbers. This prevents app-visible “missing translation” cases for one-line monologues.
+- 🧱 **Canonical Lesson Schema Added** — Added `plan/lesson-schema-canonical.md` as the official schema reference based on the current `lesson1.json` structure, including `formal_examples[]`, `colloquial_examples[]`, `lessonTitle`, `textTitles`, and KO/JA/EN translation objects.
+- 📸 **Image Recognition Pipeline v2 Docs** — Added `plan/image-recognition-spec.md` and `plan/image_recognition_status.md` to document the textbook-image-to-JSON workflow, current lesson progress, and schema expectations.
+- 🛠️ **Rule Files Hardened** — Updated `1.rules_kewen.md`, `2.rules_notes.md`, `3.rules_mastery.md`, and `4.rules_locale.md` to reference the canonical schema, require complete locale data, preserve proper pinyin such as `ü`, and use array-based grammar examples.
+- ✅ **Validation** — Ran `npm run build` successfully after the data and UI changes.
 
 ---
 

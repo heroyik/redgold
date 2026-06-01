@@ -5,46 +5,488 @@
     {
       "word": "提",
       "pinyin": "tí",
-      "meaning": "to mention"
+      "meaning": "v. to mention"
     },
     {
       "word": "以为",
       "pinyin": "yǐwéi",
-      "meaning": "to think, to believe"
+      "meaning": "v. to think, to believe"
     },
     {
       "word": "份",
       "pinyin": "fèn",
-      "meaning": "used for jobs among other things"
+      "meaning": "m. used for jobs among other things"
     },
     {
       "word": "完全",
       "pinyin": "wánquán",
-      "meaning": "completely"
+      "meaning": "adv. completely"
     },
     {
       "word": "赚",
       "pinyin": "zhuàn",
-      "meaning": "to earn"
+      "meaning": "v. to earn"
     },
     {
       "word": "收入",
       "pinyin": "shōurù",
-      "meaning": "income"
+      "meaning": "n. income"
     },
     {
       "word": "着急",
       "pinyin": "zhāojí",
-      "meaning": "to be in a hurry / anxious"
+      "meaning": "v. to be in a hurry / anxious"
     },
     {
       "word": "重要",
       "pinyin": "zhòngyào",
-      "meaning": "important"
+      "meaning": "adj. important"
+    },
+    {
+      "word": "调查",
+      "pinyin": "diàochá",
+      "meaning": "v. to survey, to investigate"
+    },
+    {
+      "word": "原来",
+      "pinyin": "yuánlái",
+      "meaning": "adj. original"
+    },
+    {
+      "word": "计划",
+      "pinyin": "jìhuà",
+      "meaning": "n./v. plan; to intend to"
+    },
+    {
+      "word": "提前",
+      "pinyin": "tíqián",
+      "meaning": "v. to do something in advance or ahead of time"
+    },
+    {
+      "word": "保证",
+      "pinyin": "bǎozhèng",
+      "meaning": "v. to guarantee"
+    },
+    {
+      "word": "提醒",
+      "pinyin": "tíxǐng",
+      "meaning": "v. to remind"
+    },
+    {
+      "word": "乱",
+      "pinyin": "luàn",
+      "meaning": "adj. hurry-scurry, confused"
+    },
+    {
+      "word": "生意",
+      "pinyin": "shēngyi",
+      "meaning": "n. business, trade"
+    },
+    {
+      "word": "谈",
+      "pinyin": "tán",
+      "meaning": "v. to talk, to discuss"
+    },
+    {
+      "word": "并",
+      "pinyin": "bìng",
+      "meaning": "adv. used before a negative for emphasis"
+    },
+    {
+      "word": "积累",
+      "pinyin": "jīlěi",
+      "meaning": "v. to accumulate"
+    },
+    {
+      "word": "经验",
+      "pinyin": "jīngyàn",
+      "meaning": "n. experience"
+    },
+    {
+      "word": "一切",
+      "pinyin": "yíqiè",
+      "meaning": "pron. all, every"
+    },
+    {
+      "word": "按照",
+      "pinyin": "ànzhào",
+      "meaning": "prep. according to"
+    },
+    {
+      "word": "成功",
+      "pinyin": "chénggōng",
+      "meaning": "adj. successful"
+    },
+    {
+      "word": "顺利",
+      "pinyin": "shùnlì",
+      "meaning": "adj. smooth"
+    },
+    {
+      "word": "感谢",
+      "pinyin": "gǎnxiè",
+      "meaning": "v. to thank"
+    },
+    {
+      "word": "消息",
+      "pinyin": "xiāoxi",
+      "meaning": "n. news"
+    },
+    {
+      "word": "按时",
+      "pinyin": "ànshí",
+      "meaning": "adv. on time, on schedule"
+    },
+    {
+      "word": "奖金",
+      "pinyin": "jiǎngjīn",
+      "meaning": "n. money award, bonus"
+    },
+    {
+      "word": "工资",
+      "pinyin": "gōngzī",
+      "meaning": "n. pay, salary"
+    },
+    {
+      "word": "方法",
+      "pinyin": "fāngfǎ",
+      "meaning": "n. method, way"
+    },
+    {
+      "word": "办法",
+      "pinyin": "bànfǎ",
+      "meaning": "n. method, way"
+    },
+    {
+      "word": "法律",
+      "pinyin": "fǎlǜ",
+      "meaning": "n. law"
+    },
+    {
+      "word": "知识",
+      "pinyin": "zhīshi",
+      "meaning": "n. knowledge"
+    },
+    {
+      "word": "不得不",
+      "pinyin": "bùdébù",
+      "meaning": "to have to, to have no choice but"
+    },
+    {
+      "word": "甚至",
+      "pinyin": "shènzhì",
+      "meaning": "conj. even, so far as to"
+    },
+    {
+      "word": "责任",
+      "pinyin": "zérèn",
+      "meaning": "n. responsibility, duty"
     }
   ],
-  "grammar": [],
-  "key_sentences": [],
+  "grammar": [
+    {
+      "point": "以为",
+      "explanation": "The verb 以为 indicates that what the speaker thought goes against the fact.",
+      "formal_examples": [
+        {
+          "chinese": "她汉语说得那么好，我还<b>以为</b>她是中国人。",
+          "pinyin": "Tā Hànyǔ shuō de nàme hǎo, wǒ hái yǐwéi tā shì Zhōngguó rén.",
+          "translation": "Her Chinese is so good that I thought she was Chinese."
+        },
+        {
+          "chinese": "马克<b>以为</b>今天是星期一，到了学校一看，没人来上课，才发现今天是星期天。",
+          "pinyin": "Mǎkè yǐwéi jīntiān shì xīngqīyī, dào le xuéxiào yí kàn, méi rén lái shàngkè, cái fāxiàn jīntiān shì xīngqītiān.",
+          "translation": "Mark thought today was Monday, but when he got to school and saw that no one had come to class, he realized it was Sunday."
+        },
+        {
+          "chinese": "我<b>以为</b>新工作比以前的好，没想到还没有以前好呢。",
+          "pinyin": "Wǒ yǐwéi xīn gōngzuò bǐ yǐqián de hǎo, méi xiǎngdào hái méiyǒu yǐqián hǎo ne.",
+          "translation": "I thought the new job would be better than the old one, but it turns out it's not even as good as before."
+        }
+      ],
+      "colloquial_pattern": "还以为……结果/没想到……",
+      "colloquial_examples": [
+        {
+          "chinese": "她中文说得太溜了，我<b>还以为</b>她土生土长呢，<b>结果</b>人家才学了几年。",
+          "pinyin": "Tā Zhōngwén shuō de tài liū le, wǒ hái yǐwéi tā tǔshēng-tǔzhǎng ne, jiéguǒ rénjiā cái xué le jǐ nián.",
+          "translation": "Her Chinese is so fluent that I thought she was born and raised there, but it turns out she has only studied it for a few years."
+        },
+        {
+          "chinese": "我<b>还以为</b>今天要上班，<b>结果</b>到公司门口才想起来今天放假。",
+          "pinyin": "Wǒ hái yǐwéi jīntiān yào shàngbān, jiéguǒ dào gōngsī ménkǒu cái xiǎngqǐlai jīntiān fàngjià.",
+          "translation": "I thought I had to work today, but only when I got to the office did I remember it was a day off."
+        },
+        {
+          "chinese": "我<b>还以为</b>跳槽后会爽很多，<b>没想到</b>坑更多。",
+          "pinyin": "Wǒ hái yǐwéi tiàocáo hòu huì shuǎng hěn duō, méi xiǎngdào kēng gèng duō.",
+          "translation": "I thought changing jobs would feel much better, but I didn't expect there to be even more problems."
+        }
+      ],
+      "nuance": "以为 is a neutral textbook way to say 'thought mistakenly.' In casual speech, 还以为 followed by 结果 or 没想到 makes the mistaken assumption sound more natural and conversational."
+    },
+    {
+      "point": "原来",
+      "explanation": "原来 can be used as a noun meaning 'the beginning, the past,' as an adjective meaning 'original, unaltered,' or as an adverb indicating either a past state that has changed or the discovery of a formerly unknown situation.",
+      "formal_examples": [
+        {
+          "chinese": "坐火车从北京到上海，<b>原来</b>最快差不多需要12个小时，现在有了高铁，5个小时就能到。",
+          "pinyin": "Zuò huǒchē cóng Běijīng dào Shànghǎi, yuánlái zuì kuài chàbuduō xūyào shí'èr ge xiǎoshí, xiànzài yǒu le gāotiě, wǔ ge xiǎoshí jiù néng dào.",
+          "translation": "Taking the train from Beijing to Shanghai used to take almost 12 hours at the fastest, but now that there is high-speed rail, it only takes 5 hours."
+        },
+        {
+          "chinese": "按<b>原来</b>的计划应该是两周，但是我们可以提前完成。",
+          "pinyin": "Àn yuánlái de jìhuà yīnggāi shì liǎng zhōu, dànshì wǒmen kěyǐ tíqián wánchéng.",
+          "translation": "According to the original plan, it should take two weeks, but we can finish it ahead of schedule."
+        },
+        {
+          "chinese": "她<b>原来</b>是汉语老师，现在已经成了一名律师。",
+          "pinyin": "Tā yuánlái shì Hànyǔ lǎoshī, xiànzài yǐjīng chéng le yì míng lǜshī.",
+          "translation": "She used to be a Chinese teacher, but now she has become a lawyer."
+        },
+        {
+          "chinese": "马克一直等李明回电话，可是电话一晚上都没来，<b>原来</b>李明把马克的电话号码记错了。",
+          "pinyin": "Mǎkè yìzhí děng Lǐ Míng huí diànhuà, kěshì diànhuà yí wǎnshang dōu méi lái, yuánlái Lǐ Míng bǎ Mǎkè de diànhuà hàomǎ jì cuò le.",
+          "translation": "Mark kept waiting for Li Ming to call back, but no call came all night; it turned out that Li Ming had written Mark's phone number down incorrectly."
+        }
+      ],
+      "colloquial_pattern": "原来/本来……现在…… / 原来是……",
+      "colloquial_examples": [
+        {
+          "chinese": "北京到上海<b>原来</b>坐火车要半天，<b>现在</b>高铁几个小时就到了。",
+          "pinyin": "Běijīng dào Shànghǎi yuánlái zuò huǒchē yào bàntiān, xiànzài gāotiě jǐ ge xiǎoshí jiù dào le.",
+          "translation": "Beijing to Shanghai used to take half a day by train, but now the high-speed rail gets you there in just a few hours."
+        },
+        {
+          "chinese": "<b>本来</b>计划要两周，<b>现在</b>看起来周末就能搞定。",
+          "pinyin": "Běnlái jìhuà yào liǎng zhōu, xiànzài kàn qǐlai zhōumò jiù néng gǎodìng.",
+          "translation": "The original plan was two weeks, but now it looks like we can wrap it up by the weekend."
+        },
+        {
+          "chinese": "她<b>原来</b>教中文，<b>现在</b>转行当律师了。",
+          "pinyin": "Tā yuánlái jiāo Zhōngwén, xiànzài zhuǎnháng dāng lǜshī le.",
+          "translation": "She used to teach Chinese, but now she has switched careers and become a lawyer."
+        },
+        {
+          "chinese": "等了一晚上没消息，<b>原来是</b>他把号码存错了。",
+          "pinyin": "Děng le yì wǎnshang méi xiāoxi, yuánlái shì tā bǎ hàomǎ cún cuò le.",
+          "translation": "I waited all night with no news; it turned out he had saved the number wrong."
+        }
+      ],
+      "nuance": "原来 in textbooks covers several meanings: an earlier state, an original plan, or a newly discovered fact. In everyday speech, 本来 often replaces the 'originally planned' sense, while 原来是 makes a discovery sound natural."
+    },
+    {
+      "point": "原来 vs 本来",
+      "explanation": "原来 and 本来 can both describe an original or unchanged state and can both work as adverbs for a past situation that differs from the present. The difference is that 原来 can also mark a newly discovered fact, while 本来 can mean 'it should have been this way.'",
+      "formal_examples": [
+        {
+          "chinese": "这是它<b>原来/本来</b>的颜色，不过现在已经穿了好几年，颜色都变了。",
+          "pinyin": "Zhè shì tā yuánlái/běnlái de yánsè, búguò xiànzài yǐjīng chuān le hǎo jǐ nián, yánsè dōu biàn le.",
+          "translation": "This is its original color, but now it has been worn for several years and the color has changed."
+        },
+        {
+          "chinese": "我家<b>原来/本来</b>住这儿附近，不过这里以前不像现在有这么多楼房。",
+          "pinyin": "Wǒ jiā yuánlái/běnlái zhù zhèr fùjìn, búguò zhèli yǐqián bú xiàng xiànzài yǒu zhème duō lóufáng.",
+          "translation": "My family used to live near here, but this area did not have as many buildings as it does now."
+        },
+        {
+          "chinese": "我还以为是谁帮我打扫房间呢，<b>原来</b>是你啊！",
+          "pinyin": "Wǒ hái yǐwéi shì shéi bāng wǒ dǎsǎo fángjiān ne, yuánlái shì nǐ a!",
+          "translation": "I was wondering who helped me clean the room; it turns out it was you!"
+        },
+        {
+          "chinese": "这本书<b>本来</b>应该昨天还给你，真不好意思。",
+          "pinyin": "Zhè běn shū běnlái yīnggāi zuótiān huán gěi nǐ, zhēn bù hǎoyìsi.",
+          "translation": "I should have returned this book to you yesterday. I'm really sorry."
+        }
+      ],
+      "colloquial_pattern": "原来是…… / 本来该……",
+      "colloquial_examples": [
+        {
+          "chinese": "这衣服<b>本来</b>是这个色儿，穿久了都洗浅了。",
+          "pinyin": "Zhè yīfu běnlái shì zhège sèr, chuān jiǔ le dōu xǐ qiǎn le.",
+          "translation": "This outfit was originally this color, but after wearing and washing it for so long, it faded."
+        },
+        {
+          "chinese": "我家<b>原来</b>就住这附近，<b>现在</b>这边高楼多多了。",
+          "pinyin": "Wǒ jiā yuánlái jiù zhè fùjìn, xiànzài zhè biān gāolóu duō duō le.",
+          "translation": "My family used to live around here; now there are way more tall buildings."
+        },
+        {
+          "chinese": "我还纳闷谁收拾的房间呢，<b>原来是</b>你啊！",
+          "pinyin": "Wǒ hái nàmèn shéi shōushi de fángjiān ne, yuánlái shì nǐ a!",
+          "translation": "I was still wondering who tidied the room; turns out it was you!"
+        },
+        {
+          "chinese": "这书我<b>本来该</b>昨天还你的，真抱歉。",
+          "pinyin": "Zhè shū wǒ běnlái gāi zuótiān huán nǐ de, zhēn bàoqiàn.",
+          "translation": "I was supposed to return this book to you yesterday. Sorry about that."
+        }
+      ],
+      "nuance": "Use 原来 when you discover what the real situation is: 原来是你. Use 本来 when something was originally expected or should have happened: 本来应该昨天还给你."
+    },
+    {
+      "point": "并",
+      "explanation": "The adverb 并 is used before negatives such as 不 or 没有 to emphasize the negative tone. It often appears in contrastive sentences to reject an assumption and explain the real situation.",
+      "formal_examples": [
+        {
+          "chinese": "其实，人们将来做什么工作可能和上学学的专业<b>并没有</b>太大关系。",
+          "pinyin": "Qíshí, rénmen jiānglái zuò shénme gōngzuò kěnéng hé shàngxué xué de zhuānyè bìng méiyǒu tài dà guānxi.",
+          "translation": "In fact, what job people do in the future may not have much to do with the major they studied in school."
+        },
+        {
+          "chinese": "我原来以为做生意很简单，后来才发现其实<b>并不</b>容易。",
+          "pinyin": "Wǒ yuánlái yǐwéi zuò shēngyi hěn jiǎndān, hòulái cái fāxiàn qíshí bìng bù róngyì.",
+          "translation": "I originally thought doing business was simple, but later I discovered that it actually is not easy."
+        },
+        {
+          "chinese": "根据调查，人每天晚上最少应该睡7个小时，但是这<b>并不</b>适合每一个人。",
+          "pinyin": "Gēnjù diàochá, rén měi tiān wǎnshang zuìshǎo yīnggāi shuì qī ge xiǎoshí, dànshì zhè bìng bù shìhé měi yí ge rén.",
+          "translation": "According to surveys, people should sleep at least seven hours every night, but this does not suit everyone."
+        }
+      ],
+      "colloquial_pattern": "其实并不/并没有……",
+      "colloquial_examples": [
+        {
+          "chinese": "说实话，毕业后干啥跟专业<b>并没有</b>那么大关系。",
+          "pinyin": "Shuō shíhuà, bìyè hòu gàn shá gēn zhuānyè bìng méiyǒu nàme dà guānxi.",
+          "translation": "Honestly, what you do after graduation does not have that much to do with your major."
+        },
+        {
+          "chinese": "我以前觉得做生意挺简单，后来发现其实<b>并不</b>是那么回事。",
+          "pinyin": "Wǒ yǐqián juéde zuò shēngyi tǐng jiǎndān, hòulái fāxiàn qíshí bìng bú shì nàme huí shì.",
+          "translation": "I used to think doing business was pretty simple, but later I realized that is not really the case."
+        },
+        {
+          "chinese": "每天睡七小时听着挺科学，但也<b>并不</b>适合所有人。",
+          "pinyin": "Měi tiān shuì qī xiǎoshí tīngzhe tǐng kēxué, dàn yě bìng bù shìhé suǒyǒu rén.",
+          "translation": "Sleeping seven hours a day sounds scientific, but it still is not suitable for everyone."
+        }
+      ],
+      "nuance": "并 makes a negative statement sound more deliberate and corrective. In casual speech, it often pairs with 其实 to softly push back against what someone assumed."
+    },
+    {
+      "point": "按照",
+      "explanation": "The preposition 按照 means 'according to' and is similar to 根据. It introduces the standard, plan, rule, requirement, or experience that an action follows.",
+      "formal_examples": [
+        {
+          "chinese": "我们今年的工作都已经<b>按照</b>计划完成了。",
+          "pinyin": "Wǒmen jīnnián de gōngzuò dōu yǐjīng ànzhào jìhuà wánchéng le.",
+          "translation": "We have already completed all of this year's work according to plan."
+        },
+        {
+          "chinese": "这回材料都<b>按照</b>银行的要求准备好了吧？",
+          "pinyin": "Zhè huí cáiliào dōu ànzhào yínháng de yāoqiú zhǔnbèi hǎo le ba?",
+          "translation": "This time, all the materials have been prepared according to the bank's requirements, right?"
+        },
+        {
+          "chinese": "<b>按照</b>经验，这个问题应该可以很快解决，请大家放心。",
+          "pinyin": "Ànzhào jīngyàn, zhège wèntí yīnggāi kěyǐ hěn kuài jiějué, qǐng dàjiā fàngxīn.",
+          "translation": "Based on experience, this problem should be solved quickly, so please don't worry."
+        }
+      ],
+      "colloquial_pattern": "按……来 / 照……来",
+      "colloquial_examples": [
+        {
+          "chinese": "今年的活儿都<b>按</b>计划干完了。",
+          "pinyin": "Jīnnián de huór dōu àn jìhuà gàn wán le.",
+          "translation": "This year's work has all been finished according to plan."
+        },
+        {
+          "chinese": "材料都<b>照</b>银行要求备齐了吧？",
+          "pinyin": "Cáiliào dōu zhào yínháng yāoqiú bèi qí le ba?",
+          "translation": "You got all the materials ready according to the bank's requirements, right?"
+        },
+        {
+          "chinese": "<b>按</b>以往经验看，这事儿很快就能解决。",
+          "pinyin": "Àn yǐwǎng jīngyàn kàn, zhè shìr hěn kuài jiù néng jiějué.",
+          "translation": "Judging from past experience, this should be solved pretty quickly."
+        }
+      ],
+      "nuance": "按照 is standard and precise, often used with plans, rules, and requirements. In casual speech, 按 or 照 alone often sounds more natural."
+    },
+    {
+      "point": "甚至",
+      "explanation": "The conjunction 甚至 emphasizes a salient or extreme example. It can appear before the last item in a list of coordinate nouns, verbs, or clauses to stress that item.",
+      "formal_examples": [
+        {
+          "chinese": "这个房子离您公司也不远，您可以坐公共汽车<b>甚至</b>可以骑自行车上班。",
+          "pinyin": "Zhège fángzi lí nín gōngsī yě bù yuǎn, nín kěyǐ zuò gōnggòng qìchē shènzhì kěyǐ qí zìxíngchē shàngbān.",
+          "translation": "This apartment is not far from your company; you can take the bus or even ride a bicycle to work."
+        },
+        {
+          "chinese": "很多时候，我们不得不去做一些自己不愿意做<b>甚至</b>是非常不喜欢的工作。",
+          "pinyin": "Hěn duō shíhou, wǒmen bùdébù qù zuò yìxiē zìjǐ bù yuànyì zuò shènzhì shì fēicháng bù xǐhuan de gōngzuò.",
+          "translation": "Many times, we have no choice but to do work we are unwilling to do, or even work we strongly dislike."
+        },
+        {
+          "chinese": "迟到会让别人觉得你没有责任心，使你错过重要的机会，<b>甚至</b>会让别人不再相信你。",
+          "pinyin": "Chídào huì ràng biérén juéde nǐ méiyǒu zérènxīn, shǐ nǐ cuòguò zhòngyào de jīhuì, shènzhì huì ràng biérén bú zài xiāngxìn nǐ.",
+          "translation": "Being late will make others think you lack responsibility, cause you to miss important opportunities, and may even make others stop trusting you."
+        }
+      ],
+      "colloquial_pattern": "甚至/连……都……",
+      "colloquial_examples": [
+        {
+          "chinese": "这房子离公司不远，坐公交行，<b>甚至</b>骑车都能到。",
+          "pinyin": "Zhè fángzi lí gōngsī bù yuǎn, zuò gōngjiāo xíng, shènzhì qí chē dōu néng dào.",
+          "translation": "This place is not far from the company; the bus works, and you can even bike there."
+        },
+        {
+          "chinese": "有时候我们得做不想做的活儿，<b>甚至</b>是特别烦的活儿。",
+          "pinyin": "Yǒu shíhou wǒmen děi zuò bù xiǎng zuò de huór, shènzhì shì tèbié fán de huór.",
+          "translation": "Sometimes we have to do work we don't want to do, even work that is really annoying."
+        },
+        {
+          "chinese": "老迟到会让人不信任你，<b>甚至</b>以后都不想跟你合作。",
+          "pinyin": "Lǎo chídào huì ràng rén bù xìnrèn nǐ, shènzhì yǐhòu dōu bù xiǎng gēn nǐ hézuò.",
+          "translation": "If you are always late, people will stop trusting you and may even not want to work with you anymore."
+        }
+      ],
+      "nuance": "甚至 highlights an unexpectedly strong or extreme item. In casual speech, 连……都…… can create a similar sense of emphasis."
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "我<b>以为</b>新工作比以前的好，没想到还没有以前好呢。",
+      "pinyin": "Wǒ yǐwéi xīn gōngzuò bǐ yǐqián de hǎo, méi xiǎngdào hái méiyǒu yǐqián hǎo ne.",
+      "translation": "I thought the new job would be better than the old one, but it turns out it's not even as good as before.",
+      "colloquial_equivalent": "我<b>还以为</b>换了新工作会更爽，<b>没想到</b>还不如以前呢。",
+      "colloquial_pinyin": "Wǒ hái yǐwéi huàn le xīn gōngzuò huì gèng shuǎng, méi xiǎngdào hái bùrú yǐqián ne.",
+      "context": "Correcting a mistaken assumption"
+    },
+    {
+      "sentence": "每天早上我都<b>把</b>当天计划要做的事情<b>写在</b>笔记本上，提醒自己安排好时间。",
+      "pinyin": "Měi tiān zǎoshang wǒ dōu bǎ dàngtiān jìhuà yào zuò de shìqing xiě zài bǐjìběn shang, tíxǐng zìjǐ ānpái hǎo shíjiān.",
+      "translation": "Every morning, I write the things I plan to do that day in my notebook to remind myself to manage my time well.",
+      "colloquial_equivalent": "我每天早上都会<b>把</b>当天要干的事儿<b>记到</b>本子上，免得时间安排乱了。",
+      "colloquial_pinyin": "Wǒ měi tiān zǎoshang dōu huì bǎ dàngtiān yào gàn de shìr jì dào běnzi shang, miǎnde shíjiān ānpái luàn le.",
+      "context": "Giving a practical work habit"
+    },
+    {
+      "sentence": "我原来以为做生意很简单，后来才发现其实<b>并不</b>容易，现在赚钱<b>越来越</b>难了。",
+      "pinyin": "Wǒ yuánlái yǐwéi zuò shēngyi hěn jiǎndān, hòulái cái fāxiàn qíshí bìng bù róngyì, xiànzài zhuànqián yuè lái yuè nán le.",
+      "translation": "I originally thought doing business was simple, but later I realized it actually isn't easy. Now making money is getting harder and harder.",
+      "colloquial_equivalent": "我以前觉得做生意挺简单，后来才发现其实<b>并不</b>轻松，现在赚钱<b>越来越</b>难。",
+      "colloquial_pinyin": "Wǒ yǐqián juéde zuò shēngyi tǐng jiǎndān, hòulái cái fāxiàn qíshí bìng bù qīngsōng, xiànzài zhuànqián yuè lái yuè nán.",
+      "context": "Realizing work is harder than expected"
+    },
+    {
+      "sentence": "我们今年的工作都已经<b>按照</b>计划完成了。",
+      "pinyin": "Wǒmen jīnnián de gōngzuò dōu yǐjīng ànzhào jìhuà wánchéng le.",
+      "translation": "We have already completed all of this year's work according to plan.",
+      "colloquial_equivalent": "今年的工作我们都已经<b>按</b>计划做完了。",
+      "colloquial_pinyin": "Jīnnián de gōngzuò wǒmen dōu yǐjīng àn jìhuà zuò wán le.",
+      "context": "Reporting successful completion"
+    },
+    {
+      "sentence": "一个人<b>即使</b>能力再高，经验再丰富，如果对工作没有责任心，<b>也</b>很难把工作做好。",
+      "pinyin": "Yí ge rén jíshǐ nénglì zài gāo, jīngyàn zài fēngfù, rúguǒ duì gōngzuò méiyǒu zérènxīn, yě hěn nán bǎ gōngzuò zuò hǎo.",
+      "translation": "Even if a person is highly capable and very experienced, if they have no sense of responsibility toward their work, it will still be difficult for them to do the job well.",
+      "colloquial_equivalent": "一个人<b>就算</b>再有本事、经验再多，没责任心的话，工作<b>也</b>很难做好。",
+      "colloquial_pinyin": "Yí ge rén jiùsuàn zài yǒu běnshi, jīngyàn zài duō, méi zérènxīn de huà, gōngzuò yě hěn nán zuò hǎo.",
+      "context": "Emphasizing responsibility at work"
+    }
+  ],
   "texts": [
     {
       "id": 1,
@@ -131,14 +573,1112 @@
           "meaning": "adj. important"
         }
       ]
+    },
+    {
+      "id": 2,
+      "title": "王经理和小李在说工作 (wáng jīnglǐ hé xiǎo lǐ zài shuō gōngzuò) (Manager Wang and Xiao Li talk about work)",
+      "content": [
+        {
+          "speaker": "王经理",
+          "text": "那份<b>调查</b>还要多长时间<b>才能</b>做完？",
+          "pinyin": "nà fèn diàochá hái yào duō cháng shíjiān cáinéng zuò wán?",
+          "translation": "How much longer will that survey take to finish?"
+        },
+        {
+          "speaker": "小李",
+          "text": "按原来的计划应该是两周，但是我们可以提前完成，周末保证做完。",
+          "pinyin": "àn yuánlái de jìhuà yīnggāi shì liǎng zhōu, dànshì wǒmen kěyǐ tíqián wánchéng, zhōumò bǎozhèng zuò wán.",
+          "translation": "According to the original plan, it should take two weeks, but we can finish it ahead of schedule and guarantee it will be done by the weekend."
+        },
+        {
+          "speaker": "王经理",
+          "text": "<b>虽然</b>最近工作很忙，<b>但</b>你们也要注意身体啊。",
+          "pinyin": "suīrán zuìjìn gōngzuò hěn máng, dàn nǐmen yě yào zhùyì shēntǐ a.",
+          "translation": "Although work has been very busy lately, you all still need to take care of your health."
+        },
+        {
+          "speaker": "小李",
+          "text": "谢谢您！现在有很多事情等着我做，真不知道该先做哪个好。",
+          "pinyin": "xièxie nín! xiànzài yǒu hěn duō shìqing děngzhe wǒ zuò, zhēn bù zhīdào gāi xiān zuò nǎge hǎo.",
+          "translation": "Thank you! There are a lot of things waiting for me to do right now, and I really don't know which one I should do first."
+        },
+        {
+          "speaker": "王经理",
+          "text": "每天早上我都<b>把</b>当天计划要做的事情<b>写在</b>笔记本上，提醒自己安排好时间。你也可以试试这样做。",
+          "pinyin": "měi tiān zǎoshang wǒ dōu bǎ dàngtiān jìhuà yào zuò de shìqing xiě zài bǐjìběn shang, tíxǐng zìjǐ ānpái hǎo shíjiān. nǐ yě kěyǐ shìshi zhèyàng zuò.",
+          "translation": "Every morning, I write the things I plan to do that day in my notebook to remind myself to manage my time well. You can try doing that too."
+        },
+        {
+          "speaker": "小李",
+          "text": "这个办法真不错！这样我就不会手忙脚乱了。",
+          "pinyin": "zhège bànfǎ zhēn búcuò! zhèyàng wǒ jiù bú huì shǒumángjiǎoluàn le.",
+          "translation": "That method is really good! Then I won't be rushed and disorganized anymore."
+        }
+      ],
+      "audio": "audio/04-2.mp3",
+      "proper_nouns": [
+        {
+          "word": "王",
+          "pinyin": "Wáng",
+          "meaning": "Wang, a Chinese family name"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "调查",
+          "pinyin": "diàochá",
+          "meaning": "v. to survey, to investigate"
+        },
+        {
+          "word": "原来",
+          "pinyin": "yuánlái",
+          "meaning": "adj. original"
+        },
+        {
+          "word": "计划",
+          "pinyin": "jìhuà",
+          "meaning": "n./v. plan; to intend to"
+        },
+        {
+          "word": "提前",
+          "pinyin": "tíqián",
+          "meaning": "v. to do something in advance or ahead of time"
+        },
+        {
+          "word": "保证",
+          "pinyin": "bǎozhèng",
+          "meaning": "v. to guarantee"
+        },
+        {
+          "word": "提醒",
+          "pinyin": "tíxǐng",
+          "meaning": "v. to remind"
+        },
+        {
+          "word": "乱",
+          "pinyin": "luàn",
+          "meaning": "adj. hurry-scurry, confused"
+        },
+        {
+          "word": "办法",
+          "pinyin": "bànfǎ",
+          "meaning": "n. method, way"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "王经理和马经理在说工作 (wáng jīnglǐ hé mǎ jīnglǐ zài shuō gōngzuò) (Manager Wang and Manager Ma talk about work)",
+      "content": [
+        {
+          "speaker": "王经理",
+          "text": "什么事让你这么高兴啊？",
+          "pinyin": "shénme shì ràng nǐ zhème gāoxìng a?",
+          "translation": "What has made you so happy?"
+        },
+        {
+          "speaker": "马经理",
+          "text": "我们和上次那个公司的生意终于谈成了。",
+          "pinyin": "wǒmen hé shàngcì nàge gōngsī de shēngyi zhōngyú tán chéng le.",
+          "translation": "We finally reached a deal with that company from last time."
+        },
+        {
+          "speaker": "王经理",
+          "text": "太好了！你工作那么努力，公司会<b>越来越</b>好的。",
+          "pinyin": "tài hǎo le! nǐ gōngzuò nàme nǔlì, gōngsī huì yuè lái yuè hǎo de.",
+          "translation": "That's great! You work so hard, and the company will keep getting better."
+        },
+        {
+          "speaker": "马经理",
+          "text": "我原来以为做生意很简单，后来才发现其实<b>并不</b>容易，现在赚钱<b>越来越</b>难了。",
+          "pinyin": "wǒ yuánlái yǐwéi zuò shēngyi hěn jiǎndān, hòulái cái fāxiàn qíshí bìng bù róngyì, xiànzài zhuànqián yuè lái yuè nán le.",
+          "translation": "I originally thought doing business was simple, but later I realized it actually isn't easy. Now making money is getting harder and harder."
+        },
+        {
+          "speaker": "王经理",
+          "text": "慢慢来，万事开头难，重要的是要多积累经验。",
+          "pinyin": "mànmàn lái, wànshì kāitóu nán, zhòngyào de shì yào duō jīlěi jīngyàn.",
+          "translation": "Take it slowly. Everything is difficult at the beginning, and the important thing is to build up more experience."
+        },
+        {
+          "speaker": "马经理",
+          "text": "我相信经过我们大家的努力，公司的生意会<b>越做越大</b>，一切都会好的。",
+          "pinyin": "wǒ xiāngxìn jīngguò wǒmen dàjiā de nǔlì, gōngsī de shēngyi huì yuè zuò yuè dà, yíqiè dōu huì hǎo de.",
+          "translation": "I believe that through everyone's hard work, the company's business will grow bigger and bigger, and everything will be fine."
+        }
+      ],
+      "audio": "audio/04-3.mp3",
+      "proper_nouns": [
+        {
+          "word": "王",
+          "pinyin": "Wáng",
+          "meaning": "Wang, a Chinese family name"
+        },
+        {
+          "word": "马",
+          "pinyin": "Mǎ",
+          "meaning": "Ma, a Chinese family name"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "生意",
+          "pinyin": "shēngyi",
+          "meaning": "n. business, trade"
+        },
+        {
+          "word": "谈",
+          "pinyin": "tán",
+          "meaning": "v. to talk, to discuss"
+        },
+        {
+          "word": "并",
+          "pinyin": "bìng",
+          "meaning": "adv. used before a negative for emphasis"
+        },
+        {
+          "word": "积累",
+          "pinyin": "jīlěi",
+          "meaning": "v. to accumulate"
+        },
+        {
+          "word": "经验",
+          "pinyin": "jīngyàn",
+          "meaning": "n. experience"
+        },
+        {
+          "word": "一切",
+          "pinyin": "yíqiè",
+          "meaning": "pron. all, every"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "公司按时完成今年的工作计划 (gōngsī ànshí wánchéng jīnnián de gōngzuò jìhuà) (The company completes this year's work plan on schedule)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "我们今年的工作都已经<b>按照</b>计划完成了。这一段时间，尽管工作很紧张，中间也遇到了很多困难，但是因为有大家的努力，我们<b>成功</b>地解决了问题，<b>顺利</b>地完成了工作，非常<b>感谢</b>大家对我的帮助！另外，马经理让我告诉大家一个好<b>消息</b>，因为大家<b>按时</b>完成了工作，公司决定这个月给每人多发三千元<b>奖金</b>。感谢大家这三个多月的努力工作，希望明年能有更大的成绩！",
+          "pinyin": "wǒmen jīnnián de gōngzuò dōu yǐjīng ànzhào jìhuà wánchéng le. zhè yí duàn shíjiān, jǐnguǎn gōngzuò hěn jǐnzhāng, zhōngjiān yě yùdào le hěn duō kùnnan, dànshì yīnwèi yǒu dàjiā de nǔlì, wǒmen chénggōng de jiějué le wèntí, shùnlì de wánchéng le gōngzuò, fēicháng gǎnxiè dàjiā duì wǒ de bāngzhù! lìngwài, Mǎ jīnglǐ ràng wǒ gàosu dàjiā yí ge hǎo xiāoxi, yīnwèi dàjiā ànshí wánchéng le gōngzuò, gōngsī juédìng zhège yuè gěi měi rén duō fā sānqiān yuán jiǎngjīn. gǎnxiè dàjiā zhè sān ge duō yuè de nǔlì gōngzuò, xīwàng míngnián néng yǒu gèng dà de chéngjì!",
+          "translation": "We have already completed all of this year's work according to plan. During this period, although the work was very intense and we encountered many difficulties along the way, thanks to everyone's efforts, we successfully solved the problems and completed the work smoothly. I am very grateful for everyone's help! In addition, Manager Ma asked me to tell everyone some good news: because everyone completed the work on time, the company has decided to give each person an extra 3,000 yuan bonus this month. Thank you all for your hard work over the past three-plus months, and I hope we can achieve even greater results next year!"
+        }
+      ],
+      "audio": "audio/04-4.mp3",
+      "proper_nouns": [
+        {
+          "word": "马",
+          "pinyin": "Mǎ",
+          "meaning": "Ma, a Chinese family name"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "按照",
+          "pinyin": "ànzhào",
+          "meaning": "prep. according to"
+        },
+        {
+          "word": "成功",
+          "pinyin": "chénggōng",
+          "meaning": "adj. successful"
+        },
+        {
+          "word": "顺利",
+          "pinyin": "shùnlì",
+          "meaning": "adj. smooth"
+        },
+        {
+          "word": "感谢",
+          "pinyin": "gǎnxiè",
+          "meaning": "v. to thank"
+        },
+        {
+          "word": "消息",
+          "pinyin": "xiāoxi",
+          "meaning": "n. news"
+        },
+        {
+          "word": "按时",
+          "pinyin": "ànshí",
+          "meaning": "adv. on time, on schedule"
+        },
+        {
+          "word": "奖金",
+          "pinyin": "jiǎngjīn",
+          "meaning": "n. money award, bonus"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "年轻人刚开始工作时不要太急着赚钱 (niánqīng rén gāng kāishǐ gōngzuò shí bù yào tài jízhe zhuànqián) (Young people should not be too anxious to make money when they first start working)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "年轻人刚开始工作的时候，<b>不要太急着赚钱</b>，不要眼睛里只有<b>工资</b>和<b>奖金</b>。在工作的前几年，重要的是丰富自己的工作经验，学习与同事交流的<b>方法</b>，积累专业<b>知识</b>，这些比收入重要多了。但是很多时候，我们<b>不得不</b>去做一些自己不愿意做<b>甚至</b>是非常不喜欢的工作。这时，我们最需要的就是对工作的<b>责任</b>心。一个人<b>即使</b>能力再高，经验再丰富，如果对工作没有责任心，<b>也</b>很难把工作做好。",
+          "pinyin": "niánqīng rén gāng kāishǐ gōngzuò de shíhou, bù yào tài jízhe zhuànqián, bù yào yǎnjing li zhǐ yǒu gōngzī hé jiǎngjīn. zài gōngzuò de qián jǐ nián, zhòngyào de shì fēngfù zìjǐ de gōngzuò jīngyàn, xuéxí yǔ tóngshì jiāoliú de fāngfǎ, jīlěi zhuānyè zhīshi, zhèxiē bǐ shōurù zhòngyào duō le. dànshì hěn duō shíhou, wǒmen bùdébù qù zuò yìxiē zìjǐ bù yuànyì zuò shènzhì shì fēicháng bù xǐhuan de gōngzuò. zhè shí, wǒmen zuì xūyào de jiù shì duì gōngzuò de zérènxīn. yí ge rén jíshǐ nénglì zài gāo, jīngyàn zài fēngfù, rúguǒ duì gōngzuò méiyǒu zérènxīn, yě hěn nán bǎ gōngzuò zuò hǎo.",
+          "translation": "When young people first start working, they should not be too anxious to make money, and they should not only focus on salary and bonuses. In the first few years of work, what matters is enriching their work experience, learning ways to communicate with colleagues, and accumulating professional knowledge. These things are much more important than income. But many times, we have no choice but to do work we are unwilling to do, or even work we strongly dislike. At that point, what we need most is a sense of responsibility toward our work. Even if a person is highly capable and very experienced, if they have no sense of responsibility toward their work, it will still be difficult for them to do the job well."
+        }
+      ],
+      "audio": "audio/04-5.mp3",
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "工资",
+          "pinyin": "gōngzī",
+          "meaning": "n. pay, salary"
+        },
+        {
+          "word": "方法",
+          "pinyin": "fāngfǎ",
+          "meaning": "n. method, way"
+        },
+        {
+          "word": "知识",
+          "pinyin": "zhīshi",
+          "meaning": "n. knowledge"
+        },
+        {
+          "word": "不得不",
+          "pinyin": "bùdébù",
+          "meaning": "to have to, to have no choice but"
+        },
+        {
+          "word": "甚至",
+          "pinyin": "shènzhì",
+          "meaning": "conj. even, so far as to"
+        },
+        {
+          "word": "责任",
+          "pinyin": "zérèn",
+          "meaning": "n. responsibility, duty"
+        }
+      ]
     }
   ],
   "translations": {
-    "vocabulary": {},
-    "properNouns": {},
-    "grammar": {},
-    "keySentences": {},
-    "texts": {},
+    "vocabulary": {
+      "提": {
+        "en": "to mention",
+        "ko": "언급하다",
+        "ja": "言及する"
+      },
+      "以为": {
+        "en": "to think, to believe",
+        "ko": "~인 줄 알다",
+        "ja": "〜と思う"
+      },
+      "份": {
+        "en": "measure word used for jobs among other things",
+        "ko": "일자리 등에 쓰는 양사",
+        "ja": "仕事などに用いる量詞"
+      },
+      "完全": {
+        "en": "completely",
+        "ko": "완전히",
+        "ja": "完全に"
+      },
+      "赚": {
+        "en": "to earn",
+        "ko": "벌다",
+        "ja": "稼ぐ"
+      },
+      "收入": {
+        "en": "income",
+        "ko": "수입",
+        "ja": "収入"
+      },
+      "着急": {
+        "en": "to be in a hurry; anxious",
+        "ko": "조급해하다; 초조해하다",
+        "ja": "焦る、急ぐ"
+      },
+      "重要": {
+        "en": "important",
+        "ko": "중요한",
+        "ja": "重要な"
+      },
+      "调查": {
+        "en": "to survey, to investigate",
+        "ko": "조사하다",
+        "ja": "調査する"
+      },
+      "原来": {
+        "en": "original; formerly; as it turns out",
+        "ko": "원래; 알고 보니",
+        "ja": "もともと、実は"
+      },
+      "计划": {
+        "en": "plan; to intend to",
+        "ko": "계획; 계획하다",
+        "ja": "計画、計画する"
+      },
+      "提前": {
+        "en": "to do something in advance or ahead of time",
+        "ko": "앞당기다; 미리 하다",
+        "ja": "前倒しする、事前に行う"
+      },
+      "保证": {
+        "en": "to guarantee",
+        "ko": "보장하다; 반드시 ~하다",
+        "ja": "保証する"
+      },
+      "提醒": {
+        "en": "to remind",
+        "ko": "상기시키다",
+        "ja": "注意を促す、思い出させる"
+      },
+      "乱": {
+        "en": "confused; disorderly",
+        "ko": "어지러운; 혼란스러운",
+        "ja": "乱れている、混乱した"
+      },
+      "生意": {
+        "en": "business, trade",
+        "ko": "사업; 장사",
+        "ja": "商売、取引"
+      },
+      "谈": {
+        "en": "to talk, to discuss",
+        "ko": "이야기하다; 논의하다",
+        "ja": "話す、相談する"
+      },
+      "并": {
+        "en": "used before a negative for emphasis",
+        "ko": "부정어 앞에서 강조하는 부사",
+        "ja": "否定語の前で強調する副詞"
+      },
+      "积累": {
+        "en": "to accumulate",
+        "ko": "쌓다; 축적하다",
+        "ja": "積み重ねる、蓄積する"
+      },
+      "经验": {
+        "en": "experience",
+        "ko": "경험",
+        "ja": "経験"
+      },
+      "一切": {
+        "en": "all, every",
+        "ko": "모든 것",
+        "ja": "すべて"
+      },
+      "按照": {
+        "en": "according to",
+        "ko": "~에 따라",
+        "ja": "〜に従って"
+      },
+      "成功": {
+        "en": "successful",
+        "ko": "성공적인",
+        "ja": "成功した"
+      },
+      "顺利": {
+        "en": "smooth",
+        "ko": "순조로운",
+        "ja": "順調な"
+      },
+      "感谢": {
+        "en": "to thank",
+        "ko": "감사하다",
+        "ja": "感謝する"
+      },
+      "消息": {
+        "en": "news",
+        "ko": "소식",
+        "ja": "知らせ、ニュース"
+      },
+      "按时": {
+        "en": "on time, on schedule",
+        "ko": "제시간에",
+        "ja": "時間どおりに"
+      },
+      "奖金": {
+        "en": "money award, bonus",
+        "ko": "상금; 보너스",
+        "ja": "賞金、ボーナス"
+      },
+      "工资": {
+        "en": "pay, salary",
+        "ko": "임금; 월급",
+        "ja": "給料"
+      },
+      "方法": {
+        "en": "method, way",
+        "ko": "방법",
+        "ja": "方法"
+      },
+      "办法": {
+        "en": "method, way",
+        "ko": "방법; 방안",
+        "ja": "方法、手段"
+      },
+      "法律": {
+        "en": "law",
+        "ko": "법률",
+        "ja": "法律"
+      },
+      "知识": {
+        "en": "knowledge",
+        "ko": "지식",
+        "ja": "知識"
+      },
+      "不得不": {
+        "en": "to have to, to have no choice but",
+        "ko": "어쩔 수 없이 ~해야 하다",
+        "ja": "〜せざるを得ない"
+      },
+      "甚至": {
+        "en": "even, so far as to",
+        "ko": "심지어",
+        "ja": "さらには、〜さえ"
+      },
+      "责任": {
+        "en": "responsibility, duty",
+        "ko": "책임",
+        "ja": "責任"
+      }
+    },
+    "properNouns": {
+      "王": {
+        "en": "Wang, a Chinese family name",
+        "ko": "왕, 중국 성씨",
+        "ja": "王、中国の姓"
+      },
+      "马": {
+        "en": "Ma, a Chinese family name",
+        "ko": "마, 중국 성씨",
+        "ja": "馬、中国の姓"
+      }
+    },
+    "grammar": {
+      "以为": {
+        "formal_translation": {
+          "en": "The verb 以为 indicates that what the speaker thought goes against the fact.",
+          "ko": "동사 ‘以为’는 화자가 생각했던 일이 사실과 다를 때 사용한다.",
+          "ja": "動詞「以为」は、話し手が思っていたことが事実と違っていたことを表す。"
+        },
+        "colloquial_translation": {
+          "en": "In casual speech, 还以为 followed by 结果 or 没想到 makes the mistaken assumption sound more natural and conversational.",
+          "ko": "구어에서는 ‘还以为’ 뒤에 ‘结果’나 ‘没想到’를 이어 쓰면 착각했다는 느낌이 더 자연스럽고 회화적으로 들린다.",
+          "ja": "口語では「还以为」の後に「结果」や「没想到」を続けると、思い違いだったことがより自然で会話らしく聞こえる。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Her Chinese is so good that I thought she was Chinese.",
+              "ko": "그녀가 중국어를 너무 잘해서 나는 그녀가 중국인인 줄 알았다.",
+              "ja": "彼女は中国語がとても上手なので、私は彼女が中国人だと思っていた。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Mark thought today was Monday, but when he got to school and saw that no one had come to class, he realized it was Sunday.",
+              "ko": "마크는 오늘이 월요일인 줄 알았는데, 학교에 가 보니 아무도 수업에 오지 않아서 오늘이 일요일이라는 것을 알게 되었다.",
+              "ja": "マークは今日は月曜日だと思っていたが、学校に着いて見ると誰も授業に来ておらず、今日が日曜日だと気づいた。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I thought the new job would be better than the old one, but it turns out it's not even as good as before.",
+              "ko": "나는 새 일이 예전 일보다 좋을 줄 알았는데, 뜻밖에도 예전만큼도 좋지 않았다.",
+              "ja": "私は新しい仕事が以前の仕事より良いと思っていたが、思いがけず以前ほども良くなかった。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Her Chinese is so fluent that I thought she was born and raised there, but it turns out she has only studied it for a few years.",
+              "ko": "그녀의 중국어가 너무 유창해서 현지에서 나고 자란 줄 알았는데, 알고 보니 몇 년밖에 배우지 않았다.",
+              "ja": "彼女の中国語があまりに流暢なので、現地で生まれ育ったのかと思ったら、実は数年しか学んでいなかった。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I thought I had to work today, but only when I got to the office did I remember it was a day off.",
+              "ko": "오늘 출근해야 하는 줄 알았는데, 회사 문 앞에 도착해서야 오늘이 쉬는 날이라는 게 생각났다.",
+              "ja": "今日は出勤だと思っていたが、会社の入口まで行って初めて今日は休みだと思い出した。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I thought changing jobs would feel much better, but I didn't expect there to be even more problems.",
+              "ko": "이직하면 훨씬 나을 줄 알았는데, 생각보다 문제가 더 많았다.",
+              "ja": "転職したらずっと楽になると思っていたが、思ったより問題が多かった。"
+            }
+          }
+        ]
+      },
+      "原来": {
+        "formal_translation": {
+          "en": "原来 can be used as a noun meaning 'the beginning, the past,' as an adjective meaning 'original, unaltered,' or as an adverb indicating either a past state that has changed or the discovery of a formerly unknown situation.",
+          "ko": "‘原来’는 명사로 ‘처음, 과거’를 뜻하거나, 형용사로 ‘원래의, 변하지 않은’을 뜻하거나, 부사로 과거 상태의 변화 또는 이전에 몰랐던 사실의 발견을 나타낼 수 있다.",
+          "ja": "「原来」は名詞として「初め、以前」、形容詞として「元の、変わっていない」、副詞として過去の状態の変化や以前知らなかった事実の発見を表すことができる。"
+        },
+        "colloquial_translation": {
+          "en": "In everyday speech, 本来 often replaces the 'originally planned' sense, while 原来是 makes a discovery sound natural.",
+          "ko": "일상 회화에서는 ‘원래 계획’의 의미로 ‘本来’를 자주 쓰고, 새로 알게 된 사실은 ‘原来是’를 쓰면 자연스럽다.",
+          "ja": "日常会話では「もともとの予定」という意味では「本来」がよく使われ、新しく分かった事実には「原来是」を使うと自然に聞こえる。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Taking the train from Beijing to Shanghai used to take almost 12 hours at the fastest, but now that there is high-speed rail, it only takes 5 hours.",
+              "ko": "베이징에서 상하이까지 기차를 타면 예전에는 가장 빨라도 거의 12시간이 걸렸지만, 지금은 고속철도가 있어서 5시간이면 도착할 수 있다.",
+              "ja": "北京から上海まで列車に乗ると、以前は最速でもほぼ12時間かかったが、今は高速鉄道があり、5時間で着くことができる。"
+            }
+          },
+          {
+            "translation": {
+              "en": "According to the original plan, it should take two weeks, but we can finish it ahead of schedule.",
+              "ko": "원래 계획대로라면 2주가 걸려야 하지만, 우리는 앞당겨 끝낼 수 있다.",
+              "ja": "元の計画では2週間かかるはずだが、私たちは前倒しで終えることができる。"
+            }
+          },
+          {
+            "translation": {
+              "en": "She used to be a Chinese teacher, but now she has become a lawyer.",
+              "ko": "그녀는 원래 중국어 선생님이었지만, 지금은 이미 변호사가 되었다.",
+              "ja": "彼女はもともと中国語教師だったが、今はすでに弁護士になっている。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Mark kept waiting for Li Ming to call back, but no call came all night; it turned out that Li Ming had written Mark's phone number down incorrectly.",
+              "ko": "마크는 계속 리밍의 답전화를 기다렸지만 밤새 전화가 오지 않았다. 알고 보니 리밍이 마크의 전화번호를 잘못 적어 둔 것이었다.",
+              "ja": "マークは李明からの折り返し電話をずっと待っていたが、一晩中電話は来なかった。実は李明がマークの電話番号を間違えて控えていたのだった。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Beijing to Shanghai used to take half a day by train, but now the high-speed rail gets you there in just a few hours.",
+              "ko": "베이징에서 상하이까지 예전에는 기차로 반나절이 걸렸는데, 지금은 고속철도로 몇 시간이면 도착한다.",
+              "ja": "北京から上海までは以前、列車で半日かかったが、今は高速鉄道で数時間あれば着く。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The original plan was two weeks, but now it looks like we can wrap it up by the weekend.",
+              "ko": "원래 계획은 2주였는데, 지금 보니 주말이면 끝낼 수 있을 것 같다.",
+              "ja": "もともとの計画では2週間だったが、今見ると週末には片づけられそうだ。"
+            }
+          },
+          {
+            "translation": {
+              "en": "She used to teach Chinese, but now she has switched careers and become a lawyer.",
+              "ko": "그녀는 원래 중국어를 가르쳤는데, 지금은 전직해서 변호사가 되었다.",
+              "ja": "彼女はもともと中国語を教えていたが、今は転職して弁護士になった。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I waited all night with no news; it turned out he had saved the number wrong.",
+              "ko": "밤새 소식이 없어서 기다렸는데, 알고 보니 그가 번호를 잘못 저장해 둔 것이었다.",
+              "ja": "一晩中連絡がなく待っていたが、実は彼が番号を間違えて保存していたのだった。"
+            }
+          }
+        ]
+      },
+      "原来 vs 本来": {
+        "formal_translation": {
+          "en": "原来 and 本来 can both describe an original or unchanged state and can both work as adverbs for a past situation that differs from the present. The difference is that 原来 can also mark a newly discovered fact, while 本来 can mean 'it should have been this way.'",
+          "ko": "‘原来’와 ‘本来’는 모두 원래의 변하지 않은 상태를 나타내는 형용사로 쓰일 수 있고, 과거 상황이 현재와 다름을 나타내는 부사로도 쓰일 수 있다. 차이는 ‘原来’가 새로 알게 된 사실을 나타낼 수 있는 반면, ‘本来’는 ‘원래는 그래야 했다’는 의미를 나타낼 수 있다는 점이다.",
+          "ja": "「原来」と「本来」はどちらも元の、変わっていない状態を表す形容詞として使え、過去の状況が現在と異なることを表す副詞としても使える。違いは、「原来」は新しく分かった事実を表せる一方、「本来」は「本来そうであるべきだった」という意味を表せる点である。"
+        },
+        "colloquial_translation": {
+          "en": "Use 原来 when you discover what the real situation is: 原来是你. Use 本来 when something was originally expected or should have happened: 本来应该昨天还给你.",
+          "ko": "실제 상황을 새로 알게 되었을 때는 ‘原来’를 쓴다: ‘原来是你’. 원래 기대되었거나 그래야 했던 일을 말할 때는 ‘本来’를 쓴다: ‘本来应该昨天还给你’.",
+          "ja": "実際の状況を新しく知ったときは「原来」を使う:「原来是你」。本来期待されていたこと、またはそうすべきだったことを言うときは「本来」を使う:「本来应该昨天还给你」。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "This is its original color, but now it has been worn for several years and the color has changed.",
+              "ko": "이것은 그것의 원래 색이지만, 지금은 이미 몇 년 동안 입어서 색이 모두 변했다.",
+              "ja": "これはそれの元の色だが、今はもう何年も着ているので色が変わってしまった。"
+            }
+          },
+          {
+            "translation": {
+              "en": "My family used to live near here, but this area did not have as many buildings as it does now.",
+              "ko": "우리 집은 원래 이 근처에 살았지만, 이곳은 예전에는 지금처럼 이렇게 많은 건물이 있지 않았다.",
+              "ja": "私の家は以前この近くに住んでいたが、ここは昔、今ほど多くの建物はなかった。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I was wondering who helped me clean the room; it turns out it was you!",
+              "ko": "누가 내 방을 청소해 준 건지 궁금했는데, 알고 보니 너였구나!",
+              "ja": "誰が部屋の掃除を手伝ってくれたのかと思っていたら、君だったんだね。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I should have returned this book to you yesterday. I'm really sorry.",
+              "ko": "이 책은 원래 어제 너에게 돌려줬어야 했는데, 정말 미안해.",
+              "ja": "この本は本来昨日あなたに返すべきだった。本当にすみません。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "This outfit was originally this color, but after wearing and washing it for so long, it faded.",
+              "ko": "이 옷은 원래 이 색이었는데, 오래 입고 빨다 보니 색이 옅어졌다.",
+              "ja": "この服はもともとこの色だったが、長く着て洗っているうちに色が薄くなった。"
+            }
+          },
+          {
+            "translation": {
+              "en": "My family used to live around here; now there are way more tall buildings.",
+              "ko": "우리 집은 원래 이 근처에 살았는데, 지금은 이쪽에 고층 건물이 훨씬 많아졌다.",
+              "ja": "私の家は以前この近くに住んでいたが、今はこの辺りに高層ビルがずっと増えた。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I was still wondering who tidied the room; turns out it was you!",
+              "ko": "누가 방을 정리했나 궁금했는데, 알고 보니 너였구나!",
+              "ja": "誰が部屋を片づけたのかと思っていたら、君だったんだね。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I was supposed to return this book to you yesterday. Sorry about that.",
+              "ko": "이 책은 원래 어제 너에게 돌려줬어야 했어. 정말 미안해.",
+              "ja": "この本は本来昨日返すべきだった。ごめんね。"
+            }
+          }
+        ]
+      },
+      "并": {
+        "formal_translation": {
+          "en": "The adverb 并 is used before negatives such as 不 or 没有 to emphasize the negative tone. It often appears in contrastive sentences to reject an assumption and explain the real situation.",
+          "ko": "부사 ‘并’은 ‘不’, ‘没有’ 같은 부정어 앞에 쓰여 부정의 어감을 강조한다. 보통 전환·대조 문장에서 어떤 생각을 부정하고 실제 상황을 설명할 때 사용한다.",
+          "ja": "副詞「并」は「不」「没有」などの否定語の前に置かれ、否定の語気を強める。多くの場合、逆接・対比の文である考えを否定し、実際の状況を説明するときに使う。"
+        },
+        "colloquial_translation": {
+          "en": "并 makes a negative statement sound more deliberate and corrective. In casual speech, it often pairs with 其实 to softly push back against what someone assumed.",
+          "ko": "‘并’은 부정문을 더 의식적이고 정정하는 느낌으로 만든다. 회화에서는 ‘其实’와 자주 함께 쓰여 상대의 추측을 부드럽게 바로잡는다.",
+          "ja": "「并」は否定文をより意識的で訂正するような響きにする。会話では「其实」とよく組み合わさり、相手の思い込みをやわらかく修正する。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "In fact, what job people do in the future may not have much to do with the major they studied in school.",
+              "ko": "사실 사람들이 앞으로 어떤 일을 하게 될지는 학교에서 배운 전공과 그다지 큰 관계가 없을 수도 있다.",
+              "ja": "実際、人々が将来どんな仕事をするかは、学校で学んだ専攻とはあまり大きな関係がないかもしれない。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I originally thought doing business was simple, but later I discovered that it actually is not easy.",
+              "ko": "나는 원래 사업이 아주 간단하다고 생각했지만, 나중에 사실 쉽지 않다는 것을 알게 되었다.",
+              "ja": "私はもともと商売は簡単だと思っていたが、後になって実は簡単ではないと気づいた。"
+            }
+          },
+          {
+            "translation": {
+              "en": "According to surveys, people should sleep at least seven hours every night, but this does not suit everyone.",
+              "ko": "조사에 따르면 사람은 매일 밤 최소 7시간은 자야 하지만, 이것이 모든 사람에게 맞는 것은 아니다.",
+              "ja": "調査によると、人は毎晩少なくとも7時間眠るべきだが、これはすべての人に適しているわけではない。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Honestly, what you do after graduation does not have that much to do with your major.",
+              "ko": "솔직히 졸업 후 무슨 일을 하는지는 전공과 그렇게 큰 관계가 없다.",
+              "ja": "正直、卒業後に何をするかは専攻とそこまで大きな関係はない。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I used to think doing business was pretty simple, but later I realized that is not really the case.",
+              "ko": "예전에는 사업이 꽤 간단하다고 생각했는데, 나중에 사실 꼭 그런 건 아니라는 걸 알게 되었다.",
+              "ja": "以前は商売はけっこう簡単だと思っていたが、後になって実はそういうわけではないと気づいた。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Sleeping seven hours a day sounds scientific, but it still is not suitable for everyone.",
+              "ko": "하루에 7시간 자는 것이 꽤 과학적으로 들리지만, 그래도 모든 사람에게 맞는 것은 아니다.",
+              "ja": "毎日7時間寝るというのは科学的に聞こえるが、それでもすべての人に合うわけではない。"
+            }
+          }
+        ]
+      },
+      "按照": {
+        "formal_translation": {
+          "en": "The preposition 按照 means 'according to' and is similar to 根据. It introduces the standard, plan, rule, requirement, or experience that an action follows.",
+          "ko": "전치사 ‘按照’는 ‘~에 따라, ~에 근거하여’라는 뜻으로 ‘根据’와 비슷하다. 행동이 따르는 기준, 계획, 규칙, 요구 또는 경험을 제시한다.",
+          "ja": "前置詞「按照」は「〜に従って、〜に基づいて」という意味で、「根据」に似ている。行動が従う基準、計画、規則、要求、経験を示す。"
+        },
+        "colloquial_translation": {
+          "en": "按照 is standard and precise, often used with plans, rules, and requirements. In casual speech, 按 or 照 alone often sounds more natural.",
+          "ko": "‘按照’는 표준적이고 정확한 표현으로 계획, 규칙, 요구와 자주 쓰인다. 회화에서는 ‘按’이나 ‘照’만 쓰는 편이 더 자연스럽게 들릴 때가 많다.",
+          "ja": "「按照」は標準的で正確な表現で、計画、規則、要求とよく使われる。会話では「按」や「照」だけの方が自然に聞こえることが多い。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "We have already completed all of this year's work according to plan.",
+              "ko": "우리는 올해의 일을 이미 계획에 따라 모두 완료했다.",
+              "ja": "私たちは今年の仕事をすべて計画どおりに完了した。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This time, all the materials have been prepared according to the bank's requirements, right?",
+              "ko": "이번에는 자료를 모두 은행의 요구에 따라 준비해 두었지요?",
+              "ja": "今回は資料をすべて銀行の要求どおりに準備してありますよね。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Based on experience, this problem should be solved quickly, so please don't worry.",
+              "ko": "경험에 따르면 이 문제는 아주 빨리 해결될 수 있을 테니 모두 안심하세요.",
+              "ja": "経験によれば、この問題はすぐに解決できるはずなので、皆さん安心してください。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "This year's work has all been finished according to plan.",
+              "ko": "올해 일은 모두 계획대로 끝냈다.",
+              "ja": "今年の仕事は全部計画どおりに終わった。"
+            }
+          },
+          {
+            "translation": {
+              "en": "You got all the materials ready according to the bank's requirements, right?",
+              "ko": "자료는 은행 요구대로 다 준비했지요?",
+              "ja": "資料は銀行の要求どおり全部そろえましたよね。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Judging from past experience, this should be solved pretty quickly.",
+              "ko": "지난 경험으로 보면 이 일은 꽤 빨리 해결될 것이다.",
+              "ja": "これまでの経験から見ると、この件はかなり早く解決できるはずだ。"
+            }
+          }
+        ]
+      },
+      "甚至": {
+        "formal_translation": {
+          "en": "The conjunction 甚至 emphasizes a salient or extreme example. It can appear before the last item in a list of coordinate nouns, verbs, or clauses to stress that item.",
+          "ko": "접속사 ‘甚至’는 두드러지거나 극단적인 예를 강조한다. 병렬된 명사, 동사, 절의 마지막 항목 앞에 놓여 그 항목을 특히 강조할 수 있다.",
+          "ja": "接続詞「甚至」は目立つ例や極端な例を強調する。並列された名詞、動詞、節の最後の項目の前に置いて、その項目を強調できる。"
+        },
+        "colloquial_translation": {
+          "en": "甚至 highlights an unexpectedly strong or extreme item. In casual speech, 连……都…… can create a similar sense of emphasis.",
+          "ko": "‘甚至’는 예상보다 강하거나 극단적인 항목을 강조한다. 회화에서는 ‘连……都……’도 비슷한 강조 느낌을 낼 수 있다.",
+          "ja": "「甚至」は予想以上に強い、または極端な項目を強調する。会話では「连……都……」も似た強調のニュアンスを出せる。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "This apartment is not far from your company; you can take the bus or even ride a bicycle to work.",
+              "ko": "이 집은 당신 회사와도 멀지 않아서 버스를 타거나 심지어 자전거를 타고 출근할 수도 있다.",
+              "ja": "この部屋はあなたの会社からも遠くないので、バスに乗ることも、さらには自転車で通勤することもできる。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Many times, we have no choice but to do work we are unwilling to do, or even work we strongly dislike.",
+              "ko": "많은 경우 우리는 하기 싫은 일, 심지어 매우 싫어하는 일도 어쩔 수 없이 해야 한다.",
+              "ja": "多くの場合、私たちはやりたくない仕事、さらにはとても嫌いな仕事もしなければならない。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Being late will make others think you lack responsibility, cause you to miss important opportunities, and may even make others stop trusting you.",
+              "ko": "지각은 다른 사람이 당신에게 책임감이 없다고 느끼게 하고, 중요한 기회를 놓치게 하며, 심지어 사람들이 더 이상 당신을 믿지 않게 만들 수도 있다.",
+              "ja": "遅刻は他人に責任感がないと思わせ、重要な機会を逃させ、さらには他人があなたをもう信頼しなくなることにもつながる。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "This place is not far from the company; the bus works, and you can even bike there.",
+              "ko": "이 집은 회사와 멀지 않아서 버스도 괜찮고, 심지어 자전거로도 갈 수 있다.",
+              "ja": "この家は会社から遠くないので、バスでも行けるし、さらには自転車でも行ける。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Sometimes we have to do work we don't want to do, even work that is really annoying.",
+              "ko": "가끔은 하기 싫은 일, 심지어 정말 짜증 나는 일도 해야 한다.",
+              "ja": "時にはやりたくない仕事、さらには本当に面倒な仕事もしなければならない。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If you are always late, people will stop trusting you and may even not want to work with you anymore.",
+              "ko": "늘 지각하면 사람들이 당신을 믿지 않게 되고, 심지어 앞으로 함께 일하고 싶어 하지 않을 수도 있다.",
+              "ja": "いつも遅刻していると、人はあなたを信頼しなくなり、さらには今後一緒に働きたくないと思うかもしれない。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "我<b>以为</b>新工作比以前的好，没想到还没有以前好呢。": {
+        "translation": {
+          "en": "I thought the new job would be better than the old one, but it turns out it's not even as good as before.",
+          "ko": "나는 새 일이 예전 일보다 좋을 줄 알았는데, 뜻밖에도 예전만큼도 좋지 않았다.",
+          "ja": "私は新しい仕事が以前の仕事より良いと思っていたが、思いがけず以前ほども良くなかった。"
+        },
+        "colloquial_translation": {
+          "en": "I thought changing to a new job would feel better, but it turns out it's not even as good as before.",
+          "ko": "새 직장으로 옮기면 더 나을 줄 알았는데, 알고 보니 예전보다도 못했어.",
+          "ja": "新しい仕事に変えたらもっと楽になると思っていたのに、結局以前よりも良くなかった。"
+        },
+        "context": {
+          "en": "Correcting a mistaken assumption",
+          "ko": "잘못된 예상 바로잡기",
+          "ja": "思い違いを訂正する"
+        }
+      },
+      "每天早上我都<b>把</b>当天计划要做的事情<b>写在</b>笔记本上，提醒自己安排好时间。": {
+        "translation": {
+          "en": "Every morning, I write the things I plan to do that day in my notebook to remind myself to manage my time well.",
+          "ko": "저는 매일 아침 그날 계획한 일을 노트에 적어 두고 시간을 잘 관리하도록 스스로에게 상기시킵니다.",
+          "ja": "私は毎朝、その日にやる予定のことをノートに書き、時間をうまく配分するよう自分に言い聞かせています。"
+        },
+        "colloquial_translation": {
+          "en": "Every morning I jot down what I need to do that day so my schedule doesn't get messy.",
+          "ko": "저는 매일 아침 그날 해야 할 일을 노트에 적어 둬요. 그래야 시간이 꼬이지 않거든요.",
+          "ja": "毎朝その日にやることをノートに書いておきます。そうすると時間の段取りが乱れにくいです。"
+        },
+        "context": {
+          "en": "Giving a practical work habit",
+          "ko": "실용적인 업무 습관 말하기",
+          "ja": "実用的な仕事習慣を伝える"
+        }
+      },
+      "我原来以为做生意很简单，后来才发现其实<b>并不</b>容易，现在赚钱<b>越来越</b>难了。": {
+        "translation": {
+          "en": "I originally thought doing business was simple, but later I realized it actually isn't easy. Now making money is getting harder and harder.",
+          "ko": "저는 원래 사업이 아주 간단하다고 생각했는데, 나중에 사실 쉽지 않다는 걸 알게 됐습니다. 요즘은 돈 벌기가 점점 더 어려워졌습니다.",
+          "ja": "私はもともと商売は簡単だと思っていましたが、後になって実は簡単ではないと気づきました。今はお金を稼ぐのがますます難しくなっています。"
+        },
+        "colloquial_translation": {
+          "en": "I used to think business was pretty simple, but later realized it really isn't easy. Making money is getting harder.",
+          "ko": "예전에는 사업이 꽤 간단한 줄 알았는데, 나중에 보니 정말 쉽지 않더라고요. 돈 벌기가 점점 더 어려워져요.",
+          "ja": "前は商売はけっこう簡単だと思っていましたが、後で本当に簡単ではないと分かりました。お金を稼ぐのはますます難しくなっています。"
+        },
+        "context": {
+          "en": "Realizing work is harder than expected",
+          "ko": "일이 예상보다 어렵다는 깨달음",
+          "ja": "仕事が予想より難しいと気づく"
+        }
+      },
+      "我们今年的工作都已经<b>按照</b>计划完成了。": {
+        "translation": {
+          "en": "We have already completed all of this year's work according to plan.",
+          "ko": "우리는 올해의 일을 이미 계획에 따라 모두 완료했습니다.",
+          "ja": "私たちは今年の仕事をすべて計画どおりに完了しました。"
+        },
+        "colloquial_translation": {
+          "en": "We finished all of this year's work according to plan.",
+          "ko": "올해 일은 계획대로 다 끝냈습니다.",
+          "ja": "今年の仕事は計画どおり全部終わりました。"
+        },
+        "context": {
+          "en": "Reporting successful completion",
+          "ko": "완료 상황 보고하기",
+          "ja": "完了状況を報告する"
+        }
+      },
+      "一个人<b>即使</b>能力再高，经验再丰富，如果对工作没有责任心，<b>也</b>很难把工作做好。": {
+        "translation": {
+          "en": "Even if a person is highly capable and very experienced, if they have no sense of responsibility toward their work, it will still be difficult for them to do the job well.",
+          "ko": "한 사람이 능력이 아무리 높고 경험이 아무리 풍부하더라도, 일에 대한 책임감이 없다면 일을 잘 해내기 어렵습니다.",
+          "ja": "たとえ能力が高く経験が豊富でも、仕事に対する責任感がなければ、仕事をうまくやり遂げるのは難しいです。"
+        },
+        "colloquial_translation": {
+          "en": "Even if someone is capable and experienced, without responsibility, it's hard to do the job well.",
+          "ko": "아무리 능력 있고 경험이 많아도 책임감이 없으면 일을 잘하기 어렵습니다.",
+          "ja": "どれだけ能力があって経験が多くても、責任感がなければ仕事をうまくこなすのは難しいです。"
+        },
+        "context": {
+          "en": "Emphasizing responsibility at work",
+          "ko": "업무 책임감 강조하기",
+          "ja": "仕事への責任感を強調する"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "I heard you changed jobs again? You've already changed jobs three times this year, haven't you?",
+              "ko": "또 직장을 바꿨다고 들었어요. 올해 벌써 세 번이나 직장을 바꾼 거죠?",
+              "ja": "また仕事を変えたそうですね。今年もう三回も仕事を変えたんでしょう？"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I heard you changed jobs again? You've already changed jobs three times this year, haven't you?",
+              "ko": "또 직장을 바꿨다고 들었어요. 올해 벌써 세 번이나 직장을 바꾼 거죠?",
+              "ja": "また仕事を変えたそうですね。今年もう三回も仕事を変えたんでしょう？"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Don't mention it! I thought the new job would be better than the old one, but it turns out it's not even as good as before.",
+              "ko": "말도 마세요! 새 일이 예전 일보다 좋을 줄 알았는데, 뜻밖에도 예전만큼도 좋지 않았어요.",
+              "ja": "その話はしないでください。新しい仕事は前より良いと思っていたのに、前ほども良くありませんでした。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "You only did that last job for two months before leaving. In fact, it takes a year to fully adapt to a new job, so changing jobs frequently isn't necessarily a good thing.",
+              "ko": "지난번 그 일은 두 달만 하고 그만뒀잖아요. 사실 새로운 일에 완전히 적응하려면 1년은 걸리니, 자주 직장을 바꾸는 것이 꼭 좋은 건 아니에요.",
+              "ja": "前の仕事は二か月だけで辞めましたよね。実際、新しい仕事に完全に慣れるには一年かかるので、頻繁に仕事を変えるのが必ずしも良いとは限りません。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "I understand. But the income from that job was too low!",
+              "ko": "저도 알아요. 하지만 그 일의 수입이 너무 적었어요!",
+              "ja": "それは分かっています。でも、その仕事の収入が少なすぎたんです。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "You've just joined the new company, so don't be in too much of a hurry to make money. Learning more is what's most important.",
+              "ko": "새 회사에 막 들어갔으니 돈 버는 데 너무 조급해하지 마세요. 많이 배우는 것이 가장 중요해요.",
+              "ja": "新しい会社に入ったばかりなのですから、お金を稼ぐことを焦りすぎないでください。たくさん学ぶことが一番大切です。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "How much longer will that survey take to finish?",
+              "ko": "그 조사는 끝내려면 시간이 얼마나 더 걸리나요?",
+              "ja": "その調査は終わるまであとどのくらいかかりますか。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "How much longer will that survey take to finish?",
+              "ko": "그 조사는 끝내려면 시간이 얼마나 더 걸리나요?",
+              "ja": "その調査は終わるまであとどのくらいかかりますか。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "According to the original plan, it should take two weeks, but we can finish it ahead of schedule and guarantee it will be done by the weekend.",
+              "ko": "원래 계획대로라면 2주가 걸리지만, 저희가 앞당겨 끝낼 수 있고 주말까지는 반드시 마치겠습니다.",
+              "ja": "元の計画では2週間かかるはずですが、前倒しで終えられます。週末までには必ず終わらせます。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Although work has been very busy lately, you all still need to take care of your health.",
+              "ko": "요즘 일이 많이 바쁘지만, 여러분도 건강에 신경 써야 해요.",
+              "ja": "最近仕事はとても忙しいですが、皆さんも体に気をつけてください。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Thank you! There are a lot of things waiting for me to do right now, and I really don't know which one I should do first.",
+              "ko": "감사합니다! 지금 해야 할 일이 많이 기다리고 있어서, 정말 어느 것부터 먼저 해야 할지 모르겠습니다.",
+              "ja": "ありがとうございます。今やることがたくさん待っていて、本当にどれから先にすればいいのかわかりません。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Every morning, I write the things I plan to do that day in my notebook to remind myself to manage my time well. You can try doing that too.",
+              "ko": "저는 매일 아침 그날 계획한 일을 노트에 적어 두고, 시간을 잘 관리하도록 스스로에게 상기시킵니다. 당신도 이렇게 해 보세요.",
+              "ja": "私は毎朝、その日にやる予定のことをノートに書き、時間をうまく配分するよう自分に言い聞かせています。あなたもそうしてみるといいですよ。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "What has made you so happy?",
+              "ko": "무슨 일 때문에 그렇게 기뻐하세요?",
+              "ja": "何があってそんなにうれしそうなんですか。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "What has made you so happy?",
+              "ko": "무슨 일 때문에 그렇게 기뻐하세요?",
+              "ja": "何があってそんなにうれしそうなんですか。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "We finally reached a deal with that company from last time.",
+              "ko": "저희가 지난번 그 회사와의 거래를 드디어 성사시켰습니다.",
+              "ja": "私たちは前回のあの会社との取引をついにまとめました。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "That's great! You work so hard, and the company will keep getting better.",
+              "ko": "정말 잘됐네요! 그렇게 열심히 일하니 회사는 점점 더 좋아질 거예요.",
+              "ja": "それはよかったですね。あなたはそんなに努力しているので、会社はますます良くなるでしょう。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "I originally thought doing business was simple, but later I realized it actually isn't easy. Now making money is getting harder and harder.",
+              "ko": "저는 원래 사업이 아주 간단하다고 생각했는데, 나중에 사실 쉽지 않다는 걸 알게 됐습니다. 요즘은 돈 벌기가 점점 더 어려워졌습니다.",
+              "ja": "私はもともと商売は簡単だと思っていましたが、後になって実は簡単ではないと気づきました。今はお金を稼ぐのがますます難しくなっています。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Take it slowly. Everything is difficult at the beginning, and the important thing is to build up more experience.",
+              "ko": "천천히 하세요. 모든 일은 시작이 어렵고, 중요한 것은 경험을 많이 쌓는 것입니다.",
+              "ja": "ゆっくりやりましょう。何事も始めは難しいもので、大切なのは経験をたくさん積むことです。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "We have already completed all of this year's work according to plan. During this period, although the work was very intense and we encountered many difficulties along the way, thanks to everyone's efforts, we successfully solved the problems and completed the work smoothly. I am very grateful for everyone's help! In addition, Manager Ma asked me to tell everyone some good news: because everyone completed the work on time, the company has decided to give each person an extra 3,000 yuan bonus this month. Thank you all for your hard work over the past three-plus months, and I hope we can achieve even greater results next year!",
+              "ko": "우리는 올해의 일을 이미 계획대로 모두 마쳤습니다. 이 기간 동안 일이 매우 빠듯했고 중간에 많은 어려움도 겪었지만, 여러분의 노력 덕분에 문제를 성공적으로 해결하고 일을 순조롭게 끝냈습니다. 저를 도와주신 여러분께 진심으로 감사드립니다! 또한 마 매니저가 여러분께 좋은 소식을 전해 달라고 했습니다. 여러분이 일을 제시간에 마쳤기 때문에 회사는 이번 달에 모든 사람에게 3천 위안의 보너스를 더 지급하기로 했습니다. 지난 세 달여 동안 열심히 일해 주셔서 감사드리며, 내년에는 더 큰 성과가 있기를 바랍니다!",
+              "ja": "私たちは今年の仕事をすべて計画どおりに終えました。この間、仕事はとても忙しく、途中で多くの困難にも遭いましたが、皆さんの努力のおかげで問題をうまく解決し、仕事を順調に完了しました。私を助けてくださった皆さんに心から感謝します。また、馬マネージャーから皆さんに良い知らせを伝えるよう頼まれました。皆さんが期限どおりに仕事を終えたため、会社は今月、一人につき三千元のボーナスを追加で支給することにしました。この三か月余りの努力に感謝します。来年はさらに大きな成果を上げられることを願っています。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "When young people first start working, they should not be too anxious to make money, and they should not only focus on salary and bonuses. In the first few years of work, what matters is enriching their work experience, learning ways to communicate with colleagues, and accumulating professional knowledge. These things are much more important than income. But many times, we have no choice but to do work we are unwilling to do, or even work we strongly dislike. At that point, what we need most is a sense of responsibility toward our work. Even if a person is highly capable and very experienced, if they have no sense of responsibility toward their work, it will still be difficult for them to do the job well.",
+              "ko": "젊은 사람이 막 일을 시작할 때는 돈 버는 데 너무 조급해하지 말고, 눈앞에 월급과 보너스만 보아서는 안 됩니다. 일의 처음 몇 년 동안 중요한 것은 자신의 업무 경험을 풍부하게 하고, 동료와 소통하는 방법을 배우며, 전문 지식을 쌓는 것입니다. 이런 것들은 수입보다 훨씬 더 중요합니다. 하지만 많은 경우 우리는 하기 싫은 일, 심지어 매우 싫어하는 일도 어쩔 수 없이 해야 합니다. 이때 가장 필요한 것은 일에 대한 책임감입니다. 한 사람이 능력이 아무리 높고 경험이 아무리 풍부하더라도, 일에 대한 책임감이 없다면 일을 잘 해내기 어렵습니다.",
+              "ja": "若い人が仕事を始めたばかりのころは、お金を稼ぐことをあまり急がず、給料やボーナスだけに目を向けてはいけません。仕事を始めて数年の間に大切なのは、自分の仕事経験を豊かにし、同僚と交流する方法を学び、専門知識を積み重ねることです。これらは収入よりずっと重要です。しかし多くの場合、私たちは自分がやりたくない仕事、さらにはとても嫌いな仕事もしなければならないことがあります。その時に最も必要なのは、仕事に対する責任感です。たとえ能力が高く経験が豊富でも、仕事に対する責任感がなければ、仕事をうまくやり遂げるのは難しいです。"
+            }
+          }
+        }
+      }
+    },
     "lessonTitle": {
       "en": "Don't be too anxious to make money",
       "ko": "너무 서둘러 돈을 벌지 마세요",
@@ -149,6 +1689,26 @@
         "en": "Xiao Lin and Xiao Li talk about Xiao Li's job",
         "ko": "샤오린과 샤오리가 샤오리의 직장에 대해 이야기하다",
         "ja": "小林と小李が小李の仕事について話す"
+      },
+      "2": {
+        "en": "Manager Wang and Xiao Li talk about work",
+        "ko": "왕 매니저와 샤오리가 일에 대해 이야기하다",
+        "ja": "王マネージャーと小李が仕事について話す"
+      },
+      "3": {
+        "en": "Manager Wang and Manager Ma talk about work",
+        "ko": "왕 매니저와 마 매니저가 일에 대해 이야기하다",
+        "ja": "王マネージャーと馬マネージャーが仕事について話す"
+      },
+      "4": {
+        "en": "The company completes this year's work plan on schedule",
+        "ko": "회사가 올해 업무 계획을 제때 완료하다",
+        "ja": "会社が今年の仕事計画を予定どおり完了する"
+      },
+      "5": {
+        "en": "Young people should not be too anxious to make money when they first start working",
+        "ko": "젊은 사람은 일을 막 시작할 때 돈 버는 데 너무 조급해하지 말아야 한다",
+        "ja": "若い人は仕事を始めたばかりの時、お金を稼ぐことを急ぎすぎてはいけない"
       }
     }
   }

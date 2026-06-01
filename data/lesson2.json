@@ -5,273 +5,321 @@
     {
       "word": "适应",
       "pinyin": "shìyìng",
-      "meaning": "to get used to"
+      "meaning": "v. to get used to"
     },
     {
       "word": "交",
       "pinyin": "jiāo",
-      "meaning": "to make (friends)"
+      "meaning": "v. to make (friends)"
     },
     {
       "word": "平时",
       "pinyin": "píngshí",
-      "meaning": "normal times"
+      "meaning": "n. normal times"
     },
     {
       "word": "逛",
       "pinyin": "guàng",
-      "meaning": "to stroll, to roam"
+      "meaning": "v. to stroll, to roam"
     },
     {
       "word": "短信",
       "pinyin": "duǎnxìn",
-      "meaning": "text message"
+      "meaning": "n. text message"
     },
     {
       "word": "正好",
       "pinyin": "zhènghǎo",
-      "meaning": "just in time, just right"
+      "meaning": "adv. just in time, just right"
     },
     {
       "word": "聚会",
       "pinyin": "jùhuì",
-      "meaning": "party, get-together"
+      "meaning": "n. party, get-together"
     },
     {
       "word": "联系",
       "pinyin": "liánxì",
-      "meaning": "to contact"
+      "meaning": "v. to contact"
     },
     {
       "word": "差不多",
       "pinyin": "chàbuduō",
-      "meaning": "almost"
+      "meaning": "adv. almost"
     },
     {
       "word": "专门",
       "pinyin": "zhuānmén",
-      "meaning": "specially"
+      "meaning": "adv. specially"
     },
     {
       "word": "毕业",
       "pinyin": "bìyè",
-      "meaning": "to graduate"
+      "meaning": "v. to graduate"
     },
     {
       "word": "麻烦",
       "pinyin": "máfan",
-      "meaning": "to bother"
+      "meaning": "v. to bother"
     },
     {
       "word": "好像",
       "pinyin": "hǎoxiàng",
-      "meaning": "as if"
+      "meaning": "adv. as if"
     },
     {
       "word": "重新",
       "pinyin": "chóngxīn",
-      "meaning": "again, once more"
+      "meaning": "adv. again, once more"
     },
     {
       "word": "尽管",
       "pinyin": "jǐn'guǎn",
-      "meaning": "although"
+      "meaning": "conj. although"
     },
     {
       "word": "真正",
       "pinyin": "zhēnzhèng",
-      "meaning": "true, real"
+      "meaning": "adj. true, real"
     },
     {
       "word": "友谊",
       "pinyin": "yǒuyì",
-      "meaning": "friendship"
+      "meaning": "n. friendship"
     },
     {
       "word": "丰富",
       "pinyin": "fēngfù",
-      "meaning": "to enrich"
+      "meaning": "v. to enrich"
     },
     {
       "word": "无聊",
       "pinyin": "wúliáo",
-      "meaning": "boring"
+      "meaning": "adj. boring"
     },
     {
       "word": "讨厌",
       "pinyin": "tǎoyàn",
-      "meaning": "to dislike"
+      "meaning": "v. to dislike"
     },
     {
       "word": "却",
       "pinyin": "què",
-      "meaning": "but, yet"
+      "meaning": "adv. but, yet"
     },
     {
       "word": "周围",
       "pinyin": "zhōuwéi",
-      "meaning": "surrounding"
+      "meaning": "n. surrounding"
     },
     {
       "word": "交流",
       "pinyin": "jiāoliú",
-      "meaning": "to communicate"
+      "meaning": "v. to communicate"
     },
     {
       "word": "理解",
       "pinyin": "lǐjiě",
-      "meaning": "to understand"
+      "meaning": "v. to understand"
     },
     {
       "word": "镜子",
       "pinyin": "jìngzi",
-      "meaning": "mirror"
+      "meaning": "n. mirror"
     },
     {
       "word": "而",
       "pinyin": "ér",
-      "meaning": "while, yet"
+      "meaning": "conj. while, yet"
     },
     {
       "word": "当",
       "pinyin": "dāng",
-      "meaning": "when"
+      "meaning": "prep. when"
     },
     {
       "word": "困难",
       "pinyin": "kùnnan",
-      "meaning": "difficulty"
+      "meaning": "n. difficulty"
     },
     {
       "word": "及时",
       "pinyin": "jíshí",
-      "meaning": "in time"
+      "meaning": "adv. in time"
     },
     {
       "word": "陪",
       "pinyin": "péi",
-      "meaning": "to accompany"
+      "meaning": "v. to accompany"
     }
   ],
   "grammar": [
     {
       "point": "正好",
       "explanation": "'正好' can be used as an adjective to mean 'just right', or as an adverb to mean 'it is the right time or opportunity to do something'.",
-      "formal_example": "我们下午要去踢足球, <b>正好</b>一起去吧。",
-      "formal_pinyin": "Wǒmen xiàwǔ yào qù tī zúqiú, zhènghǎo yīqǐ qù ba.",
-      "formal_translation": "We're going to play football this afternoon, let's go together.",
+      "formal_examples": [
+        {
+          "chinese": "我们下午要去踢足球, <b>正好</b>一起去吧。",
+          "pinyin": "Wǒmen xiàwǔ yào qù tī zúqiú, zhènghǎo yīqǐ qù ba.",
+          "translation": "We're going to play football this afternoon, let's go together."
+        }
+      ],
       "colloquial_pattern": "赶得早不如赶得巧 / 凑巧",
-      "colloquial_version": "咱下午去踢球, 你来得<b>正好</b>, <b>凑巧</b>一块儿呗。",
-      "colloquial_pinyin": "Zán xiàwǔ qù tīqiú, nǐ láide zhènghǎo, còuqiǎo yīkuàir bei.",
-      "colloquial_translation": "We're playing ball this afternoon. You came at just the right time, let's just go together.",
+      "colloquial_examples": [
+        {
+          "chinese": "咱下午去踢球, 你来得<b>正好</b>, <b>凑巧</b>一块儿呗。",
+          "pinyin": "Zán xiàwǔ qù tīqiú, nǐ láide zhènghǎo, còuqiǎo yīkuàir bei.",
+          "translation": "We're playing ball this afternoon. You came at just the right time, let's just go together."
+        }
+      ],
       "nuance": "Using '凑巧' (coincidentally) or ending with '呗' makes it sound more casual and friendly among peers."
     },
     {
       "point": "差不多",
       "explanation": "'差不多' can be used as an adjective to mean 'approximate' or 'without much difference'. It can also be used as an adverb to indicate being close in terms of degree, scope, time, distance, or quantity.",
-      "formal_example": "班里同学你联系得怎么样了？来多少人？<b>差不多</b>一半儿吧。",
-      "formal_pinyin": "Bānlǐ tóngxué nǐ liánxì de zěnmeyàng le? Lái duōshǎo rén? Chàbuduō yībànr ba.",
-      "formal_translation": "How's the contact with the classmates going? How many are coming? About half, I guess.",
+      "formal_examples": [
+        {
+          "chinese": "班里同学你联系得怎么样了？来多少人？<b>差不多</b>一半儿吧。",
+          "pinyin": "Bānlǐ tóngxué nǐ liánxì de zěnmeyàng le? Lái duōshǎo rén? Chàbuduō yībànr ba.",
+          "translation": "How's the contact with the classmates going? How many are coming? About half, I guess."
+        }
+      ],
       "colloquial_pattern": "大差不差 (dà chā bù chā) / 基本上 (jīběn shàng)",
-      "colloquial_version": "班里人联系得<b>大差不差</b>了，<b>基本上</b>能来一半儿。",
-      "colloquial_pinyin": "Bānlǐ rén liánxì de dà chā bù chā le, jīběn shàng néng lái yībànr.",
-      "colloquial_translation": "The classmates are mostly contacted, basically about half can come.",
+      "colloquial_examples": [
+        {
+          "chinese": "班里人联系得<b>大差不差</b>了，<b>基本上</b>能来一半儿。",
+          "pinyin": "Bānlǐ rén liánxì de dà chā bù chā le, jīběn shàng néng lái yībànr.",
+          "translation": "The classmates are mostly contacted, basically about half can come."
+        }
+      ],
       "nuance": "'大差不差' is a more northern, idiomatic way to say 'almost there' or 'pretty much' in a colloquial setting."
     },
     {
       "point": "差不多 vs 几乎",
       "explanation": "Both mean 'almost', but '差不多' is more common in spoken Chinese and can be an adjective or precede numbers. '几乎' is more formal and often used for undesirable things that almost happened.",
-      "formal_example": "他汉语说得很好, <b>几乎</b>跟中国人一样 / 我<b>几乎</b>忘了告诉你了。",
-      "formal_pinyin": "Tā hànyǔ shuō de hěn hǎo, jīhū gēn Zhōngguórén yīyàng / Wǒ jīhū wàngle gàosù nǐ le.",
-      "formal_translation": "He speaks Chinese so well, he's almost like a native / I almost forgot to tell you.",
+      "formal_examples": [
+        {
+          "chinese": "他汉语说得很好, <b>几乎</b>跟中国人一样。",
+          "pinyin": "Tā hànyǔ shuō de hěn hǎo, jīhū gēn Zhōngguórén yīyàng.",
+          "translation": "He speaks Chinese so well, he's almost like a native."
+        },
+        {
+          "chinese": "我<b>几乎</b>忘了告诉你了。",
+          "pinyin": "Wǒ jīhū wàngle gàosù nǐ le.",
+          "translation": "I almost forgot to tell you."
+        }
+      ],
       "colloquial_pattern": "差一点儿 (chà yīdiǎnr)",
-      "colloquial_version": "哎呀，我<b>差一点儿</b>就忘了跟你说这事儿了。",
-      "colloquial_pinyin": "Āiyā, wǒ chà yīdiǎnr jiù wàngle gēn nǐ shuō zhè shìr le.",
-      "colloquial_translation": "Oops, I almost forgot to tell you about this matter.",
+      "colloquial_examples": [
+        {
+          "chinese": "哎呀，我<b>差一点儿</b>就忘了跟你说这事儿了。",
+          "pinyin": "Āiyā, wǒ chà yīdiǎnr jiù wàngle gēn nǐ shuō zhè shìr le.",
+          "translation": "Oops, I almost forgot to tell you about this matter."
+        }
+      ],
       "nuance": "In daily speech, '差一点儿' is much more frequently used than '几乎' to describe a close call or something that almost happened but didn't."
     },
     {
       "point": "尽管",
       "explanation": "'尽管' is a conjunction used to state a fact in the first clause, followed by a transition word like '但是', '可是', '却', or '还是' in the second clause to show a result that wouldn't normally happen.",
-      "formal_example": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。",
-      "formal_pinyin": "Jǐnguǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de.",
-      "formal_translation": "Although we have been graduated for many years, we still keep in regular contact.",
+      "formal_examples": [
+        {
+          "chinese": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。",
+          "pinyin": "Jǐnguǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de.",
+          "translation": "Although we have been graduated for many years, we still keep in regular contact."
+        }
+      ],
       "colloquial_pattern": "虽说... (suīshuō...)",
-      "colloquial_version": "<b>虽说</b>毕业好久了，咱俩这关系还是杠杠的，经常聚聚。",
-      "colloquial_pinyin": "Suīshuō bìyè hǎojiǔ le, zán liǎ zhè guānxì háishì gànggàng de, jīngcháng jùju.",
-      "colloquial_translation": "Even though we graduated ages ago, our relationship is still solid; we get together often.",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>虽说</b>毕业好久了，咱俩这关系还是杠杠的，经常聚聚。",
+          "pinyin": "Suīshuō bìyè hǎojiǔ le, zán liǎ zhè guānxì háishì gànggàng de, jīngcháng jùju.",
+          "translation": "Even though we graduated ages ago, our relationship is still solid; we get together often."
+        }
+      ],
       "nuance": "'虽说' is a very common oral substitute for '尽管' or '虽然'. Adding '杠杠的' (slang for excellent/solid) makes the sentence sound like a real conversation between close friends."
     },
     {
       "point": "却",
       "explanation": "The adverb '却' is used after the subject and before the verb to indicate a transition in meaning, often with a softer tone than '但是'.",
-      "formal_example": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。",
-      "formal_pinyin": "Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu.",
-      "formal_translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends.",
+      "formal_examples": [
+        {
+          "chinese": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。",
+          "pinyin": "Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu.",
+          "translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends."
+        }
+      ],
       "colloquial_pattern": "倒 (dào) / 反而 (fǎn'ér)",
-      "colloquial_version": "住对门儿好几年，<b>倒</b>连个招呼都没打过，真是够尴尬的。",
-      "colloquial_pinyin": "Zhù duìménr hǎojǐ nián, dào lián gè zhāohu dōu méi dǎ guò, zhēnshi gòu gāngà de.",
-      "colloquial_translation": "Living across from each other for years, yet not even a greeting was exchanged; it's quite awkward.",
+      "colloquial_examples": [
+        {
+          "chinese": "住对门儿好几年，<b>倒</b>连个招呼都没打过，真是够尴尬的。",
+          "pinyin": "Zhù duìménr hǎojǐ nián, dào lián gè zhāohu dōu méi dǎ guò, zhēnshi gòu gāngà de.",
+          "translation": "Living across from each other for years, yet not even a greeting was exchanged; it's quite awkward."
+        }
+      ],
       "nuance": "In spoken Chinese, '倒' is often used similarly to '却' to express something unexpected or contrary to expectation. Adding '够...的' emphasizes the degree of the situation (awkwardness)."
     },
     {
       "point": "而",
       "explanation": "The conjunction '而' is used in compound sentences to connect two clauses. It can represent a coordinate relationship (parallel) or an adversative relationship (contrast/transition).",
-      "formal_example": "有些人觉得朋友就是能和自己一起快乐的人，<b>而</b>我的理解是：当你遇到困难的时候，真正的朋友会站出来，及时给你帮助。",
-      "formal_pinyin": "Yǒuxiē rén juédé péngyǒu jiùshì néng hé zìjǐ yīqǐ kuàilè de rén, ér wǒ de lǐjiě shì: dāng nǐ yùdào kùnnan de shíhou, zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
-      "formal_translation": "Some people feel that friends are just people who can be happy with them, but my understanding is: when you encounter difficulties, a true friend will stand up and give you timely help.",
+      "formal_examples": [
+        {
+          "chinese": "有些人觉得朋友就是能和自己一起快乐的人，<b>而</b>我的理解是：当你遇到困难的时候，真正的朋友会站出来，及时给你帮助。",
+          "pinyin": "Yǒuxiē rén juédé péngyǒu jiùshì néng hé zìjǐ yīqǐ kuàilè de rén, ér wǒ de lǐjiě shì: dāng nǐ yùdào kùnnan de shíhou, zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
+          "translation": "Some people feel that friends are just people who can be happy with them, but my understanding is: when you encounter difficulties, a true friend will stand up and give you timely help."
+        }
+      ],
       "colloquial_pattern": "..., 可是 (kěshì) / ..., 倒 (dào)",
-      "colloquial_version": "大家都忙着玩手机，<b>而</b>他却在一旁安静地看书。",
-      "colloquial_pinyin": "Dàjiā dōu mángzhe wán shǒujī, ér tā què zài yīpáng ānjìng de kànshū.",
-      "colloquial_translation": "Everyone is busy playing on their phones, while he is quietly reading a book on the side.",
+      "colloquial_examples": [
+        {
+          "chinese": "大家都忙着玩手机，<b>而</b>他却在一旁安静地看书。",
+          "pinyin": "Dàjiā dōu mángzhe wán shǒujī, ér tā què zài yīpáng ānjìng de kànshū.",
+          "translation": "Everyone is busy playing on their phones, while he is quietly reading a book on the side."
+        }
+      ],
       "nuance": "'而' is slightly more formal and elegant than '但是' or '可是'. It is often used to create a balanced comparison between two subjects or situations. In daily conversation, it's frequently paired with '却' to strengthen the contrast."
     }
   ],
   "key_sentences": [
     {
-      "context": "Asking whether someone has settled into a new environment.",
-      "colloquial_translation": "You've been in China almost a year now. Settling in okay?",
-      "colloquial_pinyin": "Lái Zhōngguó yě kuài yīnián le ba? Xiànzài zài zhèrbianr hái suàn shìyìng ma?",
-      "colloquial_equivalent": "来中国也快一年了吧？现在在这边儿还算<b>适应</b>吗？",
+      "sentence": "来中国快一年了，你<b>适应</b>这儿的生活了吗？",
       "pinyin": "Lái Zhōngguó kuài yīnián le, nǐ shìyìng zhèr de shēnghuó le ma?",
       "translation": "Have you got used to the life here after being in China for nearly a year?",
-      "sentence": "来中国快一年了，你<b>适应</b>这儿的生活了吗？"
+      "colloquial_equivalent": "来中国也快一年了吧？现在在这边儿还算<b>适应</b>吗？",
+      "colloquial_pinyin": "Lái Zhōngguó yě kuài yīnián le ba? Xiànzài zài zhèrbianr hái suàn shìyìng ma?",
+      "context": "Asking whether someone has settled into a new environment."
     },
     {
-      "context": "Emphasizing a friendship that has lasted for years.",
-      "colloquial_translation": "It's been ages since graduation, but we're still super close and talk all the time.",
-      "colloquial_pinyin": "Suīshuō bìyè hǎojiǔ le, zán liǎ zhè guānxì háishi gànggàng de, jīngcháng liánxì.",
-      "colloquial_equivalent": "<b>虽说</b>毕业好久了，咱俩这关系还是杠杠的，经常联系。",
+      "sentence": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。",
       "pinyin": "Jǐnguǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de.",
       "translation": "Although we have been graduated for many years, we still keep in regular contact.",
-      "sentence": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。"
+      "colloquial_equivalent": "<b>虽说</b>毕业好久了，咱俩这关系还是杠杠的，经常联系。",
+      "colloquial_pinyin": "Suīshuō bìyè hǎojiǔ le, zán liǎ zhè guānxì háishi gànggàng de, jīngcháng liánxì.",
+      "context": "Emphasizing a friendship that has lasted for years."
     },
     {
-      "context": "Describing what true friendship looks like in a hard moment.",
-      "colloquial_translation": "A real friend shows up right when things get tough and helps you out.",
-      "colloquial_pinyin": "Zhēn péngyou jiùshì nǐ yǒu shìr de shíhou, mǎshàng zhàn chūlái lā nǐ yī bǎ.",
-      "colloquial_equivalent": "真朋友就是你有事儿的时候，马上站出来拉你一把。",
+      "sentence": "真正的朋友会站出来，<b>及时</b>给你帮助。",
       "pinyin": "Zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
       "translation": "A true friend will stand up and give you timely help.",
-      "sentence": "真正的朋友会站出来，<b>及时</b>给你帮助。"
+      "colloquial_equivalent": "真朋友就是你有事儿的时候，马上站出来拉你一把。",
+      "colloquial_pinyin": "Zhēn péngyou jiùshì nǐ yǒu shìr de shíhou, mǎshàng zhàn chūlái lā nǐ yī bǎ.",
+      "context": "Describing what true friendship looks like in a hard moment."
     },
     {
-      "context": "Talking about why friends make life feel fuller.",
-      "colloquial_translation": "You really can't do without friends. They're what make life fun.",
-      "colloquial_pinyin": "Rén huózhe nǎr néng méi péngyou a? Yǒu péngyou rìzi cái gèng yǒu jìnr.",
-      "colloquial_equivalent": "人活着哪儿能没朋友啊？有朋友，日子才更有劲儿。",
+      "sentence": "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。",
       "pinyin": "Měi gèrén dōu xūyào péngyǒu, péngyǒu kěyǐ fēngfù wǒmen de shēnghuó.",
       "translation": "Everyone needs friends, and friends can enrich our lives.",
-      "sentence": "每个人都需要朋友，朋友可以<b>丰富</b>我们的生活。"
+      "colloquial_equivalent": "人活着哪儿能没朋友啊？有朋友，日子才更有劲儿。",
+      "colloquial_pinyin": "Rén huózhe nǎr néng méi péngyou a? Yǒu péngyou rìzi cái gèng yǒu jìnr.",
+      "context": "Talking about why friends make life feel fuller."
     },
     {
-      "context": "Giving advice about personality and making friends.",
-      "colloquial_translation": "Being a little prickly doesn't mean everyone will hate you, but it definitely makes friendship harder.",
-      "colloquial_pinyin": "Xìngge yǒudiǎn chōu bù děngyú rénrén dōu tǎoyàn nǐ, kě péngyou quèshí bù tài hǎo jiāo.",
-      "colloquial_equivalent": "性格有点儿冲，不等于人人都讨厌你，可朋友确实不太好交。",
+      "sentence": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。",
       "pinyin": "Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu.",
       "translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends.",
-      "sentence": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。"
+      "colloquial_equivalent": "性格有点儿冲，不等于人人都讨厌你，可朋友确实不太好交。",
+      "colloquial_pinyin": "Xìngge yǒudiǎn chōu bù děngyú rénrén dōu tǎoyàn nǐ, kě péngyou quèshí bù tài hǎo jiāo.",
+      "context": "Giving advice about personality and making friends."
     }
   ],
   "texts": [
@@ -392,7 +440,7 @@
         },
         {
           "speaker": "小李",
-          "text": "那太好了！<b>麻烦</b>你跟她<b>联系</b>一下，请 she 一起来参加同学<b>聚会</b>。<b>聚会</b>就在学校门口那个饭店，六点半。别迟到啊！",
+          "text": "那太好了！<b>麻烦</b>你跟她<b>联系</b>一下，请她一起来参加同学<b>聚会</b>。<b>聚会</b>就在学校门口那个饭店，六点半。别迟到啊！",
           "pinyin": "Nà tài hǎo le! Máfan nǐ gēn tā liánxì yīxià, qǐng tā yīqǐ lái cānjiā tóngxué jùhuì. Jùhuì jiù zài xuéxiào ménkǒu nàge fàndiàn, liùdiǎn bàn. Bié chídào a!",
           "translation": "That's great! Could I trouble you to contact her and invite her to join the reunion? The reunion is at the restaurant at the school entrance, at 6:30. Don't be late!"
         },
@@ -565,7 +613,7 @@
         {
           "word": "交流",
           "pinyin": "jiāoliú",
-          "meaning": "v. to exchange, to communicate"
+          "meaning": "v. to communicate"
         }
       ]
     },

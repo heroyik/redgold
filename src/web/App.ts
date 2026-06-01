@@ -587,10 +587,17 @@ class App extends HTMLElement {
           box-sizing: border-box;
         }
 
+        .app-shell {
+          min-height: 100vh;
+          padding-top: calc(var(--safe-top, 0px) + 3.55rem);
+        }
+
         .sticky-header {
-          position: sticky;
+          position: fixed;
           top: 0;
-          z-index: 1000;
+          left: 0;
+          right: 0;
+          z-index: 1100;
           background: rgba(253, 251, 247, 0.9);
           backdrop-filter: blur(20px);
           -webkit-backdrop-filter: blur(20px);
@@ -723,6 +730,18 @@ class App extends HTMLElement {
           box-sizing: border-box;
         }
 
+        .lesson-toolbar {
+          position: sticky;
+          top: calc(var(--safe-top, 0px) + 3.55rem);
+          z-index: 950;
+          margin-bottom: 1.5rem;
+          padding: 0.65rem 0 0.75rem;
+          background: rgba(253, 251, 247, 0.94);
+          border-bottom: 1px solid rgba(139, 0, 0, 0.06);
+          backdrop-filter: blur(18px);
+          -webkit-backdrop-filter: blur(18px);
+        }
+
         @media (max-width: 600px) {
           .app-container {
             padding: 1rem 0.5rem;
@@ -731,7 +750,7 @@ class App extends HTMLElement {
 
         header {
           text-align: center;
-          margin: 1rem 0 2rem;
+          margin: 0 0 1rem;
         }
 
         h1 {
@@ -763,10 +782,8 @@ class App extends HTMLElement {
           border: 1px solid rgba(139, 0, 0, 0.1);
           border-radius: 24px;
           padding: 0.25rem;
-          margin-bottom: 1.5rem;
-          position: sticky;
-          top: 6.5rem; 
-          z-index: 900;
+          margin-bottom: 0;
+          position: static;
           backdrop-filter: blur(15px);
           -webkit-backdrop-filter: blur(15px);
           box-shadow: 0 8px 24px rgba(0,0,0,0.04);
@@ -891,19 +908,21 @@ class App extends HTMLElement {
         </div>
 
         <div class="app-container">
-          <header>
-            <h1>${this._data ? this._data.title.split('(')[0].trim() : 'HSK 4'}</h1>
-            <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || '' : ''}</p>
-            ${this._data && this._data.translations?.lessonTitle?.[this._language] ? `<p class="locale-title">${this._data.translations.lessonTitle[this._language]}</p>` : ''}
-          </header>
+          <div class="lesson-toolbar">
+            <header>
+              <h1>${this._data ? this._data.title.split('(')[0].trim() : 'HSK 4'}</h1>
+              <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || '' : ''}</p>
+              ${this._data && this._data.translations?.lessonTitle?.[this._language] ? `<p class="locale-title">${this._data.translations.lessonTitle[this._language]}</p>` : ''}
+            </header>
 
-          <nav>
-            <button class="tab-btn ${this._activeTab === 'vocab' ? 'active' : ''}" id="tab-vocab">${ui.tabVocab}</button>
-            <button class="tab-btn ${this._activeTab === 'grammar' ? 'active' : ''}" id="tab-grammar">${ui.tabGrammar}</button>
-            <button class="tab-btn ${this._activeTab === 'text' ? 'active' : ''}" id="tab-text">${ui.tabTexts}</button>
-            <button class="tab-btn ${this._activeTab === 'review' ? 'active' : ''}" id="tab-review">${ui.tabReview}</button>
-            <button class="tab-btn ${this._activeTab === 'mastery' ? 'active' : ''}" id="tab-mastery">${ui.tabMastery}</button>
-          </nav>
+            <nav>
+              <button class="tab-btn ${this._activeTab === 'vocab' ? 'active' : ''}" id="tab-vocab">${ui.tabVocab}</button>
+              <button class="tab-btn ${this._activeTab === 'grammar' ? 'active' : ''}" id="tab-grammar">${ui.tabGrammar}</button>
+              <button class="tab-btn ${this._activeTab === 'text' ? 'active' : ''}" id="tab-text">${ui.tabTexts}</button>
+              <button class="tab-btn ${this._activeTab === 'review' ? 'active' : ''}" id="tab-review">${ui.tabReview}</button>
+              <button class="tab-btn ${this._activeTab === 'mastery' ? 'active' : ''}" id="tab-mastery">${ui.tabMastery}</button>
+            </nav>
+          </div>
 
           <main>
             ${this._data ? this.renderContent() : `
