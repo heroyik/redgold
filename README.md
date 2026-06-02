@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.9.76-B8860B?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.9.78-B8860B?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
@@ -126,7 +126,7 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 
 ---
 
-### v0.9.76 — 2026-06-02
+### v0.9.78 — 2026-06-02
 > *Lesson 5 Complete.* The textbook data pipeline now covers Lesson 5.
 
 - 📚 **Lesson 5 Textbook Data Complete** — Added `data/lesson5.json` for `王静在家具店买沙发`, covering Text 1-5, vocabulary, grammar notes, comparison content, same-character word notes, mastery sentences, and locale data.
