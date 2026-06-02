@@ -443,6 +443,41 @@
         }
       ],
       "nuance": "甚至 highlights an unexpectedly strong or extreme item. In casual speech, 连……都…… can create a similar sense of emphasis."
+    },
+    {
+      "point": "同字词：法",
+      "explanation": "Words with the same character “法”: 办法, 法律, 方法.",
+      "formal_examples": [
+        {
+          "chinese": "要想完全解决这个难题，还需要找更好的<b>办法</b>。",
+          "pinyin": "Yào xiǎng wánquán jiějué zhège nántí, hái xūyào zhǎo gèng hǎo de bànfǎ.",
+          "translation": "To completely solve this difficult problem, we still need to find a better way."
+        },
+        {
+          "chinese": "我希望能够用<b>法律</b>来帮助别人，所以上大学的时候，我选择了<b>法律</b>专业。",
+          "pinyin": "Wǒ xīwàng nénggòu yòng fǎlǜ lái bāngzhù biérén, suǒyǐ shàng dàxué de shíhou, wǒ xuǎnzé le fǎlǜ zhuānyè.",
+          "translation": "I hope to be able to use law to help others, so when I went to university, I chose a law major."
+        },
+        {
+          "chinese": "在工作中，应该根据不同的人、不同的事选择不同的<b>方法</b>。",
+          "pinyin": "Zài gōngzuò zhōng, yīnggāi gēnjù bùtóng de rén, bùtóng de shì xuǎnzé bùtóng de fāngfǎ.",
+          "translation": "At work, one should choose different methods according to different people and different matters."
+        }
+      ],
+      "colloquial_pattern": "办法 / 法律 / 方法",
+      "colloquial_examples": [
+        {
+          "chinese": "这个问题想彻底解决，还得想个更靠谱的<b>办法</b>。",
+          "pinyin": "Zhège wèntí xiǎng chèdǐ jiějué, hái děi xiǎng ge gèng kàopǔ de bànfǎ.",
+          "translation": "If we want to solve this problem completely, we still need a more reliable way."
+        },
+        {
+          "chinese": "做事得看人看情况，<b>方法</b>不能一成不变。",
+          "pinyin": "Zuò shì děi kàn rén kàn qíngkuàng, fāngfǎ bù néng yìchéng-bùbiàn.",
+          "translation": "When doing things, you have to consider the person and situation; the method cannot stay the same."
+        }
+      ],
+      "nuance": "This is an expansion note for words sharing the character “法”, not a single grammar pattern. The formal examples preserve the textbook word-family usage."
     }
   ],
   "key_sentences": [
@@ -1425,6 +1460,57 @@
               "en": "If you are always late, people will stop trusting you and may even not want to work with you anymore.",
               "ko": "늘 지각하면 사람들이 당신을 믿지 않게 되고, 심지어 앞으로 함께 일하고 싶어 하지 않을 수도 있다.",
               "ja": "いつも遅刻していると、人はあなたを信頼しなくなり、さらには今後一緒に働きたくないと思うかもしれない。"
+            }
+          }
+        ]
+      },
+      "同字词：法": {
+        "formal_translation": {
+          "en": "Words with the same character “法”: 办法, 法律, 方法.",
+          "ko": "같은 글자 “法”를 포함한 단어: 办法, 法律, 方法.",
+          "ja": "同じ字「法」を含む語: 办法、法律、方法。"
+        },
+        "colloquial_translation": {
+          "en": "This is an expansion note for words sharing the character “法”, not a single grammar pattern. The formal examples preserve the textbook word-family usage.",
+          "ko": "이 항목은 하나의 문법 패턴이 아니라 “法”가 들어간 단어군 확장 노트입니다.",
+          "ja": "これは一つの文法パターンではなく、「法」を含む語群の拡張ノートです。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "To completely solve this difficult problem, we still need to find a better way.",
+              "ko": "이 어려운 문제를 완전히 해결하려면, 더 좋은 방법을 찾아야 한다.",
+              "ja": "この難題を完全に解決するには、さらに良い方法を探す必要がある。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I hope to be able to use law to help others, so when I went to university, I chose a law major.",
+              "ko": "나는 법률로 다른 사람을 도울 수 있기를 바라서, 대학에 갈 때 법률 전공을 선택했다.",
+              "ja": "私は法律を使って人を助けたいと思っていたので、大学に入る時に法律専攻を選んだ。"
+            }
+          },
+          {
+            "translation": {
+              "en": "At work, one should choose different methods according to different people and different matters.",
+              "ko": "일할 때에는 사람과 일에 따라 서로 다른 방법을 선택해야 한다.",
+              "ja": "仕事では、人や事柄に応じて異なる方法を選ぶべきだ。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "If we want to solve this problem completely, we still need a more reliable way.",
+              "ko": "이 문제를 완전히 해결하려면 더 믿을 만한 방법이 필요해.",
+              "ja": "この問題を完全に解決するには、もっと確かな方法が必要だ。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When doing things, you have to consider the person and situation; the method cannot stay the same.",
+              "ko": "일을 할 때는 사람과 상황을 봐야 하고, 방법이 늘 똑같을 수는 없어.",
+              "ja": "物事をする時は人や状況を見なければならず、方法がいつも同じではいけない。"
             }
           }
         ]

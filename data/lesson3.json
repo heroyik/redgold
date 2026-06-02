@@ -321,16 +321,16 @@
     },
     {
       "point": "另外",
-      "explanation": "'另外' can be used as a pronoun to mean another person or thing beyond what has already been mentioned, often in the structures '另外（+的）+ number-measure word（+ noun）' or '另外 + 的（+ noun）'. It can also be used as an adverb meaning beyond the previous scope, often with '还', '再', or '又', and as a conjunction meaning 'besides' to connect clauses or sentences. When meaning 'another' before a verb, '另' usually modifies a monosyllabic verb, while '另外' has no such restriction. '另外' can be a conjunction, but '另' cannot.",
+      "explanation": "The pronoun “另外” indicates person(s) or thing(s) other than those that have been mentioned, often used in the structures “另外（+的）+ Num-M（+N）” or “另外 + 的（+N）”. The adverb “另外” means “beyond the scope mentioned previously”, often used together with “还/再/又”. The conjunction “另外” means “besides” and is used to connect clauses or sentences.",
       "formal_examples": [
         {
           "chinese": "前面车有点儿多，我们走<b>另外</b>一条路，不会迟到的。",
-          "pinyin": "Qiánmiàn chē yǒudiǎnr duō, wǒmen zǒu lìngwài yì tiáo lù, bú huì chídào de.",
-          "translation": "There are quite a few cars ahead. Let's take another road; we won't be late."
+          "pinyin": "Qiánmiàn chē yǒu diǎnr duō, wǒmen zǒu lìngwài yì tiáo lù, bú huì chídào de.",
+          "translation": "There are quite a few cars ahead. Let’s take another road; we won’t be late."
         },
         {
           "chinese": "这件衣服有点儿大，你试试<b>另外</b>的那件吧。",
-          "pinyin": "Zhè jiàn yīfu yǒudiǎnr dà, nǐ shìshi lìngwài de nà jiàn ba.",
+          "pinyin": "Zhè jiàn yīfu yǒu diǎnr dà, nǐ shìshi lìngwài de nà jiàn ba.",
           "translation": "This piece of clothing is a bit big. Try that other one."
         },
         {
@@ -341,32 +341,17 @@
         {
           "chinese": "家里的空调坏了，咱们<b>另外再</b>买一个吧。",
           "pinyin": "Jiālǐ de kōngtiáo huài le, zánmen lìngwài zài mǎi yí ge ba.",
-          "translation": "The air conditioner at home is broken. Let's buy another one."
+          "translation": "The air conditioner at home is broken. Let’s buy another one."
         },
         {
           "chinese": "我学的就是法律专业，而且同事们都很喜欢我。<b>另外</b>，收入也不错。",
-          "pinyin": "Wǒ xué de jiù shì fǎlǜ zhuānyè, érqiě tóngshìmen dōu hěn xǐhuan wǒ. Lìngwài, shōurù yě búcuò.",
+          "pinyin": "Wǒ xué de jiùshì fǎlǜ zhuānyè, érqiě tóngshìmen dōu hěn xǐhuan wǒ. Lìngwài, shōurù yě búcuò.",
           "translation": "I studied law, and my colleagues all like me. Besides, the income is also good."
         },
         {
           "chinese": "现在上网买东西很方便，卖家可以把你买的东西送到你办公室或者家里。<b>另外</b>，还比较便宜。",
           "pinyin": "Xiànzài shàngwǎng mǎi dōngxi hěn fāngbiàn, màijiā kěyǐ bǎ nǐ mǎi de dōngxi sòng dào nǐ bàngōngshì huòzhě jiālǐ. Lìngwài, hái bǐjiào piányi.",
           "translation": "Shopping online is very convenient now. Sellers can deliver what you buy to your office or home. Besides, it is also relatively cheap."
-        },
-        {
-          "chinese": "最近小雨太忙了，没时间帮你，你还是<b>另外</b>/<b>另</b>找别人吧。",
-          "pinyin": "Zuìjìn Xiǎo Yǔ tài máng le, méi shíjiān bāng nǐ, nǐ háishi lìngwài/lìng zhǎo biérén ba.",
-          "translation": "Xiao Yu has been too busy recently and has no time to help you. You should find someone else."
-        },
-        {
-          "chinese": "他这次来参加会议，不但帮我们解决了现在的问题，还<b>另外</b>提供了不少新的材料。",
-          "pinyin": "Tā zhè cì lái cānjiā huìyì, búdàn bāng wǒmen jiějué le xiànzài de wèntí, hái lìngwài tígōng le bù shǎo xīn de cáiliào.",
-          "translation": "This time he came to attend the meeting, he not only helped us solve the current problem, but also provided quite a few new materials."
-        },
-        {
-          "chinese": "冬季应该注意多吃水果。<b>另外</b>，还要记得多喝水。",
-          "pinyin": "Dōngjì yīnggāi zhùyì duō chī shuǐguǒ. Lìngwài, hái yào jìde duō hē shuǐ.",
-          "translation": "In winter, you should pay attention to eating more fruit. In addition, remember to drink more water."
         }
       ],
       "colloquial_pattern": "别的 / 另一个 / 另外还 / 再说",
@@ -400,24 +385,69 @@
           "chinese": "网购是真方便，直接送到家，<b>另外还</b>便宜不少。",
           "pinyin": "Wǎnggòu shì zhēn fāngbiàn, zhíjiē sòng dào jiā, lìngwài hái piányi bù shǎo.",
           "translation": "Online shopping is really convenient; it gets delivered straight home, and it's also a lot cheaper."
+        }
+      ],
+      "nuance": "'另外' is clear and slightly formal, especially as a connector. In daily speech, people often use '别的' or '另一个' for another item, '另外还' for an extra point, and '再说' when adding another reason in a persuasive or conversational tone. Use '另' mainly in compact verb phrases like '另找' or '另买'; use '另外' when the following verb phrase is longer or when connecting a new sentence."
+    },
+    {
+      "point": "另外 vs 另",
+      "explanation": "Similarities: both “另外” and “另” can be used as pronouns referring to person(s) or thing(s) other than what has been mentioned; both can also be used as adverbs meaning “beyond the scope mentioned previously”. Differences: when used as pronouns, “另外” is often used in the structures “另外（+的）+ Num-M（+N）” or “另外 + 的（+N）”; the first structure may or may not include “的”, but if “另外” is replaced by “另”, “的” is not used. When used as adverbs, “另” usually modifies a monosyllabic verb, while “另外” has no such restriction. “另外” can be used as a conjunction, while “另” cannot.",
+      "formal_examples": [
+        {
+          "chinese": "他一边说谢谢，一边从手里拿出<b>另外</b>/<b>另</b>一本书。",
+          "pinyin": "Tā yìbiān shuō xièxie, yìbiān cóng shǒu lǐ náchū lìngwài/lìng yì běn shū.",
+          "translation": "While saying thank you, he took another book out of his hand."
         },
+        {
+          "chinese": "我今天晚上<b>另外</b>/<b>另</b>有安排，我们明天再一起吃饭吧。",
+          "pinyin": "Wǒ jīntiān wǎnshang lìngwài/lìng yǒu ānpái, wǒmen míngtiān zài yìqǐ chī fàn ba.",
+          "translation": "I have other arrangements tonight. Let’s eat together tomorrow."
+        },
+        {
+          "chinese": "刚才马克把车借走了，你骑<b>另外</b>/<b>另</b>一辆吧。",
+          "pinyin": "Gāngcái Mǎkè bǎ chē jiè zǒu le, nǐ qí lìngwài/lìng yí liàng ba.",
+          "translation": "Mark borrowed the bike just now. Ride another one."
+        },
+        {
+          "chinese": "刚才马克把车借走了，你骑<b>另外的</b>一辆吧。",
+          "pinyin": "Gāngcái Mǎkè bǎ chē jiè zǒu le, nǐ qí lìngwài de yí liàng ba.",
+          "translation": "Mark borrowed the bike just now. Ride one of the other ones."
+        },
+        {
+          "chinese": "刚才马克把车借走了，你骑<b>另外的</b>车吧。",
+          "pinyin": "Gāngcái Mǎkè bǎ chē jiè zǒu le, nǐ qí lìngwài de chē ba.",
+          "translation": "Mark borrowed the bike just now. Ride another bike."
+        },
+        {
+          "chinese": "最近小雨太忙了，没时间帮你，你还是<b>另外</b>/<b>另</b>找别人吧。",
+          "pinyin": "Zuìjìn Xiǎo Yǔ tài máng le, méi shíjiān bāng nǐ, nǐ háishì lìngwài/lìng zhǎo biérén ba.",
+          "translation": "Xiao Yu has been too busy recently and has no time to help you. You should find someone else."
+        },
+        {
+          "chinese": "他这次来参加会议，不但帮我们解决了现在的问题，还<b>另外</b>提供了不少新的材料。",
+          "pinyin": "Tā zhè cì lái cānjiā huìyì, bùdàn bāng wǒmen jiějué le xiànzài de wèntí, hái lìngwài tígōng le bù shǎo xīn de cáiliào.",
+          "translation": "This time he came to attend the meeting, he not only helped us solve the current problem, but also provided quite a few new materials."
+        },
+        {
+          "chinese": "冬季应该注意多吃水果。<b>另外</b>，还要记得多喝水。",
+          "pinyin": "Dōngjì yīnggāi zhùyì duō chī shuǐguǒ. Lìngwài, hái yào jìde duō hē shuǐ.",
+          "translation": "In winter, you should pay attention to eating more fruit. Besides, remember to drink more water."
+        }
+      ],
+      "colloquial_pattern": "另外 / 另找 / 别的",
+      "colloquial_examples": [
         {
           "chinese": "小雨最近忙飞了，帮不上你，你<b>另找</b>个人吧。",
           "pinyin": "Xiǎo Yǔ zuìjìn máng fēi le, bāng bú shàng nǐ, nǐ lìng zhǎo ge rén ba.",
-          "translation": "Xiao Yu has been insanely busy lately and can't help you. Find someone else."
-        },
-        {
-          "chinese": "他这次来不光把问题解决了，<b>另外还</b>带了不少新资料，挺给力的。",
-          "pinyin": "Tā zhè cì lái bùguāng bǎ wèntí jiějué le, lìngwài hái dài le bù shǎo xīn zīliào, tǐng gěilì de.",
-          "translation": "He didn't just solve the problem this time; he also brought a lot of new materials. Pretty helpful."
+          "translation": "Xiao Yu has been insanely busy lately and cannot help you. Find someone else."
         },
         {
           "chinese": "冬天水果得多吃，<b>另外</b>水也别忘了多喝。",
           "pinyin": "Dōngtiān shuǐguǒ děi duō chī, lìngwài shuǐ yě bié wàng le duō hē.",
-          "translation": "In winter, eat more fruit, and don't forget to drink more water too."
+          "translation": "In winter, eat more fruit, and do not forget to drink more water too."
         }
       ],
-      "nuance": "'另外' is clear and slightly formal, especially as a connector. In daily speech, people often use '别的' or '另一个' for another item, '另外还' for an extra point, and '再说' when adding another reason in a persuasive or conversational tone. Use '另' mainly in compact verb phrases like '另找' or '另买'; use '另外' when the following verb phrase is longer or when connecting a new sentence."
+      "nuance": "This is a comparison note rather than a single pattern. “另” is compact and often used before a short verb, while “另外” is more flexible and can also connect a new sentence as “besides”."
     },
     {
       "point": "首先……其次……",
@@ -508,6 +538,51 @@
         }
       ],
       "nuance": "'不管……都……' is a stable and versatile pattern for 'no matter what/who/where/how'. In conversation, '再……也……' is often punchier when talking about degree, like '再忙也...' for 'no matter how busy'. '管它...' is more casual and dismissive, closer to 'whatever it is...'."
+    },
+    {
+      "point": "同字词：时",
+      "explanation": "Words with the same character “时”: 时候, 时间, 及时, 平时, 准时.",
+      "formal_examples": [
+        {
+          "chinese": "他特别幽默，跟他在一起的<b>时候</b>，总是感觉<b>时间</b>过得很快。",
+          "pinyin": "Tā tèbié yōumò, gēn tā zài yìqǐ de shíhou, zǒng shì gǎnjué shíjiān guò de hěn kuài.",
+          "translation": "He is especially humorous. When I am with him, I always feel that time passes very quickly."
+        },
+        {
+          "chinese": "真不好意思，我和同学约好了去看电影，咱们换个<b>时间</b>吧。",
+          "pinyin": "Zhēn bù hǎoyìsi, wǒ hé tóngxué yuē hǎo le qù kàn diànyǐng, zánmen huàn ge shíjiān ba.",
+          "translation": "I am really sorry. I already made plans with a classmate to go see a movie. Let’s change the time."
+        },
+        {
+          "chinese": "在你遇到困难的<b>时候</b>，真正的朋友会站出来，<b>及时</b>给你帮助。",
+          "pinyin": "Zài nǐ yùdào kùnnan de shíhou, zhēnzhèng de péngyou huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
+          "translation": "When you encounter difficulties, true friends will stand up and help you in time."
+        },
+        {
+          "chinese": "<b>平时</b>安娜总是在学校上课，学习很紧张，很少有<b>时间</b>出去玩儿。",
+          "pinyin": "Píngshí Ānnà zǒng shì zài xuéxiào shàngkè, xuéxí hěn jǐnzhāng, hěn shǎo yǒu shíjiān chūqù wánr.",
+          "translation": "Usually Anna is always at school attending classes, and her studies are intense, so she rarely has time to go out and have fun."
+        },
+        {
+          "chinese": "明天上午8点50我们在学校西门见，大家可以准备点儿吃的东西和饮料，9点咱们<b>准时</b>出发。",
+          "pinyin": "Míngtiān shàngwǔ bā diǎn wǔshí wǒmen zài xuéxiào xī mén jiàn, dàjiā kěyǐ zhǔnbèi diǎnr chī de dōngxi hé yǐnliào, jiǔ diǎn zánmen zhǔnshí chūfā.",
+          "translation": "Tomorrow morning at 8:50 we will meet at the west gate of the school. Everyone can prepare some food and drinks, and at 9:00 we will set off on time."
+        }
+      ],
+      "colloquial_pattern": "时候 / 时间 / 及时 / 平时 / 准时",
+      "colloquial_examples": [
+        {
+          "chinese": "跟他在一块儿的<b>时候</b>，<b>时间</b>过得特别快。",
+          "pinyin": "Gēn tā zài yíkuàir de shíhou, shíjiān guò de tèbié kuài.",
+          "translation": "When I am with him, time passes especially quickly."
+        },
+        {
+          "chinese": "明天九点<b>准时</b>出发，别迟到。",
+          "pinyin": "Míngtiān jiǔ diǎn zhǔnshí chūfā, bié chídào.",
+          "translation": "We leave on time at nine tomorrow. Do not be late."
+        }
+      ],
+      "nuance": "This is an expansion note for words sharing the character “时”, not a single grammar pattern. The formal examples preserve the textbook word-family usage."
     }
   ],
   "key_sentences": [
@@ -1690,7 +1765,7 @@
         "formal_translation": {
           "ko": "'另外'는 앞에서 말한 범위 밖의 다른 사람이나 사물을 가리키거나, '추가로, 게다가'라는 뜻의 부사/접속사로도 쓰입니다. '另'은 보통 짧은 동사를 꾸미지만, '另外'는 더 자유롭게 쓸 수 있습니다.",
           "ja": "「另外」は、前に述べた範囲以外の人や物を指したり、「さらに、ほかに」という意味の副詞・接続詞として使われます。「另」は短い動詞を修飾することが多いですが、「另外」はより自由に使えます。",
-          "en": "'另外' can be used as a pronoun to mean another person or thing beyond what has already been mentioned, often in the structures '另外（+的）+ number-measure word（+ noun）' or '另外 + 的（+ noun）'. It can also be used as an adverb meaning beyond the previous scope, often with '还', '再', or '又', and as a conjunction meaning 'besides' to connect clauses or sentences. When meaning 'another' before a verb, '另' usually modifies a monosyllabic verb, while '另外' has no such restriction. '另外' can be a conjunction, but '另' cannot."
+          "en": "The pronoun “另外” indicates person(s) or thing(s) other than those that have been mentioned, often used in the structures “另外（+的）+ Num-M（+N）” or “另外 + 的（+N）”. The adverb “另外” means “beyond the scope mentioned previously”, often used together with “还/再/又”. The conjunction “另外” means “besides” and is used to connect clauses or sentences."
         },
         "colloquial_translation": {
           "ko": "대화에서는 다른 것을 말할 때 '别的', '另一个'을 자주 쓰고, 이유를 덧붙일 때는 '再说'이 자연스럽습니다. '另外还'은 추가 정보를 더할 때 좋습니다.",
@@ -1739,27 +1814,6 @@
               "ja": "今はネットで買い物するのが便利で、売り手は買った物をオフィスや家に届けてくれます。それに、比較的安いです。",
               "en": "Shopping online is very convenient now. Sellers can deliver what you buy to your office or home. Besides, it is also relatively cheap."
             }
-          },
-          {
-            "translation": {
-              "ko": "요즘 샤오위가 너무 바빠서 도와줄 시간이 없으니, 다른 사람을 찾아보세요.",
-              "ja": "最近小雨はとても忙しくて手伝う時間がないので、別の人を探してください。",
-              "en": "Xiao Yu has been too busy recently and has no time to help you. You should find someone else."
-            }
-          },
-          {
-            "translation": {
-              "ko": "그는 이번 회의에 와서 현재 문제를 해결해 줬을 뿐만 아니라, 새 자료도 많이 제공했어요.",
-              "ja": "彼は今回会議に参加して、現在の問題を解決してくれただけでなく、新しい資料もたくさん提供してくれました。",
-              "en": "This time he came to attend the meeting, he not only helped us solve the current problem, but also provided quite a few new materials."
-            }
-          },
-          {
-            "translation": {
-              "ko": "겨울에는 과일을 많이 먹는 데 주의해야 해요. 또 물도 많이 마시는 것을 기억해야 합니다.",
-              "ja": "冬は果物を多く食べるように気をつけるべきです。さらに、水を多く飲むことも忘れないでください。",
-              "en": "In winter, you should pay attention to eating more fruit. In addition, remember to drink more water."
-            }
           }
         ],
         "colloquial_examples": [
@@ -1803,27 +1857,6 @@
               "ko": "온라인 쇼핑은 정말 편해요. 바로 집까지 오고, 게다가 훨씬 싸요.",
               "ja": "ネットショッピングは本当に便利です。家まで直接届くし、しかもかなり安いです。",
               "en": "Online shopping is really convenient; it gets delivered straight home, and it's also a lot cheaper."
-            }
-          },
-          {
-            "translation": {
-              "ko": "샤오위가 요즘 너무 바빠서 못 도와주니, 다른 사람을 찾아보세요.",
-              "ja": "小雨は最近忙しすぎて手伝えないので、別の人を探してください。",
-              "en": "Xiao Yu has been insanely busy lately and can't help you. Find someone else."
-            }
-          },
-          {
-            "translation": {
-              "ko": "그는 이번에 문제만 해결한 게 아니라 새 자료도 많이 가져왔어요. 꽤 든든했어요.",
-              "ja": "彼は今回、問題を解決しただけでなく、新しい資料もたくさん持ってきてくれました。かなり頼もしかったです。",
-              "en": "He didn't just solve the problem this time; he also brought a lot of new materials. Pretty helpful."
-            }
-          },
-          {
-            "translation": {
-              "ko": "겨울에는 과일을 많이 먹고, 물도 많이 마시는 걸 잊지 마세요.",
-              "ja": "冬は果物を多く食べて、水もたくさん飲むのを忘れないでください。",
-              "en": "In winter, eat more fruit, and don't forget to drink more water too."
             }
           }
         ]
@@ -1954,6 +1987,157 @@
               "ko": "아무리 바빠도 그는 매일 한 시간씩 운동해요. 정말 자기관리가 철저해요.",
               "ja": "どんなに忙しくても、彼は毎日一時間運動します。本当に自律しています。",
               "en": "No matter how busy he is, he still makes an hour every day to exercise. He's really disciplined."
+            }
+          }
+        ]
+      },
+      "另外 vs 另": {
+        "formal_translation": {
+          "ko": "공통점: “另外”와 “另”은 모두 대명사로 앞에서 말한 범위 밖의 사람이나 사물을 가리킬 수 있고, 부사로 앞에서 말한 범위 밖이라는 뜻도 나타낼 수 있습니다. 차이점: 대명사로 쓰일 때 “另外”는 “另外（+的）+ 수량（+명사）” 또는 “另外 + 的（+명사）” 구조를 자주 쓰며, “另”으로 바꾸면 “的”을 쓰지 않습니다. 부사로 쓰일 때 “另”은 보통 단음절 동사를 수식하지만 “另外”는 이런 제한이 없습니다. “另外”는 접속사로도 쓰이지만 “另”은 그렇지 않습니다.",
+          "ja": "共通点: 「另外」と「另」はどちらも代名詞として、前に述べた範囲以外の人や物を指すことができ、副詞として前に述べた範囲以外という意味も表せます。違い: 代名詞として使う場合、「另外」は「另外（+的）+ 数量（+名詞）」または「另外 + 的（+名詞）」の構造をよく使い、「另」に置き換えると「的」は使いません。副詞として使う場合、「另」は普通単音節動詞を修飾しますが、「另外」にはこの制限がありません。「另外」は接続詞としても使えますが、「另」はできません。",
+          "en": "Similarities: both “另外” and “另” can be used as pronouns referring to person(s) or thing(s) other than what has been mentioned; both can also be used as adverbs meaning “beyond the scope mentioned previously”. Differences: when used as pronouns, “另外” is often used in the structures “另外（+的）+ Num-M（+N）” or “另外 + 的（+N）”; the first structure may or may not include “的”, but if “另外” is replaced by “另”, “的” is not used. When used as adverbs, “另” usually modifies a monosyllabic verb, while “另外” has no such restriction. “另外” can be used as a conjunction, while “另” cannot."
+        },
+        "colloquial_translation": {
+          "ko": "이 항목은 단일 문형이 아니라 비교 설명입니다. “另”은 짧고 주로 짧은 동사 앞에 쓰이며, “另外”는 더 자유롭고 “besides”처럼 새 문장을 연결할 수도 있습니다.",
+          "ja": "これは単一の文型ではなく比較説明です。「另」は簡潔で短い動詞の前によく使われ、「另外」はより自由で、「besides」のように新しい文をつなぐこともできます。",
+          "en": "This is a comparison note rather than a single pattern. “另” is compact and often used before a short verb, while “另外” is more flexible and can also connect a new sentence as “besides”."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "그는 고맙다고 말하면서 손에서 다른 책 한 권을 꺼냈다.",
+              "ja": "彼はありがとうと言いながら、手元から別の本を一冊取り出した。",
+              "en": "While saying thank you, he took another book out of his hand."
+            }
+          },
+          {
+            "translation": {
+              "ko": "나는 오늘 저녁에 다른 약속이 있으니, 우리는 내일 다시 같이 밥 먹자.",
+              "ja": "私は今夜ほかの予定があるので、明日また一緒に食事しましょう。",
+              "en": "I have other arrangements tonight. Let’s eat together tomorrow."
+            }
+          },
+          {
+            "translation": {
+              "ko": "방금 마크가 자전거를 빌려 갔으니, 너는 다른 한 대를 타라.",
+              "ja": "さっきマークが自転車を借りて行ったので、別の一台に乗ってください。",
+              "en": "Mark borrowed the bike just now. Ride another one."
+            }
+          },
+          {
+            "translation": {
+              "ko": "방금 마크가 자전거를 빌려 갔으니, 너는 다른 것 중 한 대를 타라.",
+              "ja": "さっきマークが自転車を借りて行ったので、ほかの一台に乗ってください。",
+              "en": "Mark borrowed the bike just now. Ride one of the other ones."
+            }
+          },
+          {
+            "translation": {
+              "ko": "방금 마크가 자전거를 빌려 갔으니, 너는 다른 자전거를 타라.",
+              "ja": "さっきマークが自転車を借りて行ったので、別の自転車に乗ってください。",
+              "en": "Mark borrowed the bike just now. Ride another bike."
+            }
+          },
+          {
+            "translation": {
+              "ko": "최근 샤오위가 너무 바빠서 너를 도울 시간이 없으니, 너는 다른 사람을 찾아보는 게 좋겠다.",
+              "ja": "最近小雨は忙しすぎてあなたを手伝う時間がないので、別の人を探したほうがいいです。",
+              "en": "Xiao Yu has been too busy recently and has no time to help you. You should find someone else."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그는 이번에 회의에 참석하러 와서 현재 문제를 해결해 주었을 뿐만 아니라, 또 새로운 자료도 꽤 많이 제공했다.",
+              "ja": "彼は今回会議に参加し、現在の問題を解決してくれただけでなく、さらに新しい資料もかなり提供してくれた。",
+              "en": "This time he came to attend the meeting, he not only helped us solve the current problem, but also provided quite a few new materials."
+            }
+          },
+          {
+            "translation": {
+              "ko": "겨울에는 과일을 많이 먹는 데 주의해야 한다. 그 밖에 물도 많이 마시는 것을 기억해야 한다.",
+              "ja": "冬は果物を多く食べるように気をつけるべきです。そのほか、水をたくさん飲むことも忘れないでください。",
+              "en": "In winter, you should pay attention to eating more fruit. Besides, remember to drink more water."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "샤오위가 요즘 너무 바빠서 못 도와줘. 다른 사람을 찾아봐.",
+              "ja": "小雨は最近すごく忙しくて手伝えないよ。別の人を探して。",
+              "en": "Xiao Yu has been insanely busy lately and cannot help you. Find someone else."
+            }
+          },
+          {
+            "translation": {
+              "ko": "겨울에는 과일을 많이 먹고, 물도 많이 마시는 걸 잊지 마.",
+              "ja": "冬は果物をたくさん食べて、水も多く飲むのを忘れないで。",
+              "en": "In winter, eat more fruit, and do not forget to drink more water too."
+            }
+          }
+        ]
+      },
+      "同字词：时": {
+        "formal_translation": {
+          "ko": "같은 글자 “时”를 포함한 단어: 时候, 时间, 及时, 平时, 准时.",
+          "ja": "同じ字「时」を含む語: 时候、时间、及时、平时、准时。",
+          "en": "Words with the same character “时”: 时候, 时间, 及时, 平时, 准时."
+        },
+        "colloquial_translation": {
+          "ko": "이 항목은 하나의 문법 패턴이 아니라 “时”가 들어간 단어군 확장 노트입니다.",
+          "ja": "これは一つの文法パターンではなく、「时」を含む語群の拡張ノートです。",
+          "en": "This is an expansion note for words sharing the character “时”, not a single grammar pattern. The formal examples preserve the textbook word-family usage."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "그는 특히 유머러스해서, 그와 함께 있을 때면 늘 시간이 아주 빨리 지나간다고 느낀다.",
+              "ja": "彼はとてもユーモアがあり、彼と一緒にいる時はいつも時間がとても早く過ぎると感じる。",
+              "en": "He is especially humorous. When I am with him, I always feel that time passes very quickly."
+            }
+          },
+          {
+            "translation": {
+              "ko": "정말 미안해. 나는 반 친구와 영화를 보러 가기로 약속했으니, 우리 시간을 바꾸자.",
+              "ja": "本当にすみません。クラスメートと映画を見に行く約束をしているので、時間を変えましょう。",
+              "en": "I am really sorry. I already made plans with a classmate to go see a movie. Let’s change the time."
+            }
+          },
+          {
+            "translation": {
+              "ko": "네가 어려움을 만났을 때, 진정한 친구는 나서서 제때 너를 도와줄 것이다.",
+              "ja": "あなたが困難に遭った時、本当の友人は立ち上がり、すぐに助けてくれるでしょう。",
+              "en": "When you encounter difficulties, true friends will stand up and help you in time."
+            }
+          },
+          {
+            "translation": {
+              "ko": "평소에 안나는 늘 학교에서 수업을 듣고 공부가 매우 바빠서, 밖에 나가 놀 시간이 거의 없다.",
+              "ja": "普段アンナはいつも学校で授業を受け、勉強がとても忙しいので、外へ遊びに行く時間がほとんどない。",
+              "en": "Usually Anna is always at school attending classes, and her studies are intense, so she rarely has time to go out and have fun."
+            }
+          },
+          {
+            "translation": {
+              "ko": "내일 오전 8시 50분에 우리는 학교 서문에서 만나고, 모두 먹을 것과 음료를 조금 준비해도 된다. 9시에 우리는 제시간에 출발한다.",
+              "ja": "明日の午前8時50分に学校の西門で会いましょう。みんな食べ物や飲み物を少し準備してもよく、9時に時間どおり出発します。",
+              "en": "Tomorrow morning at 8:50 we will meet at the west gate of the school. Everyone can prepare some food and drinks, and at 9:00 we will set off on time."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "그와 같이 있으면 시간이 특히 빨리 지나가.",
+              "ja": "彼と一緒にいると、時間がとても早く過ぎる。",
+              "en": "When I am with him, time passes especially quickly."
+            }
+          },
+          {
+            "translation": {
+              "ko": "내일 9시에 제시간에 출발해. 늦지 마.",
+              "ja": "明日9時に時間どおり出発するよ。遅れないで。",
+              "en": "We leave on time at nine tomorrow. Do not be late."
             }
           }
         ]

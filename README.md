@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.9.78-B8860B?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.9.80-B8860B?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
@@ -123,6 +123,18 @@ npm run build
 ## 📋 Changelog
 
 Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
+
+---
+
+### v0.9.80 — 2026-06-02
+> *Lessons 1-5 Grammar Image Review Complete.* The textbook grammar notes were rechecked against the source images.
+
+- 📚 **Lesson 1-5 Grammar Review** — Rechecked grammar sections in `data/lesson1.json` through `data/lesson5.json` against the provided textbook images.
+- 🧩 **Compare & Expansion Notes Preserved** — Stored comparison pages such as `刚 vs 刚才`, `另外 vs 另`, and `尤其 vs 特别` as explicit grammar items, and preserved same-character expansion pages as `同字词` entries.
+- 🈶 **Chinese Examples Complete** — Ensured every Chinese example shown in the grammar images is represented in the JSON data.
+- 🌐 **Locale Sync** — Aligned `translations.grammar` keys and example counts with the updated grammar entries, including Korean, Japanese, and English translations.
+- 🛠️ **Recognition Rules Hardened** — Updated `plan/image_recognition/2.rules_notes.md` so future grammar image passes preserve comparison/expansion pages instead of collapsing or inventing structure.
+- ✅ **Validation** — Verified lesson 1-5 grammar translation keys/counts and ran `npm run build` successfully.
 
 ---
 

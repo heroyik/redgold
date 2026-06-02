@@ -326,7 +326,7 @@
     },
     {
       "point": "尤其",
-      "explanation": "“尤其” and “特别” can both be used as adverbs to highlight a salient aspect within a whole or in comparison with others. “尤其” focuses on the most outstanding part of an overall situation; “特别” can do this too, and can also mean “especially/very” as an adverb or “special/unusual” as an adjective.",
+      "explanation": "The adverb “尤其” indicates a further degree. The first clause often states the whole situation and the second clause uses “尤其” to introduce the most outstanding aspect of the whole.",
       "formal_examples": [
         {
           "chinese": "您女儿真可爱，长得真像您，<b>尤其</b>是眼睛。",
@@ -342,31 +342,6 @@
           "chinese": "为了健康，我们应该每年都去医院做一次身体检查，<b>尤其</b>是那些四五十岁的人，这样可以早一些发现问题。",
           "pinyin": "wèile jiànkāng, wǒmen yīnggāi měi nián dōu qù yīyuàn zuò yí cì shēntǐ jiǎnchá, yóuqí shì nàxiē sì wǔ shí suì de rén, zhèyàng kěyǐ zǎo yìxiē fāxiàn wèntí.",
           "translation": "For our health, we should go to the hospital for a physical examination every year, especially people in their forties and fifties, so that problems can be discovered earlier."
-        },
-        {
-          "chinese": "我对音乐很感兴趣，<b>尤其</b>/<b>特别</b>是贝多芬的音乐，我喜欢极了。",
-          "pinyin": "wǒ duì yīnyuè hěn gǎn xìngqù, yóuqí/tèbié shì Bèiduōfēn de yīnyuè, wǒ xǐhuan jí le.",
-          "translation": "I am very interested in music, especially Beethoven's music. I like it extremely much."
-        },
-        {
-          "chinese": "这次活动办得很不错，<b>尤其</b>王老师讲的那个故事，给我留下很深的印象。",
-          "pinyin": "zhè cì huódòng bàn de hěn búcuò, yóuqí Wáng lǎoshī jiǎng de nà ge gùshi, gěi wǒ liú xià hěn shēn de yìnxiàng.",
-          "translation": "This event was organized very well; especially the story Teacher Wang told left a deep impression on me."
-        },
-        {
-          "chinese": "这次活动办得很不错，<b>尤其</b>/<b>特别</b>是王老师讲的那个故事，给我留下很深的印象。",
-          "pinyin": "zhè cì huódòng bàn de hěn búcuò, yóuqí/tèbié shì Wáng lǎoshī jiǎng de nà ge gùshi, gěi wǒ liú xià hěn shēn de yìnxiàng.",
-          "translation": "This event was organized very well; especially the story Teacher Wang told left a deep impression on me."
-        },
-        {
-          "chinese": "那本小说讲了一个爱情故事，很浪漫，让人<b>特别</b>感动。",
-          "pinyin": "nà běn xiǎoshuō jiǎng le yí ge àiqíng gùshi, hěn làngmàn, ràng rén tèbié gǎndòng.",
-          "translation": "That novel tells a love story. It is very romantic and especially moving."
-        },
-        {
-          "chinese": "如果您有什么<b>特别</b>要求或任何不清楚的地方，请和我们联系。",
-          "pinyin": "rúguǒ nín yǒu shénme tèbié yāoqiú huò rènhé bù qīngchu de dìfang, qǐng hé wǒmen liánxì.",
-          "translation": "If you have any special requirements or anything unclear, please contact us."
         }
       ],
       "colloquial_pattern": "尤其 / 特别是",
@@ -382,7 +357,87 @@
           "translation": "Everyone likes online shopping now, especially young people. They buy almost everything online."
         }
       ],
-      "nuance": "Both “尤其” and “特别” can highlight a salient part, usually in the latter part of a sentence. When this highlighting meaning is used, “尤其” may be followed by “是” or omit it, while “特别” is usually followed by “是.” “特别” can also mean “very/especially” as an adverb and can be an adjective meaning “special/unusual”; “尤其” does not have these two uses."
+      "nuance": "“尤其” highlights the most outstanding aspect within a broader situation. It is often used after the whole situation has first been introduced."
+    },
+    {
+      "point": "尤其 vs 特别",
+      "explanation": "Similarity: both “尤其” and “特别” can be used as adverbs, indicating a very salient aspect in the whole or in comparison with others. They are usually used in the latter part of a sentence. Differences: when expressing this meaning, “尤其” can be followed by “是” or omit it, while “特别” is usually followed by “是”. When “特别” is used as an adverb, it may also mean “especially” or “very”, while “尤其” cannot. “特别” can also be used as an adjective meaning “different from the rest” or “not common”, while “尤其” cannot.",
+      "formal_examples": [
+        {
+          "chinese": "我对音乐很感兴趣，<b>尤其</b>/<b>特别</b>是贝多芬的音乐，我喜欢极了。",
+          "pinyin": "Wǒ duì yīnyuè hěn gǎn xìngqù, yóuqí/tèbié shì Bèiduōfēn de yīnyuè, wǒ xǐhuan jí le.",
+          "translation": "I am very interested in music, especially Beethoven’s music. I like it extremely much."
+        },
+        {
+          "chinese": "这次活动办得很不错，<b>尤其</b>王老师讲的那个故事，给我留下很深的印象。",
+          "pinyin": "Zhè cì huódòng bàn de hěn búcuò, yóuqí Wáng lǎoshī jiǎng de nà ge gùshi, gěi wǒ liúxià hěn shēn de yìnxiàng.",
+          "translation": "This event was organized very well; especially the story Teacher Wang told left a deep impression on me."
+        },
+        {
+          "chinese": "这次活动办得很不错，<b>尤其</b>/<b>特别</b>是王老师讲的那个故事，给我留下很深的印象。",
+          "pinyin": "Zhè cì huódòng bàn de hěn búcuò, yóuqí/tèbié shì Wáng lǎoshī jiǎng de nà ge gùshi, gěi wǒ liúxià hěn shēn de yìnxiàng.",
+          "translation": "This event was organized very well; especially the story Teacher Wang told left a deep impression on me."
+        },
+        {
+          "chinese": "那本小说讲了一个爱情故事，很浪漫，让人<b>特别</b>感动。",
+          "pinyin": "Nà běn xiǎoshuō jiǎng le yí ge àiqíng gùshi, hěn làngmàn, ràng rén tèbié gǎndòng.",
+          "translation": "That novel tells a love story. It is very romantic and especially moving."
+        },
+        {
+          "chinese": "如果您有什么<b>特别</b>要求或任何不清楚的地方，请和我们联系。",
+          "pinyin": "Rúguǒ nín yǒu shénme tèbié yāoqiú huò rènhé bù qīngchu de dìfang, qǐng hé wǒmen liánxì.",
+          "translation": "If you have any special requirements or anything unclear, please contact us."
+        }
+      ],
+      "colloquial_pattern": "尤其 / 特别是 / 特别",
+      "colloquial_examples": [
+        {
+          "chinese": "现在大家都爱网购，<b>特别是</b>年轻人，几乎什么都在网上买。",
+          "pinyin": "Xiànzài dàjiā dōu ài wǎnggòu, tèbié shì niánqīngrén, jīhū shénme dōu zài wǎngshàng mǎi.",
+          "translation": "Everyone likes online shopping now, especially young people. They buy almost everything online."
+        },
+        {
+          "chinese": "这活动办得不错，<b>尤其是</b>王老师那个故事，真的挺打动人。",
+          "pinyin": "Zhè huódòng bàn de búcuò, yóuqí shì Wáng lǎoshī nà ge gùshi, zhēn de tǐng dǎdòng rén.",
+          "translation": "This event was pretty good, especially Teacher Wang’s story; it was really moving."
+        }
+      ],
+      "nuance": "This is a comparison note rather than a single pattern. “尤其” focuses on a salient part of a whole; “特别” can do that too, but can also mean “very” as an adverb or “special” as an adjective."
+    },
+    {
+      "point": "同字词：准",
+      "explanation": "Words with the same character “准”: 准时, 准备, 标准.",
+      "formal_examples": [
+        {
+          "chinese": "A: 明天早上八点半在东门见，别迟到啊！<br/>B: 放心吧，我一定<b>准时</b>到。",
+          "pinyin": "A: Míngtiān zǎoshang bā diǎn bàn zài dōng mén jiàn, bié chídào a!<br/>B: Fàngxīn ba, wǒ yídìng zhǔnshí dào.",
+          "translation": "A: Let’s meet at the east gate at 8:30 tomorrow morning. Don’t be late!<br/>B: Don’t worry. I will definitely arrive on time."
+        },
+        {
+          "chinese": "同学们正在教室里学习，<b>准备</b>下星期的考试。班长跑进来大声说：“告诉大家一个好消息和一个坏消息。好消息是下星期不考试了！坏消息是下星期的考试，改到今天了。”",
+          "pinyin": "Tóngxuémen zhèng zài jiàoshì lǐ xuéxí, zhǔnbèi xià xīngqī de kǎoshì. Bānzhǎng pǎo jìnlái dàshēng shuō: “Gàosu dàjiā yí ge hǎo xiāoxi hé yí ge huài xiāoxi. Hǎo xiāoxi shì xià xīngqī bù kǎoshì le! Huài xiāoxi shì xià xīngqī de kǎoshì, gǎi dào jīntiān le.”",
+          "translation": "The students were studying in the classroom, preparing for next week’s exam. The class monitor ran in and said loudly: “I have good news and bad news for everyone. The good news is that there will be no exam next week! The bad news is that next week’s exam has been moved to today.”"
+        },
+        {
+          "chinese": "幸福的<b>标准</b>是不同的。有人觉得有房子和汽车就是幸福，有人认为找到真正的爱情就是幸福。",
+          "pinyin": "Xìngfú de biāozhǔn shì bùtóng de. Yǒu rén juéde yǒu fángzi hé qìchē jiùshì xìngfú, yǒu rén rènwéi zhǎodào zhēnzhèng de àiqíng jiùshì xìngfú.",
+          "translation": "Standards for happiness are different. Some people think having a house and a car is happiness, while others believe finding true love is happiness."
+        }
+      ],
+      "colloquial_pattern": "准时 / 准备 / 标准",
+      "colloquial_examples": [
+        {
+          "chinese": "明天八点半东门见，我<b>准时</b>到。",
+          "pinyin": "Míngtiān bā diǎn bàn dōng mén jiàn, wǒ zhǔnshí dào.",
+          "translation": "See you at the east gate at 8:30 tomorrow. I’ll be there on time."
+        },
+        {
+          "chinese": "每个人对幸福的<b>标准</b>都不一样。",
+          "pinyin": "Měi ge rén duì xìngfú de biāozhǔn dōu bù yíyàng.",
+          "translation": "Everyone has a different standard for happiness."
+        }
+      ],
+      "nuance": "This is an expansion note for words sharing the character “准”, not a single grammar pattern. The formal examples preserve the textbook word-family usage."
     }
   ],
   "key_sentences": [
@@ -1200,12 +1255,12 @@
       },
       "尤其": {
         "formal_translation": {
-          "en": "“尤其” and “特别” can both be used as adverbs to highlight a salient aspect within a whole or in comparison with others. “尤其” focuses on the most outstanding part of an overall situation; “特别” can do this too, and can also mean “especially/very” as an adverb or “special/unusual” as an adjective.",
+          "en": "The adverb “尤其” indicates a further degree. The first clause often states the whole situation and the second clause uses “尤其” to introduce the most outstanding aspect of the whole.",
           "ko": "“尤其”와 “特别”은 모두 부사로 쓰여 전체 속에서 또는 다른 것과 비교할 때 특히 두드러지는 부분을 나타낼 수 있습니다. “尤其”는 전체 상황 중 가장 두드러진 부분에 초점을 두며, “特别”도 이 용법이 가능하고, 추가로 부사로 ‘매우/특히’, 형용사로 ‘특별한/보통과 다른’이라는 뜻도 가질 수 있습니다.",
           "ja": "「尤其」と「特别」はどちらも副詞として、全体の中で、または他のものと比べて特に際立つ面を表すことができます。「尤其」は全体の中で最も目立つ部分に焦点を当てます。「特别」もこの用法が可能で、さらに副詞として「とても/特に」、形容詞として「特別な/普通と違う」という意味も持ちます。"
         },
         "colloquial_translation": {
-          "en": "Both “尤其” and “特别” can highlight a salient part, usually in the latter part of a sentence. When this highlighting meaning is used, “尤其” may be followed by “是” or omit it, while “特别” is usually followed by “是.” “特别” can also mean “very/especially” as an adverb and can be an adjective meaning “special/unusual”; “尤其” does not have these two uses.",
+          "en": "“尤其” highlights the most outstanding aspect within a broader situation. It is often used after the whole situation has first been introduced.",
           "ko": "“尤其”와 “特别”은 모두 두드러진 부분을 강조할 수 있으며 보통 문장의 뒷부분에 쓰입니다. 이 강조 의미에서는 “尤其” 뒤에 “是”를 붙일 수도 있고 생략할 수도 있지만, “特别”은 보통 “是”를 붙입니다. 또한 “特别”은 부사로 ‘매우/특히’, 형용사로 ‘특별한/보통과 다른’이라는 뜻도 가능하지만, “尤其”에는 이 두 용법이 없습니다.",
           "ja": "「尤其」と「特别」はどちらも際立つ部分を強調でき、普通は文の後半で使われます。この強調の意味では、「尤其」の後ろに「是」を付けても省略してもよいですが、「特别」は普通「是」を付けます。また「特别」は副詞として「とても/特に」、形容詞として「特別な/普通と違う」という意味も表せますが、「尤其」にはこの二つの用法はありません。"
         },
@@ -1230,41 +1285,6 @@
               "ko": "건강을 위해 우리는 매년 병원에 가서 건강검진을 해야 합니다. 특히 40대와 50대 사람들은 그렇게 하면 문제를 더 일찍 발견할 수 있습니다.",
               "ja": "健康のために、私たちは毎年病院で健康診断を受けるべきです。特に四、五十代の人は、そうすれば問題を早めに発見できます。"
             }
-          },
-          {
-            "translation": {
-              "en": "I am very interested in music, especially Beethoven's music. I like it extremely much.",
-              "ko": "저는 음악에 관심이 많습니다. 특히 베토벤의 음악을 정말 좋아합니다.",
-              "ja": "私は音楽にとても興味があります。特にベートーベンの音楽が大好きです。"
-            }
-          },
-          {
-            "translation": {
-              "en": "This event was organized very well; especially the story Teacher Wang told left a deep impression on me.",
-              "ko": "이번 행사는 아주 잘 진행되었습니다. 특히 왕 선생님이 들려준 그 이야기가 제게 깊은 인상을 남겼습니다.",
-              "ja": "今回のイベントはとてもよく行われました。特に王先生が話したあの物語は、私に深い印象を残しました。"
-            }
-          },
-          {
-            "translation": {
-              "en": "This event was organized very well; especially the story Teacher Wang told left a deep impression on me.",
-              "ko": "이번 행사는 아주 잘 진행되었습니다. 특히 왕 선생님이 들려준 그 이야기가 제게 깊은 인상을 남겼습니다.",
-              "ja": "今回のイベントはとてもよく行われました。特に王先生が話したあの物語は、私に深い印象を残しました。"
-            }
-          },
-          {
-            "translation": {
-              "en": "That novel tells a love story. It is very romantic and especially moving.",
-              "ko": "그 소설은 사랑 이야기를 다루고 있는데 매우 낭만적이어서 사람을 특히 감동시킵니다.",
-              "ja": "その小説は恋愛物語を描いていて、とてもロマンチックで、人を特に感動させます。"
-            }
-          },
-          {
-            "translation": {
-              "en": "If you have any special requirements or anything unclear, please contact us.",
-              "ko": "특별한 요구 사항이나 분명하지 않은 부분이 있으면 저희에게 연락해 주세요.",
-              "ja": "何か特別な要求や不明な点がありましたら、私たちにご連絡ください。"
-            }
           }
         ],
         "colloquial_examples": [
@@ -1280,6 +1300,122 @@
               "en": "Everyone likes online shopping now, especially young people. They buy almost everything online.",
               "ko": "요즘은 모두 온라인 쇼핑을 좋아해요. 특히 젊은 사람들은 거의 모든 것을 인터넷에서 사요.",
               "ja": "今はみんなネットショッピングが好きです。特に若い人は、ほとんど何でもネットで買います。"
+            }
+          }
+        ]
+      },
+      "尤其 vs 特别": {
+        "formal_translation": {
+          "en": "Similarity: both “尤其” and “特别” can be used as adverbs, indicating a very salient aspect in the whole or in comparison with others. They are usually used in the latter part of a sentence. Differences: when expressing this meaning, “尤其” can be followed by “是” or omit it, while “特别” is usually followed by “是”. When “特别” is used as an adverb, it may also mean “especially” or “very”, while “尤其” cannot. “特别” can also be used as an adjective meaning “different from the rest” or “not common”, while “尤其” cannot.",
+          "ko": "공통점: “尤其”와 “特别”은 모두 부사로 쓰여 전체 속에서 또는 다른 것과 비교할 때 특히 두드러지는 부분을 나타낼 수 있으며, 보통 문장의 뒷부분에 쓰입니다. 차이점: 이 뜻을 나타낼 때 “尤其” 뒤에는 “是”를 붙일 수도 있고 생략할 수도 있지만, “特别”은 보통 “是”를 붙입니다. “特别”은 부사로 “매우/특히”라는 뜻도 나타낼 수 있고 형용사로 “특별한/보통과 다른”이라는 뜻도 나타낼 수 있지만, “尤其”에는 이런 용법이 없습니다.",
+          "ja": "共通点: 「尤其」と「特别」はどちらも副詞として、全体の中で、または他のものと比べて特に際立つ面を表すことができ、普通は文の後半で使われます。違い: この意味では、「尤其」の後に「是」を付けても省略してもよいですが、「特别」は普通「是」を付けます。「特别」は副詞として「とても/特に」という意味も表せ、形容詞として「特別な/普通と違う」という意味も表せますが、「尤其」にはその用法がありません。"
+        },
+        "colloquial_translation": {
+          "en": "This is a comparison note rather than a single pattern. “尤其” focuses on a salient part of a whole; “特别” can do that too, but can also mean “very” as an adverb or “special” as an adjective.",
+          "ko": "이 항목은 단일 문형이 아니라 비교 설명입니다. “尤其”는 전체 속 두드러진 부분에 초점을 두고, “特别”도 그럴 수 있지만 부사 “매우”나 형용사 “특별한” 의미도 가질 수 있습니다.",
+          "ja": "これは単一の文型ではなく比較説明です。「尤其」は全体の中で際立つ部分に焦点を当て、「特别」も同じように使えますが、副詞「とても」や形容詞「特別な」という意味も持ちます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "I am very interested in music, especially Beethoven’s music. I like it extremely much.",
+              "ko": "나는 음악에 매우 관심이 있는데, 특히 베토벤의 음악을 아주 좋아한다.",
+              "ja": "私は音楽にとても興味があり、特にベートーベンの音楽が大好きだ。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This event was organized very well; especially the story Teacher Wang told left a deep impression on me.",
+              "ko": "이번 행사는 아주 잘 진행되었고, 특히 왕 선생님이 해 주신 그 이야기가 나에게 깊은 인상을 남겼다.",
+              "ja": "今回の活動はとてもよく行われ、特に王先生が話したあの物語が私に深い印象を残した。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This event was organized very well; especially the story Teacher Wang told left a deep impression on me.",
+              "ko": "이번 행사는 아주 잘 진행되었고, 특히 왕 선생님이 해 주신 그 이야기가 나에게 깊은 인상을 남겼다.",
+              "ja": "今回の活動はとてもよく行われ、特に王先生が話したあの物語が私に深い印象を残した。"
+            }
+          },
+          {
+            "translation": {
+              "en": "That novel tells a love story. It is very romantic and especially moving.",
+              "ko": "그 소설은 사랑 이야기를 다루고 있는데, 매우 낭만적이어서 사람을 특히 감동시킨다.",
+              "ja": "その小説は恋愛物語を語っており、とてもロマンチックで、人を特に感動させる。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If you have any special requirements or anything unclear, please contact us.",
+              "ko": "특별한 요구 사항이나 분명하지 않은 점이 있으면, 우리에게 연락해 주십시오.",
+              "ja": "特別な要望や不明な点があれば、私たちにご連絡ください。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Everyone likes online shopping now, especially young people. They buy almost everything online.",
+              "ko": "요즘은 다들 온라인 쇼핑을 좋아해. 특히 젊은 사람들은 거의 모든 걸 인터넷에서 사.",
+              "ja": "今はみんなネットショッピングが好きで、特に若い人はほとんど何でもネットで買う。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This event was pretty good, especially Teacher Wang’s story; it was really moving.",
+              "ko": "이번 행사는 꽤 괜찮았어. 특히 왕 선생님 이야기가 정말 감동적이었어.",
+              "ja": "今回の活動はなかなか良かった。特に王先生の話は本当に心を動かされた。"
+            }
+          }
+        ]
+      },
+      "同字词：准": {
+        "formal_translation": {
+          "en": "Words with the same character “准”: 准时, 准备, 标准.",
+          "ko": "같은 글자 “准”을 포함한 단어: 准时, 准备, 标准.",
+          "ja": "同じ字「准」を含む語: 准时、准备、标准。"
+        },
+        "colloquial_translation": {
+          "en": "This is an expansion note for words sharing the character “准”, not a single grammar pattern. The formal examples preserve the textbook word-family usage.",
+          "ko": "이 항목은 하나의 문법 패턴이 아니라 “准”이 들어간 단어군 확장 노트입니다.",
+          "ja": "これは一つの文法パターンではなく、「准」を含む語群の拡張ノートです。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "A: Let’s meet at the east gate at 8:30 tomorrow morning. Don’t be late!<br/>B: Don’t worry. I will definitely arrive on time.",
+              "ko": "A: 내일 아침 8시 반에 동문에서 만나자. 늦지 마!<br/>B: 걱정하지 마, 나는 꼭 제시간에 도착할게.",
+              "ja": "A: 明日の朝8時半に東門で会いましょう。遅れないでね！<br/>B: 安心して、必ず時間どおりに着きます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The students were studying in the classroom, preparing for next week’s exam. The class monitor ran in and said loudly: “I have good news and bad news for everyone. The good news is that there will be no exam next week! The bad news is that next week’s exam has been moved to today.”",
+              "ko": "학생들이 교실에서 다음 주 시험을 준비하며 공부하고 있었다. 반장이 뛰어 들어와 큰 소리로 말했다. “여러분에게 좋은 소식 하나와 나쁜 소식 하나를 알려 드립니다. 좋은 소식은 다음 주에 시험을 보지 않는다는 것입니다! 나쁜 소식은 다음 주 시험이 오늘로 바뀌었다는 것입니다.”",
+              "ja": "学生たちは教室で勉強し、来週の試験を準備していた。班長が走って入ってきて大声で言った。「みんなに良い知らせと悪い知らせを一つずつ伝えます。良い知らせは来週試験がないことです！悪い知らせは来週の試験が今日に変更されたことです。」"
+            }
+          },
+          {
+            "translation": {
+              "en": "Standards for happiness are different. Some people think having a house and a car is happiness, while others believe finding true love is happiness.",
+              "ko": "행복의 기준은 서로 다르다. 어떤 사람은 집과 차가 있으면 행복이라고 생각하고, 어떤 사람은 진정한 사랑을 찾는 것이 행복이라고 생각한다.",
+              "ja": "幸せの基準は人によって異なる。家や車があることが幸せだと思う人もいれば、本当の愛を見つけることが幸せだと思う人もいる。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "See you at the east gate at 8:30 tomorrow. I’ll be there on time.",
+              "ko": "내일 8시 반에 동문에서 봐. 나 제시간에 갈게.",
+              "ja": "明日8時半に東門で会おう。時間どおりに行くよ。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Everyone has a different standard for happiness.",
+              "ko": "사람마다 행복의 기준은 달라.",
+              "ja": "幸せの基準は人それぞれ違う。"
             }
           }
         ]

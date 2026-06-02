@@ -156,12 +156,27 @@
   "grammar": [
     {
       "point": "正好",
-      "explanation": "'正好' can be used as an adjective to mean 'just right', or as an adverb to mean 'it is the right time or opportunity to do something'.",
+      "explanation": "“正好” can be used as an adjective to mean “just right”, indicating that a condition in terms of time, position, size, quantity, degree, etc. is met. It can also be used as an adverb to mean “it is the right time or opportunity to do something”.",
       "formal_examples": [
         {
-          "chinese": "我们下午要去踢足球, <b>正好</b>一起去吧。",
-          "pinyin": "Wǒmen xiàwǔ yào qù tī zúqiú, zhènghǎo yīqǐ qù ba.",
-          "translation": "We're going to play football this afternoon, let's go together."
+          "chinese": "苹果八块五，西瓜十一块五，<b>正好</b>二十块。",
+          "pinyin": "Píngguǒ bā kuài wǔ, xīguā shíyī kuài wǔ, zhènghǎo èrshí kuài.",
+          "translation": "The apples are eight yuan fifty, and the watermelon is eleven yuan fifty, exactly twenty yuan."
+        },
+        {
+          "chinese": "你来得<b>正好</b>，我的钱包不见了，借我点儿钱吧。",
+          "pinyin": "Nǐ lái de zhènghǎo, wǒ de qiánbāo bú jiàn le, jiè wǒ diǎnr qián ba.",
+          "translation": "You came at just the right time. My wallet is missing; lend me a little money."
+        },
+        {
+          "chinese": "我们下午要去踢足球，<b>正好</b>一起去吧。",
+          "pinyin": "Wǒmen xiàwǔ yào qù tī zúqiú, zhènghǎo yìqǐ qù ba.",
+          "translation": "We are going to play football this afternoon; it is a good opportunity for us to go together."
+        },
+        {
+          "chinese": "我妹妹出生那天，<b>正好</b>下雪，所以爸爸妈妈叫她“小雪”。",
+          "pinyin": "Wǒ mèimei chūshēng nà tiān, zhènghǎo xià xuě, suǒyǐ bàba māma jiào tā “Xiǎoxuě”.",
+          "translation": "On the day my younger sister was born, it happened to snow, so my parents called her “Xiaoxue”."
         }
       ],
       "colloquial_pattern": "赶得早不如赶得巧 / 凑巧",
@@ -176,12 +191,27 @@
     },
     {
       "point": "差不多",
-      "explanation": "'差不多' can be used as an adjective to mean 'approximate' or 'without much difference'. It can also be used as an adverb to indicate being close in terms of degree, scope, time, distance, or quantity.",
+      "explanation": "“差不多” can be used as an adjective to mean “approximate” and “without much difference”. It can also be used as an adverb to indicate being close in terms of degree, scope, time, distance or quantity.",
       "formal_examples": [
         {
-          "chinese": "班里同学你联系得怎么样了？来多少人？<b>差不多</b>一半儿吧。",
-          "pinyin": "Bānlǐ tóngxué nǐ liánxì de zěnmeyàng le? Lái duōshǎo rén? Chàbuduō yībànr ba.",
-          "translation": "How's the contact with the classmates going? How many are coming? About half, I guess."
+          "chinese": "这两个电子词典看上去<b>差不多</b>，左边这个怎么这么贵？",
+          "pinyin": "Zhè liǎng ge diànzǐ cídiǎn kàn shàngqù chàbuduō, zuǒbian zhè ge zěnme zhème guì?",
+          "translation": "These two electronic dictionaries look about the same. Why is the one on the left so expensive?"
+        },
+        {
+          "chinese": "他们俩是在国外旅游的时候认识的，性格<b>差不多</b>，所以很快就成了好朋友。",
+          "pinyin": "Tāmen liǎ shì zài guówài lǚyóu de shíhou rènshi de, xìnggé chàbuduō, suǒyǐ hěn kuài jiù chéngle hǎo péngyou.",
+          "translation": "The two of them met while traveling abroad. Their personalities are similar, so they quickly became good friends."
+        },
+        {
+          "chinese": "A: 班里同学你联系得怎么样了？来多少人？<br/>B: <b>差不多</b>一半儿吧。",
+          "pinyin": "A: Bānlǐ tóngxué nǐ liánxì de zěnmeyàng le? Lái duōshǎo rén?<br/>B: Chàbuduō yíbànr ba.",
+          "translation": "A: How is contacting the classmates going? How many people are coming?<br/>B: About half, I guess."
+        },
+        {
+          "chinese": "女儿上中学后，个子长得特别快，现在都快一米七了，<b>差不多</b>跟我一样高了。",
+          "pinyin": "Nǚ'ér shàng zhōngxué hòu, gèzi zhǎng de tèbié kuài, xiànzài dōu kuài yì mǐ qī le, chàbuduō gēn wǒ yíyàng gāo le.",
+          "translation": "After my daughter started middle school, she grew very quickly. Now she is almost 1.7 meters tall, about as tall as me."
         }
       ],
       "colloquial_pattern": "大差不差 (dà chā bù chā) / 基本上 (jīběn shàng)",
@@ -196,20 +226,45 @@
     },
     {
       "point": "差不多 vs 几乎",
-      "explanation": "Both mean 'almost', but '差不多' is more common in spoken Chinese and can be an adjective or precede numbers. '几乎' is more formal and often used for undesirable things that almost happened.",
+      "explanation": "Similarity: both “差不多” and “几乎” are adverbs indicating being very close or similar, and both can serve as an adverbial modifier. Differences: when expressing this meaning, “差不多” can be used directly before a monosyllabic adjective, while the adjective before or after “几乎” needs other words. “差不多” can precede a numeral-classifier compound to indicate being close to that quantity, while “几乎” has no such usage. “差不多” can also be used as an adjective predicate to indicate being similar and without much difference, while “几乎” has no such usage. “几乎” can indicate that something undesirable almost happened but finally did not, while “差不多” has no such usage.",
       "formal_examples": [
         {
-          "chinese": "他汉语说得很好, <b>几乎</b>跟中国人一样。",
-          "pinyin": "Tā hànyǔ shuō de hěn hǎo, jīhū gēn Zhōngguórén yīyàng.",
-          "translation": "He speaks Chinese so well, he's almost like a native."
+          "chinese": "他汉语说得很好，<b>差不多</b>/<b>几乎</b>跟中国人一样。",
+          "pinyin": "Tā Hànyǔ shuō de hěn hǎo, chàbuduō/jīhū gēn Zhōngguórén yíyàng.",
+          "translation": "He speaks Chinese very well, almost like a Chinese person."
         },
         {
-          "chinese": "我<b>几乎</b>忘了告诉你了。",
-          "pinyin": "Wǒ jīhū wàngle gàosù nǐ le.",
-          "translation": "I almost forgot to tell you."
+          "chinese": "他们俩<b>差不多</b>高。",
+          "pinyin": "Tāmen liǎ chàbuduō gāo.",
+          "translation": "The two of them are about the same height."
+        },
+        {
+          "chinese": "他们俩<b>几乎</b>一样高。",
+          "pinyin": "Tāmen liǎ jīhū yíyàng gāo.",
+          "translation": "The two of them are almost the same height."
+        },
+        {
+          "chinese": "他比我<b>几乎</b>高了一头。",
+          "pinyin": "Tā bǐ wǒ jīhū gāole yì tóu.",
+          "translation": "He is almost a head taller than me."
+        },
+        {
+          "chinese": "李老师<b>差不多</b>六十岁了。",
+          "pinyin": "Lǐ lǎoshī chàbuduō liùshí suì le.",
+          "translation": "Teacher Li is almost sixty years old."
+        },
+        {
+          "chinese": "姐妹俩性格<b>差不多</b>。",
+          "pinyin": "Jiěmèi liǎ xìnggé chàbuduō.",
+          "translation": "The two sisters have similar personalities."
+        },
+        {
+          "chinese": "这件事我<b>几乎</b>忘了告诉你了。",
+          "pinyin": "Zhè jiàn shì wǒ jīhū wàngle gàosù nǐ le.",
+          "translation": "I almost forgot to tell you about this."
         }
       ],
-      "colloquial_pattern": "差一点儿 (chà yīdiǎnr)",
+      "colloquial_pattern": "差不多 / 几乎 / 差一点儿",
       "colloquial_examples": [
         {
           "chinese": "哎呀，我<b>差一点儿</b>就忘了跟你说这事儿了。",
@@ -217,16 +272,26 @@
           "translation": "Oops, I almost forgot to tell you about this matter."
         }
       ],
-      "nuance": "In daily speech, '差一点儿' is much more frequently used than '几乎' to describe a close call or something that almost happened but didn't."
+      "nuance": "This is a comparison note rather than a single new pattern. “差不多” can describe similarity or approximate quantity more freely, while “几乎” is better for “almost” as an adverb, especially when something nearly happened."
     },
     {
       "point": "尽管",
-      "explanation": "'尽管' is a conjunction used to state a fact in the first clause, followed by a transition word like '但是', '可是', '却', or '还是' in the second clause to show a result that wouldn't normally happen.",
+      "explanation": "The conjunction “尽管” is usually used in the first clause of a complex sentence to state a fact, often coordinating with words indicating transition such as “但是/可是/却/还是” in the second clause, which introduces a result that would not occur under normal circumstances.",
       "formal_examples": [
         {
           "chinese": "<b>尽管</b>已经毕业这么多年，我们还是经常联系的。",
           "pinyin": "Jǐnguǎn yǐjīng bìyè zhème duō nián, wǒmen háishì jīngcháng liánxì de.",
           "translation": "Although we have been graduated for many years, we still keep in regular contact."
+        },
+        {
+          "chinese": "男朋友送给我的这份礼物<b>尽管</b>不贵，但却让我非常感动。",
+          "pinyin": "Nán péngyou sòng gěi wǒ de zhè fèn lǐwù jǐnguǎn bú guì, dàn què ràng wǒ fēicháng gǎndòng.",
+          "translation": "Although the gift my boyfriend gave me was not expensive, it moved me very much."
+        },
+        {
+          "chinese": "叔叔最大的爱好就是打篮球，大学时他还多次参加校篮球比赛。<b>尽管</b>现在工作很忙，可到了周末他还是会跟朋友去打球。",
+          "pinyin": "Shūshu zuì dà de àihào jiùshì dǎ lánqiú, dàxué shí tā hái duō cì cānjiā xiào lánqiú bǐsài. Jǐnguǎn xiànzài gōngzuò hěn máng, kě dào le zhōumò tā háishì huì gēn péngyou qù dǎ qiú.",
+          "translation": "My uncle's biggest hobby is playing basketball, and in college he participated in school basketball games many times. Although he is very busy with work now, on weekends he still goes to play basketball with friends."
         }
       ],
       "colloquial_pattern": "虽说... (suīshuō...)",
@@ -241,12 +306,22 @@
     },
     {
       "point": "却",
-      "explanation": "The adverb '却' is used after the subject and before the verb to indicate a transition in meaning, often with a softer tone than '但是'.",
+      "explanation": "The adverb “却” is used after the subject and before the verb to indicate a transition in meaning in a softer tone.",
       "formal_examples": [
+        {
+          "chinese": "有人觉得有房子和汽车就是幸福，有人<b>却</b>认为找到真正的爱情才是幸福。",
+          "pinyin": "Yǒu rén juéde yǒu fángzi hé qìchē jiùshì xìngfú, yǒu rén què rènwéi zhǎodào zhēnzhèng de àiqíng cái shì xìngfú.",
+          "translation": "Some people think having a house and a car is happiness, while others believe finding true love is happiness."
+        },
         {
           "chinese": "一个脾气不好的人虽然不一定让人讨厌，但是<b>却</b>很难跟人交朋友。",
           "pinyin": "Yīgè píqi bù hǎo de rén suīrán bù yīdìng ràng rén tǎoyàn, dànshì què hěn nán gēn rén jiāo péngyǒu.",
           "translation": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends."
+        },
+        {
+          "chinese": "现在很多人虽然住在同一个楼里，但是<b>却</b>从来没说过话。",
+          "pinyin": "Xiànzài hěn duō rén suīrán zhù zài tóng yí ge lóu lǐ, dànshì què cónglái méi shuō guò huà.",
+          "translation": "Nowadays, many people live in the same building, yet they have never spoken to each other."
         }
       ],
       "colloquial_pattern": "倒 (dào) / 反而 (fǎn'ér)",
@@ -261,12 +336,27 @@
     },
     {
       "point": "而",
-      "explanation": "The conjunction '而' is used in compound sentences to connect two clauses. It can represent a coordinate relationship (parallel) or an adversative relationship (contrast/transition).",
+      "explanation": "The conjunction “而” can be used in a compound sentence to connect two coordinate clauses. It can also be used to indicate an adversative relation.",
       "formal_examples": [
         {
+          "chinese": "“明”字，左边的“日”意思是太阳，<b>而</b>右边的“月”意思是月亮。",
+          "pinyin": "“Míng” zì, zuǒbian de “rì” yìsi shì tàiyáng, ér yòubian de “yuè” yìsi shì yuèliang.",
+          "translation": "In the character “明”, the “日” on the left means the sun, while the “月” on the right means the moon."
+        },
+        {
+          "chinese": "结婚前，我们都要清楚自己想要的是什么，<b>而</b>不要被别人对幸福的看法影响。",
+          "pinyin": "Jiéhūn qián, wǒmen dōu yào qīngchu zìjǐ xiǎng yào de shì shénme, ér bú yào bèi biéren duì xìngfú de kànfǎ yǐngxiǎng.",
+          "translation": "Before marriage, we should all be clear about what we want, and not be influenced by other people's views of happiness."
+        },
+        {
+          "chinese": "在工作中遇到了问题，男人回到家不喜欢跟妻子说，<b>而</b>女人喜欢跟丈夫说。",
+          "pinyin": "Zài gōngzuò zhōng yùdàole wèntí, nánrén huí dào jiā bù xǐhuan gēn qīzi shuō, ér nǚrén xǐhuan gēn zhàngfu shuō.",
+          "translation": "When they encounter problems at work, men do not like to talk to their wives after returning home, while women like to talk to their husbands."
+        },
+        {
           "chinese": "有些人觉得朋友就是能和自己一起快乐的人，<b>而</b>我的理解是：当你遇到困难的时候，真正的朋友会站出来，及时给你帮助。",
-          "pinyin": "Yǒuxiē rén juédé péngyǒu jiùshì néng hé zìjǐ yīqǐ kuàilè de rén, ér wǒ de lǐjiě shì: dāng nǐ yùdào kùnnan de shíhou, zhēnzhèng de péngyǒu huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
-          "translation": "Some people feel that friends are just people who can be happy with them, but my understanding is: when you encounter difficulties, a true friend will stand up and give you timely help."
+          "pinyin": "Yǒuxiē rén juéde péngyou jiùshì néng hé zìjǐ yìqǐ kuàilè de rén, ér wǒ de lǐjiě shì: dāng nǐ yùdào kùnnan de shíhou, zhēnzhèng de péngyou huì zhàn chūlái, jíshí gěi nǐ bāngzhù.",
+          "translation": "Some people think friends are people who can be happy together with them, but my understanding is: when you encounter difficulties, true friends will stand up and give you help in time."
         }
       ],
       "colloquial_pattern": "..., 可是 (kěshì) / ..., 倒 (dào)",
@@ -278,6 +368,41 @@
         }
       ],
       "nuance": "'而' is slightly more formal and elegant than '但是' or '可是'. It is often used to create a balanced comparison between two subjects or situations. In daily conversation, it's frequently paired with '却' to strengthen the contrast."
+    },
+    {
+      "point": "同字词：系",
+      "explanation": "Words with the same character “系”: 联系, 关系, 没关系.",
+      "formal_examples": [
+        {
+          "chinese": "A: 喂，喂，你在哪儿呢？怎么听不清楚你说话？<br/>B: 我现在在火车站，人太多了，过会儿我再跟你<b>联系</b>吧。",
+          "pinyin": "A: Wèi, wèi, nǐ zài nǎr ne? Zěnme tīng bù qīngchu nǐ shuōhuà?<br/>B: Wǒ xiànzài zài huǒchēzhàn, rén tài duō le, guò huìr wǒ zài gēn nǐ liánxì ba.",
+          "translation": "A: Hello, hello, where are you? Why can't I hear you clearly?<br/>B: I'm at the train station now. There are too many people. I'll contact you again in a little while."
+        },
+        {
+          "chinese": "A: 你和她<b>关系</b>那么好，能帮我介绍一下吗？<br/>B: 没问题，下次我们学校开舞会时我叫你来。",
+          "pinyin": "A: Nǐ hé tā guānxi nàme hǎo, néng bāng wǒ jièshào yíxià ma?<br/>B: Méi wèntí, xià cì wǒmen xuéxiào kāi wǔhuì shí wǒ jiào nǐ lái.",
+          "translation": "A: Your relationship with her is so good. Can you introduce me?<br/>B: No problem. Next time our school holds a dance, I'll invite you."
+        },
+        {
+          "chinese": "A: 你怎么了？是不是太累了？<br/>B: 我可能有点儿发烧，<b>没关系</b>，休息一下就好了。",
+          "pinyin": "A: Nǐ zěnme le? Shì bu shì tài lèi le?<br/>B: Wǒ kěnéng yǒu diǎnr fāshāo, méi guānxi, xiūxi yíxià jiù hǎo le.",
+          "translation": "A: What's wrong? Are you too tired?<br/>B: I may have a bit of a fever. It's okay; I'll be fine after resting a little."
+        }
+      ],
+      "colloquial_pattern": "联系 / 关系 / 没事儿",
+      "colloquial_examples": [
+        {
+          "chinese": "这儿太吵了，我一会儿再跟你<b>联系</b>。",
+          "pinyin": "Zhèr tài chǎo le, wǒ yíhuìr zài gēn nǐ liánxì.",
+          "translation": "It's too noisy here. I'll get back in touch with you later."
+        },
+        {
+          "chinese": "我有点发烧，<b>没事儿</b>，歇会儿就行。",
+          "pinyin": "Wǒ yǒu diǎn fāshāo, méi shìr, xiē huìr jiù xíng.",
+          "translation": "I have a bit of a fever, but it's fine. I just need to rest for a bit."
+        }
+      ],
+      "nuance": "This is an expansion note for words sharing the character “系”, not a single grammar pattern. The formal examples preserve the textbook's word-family usage."
     }
   ],
   "key_sentences": [
@@ -859,67 +984,359 @@
           "ko": "우리 오후에 축구 하러 가는데, 너 마침 잘 왔다. 같이 갈래?",
           "ja": "午後からサッカー行くんだけど、君、ちょうどいいところに来たね。一緒にどう？",
           "en": "Using '凑巧' (coincidentally) or ending with '呗' makes it sound more casual and friendly among peers."
-        }
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "사과는 8위안 5자오, 수박은 11위안 5자오라서 딱 20위안입니다.",
+              "ja": "りんごは8元5角、スイカは11元5角で、ちょうど20元です。",
+              "en": "The apples are eight yuan fifty, and the watermelon is eleven yuan fifty, exactly twenty yuan."
+            }
+          },
+          {
+            "translation": {
+              "ko": "마침 잘 왔어요. 제 지갑이 없어졌는데 돈을 조금 빌려 주세요.",
+              "ja": "ちょうどいいところに来ました。財布がなくなったので、少しお金を貸してください。",
+              "en": "You came at just the right time. My wallet is missing; lend me a little money."
+            }
+          },
+          {
+            "translation": {
+              "ko": "우리는 오후에 축구하러 갈 건데, 마침 같이 가면 되겠네요.",
+              "ja": "私たちは午後サッカーに行くので、ちょうど一緒に行きましょう。",
+              "en": "We are going to play football this afternoon; it is a good opportunity for us to go together."
+            }
+          },
+          {
+            "translation": {
+              "ko": "제 여동생이 태어난 날 마침 눈이 내려서 부모님은 그녀를 ‘샤오쉐’라고 불렀습니다.",
+              "ja": "妹が生まれた日はちょうど雪が降っていたので、父と母は彼女を「小雪」と呼びました。",
+              "en": "On the day my younger sister was born, it happened to snow, so my parents called her “Xiaoxue”."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "우리 오후에 축구 하러 가는데, 너 마침 잘 왔다. 같이 가자.",
+              "ja": "午後サッカーに行くんだけど、君ちょうどいいところに来たね。一緒に行こう。",
+              "en": "We're playing ball this afternoon. You came at just the right time, let's just go together."
+            }
+          }
+        ]
       },
       "差不多": {
         "formal_translation": {
-          "ko": "반 친구들에게는 연락이 어떻게 되었나요? 몇 명이나 오나요? 거의 절반 정도일 거예요.",
-          "ja": "クラスメートへの連絡はどうなりましたか？何人くらい来ますか？だいたい半分くらいでしょう。",
-          "en": "'差不多' can be used as an adjective to mean 'approximate' or 'without much difference'. It can also be used as an adverb to indicate being close in terms of degree, scope, time, distance, or quantity."
+          "ko": "“差不多”는 형용사로 쓰여 ‘비슷하다, 차이가 크지 않다’를 뜻할 수 있습니다. 또한 부사로 쓰여 정도, 범위, 시간, 거리, 수량 등이 매우 가까움을 나타낼 수 있습니다.",
+          "ja": "「差不多」は形容詞として「近い、あまり差がない」という意味を表すことができます。また副詞として、程度、範囲、時間、距離、数量などが近いことを表すこともできます。",
+          "en": "“差不多” can be used as an adjective to mean “approximate” and “without much difference”. It can also be used as an adverb to indicate being close in terms of degree, scope, time, distance or quantity."
         },
         "colloquial_translation": {
           "ko": "과 애들한테 연락 다 돌렸어? 얼마나 온대? 대충 절반은 올걸.",
           "ja": "クラスのみんなに連絡ついた？何人くらい来れそう？まあ、ざっと半分ってとこかな。",
           "en": "'大差不差' is a more northern, idiomatic way to say 'almost there' or 'pretty much' in a colloquial setting."
-        }
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "이 두 전자사전은 보기에 비슷한데, 왼쪽 것은 왜 이렇게 비싼가요?",
+              "ja": "この二つの電子辞書は見たところほとんど同じなのに、左のものはどうしてこんなに高いのですか。",
+              "en": "These two electronic dictionaries look about the same. Why is the one on the left so expensive?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 두 사람은 해외여행 중에 알게 되었고, 성격이 비슷해서 곧 좋은 친구가 되었습니다.",
+              "ja": "二人は海外旅行中に知り合い、性格が似ていたので、すぐに良い友達になりました。",
+              "en": "The two of them met while traveling abroad. Their personalities are similar, so they quickly became good friends."
+            }
+          },
+          {
+            "translation": {
+              "ko": "A: 반 친구들과 연락은 어떻게 되었나요? 몇 명이나 오나요?<br/>B: 거의 절반 정도일 거예요.",
+              "ja": "A: クラスメートへの連絡はどうなりましたか。何人くらい来ますか。<br/>B: だいたい半分くらいでしょう。",
+              "en": "A: How is contacting the classmates going? How many people are coming?<br/>B: About half, I guess."
+            }
+          },
+          {
+            "translation": {
+              "ko": "딸이 중학교에 들어간 뒤 키가 아주 빨리 자라서, 지금은 거의 1미터 70이고 저와 비슷한 키가 되었습니다.",
+              "ja": "娘は中学校に入ってから背がとても速く伸び、今ではもうすぐ1メートル70で、私とほとんど同じ高さになりました。",
+              "en": "After my daughter started middle school, she grew very quickly. Now she is almost 1.7 meters tall, about as tall as me."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "반 친구들에게 거의 연락이 됐고, 기본적으로 절반 정도는 올 수 있어요.",
+              "ja": "クラスのみんなにはだいたい連絡がついて、基本的に半分くらいは来られます。",
+              "en": "The classmates are mostly contacted, basically about half can come."
+            }
+          }
+        ]
       },
       "差不多 vs 几乎": {
         "formal_translation": {
-          "ko": "그는 중국어를 아주 잘해서 거의 중국인 같다 / 내가 너에게 말하는 것을 거의 잊을 뻔했다.",
-          "ja": "彼は中国語がとても上手で、ほとんど中国人のようだ / あなたに言うのをほとんど忘れるところだった。",
-          "en": "Both mean 'almost', but '差不多' is more common in spoken Chinese and can be an adjective or precede numbers. '几乎' is more formal and often used for undesirable things that almost happened."
+          "ko": "공통점: “差不多”와 “几乎”는 모두 부사로서 매우 가깝거나 비슷함을 나타내며 부사어가 될 수 있습니다. 차이점: 이 뜻을 나타낼 때 “差不多”는 단음절 형용사 바로 앞에 올 수 있지만, “几乎” 뒤의 형용사 앞뒤에는 다른 말이 필요합니다. “差不多”는 수량사 앞에 와서 그 수량에 가까움을 나타낼 수 있지만 “几乎”에는 이런 용법이 없습니다. “差不多”는 형용사로 술어가 되어 차이가 크지 않음을 나타낼 수 있지만 “几乎”에는 이런 용법이 없습니다. “几乎”는 원하지 않는 일이 거의 일어날 뻔했지만 결국 일어나지 않았음을 나타낼 수 있고, “差不多”에는 이런 용법이 없습니다.",
+          "ja": "共通点: 「差不多」と「几乎」はどちらも副詞で、とても近い、または似ていることを表し、連用修飾語として使えます。違い: この意味を表すとき、「差不多」は単音節形容詞の直前に置けますが、「几乎」の後の形容詞の前後には他の語が必要です。「差不多」は数量詞の前に置いてその数量に近いことを表せますが、「几乎」にはその用法がありません。「差不多」は形容詞として述語になり、差が大きくないことを表せますが、「几乎」にはその用法がありません。「几乎」は望ましくないことがほとんど起こりかけたが結局起こらなかったことを表せますが、「差不多」にはその用法がありません。",
+          "en": "Similarity: both “差不多” and “几乎” are adverbs indicating being very close or similar, and both can serve as an adverbial modifier. Differences: when expressing this meaning, “差不多” can be used directly before a monosyllabic adjective, while the adjective before or after “几乎” needs other words. “差不多” can precede a numeral-classifier compound to indicate being close to that quantity, while “几乎” has no such usage. “差不多” can also be used as an adjective predicate to indicate being similar and without much difference, while “几乎” has no such usage. “几乎” can indicate that something undesirable almost happened but finally did not, while “差不多” has no such usage."
         },
         "colloquial_translation": {
           "ko": "와, 얘 중국어 진짜 잘한다. 거의 중국 사람인 줄 알겠어. 아, 맞다! 하마터면 너한테 이 얘기 하는 거 까먹을 뻔했네.",
           "ja": "うわ、彼中国語めちゃくちゃ上手いね。もう中国人かと思ったよ。あ、いっけな！君にこのこと言うの、危うく忘れるところだった。",
-          "en": "In daily speech, '差一点儿' is much more frequently used than '几乎' to describe a close call or something that almost happened but didn't."
-        }
+          "en": "This is a comparison note rather than a single new pattern. “差不多” can describe similarity or approximate quantity more freely, while “几乎” is better for “almost” as an adverb, especially when something nearly happened."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "그는 중국어를 아주 잘해서 거의 중국인과 같습니다.",
+              "ja": "彼は中国語がとても上手で、ほとんど中国人と同じです。",
+              "en": "He speaks Chinese very well, almost like a Chinese person."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 두 사람은 키가 비슷합니다.",
+              "ja": "二人はだいたい同じくらいの高さです。",
+              "en": "The two of them are about the same height."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 두 사람은 거의 같은 키입니다.",
+              "ja": "二人はほとんど同じ高さです。",
+              "en": "The two of them are almost the same height."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그는 저보다 거의 머리 하나만큼 큽니다.",
+              "ja": "彼は私よりほとんど頭一つ分高いです。",
+              "en": "He is almost a head taller than me."
+            }
+          },
+          {
+            "translation": {
+              "ko": "리 선생님은 거의 예순 살입니다.",
+              "ja": "李先生はもうすぐ六十歳です。",
+              "en": "Teacher Li is almost sixty years old."
+            }
+          },
+          {
+            "translation": {
+              "ko": "자매 두 사람은 성격이 비슷합니다.",
+              "ja": "姉妹二人は性格が似ています。",
+              "en": "The two sisters have similar personalities."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 일을 당신에게 말하는 것을 거의 잊을 뻔했습니다.",
+              "ja": "このことをあなたに伝えるのをほとんど忘れるところでした。",
+              "en": "I almost forgot to tell you about this."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "아차, 이 일을 너한테 말하는 걸 하마터면 까먹을 뻔했어.",
+              "ja": "あ、危ない。このことを君に言うのをうっかり忘れるところだった。",
+              "en": "Oops, I almost forgot to tell you about this matter."
+            }
+          }
+        ]
       },
       "尽管": {
         "formal_translation": {
           "ko": "비록 졸업한 지 이렇게 오래되었지만, 우리는 여전히 자주 연락한다.",
           "ja": "卒業してもう何年も経つが、私たちは今でもよく連絡を取り合っている。",
-          "en": "'尽管' is a conjunction used to state a fact in the first clause, followed by a transition word like '但是', '可是', '却', or '还是' in the second clause to show a result that wouldn't normally happen."
+          "en": "The conjunction “尽管” is usually used in the first clause of a complex sentence to state a fact, often coordinating with words indicating transition such as “但是/可是/却/还是” in the second clause, which introduces a result that would not occur under normal circumstances."
         },
         "colloquial_translation": {
           "ko": "졸업한 지가 언젠데, 우리 사이는 아직도 짱짱해. 자주 보거든.",
           "ja": "卒業してから随分経つけど、うちらの仲は相変わらずだよ。しょっちゅう会ってるしね。",
           "en": "'虽说' is a very common oral substitute for '尽管' or '虽然'. Adding '杠杠的' (slang for excellent/solid) makes the sentence sound like a real conversation between close friends."
-        }
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "비록 졸업한 지 이렇게 오래되었지만, 우리는 여전히 자주 연락합니다.",
+              "ja": "卒業してもう何年も経ちますが、私たちは今でもよく連絡を取り合っています。",
+              "en": "Although we have been graduated for many years, we still keep in regular contact."
+            }
+          },
+          {
+            "translation": {
+              "ko": "남자친구가 준 이 선물은 비싸지 않지만, 저를 매우 감동시켰습니다.",
+              "ja": "彼氏がくれたこのプレゼントは高くありませんが、私をとても感動させました。",
+              "en": "Although the gift my boyfriend gave me was not expensive, it moved me very much."
+            }
+          },
+          {
+            "translation": {
+              "ko": "삼촌의 가장 큰 취미는 농구입니다. 대학 때 그는 학교 농구 경기에 여러 번 참가했습니다. 지금은 일이 매우 바쁘지만, 주말이 되면 여전히 친구들과 농구를 하러 갑니다.",
+              "ja": "叔父の一番の趣味はバスケットボールです。大学時代には学校のバスケットボールの試合に何度も参加しました。今は仕事がとても忙しいですが、週末になるとやはり友達とバスケットボールをしに行きます。",
+              "en": "My uncle's biggest hobby is playing basketball, and in college he participated in school basketball games many times. Although he is very busy with work now, on weekends he still goes to play basketball with friends."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "졸업한 지 오래됐지만, 우리 사이는 아직도 아주 좋고 자주 만나요.",
+              "ja": "卒業してずいぶん経ちますが、私たちの関係は今でもとても良く、よく会っています。",
+              "en": "Even though we graduated ages ago, our relationship is still solid; we get together often."
+            }
+          }
+        ]
       },
       "却": {
         "formal_translation": {
           "ko": "성격이 좋지 않은 사람이 반드시 미움을 받는 것은 아니지만, 친구를 사귀기는 매우 어렵다.",
           "ja": "性格が良くない人が必ずしも嫌われるわけではないが、友達を作るのは非常に難しい。",
-          "en": "The adverb '却' is used after the subject and before the verb to indicate a transition in meaning, often with a softer tone than '但是'."
+          "en": "The adverb “却” is used after the subject and before the verb to indicate a transition in meaning in a softer tone."
         },
         "colloquial_translation": {
           "ko": "성격 안 좋다고 다들 싫어하는 건 아닌데, 친구 사귀기는 확실히 좀 힘들지.",
           "ja": "性格に難があるからって皆に嫌われるとは限らないけど、友達作りとなると話は別だよね。",
           "en": "In spoken Chinese, '倒' is often used similarly to '却' to express something unexpected or contrary to expectation. Adding '够...的' emphasizes the degree of the situation (awkwardness)."
-        }
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "어떤 사람은 집과 자동차가 있으면 행복이라고 생각하지만, 어떤 사람은 진정한 사랑을 찾는 것이 행복이라고 생각합니다.",
+              "ja": "家や車があれば幸せだと思う人もいれば、本当の愛を見つけることこそ幸せだと思う人もいます。",
+              "en": "Some people think having a house and a car is happiness, while others believe finding true love is happiness."
+            }
+          },
+          {
+            "translation": {
+              "ko": "성격이 좋지 않은 사람이 반드시 미움을 받는 것은 아니지만, 친구를 사귀기는 매우 어렵습니다.",
+              "ja": "性格が良くない人が必ずしも嫌われるわけではありませんが、友達を作るのはとても難しいです。",
+              "en": "Although a person with a bad temper is not necessarily disliked, it is difficult for them to make friends."
+            }
+          },
+          {
+            "translation": {
+              "ko": "요즘 많은 사람은 같은 건물에 살지만, 한 번도 말을 나눈 적이 없습니다.",
+              "ja": "今では多くの人が同じ建物に住んでいるのに、一度も話したことがありません。",
+              "en": "Nowadays, many people live in the same building, yet they have never spoken to each other."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "몇 년 동안 맞은편에 살았는데도 인사 한 번 안 했다니, 정말 좀 어색하네요.",
+              "ja": "向かいに何年も住んでいるのに、挨拶すらしたことがないなんて、本当に気まずいですね。",
+              "en": "Living across from each other for years, yet not even a greeting was exchanged; it's quite awkward."
+            }
+          }
+        ]
       },
       "而": {
         "formal_translation": {
           "ko": "어떤 이들은 친구가 자신과 함께 즐거울 수 있는 사람이라고 생각하지만, 나의 이해는 이렇다: 당신이 어려움에 처했을 때, 진정한 친구는 발 벗고 나서서 제때 도움을 주는 사람이다.",
           "ja": "ある人は友達を自分と一緒に楽しく過ごせる人だと考えるが、私の理解はこうだ：困難に直面したとき、本当の友達は立ち上がって、タイミングよく助けてくれるものだ。",
-          "en": "The conjunction '而' is used in compound sentences to connect two clauses. It can represent a coordinate relationship (parallel) or an adversative relationship (contrast/transition)."
+          "en": "The conjunction “而” can be used in a compound sentence to connect two coordinate clauses. It can also be used to indicate an adversative relation."
         },
         "colloquial_translation": {
           "ko": "친구라는 게 같이 놀 때만 좋은 사람도 있겠지만, 내가 생각하는 진짜 친구는 말이야, 힘들 때 딱 나타나서 도와주는 그런 사람이야.",
           "ja": "友達ってのは一緒に遊んで楽しいだけの人もいるだろうけどさ、私が思う本当の友達ってのは、困った時にパッと現れて助けてくれる、そんな人のことだよ。",
           "en": "'而' is slightly more formal and elegant than '但是' or '可是'. It is often used to create a balanced comparison between two subjects or situations. In daily conversation, it's frequently paired with '却' to strengthen the contrast."
-        }
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "‘明’ 자에서 왼쪽의 ‘日’은 태양을 뜻하고, 오른쪽의 ‘月’은 달을 뜻합니다.",
+              "ja": "「明」という字では、左側の「日」は太陽を意味し、右側の「月」は月を意味します。",
+              "en": "In the character “明”, the “日” on the left means the sun, while the “月” on the right means the moon."
+            }
+          },
+          {
+            "translation": {
+              "ko": "결혼하기 전에 우리는 자신이 원하는 것이 무엇인지 분명히 알아야 하며, 다른 사람의 행복에 대한 생각에 영향을 받아서는 안 됩니다.",
+              "ja": "結婚前に、私たちは自分が何を望んでいるのかをはっきり知り、他人の幸福に対する考えに影響されないようにすべきです。",
+              "en": "Before marriage, we should all be clear about what we want, and not be influenced by other people's views of happiness."
+            }
+          },
+          {
+            "translation": {
+              "ko": "일에서 문제를 만나면 남자는 집에 돌아와 아내에게 말하기를 좋아하지 않지만, 여자는 남편에게 말하기를 좋아합니다.",
+              "ja": "仕事で問題に出会うと、男性は家に帰って妻に話したがりませんが、女性は夫に話したがります。",
+              "en": "When they encounter problems at work, men do not like to talk to their wives after returning home, while women like to talk to their husbands."
+            }
+          },
+          {
+            "translation": {
+              "ko": "어떤 사람은 친구란 자신과 함께 즐거울 수 있는 사람이라고 생각하지만, 제 이해는 이렇습니다. 어려움을 만났을 때 진정한 친구는 나서서 제때 도움을 줍니다.",
+              "ja": "友達とは自分と一緒に楽しく過ごせる人だと思う人もいますが、私の理解はこうです。困難に出会ったとき、本当の友達は立ち上がって、すぐに助けてくれます。",
+              "en": "Some people think friends are people who can be happy together with them, but my understanding is: when you encounter difficulties, true friends will stand up and give you help in time."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "다들 휴대폰을 하느라 바쁜데, 그는 옆에서 조용히 책을 읽고 있어요.",
+              "ja": "みんなスマホで忙しいのに、彼はそばで静かに本を読んでいます。",
+              "en": "Everyone is busy playing on their phones, while he is quietly reading a book on the side."
+            }
+          }
+        ]
+      },
+      "同字词：系": {
+        "formal_translation": {
+          "ko": "같은 글자 '系'를 포함한 단어: 联系, 关系, 没关系.",
+          "ja": "同じ字「系」を含む語: 联系、关系、没关系。",
+          "en": "Words with the same character “系”: 联系, 关系, 没关系."
+        },
+        "colloquial_translation": {
+          "ko": "이 항목은 하나의 문법 패턴이 아니라 '系'가 들어간 단어군 확장 노트입니다.",
+          "ja": "これは一つの文法パターンではなく、「系」を含む語群の拡張ノートです。",
+          "en": "This is an expansion note for words sharing the character “系”, not a single grammar pattern. The formal examples preserve the textbook's word-family usage."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "A: 여보세요, 여보세요, 어디에 있어요? 왜 말을 잘 들을 수 없죠?<br/>B: 저는 지금 기차역에 있어요. 사람이 너무 많아서 조금 있다가 다시 연락할게요.",
+              "ja": "A: もしもし、もしもし、どこにいるのですか。どうして話がよく聞こえないのですか。<br/>B: 今駅にいます。人が多すぎるので、少ししたらまた連絡します。",
+              "en": "A: Hello, hello, where are you? Why can't I hear you clearly?<br/>B: I'm at the train station now. There are too many people. I'll contact you again in a little while."
+            }
+          },
+          {
+            "translation": {
+              "ko": "A: 당신은 그녀와 관계가 그렇게 좋은데, 저를 좀 소개해 줄 수 있나요?<br/>B: 문제없어요. 다음에 우리 학교에서 무도회가 열릴 때 당신을 부를게요.",
+              "ja": "A: あなたは彼女とそんなに仲が良いのだから、私に紹介してくれませんか。<br/>B: 問題ありません。次に私たちの学校でダンスパーティーがあるとき、あなたを呼びます。",
+              "en": "A: Your relationship with her is so good. Can you introduce me?<br/>B: No problem. Next time our school holds a dance, I'll invite you."
+            }
+          },
+          {
+            "translation": {
+              "ko": "A: 왜 그래요? 너무 피곤한가요?<br/>B: 열이 조금 나는 것 같아요. 괜찮아요. 좀 쉬면 나을 거예요.",
+              "ja": "A: どうしましたか。疲れすぎたのですか。<br/>B: 少し熱があるかもしれません。大丈夫です。少し休めばよくなります。",
+              "en": "A: What's wrong? Are you too tired?<br/>B: I may have a bit of a fever. It's okay; I'll be fine after resting a little."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "여기 너무 시끄러워요. 나중에 다시 연락할게요.",
+              "ja": "ここはうるさすぎます。あとでまた連絡します。",
+              "en": "It's too noisy here. I'll get back in touch with you later."
+            }
+          },
+          {
+            "translation": {
+              "ko": "열이 조금 나지만 괜찮아요. 잠깐 쉬면 돼요.",
+              "ja": "少し熱がありますが、大丈夫です。少し休めばいいです。",
+              "en": "I have a bit of a fever, but it's fine. I just need to rest for a bit."
+            }
+          }
+        ]
       }
     },
     "keySentences": {
