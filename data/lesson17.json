@@ -1,0 +1,1613 @@
+{
+  "lessonId": 17,
+  "title": "Lesson 17: 小夏和安娜在聊天气 (xiǎo xià hé ānnà zài liáo tiānqì) (Xiao Xia and Anna are chatting about the weather)",
+  "vocabulary": [
+    {
+      "word": "凉快",
+      "pinyin": "liángkuai",
+      "meaning": "adj. pleasantly cool"
+    },
+    {
+      "word": "热闹",
+      "pinyin": "rènao",
+      "meaning": "adj. busy, bustling"
+    },
+    {
+      "word": "云",
+      "pinyin": "yún",
+      "meaning": "n. cloud"
+    },
+    {
+      "word": "广播",
+      "pinyin": "guǎngbō",
+      "meaning": "n. broadcast, radio program"
+    },
+    {
+      "word": "照",
+      "pinyin": "zhào",
+      "meaning": "v. to take a picture, to photograph"
+    },
+    {
+      "word": "倒",
+      "pinyin": "dào",
+      "meaning": "adv. yet, actually; used to indicate contrast"
+    },
+    {
+      "word": "毛",
+      "pinyin": "máo",
+      "meaning": "n. hair, fur"
+    },
+    {
+      "word": "抱",
+      "pinyin": "bào",
+      "meaning": "v. to hold in the arms, to hug"
+    },
+    {
+      "word": "干",
+      "pinyin": "gàn",
+      "meaning": "v. to do, to act"
+    },
+    {
+      "word": "严格",
+      "pinyin": "yángé",
+      "meaning": "adj. strict, rigorous"
+    },
+    {
+      "word": "难受",
+      "pinyin": "nánshòu",
+      "meaning": "adj. sad, unhappy; uncomfortable"
+    },
+    {
+      "word": "趟",
+      "pinyin": "tàng",
+      "meaning": "m. time; used for a round trip"
+    },
+    {
+      "word": "放暑假",
+      "pinyin": "fàng shǔjià",
+      "meaning": "to be on summer vacation"
+    },
+    {
+      "word": "老虎",
+      "pinyin": "lǎohǔ",
+      "meaning": "n. tiger"
+    },
+    {
+      "word": "入口",
+      "pinyin": "rùkǒu",
+      "meaning": "n. entrance"
+    },
+    {
+      "word": "排队",
+      "pinyin": "pái duì",
+      "meaning": "v. to form a line, to line up"
+    },
+    {
+      "word": "活泼",
+      "pinyin": "huópo",
+      "meaning": "adj. lively, vivacious"
+    },
+    {
+      "word": "社会",
+      "pinyin": "shèhuì",
+      "meaning": "n. society"
+    },
+    {
+      "word": "竞争",
+      "pinyin": "jìngzhēng",
+      "meaning": "v. to compete"
+    },
+    {
+      "word": "森林",
+      "pinyin": "sēnlín",
+      "meaning": "n. forest"
+    },
+    {
+      "word": "剩",
+      "pinyin": "shèng",
+      "meaning": "v. to be left over, to remain"
+    },
+    {
+      "word": "暖和",
+      "pinyin": "nuǎnhuo",
+      "meaning": "adj. warm"
+    },
+    {
+      "word": "海洋",
+      "pinyin": "hǎiyáng",
+      "meaning": "n. sea, ocean"
+    },
+    {
+      "word": "底",
+      "pinyin": "dǐ",
+      "meaning": "n. bottom, base"
+    },
+    {
+      "word": "美人鱼",
+      "pinyin": "měirényú",
+      "meaning": "n. mermaid"
+    },
+    {
+      "word": "公里",
+      "pinyin": "gōnglǐ",
+      "meaning": "m. kilometer"
+    },
+    {
+      "word": "仍然",
+      "pinyin": "réngrán",
+      "meaning": "adv. still, yet"
+    },
+    {
+      "word": "排列",
+      "pinyin": "páiliè",
+      "meaning": "v. to put in order, to arrange"
+    },
+    {
+      "word": "梦",
+      "pinyin": "mèng",
+      "meaning": "n. dream"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "倒",
+      "formal": "The verb and adverb “倒”",
+      "colloquial": "倒: pour; actually/yet",
+      "explanation": "As a verb, “倒” means to tilt a container and pour out what is inside. As an adverb, “倒” indicates something contrary to expectation, often carrying a tone of blame or showing concession. Sometimes “倒是” is used instead.",
+      "nuance": "Use verb “倒” for pouring a drink or liquid. Use adverbial “倒” or “倒是” when the result is unexpected, when lightly blaming someone, or when conceding one point before adding a reservation.",
+      "formal_examples": [
+        {
+          "zh": "麻烦你给我倒杯咖啡吧，困死我了。",
+          "pinyin": "Máfan nǐ gěi wǒ dào bēi kāfēi ba, kùn sǐ wǒ le.",
+          "translation": "Please pour me a cup of coffee. I am terribly sleepy."
+        },
+        {
+          "zh": "你怎么咳嗽得这么厉害？我给你倒杯水吧。",
+          "pinyin": "Nǐ zěnme késou de zhème lìhai? Wǒ gěi nǐ dào bēi shuǐ ba.",
+          "translation": "Why are you coughing so badly? Let me pour you a glass of water."
+        },
+        {
+          "zh": "我以为坐出租车会快些，没想到倒比骑车还慢。",
+          "pinyin": "Wǒ yǐwéi zuò chūzūchē huì kuài xiē, méi xiǎngdào dào bǐ qí chē hái màn.",
+          "translation": "I thought taking a taxi would be faster, but unexpectedly it was even slower than riding a bike."
+        },
+        {
+          "zh": "你说得倒是容易，做起来可就难了！",
+          "pinyin": "Nǐ shuō de dào shì róngyì, zuò qǐlai kě jiù nán le!",
+          "translation": "It is easy for you to say, but actually doing it is hard!"
+        },
+        {
+          "zh": "去长城倒是一个好主意，就是太远了。",
+          "pinyin": "Qù Chángchéng dào shì yí ge hǎo zhǔyi, jiù shì tài yuǎn le.",
+          "translation": "Going to the Great Wall is actually a good idea; it is just too far."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "我给你倒杯水吧。",
+          "pinyin": "Wǒ gěi nǐ dào bēi shuǐ ba.",
+          "translation": "Let me pour you a glass of water."
+        },
+        {
+          "zh": "这主意倒是不错，就是有点儿远。",
+          "pinyin": "Zhè zhǔyi dào shì búcuò, jiù shì yǒu diǎnr yuǎn.",
+          "translation": "This idea is actually not bad; it is just a bit far."
+        }
+      ]
+    },
+    {
+      "point": "干",
+      "formal": "The verb “干 (gàn)” and related readings",
+      "colloquial": "干: do; dry; dried food",
+      "explanation": "The verb “干 (gàn)” means “to do” or “to engage in a certain cause, job, or activity”. Note that “干 (gān)” can also be an adjective meaning “dry”, and “干儿 (gānr)” is a noun meaning dried food that has had its moisture removed through processing.",
+      "nuance": "Use “干 (gàn)” for doing work, tasks, or activities. Use “干 (gān)” for dryness, and “干儿 (gānr)” for dried foods such as dried meat or fruit.",
+      "formal_examples": [
+        {
+          "zh": "每次你让它干什么，它就像能听懂你的话一样去做。",
+          "pinyin": "Měi cì nǐ ràng tā gàn shénme, tā jiù xiàng néng tīng dǒng nǐ de huà yíyàng qù zuò.",
+          "translation": "Every time you ask it to do something, it does it as if it can understand what you are saying."
+        },
+        {
+          "zh": "A：你这篇报道写得很好，以后要继续努力。B：谢谢您，我一定会好好儿干的。",
+          "pinyin": "A: Nǐ zhè piān bàodào xiě de hěn hǎo, yǐhòu yào jìxù nǔlì. B: Xièxie nín, wǒ yídìng huì hǎohāor gàn de.",
+          "translation": "A: You wrote this report very well. Keep working hard in the future. B: Thank you. I will definitely work hard."
+        },
+        {
+          "zh": "干工作的时候一定要认真、仔细，要注意到计划上的每一个地方，否则就很容易出问题。",
+          "pinyin": "Gàn gōngzuò de shíhou yídìng yào rènzhēn, zǐxì, yào zhùyì dào jìhuà shang de měi yí ge dìfang, fǒuzé jiù hěn róngyì chū wèntí.",
+          "translation": "When doing work, you must be serious and careful, and pay attention to every part of the plan; otherwise, problems can easily occur."
+        },
+        {
+          "zh": "A：妈，帮我拿条毛巾，外面雨真大啊！B：又忘记带伞了吧？头发都湿了，先把头发擦干，别感冒了。",
+          "pinyin": "A: Mā, bāng wǒ ná tiáo máojīn, wàimian yǔ zhēn dà a! B: Yòu wàngjì dài sǎn le ba? Tóufa dōu shī le, xiān bǎ tóufa cā gān, bié gǎnmào le.",
+          "translation": "A: Mom, get me a towel. It is raining so hard outside! B: You forgot to bring an umbrella again, didn’t you? Your hair is all wet. Dry it first so you do not catch a cold."
+        },
+        {
+          "zh": "A：这牛肉干味道真不错，在哪儿买的？B：不是我买的，是我男朋友从老家寄过来的。",
+          "pinyin": "A: Zhè niúròu gānr wèidao zhēn búcuò, zài nǎr mǎi de? B: Bú shì wǒ mǎi de, shì wǒ nánpéngyou cóng lǎojiā jì guo lai de.",
+          "translation": "A: This beef jerky tastes really good. Where did you buy it? B: I didn’t buy it. My boyfriend sent it from his hometown."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "我一定会好好儿干的。",
+          "pinyin": "Wǒ yídìng huì hǎohāor gàn de.",
+          "translation": "I will definitely work hard."
+        },
+        {
+          "zh": "先把头发擦干，别感冒了。",
+          "pinyin": "Xiān bǎ tóufa cā gān, bié gǎnmào le.",
+          "translation": "Dry your hair first so you do not catch a cold."
+        }
+      ]
+    },
+    {
+      "point": "趟",
+      "formal": "The measure word “趟”",
+      "colloquial": "趟: counting round trips",
+      "explanation": "The measure word “趟” indicates the number of trips, especially round trips or times going somewhere and coming back.",
+      "nuance": "Use “趟” when counting how many times someone goes to a place and usually returns, such as “去一趟”, “回一趟家”, or “出一趟差”.",
+      "formal_examples": [
+        {
+          "zh": "上个月我去了一趟北京动物园，那里约有500多种动物。",
+          "pinyin": "Shàng ge yuè wǒ qù le yí tàng Běijīng Dòngwùyuán, nàli yuē yǒu wǔbǎi duō zhǒng dòngwù.",
+          "translation": "Last month I went to the Beijing Zoo once; there are about more than five hundred kinds of animals there."
+        },
+        {
+          "zh": "我要出趟差，你能帮我照顾一下我的小狗吗？",
+          "pinyin": "Wǒ yào chū tàng chāi, nǐ néng bāng wǒ zhàogu yíxià wǒ de xiǎo gǒu ma?",
+          "translation": "I need to go on a business trip. Can you help take care of my dog for me?"
+        },
+        {
+          "zh": "A：马上就要放暑假了，你有什么安排吗？B：我打算先回一趟家，看看我奶奶，然后回学校准备研究生考试。",
+          "pinyin": "A: Mǎshàng jiù yào fàng shǔjià le, nǐ yǒu shénme ānpái ma? B: Wǒ dǎsuàn xiān huí yí tàng jiā, kànkan wǒ nǎinai, ránhòu huí xuéxiào zhǔnbèi yánjiūshēng kǎoshì.",
+          "translation": "A: Summer vacation is coming soon. Do you have any plans? B: I plan to go home first to visit my grandmother, and then return to school to prepare for the graduate school exam."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "我得回一趟家。",
+          "pinyin": "Wǒ děi huí yí tàng jiā.",
+          "translation": "I need to go home for a bit."
+        },
+        {
+          "zh": "我明天要出趟差。",
+          "pinyin": "Wǒ míngtiān yào chū tàng chāi.",
+          "translation": "I have to go on a business trip tomorrow."
+        }
+      ]
+    },
+    {
+      "point": "趟——次",
+      "formal": "Compare: 趟——次",
+      "colloquial": "趟 vs 次",
+      "explanation": "Both “趟” and “次” indicate the number of times an action takes place and are often interchangeable with actions involving coming and going, such as “来”, “去”, “走”, “跑”, “接”, and “送”. However, “趟” emphasizes a trip there and back and is only used for actions involving movement to and from a place, while “次” simply counts repeated actions and does not necessarily imply a round trip. “次” can also count other behaviors such as asking, speaking, looking, and discussing, while “趟” cannot. “趟” can also be used for buses or trains that travel on a scheduled route, similar to “辆” or “列”; “次” cannot be used this way.",
+      "nuance": "Use “趟” when the action feels like making a trip. Use “次” as the general counter for repeated actions.",
+      "formal_examples": [
+        {
+          "zh": "今年寒假我去广东玩儿了一趟/次。",
+          "pinyin": "Jīnnián hánjià wǒ qù Guǎngdōng wánr le yí tàng/cì.",
+          "translation": "This winter vacation I went to Guangdong once for fun."
+        },
+        {
+          "zh": "回来的路上我顺便去了一趟银行。",
+          "pinyin": "Huílai de lù shang wǒ shùnbiàn qù le yí tàng yínháng.",
+          "translation": "On the way back, I stopped by the bank once."
+        },
+        {
+          "zh": "小时候，爷爷差不多每个月都带我去看一次京剧。",
+          "pinyin": "Xiǎoshíhou, yéye chàbuduō měi ge yuè dōu dài wǒ qù kàn yí cì jīngjù.",
+          "translation": "When I was little, my grandfather took me to watch Peking opera almost once every month."
+        },
+        {
+          "zh": "你这么着急去哪儿啊？我刚才叫了你两次，你都没听到。",
+          "pinyin": "Nǐ zhème zháojí qù nǎr a? Wǒ gāngcái jiào le nǐ liǎng cì, nǐ dōu méi tīng dào.",
+          "translation": "Where are you rushing off to? I called you twice just now, but you did not hear me."
+        },
+        {
+          "zh": "附近有好几趟公共汽车都能到我工作的公司。",
+          "pinyin": "Fùjìn yǒu hǎo jǐ tàng gōnggòng qìchē dōu néng dào wǒ gōngzuò de gōngsī.",
+          "translation": "There are several bus routes nearby that can get to the company where I work."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "我得去一趟银行。",
+          "pinyin": "Wǒ děi qù yí tàng yínháng.",
+          "translation": "I need to make a trip to the bank."
+        },
+        {
+          "zh": "我刚才叫了你两次。",
+          "pinyin": "Wǒ gāngcái jiào le nǐ liǎng cì.",
+          "translation": "I called you twice just now."
+        }
+      ]
+    },
+    {
+      "point": "为了……而……",
+      "formal": "The structure “为了……而……”",
+      "colloquial": "in order to ...",
+      "explanation": "In the structure “为了……而……”, the first clause indicates the purpose of the action or behavior in the second clause. “为了” is followed by a word or phrase, and “而” links that purpose to the following action.",
+      "nuance": "Use “为了……而……” in formal or explanatory contexts when you want to clearly state that an action is done for a particular purpose.",
+      "formal_examples": [
+        {
+          "zh": "植物会为了阳光、空气和水而竞争。",
+          "pinyin": "Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng.",
+          "translation": "Plants compete for sunlight, air, and water."
+        },
+        {
+          "zh": "北风与南风为了比谁更有能力而吵了起来。它们决定，谁能把人们身上的大衣脱掉，谁就赢了。",
+          "pinyin": "Běifēng yǔ nánfēng wèile bǐ shéi gèng yǒu nénglì ér chǎo le qǐlai. Tāmen juédìng, shéi néng bǎ rénmen shēn shang de dàyī tuō diào, shéi jiù yíng le.",
+          "translation": "The north wind and the south wind began arguing in order to compare who was more capable. They decided that whoever could make people take off their coats would win."
+        },
+        {
+          "zh": "自然界中，不少动物和植物为了保护自己而改变身体的颜色或样子，使自己成为周围环境的一部分。",
+          "pinyin": "Zìránjiè zhōng, bù shǎo dòngwù hé zhíwù wèile bǎohù zìjǐ ér gǎibiàn shēntǐ de yánsè huò yàngzi, shǐ zìjǐ chéngwéi zhōuwéi huánjìng de yí bùfen.",
+          "translation": "In nature, many animals and plants change the color or appearance of their bodies in order to protect themselves, making themselves part of the surrounding environment."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "他为了学好汉语而每天练习。",
+          "pinyin": "Tā wèile xué hǎo Hànyǔ ér měitiān liànxí.",
+          "translation": "He practices every day in order to learn Chinese well."
+        },
+        {
+          "zh": "很多动物为了保护自己而改变颜色。",
+          "pinyin": "Hěn duō dòngwù wèile bǎohù zìjǐ ér gǎibiàn yánsè.",
+          "translation": "Many animals change color in order to protect themselves."
+        }
+      ]
+    },
+    {
+      "point": "仍然",
+      "formal": "The adverb “仍然”",
+      "colloquial": "仍然: still; as before",
+      "explanation": "The adverb “仍然” means that the situation remains the same as before without any change.",
+      "nuance": "Use “仍然” to emphasize that something continues unchanged, especially after time has passed or conditions have changed.",
+      "formal_examples": [
+        {
+          "zh": "就算在几公里深的海底也仍然能看到东西。",
+          "pinyin": "Jiùsuàn zài jǐ gōnglǐ shēn de hǎidǐ yě réngrán néng kàn dào dōngxi.",
+          "translation": "Even several kilometers deep under the sea, things can still be seen."
+        },
+        {
+          "zh": "人比动物聪明，但动物仍然有很多值得人学习的地方。",
+          "pinyin": "Rén bǐ dòngwù cōngming, dàn dòngwù réngrán yǒu hěn duō zhíde rén xuéxí de dìfang.",
+          "translation": "Humans are smarter than animals, but animals still have many things worth learning from."
+        },
+        {
+          "zh": "足球决赛时，如果90分钟后仍然是0比0，按照规定，可以进行加时赛来决定输赢。",
+          "pinyin": "Zúqiú juésài shí, rúguǒ jiǔshí fēnzhōng hòu réngrán shì líng bǐ líng, ànzhào guīdìng, kěyǐ jìnxíng jiāshísài lái juédìng shūyíng.",
+          "translation": "In a football final, if the score is still 0–0 after ninety minutes, according to the rules, extra time can be played to decide the winner."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "他现在仍然住在北京。",
+          "pinyin": "Tā xiànzài réngrán zhù zài Běijīng.",
+          "translation": "He still lives in Beijing now."
+        },
+        {
+          "zh": "雨下了很久，比赛仍然继续。",
+          "pinyin": "Yǔ xià le hěn jiǔ, bǐsài réngrán jìxù.",
+          "translation": "It rained for a long time, but the match still continued."
+        }
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "小夏和安娜在聊天气 (xiǎo xià hé ānnà zài liáo tiānqì) (Xiao Xia and Anna are chatting about the weather)",
+      "audio": "audio/17-1.mp3",
+      "content": [
+        {
+          "speaker": "小夏",
+          "text": "最近天气越来越凉快了，风一刮，草地上就会有一层厚厚的黄叶，看来秋天已经到了。",
+          "pinyin": "Zuìjìn tiānqì yuè lái yuè liángkuai le, fēng yì guā, cǎodì shang jiù huì yǒu yì céng hòu hòu de huáng yè, kàn lái qiūtiān yǐjīng dào le.",
+          "translation": "The weather has been getting cooler lately. When the wind blows, the grass gets covered with a thick layer of yellow leaves. It looks like autumn has already arrived."
+        },
+        {
+          "speaker": "安娜",
+          "text": "这几天香山特别热闹，随着气温的降低，那里许多植物的叶子都由绿变黄或者变红，吸引了很多游客参观，咱们今天也去看看吧。",
+          "pinyin": "Zhè jǐ tiān Xiāng Shān tèbié rènao, suízhe qìwēn de jiàngdī, nàli xǔduō zhíwù de yèzi dōu yóu lǜ biàn huáng huòzhě biàn hóng, xīyǐn le hěn duō yóukè cānguān, zánmen jīntiān yě qù kànkan ba.",
+          "translation": "Fragrant Hill has been especially lively these days. As the temperature drops, the leaves of many plants there turn from green to yellow or red, attracting many tourists. Let's go take a look today too."
+        },
+        {
+          "speaker": "小夏",
+          "text": "你看天上的云，今天肯定有大雨。再说，香山上看红叶的人太多了。咱们改天去长城吧，广播里说那里也有不少专门看红叶的好地方。",
+          "pinyin": "Nǐ kàn tiān shang de yún, jīntiān kěndìng yǒu dàyǔ. Zài shuō, Xiāng Shān shang kàn hóngyè de rén tài duō le. Zánmen gǎi tiān qù Chángchéng ba, guǎngbō lǐ shuō nàli yě yǒu bù shǎo zhuānmén kàn hóngyè de hǎo dìfang.",
+          "translation": "Look at the clouds in the sky. It will definitely rain heavily today. Besides, there are too many people at Fragrant Hill looking at the red leaves. Let's go to the Great Wall another day; the radio said there are also quite a few good places there for viewing red leaves."
+        },
+        {
+          "speaker": "安娜",
+          "text": "真可惜，我还想多照点儿香山的照片呢。去长城倒是一个好主意，那我们明天去吧。",
+          "pinyin": "Zhēn kěxī, wǒ hái xiǎng duō zhào diǎnr Xiāng Shān de zhàopiàn ne. Qù Chángchéng dào shì yí ge hǎo zhǔyi, nà wǒmen míngtiān qù ba.",
+          "translation": "What a pity. I still wanted to take more photos of Fragrant Hill. Going to the Great Wall is actually a good idea, though. Then let's go tomorrow."
+        },
+        {
+          "speaker": "小夏",
+          "text": "明天恐怕也不行，明天是我爸的生日。",
+          "pinyin": "Míngtiān kǒngpà yě bù xíng, míngtiān shì wǒ bà de shēngrì.",
+          "translation": "Tomorrow probably won't work either. Tomorrow is my dad's birthday."
+        },
+        {
+          "speaker": "安娜",
+          "text": "没关系，那我们再约时间。",
+          "pinyin": "Méi guānxi, nà wǒmen zài yuē shíjiān.",
+          "translation": "No problem. Then let's set another time."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "安娜",
+          "pinyin": "Ānnà",
+          "meaning": "name of a person"
+        },
+        {
+          "word": "香山",
+          "pinyin": "Xiāng Shān",
+          "meaning": "the Fragrant Hill (in Beijing)"
+        },
+        {
+          "word": "长城",
+          "pinyin": "Chángchéng",
+          "meaning": "the Great Wall"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "凉快",
+          "pinyin": "liángkuai",
+          "meaning": "adj. pleasantly cool"
+        },
+        {
+          "word": "热闹",
+          "pinyin": "rènao",
+          "meaning": "adj. busy, bustling"
+        },
+        {
+          "word": "云",
+          "pinyin": "yún",
+          "meaning": "n. cloud"
+        },
+        {
+          "word": "广播",
+          "pinyin": "guǎngbō",
+          "meaning": "n. broadcast, radio program"
+        },
+        {
+          "word": "照",
+          "pinyin": "zhào",
+          "meaning": "v. to take a picture, to photograph"
+        },
+        {
+          "word": "倒",
+          "pinyin": "dào",
+          "meaning": "adv. yet, actually; used to indicate contrast"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "小林和小李在聊小李的狗 (xiǎo lín hé xiǎo lǐ zài liáo xiǎo lǐ de gǒu) (Xiao Lin and Xiao Li are talking about Xiao Li's dog)",
+      "audio": "audio/17-2.mp3",
+      "content": [
+        {
+          "speaker": "小林",
+          "text": "你的这只大黑狗毛真漂亮，而且这么聪明，每次见了都想抱一抱它。",
+          "pinyin": "Nǐ de zhè zhī dà hēi gǒu máo zhēn piàoliang, érqiě zhème cōngming, měi cì jiàn le dōu xiǎng bào yi bào tā.",
+          "translation": "This big black dog of yours has such beautiful fur, and it is so smart. Every time I see it, I want to give it a hug."
+        },
+        {
+          "speaker": "小李",
+          "text": "狗是很聪明的动物，只要稍微花点儿时间教教它，它就能学会很多东西。",
+          "pinyin": "Gǒu shì hěn cōngming de dòngwù, zhǐyào shāowēi huā diǎnr shíjiān jiāo jiao tā, tā jiù néng xuéhuì hěn duō dōngxi.",
+          "translation": "Dogs are very smart animals. As long as you spend a little time teaching them, they can learn many things."
+        },
+        {
+          "speaker": "小林",
+          "text": "听你这么一说，我现在也想养一只狗了。每次你让它干什么，它就像能听懂你的话一样去做。你教它是不是用了什么特别的方法？",
+          "pinyin": "Tīng nǐ zhème yì shuō, wǒ xiànzài yě xiǎng yǎng yì zhī gǒu le. Měi cì nǐ ràng tā gàn shénme, tā jiù xiàng néng tīng dǒng nǐ de huà yíyàng qù zuò. Nǐ jiāo tā shì bu shì yòng le shénme tèbié de fāngfǎ?",
+          "translation": "Hearing you say that, I want to raise a dog now too. Every time you ask it to do something, it does it as if it can understand what you are saying. Did you use some special method to teach it?"
+        },
+        {
+          "speaker": "小李",
+          "text": "要让它完成一些任务，只教一次是不够的，应该耐心地一遍一遍地教给它，使它熟悉，然后它就会严格按照你的要求做了。",
+          "pinyin": "Yào ràng tā wánchéng yìxiē rènwu, zhǐ jiāo yí cì shì bú gòu de, yīnggāi nàixīn de yí biàn yí biàn de jiāo gěi tā, shǐ tā shúxī, ránhòu tā jiù huì yángé ànzhào nǐ de yāoqiú zuò le.",
+          "translation": "If you want it to complete tasks, teaching it only once is not enough. You should patiently teach it again and again so that it becomes familiar with them, and then it will strictly follow your requirements."
+        },
+        {
+          "speaker": "小林",
+          "text": "看来没有想的那么容易。",
+          "pinyin": "Kàn lái méiyǒu xiǎng de nàme róngyì.",
+          "translation": "It seems it is not as easy as I imagined."
+        },
+        {
+          "speaker": "小李",
+          "text": "狗是我们的好朋友，它能听懂人的话，明白人的心情。在你心里难受的时候，它会一直陪着你。",
+          "pinyin": "Gǒu shì wǒmen de hǎo péngyou, tā néng tīng dǒng rén de huà, míngbai rén de xīnqíng. Zài nǐ xīnli nánshòu de shíhou, tā huì yìzhí péi zhe nǐ.",
+          "translation": "Dogs are our good friends. They can understand people’s words and feelings. When you feel sad inside, they will stay by your side."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "小林",
+          "pinyin": "Xiǎo Lín",
+          "meaning": "name of a person"
+        },
+        {
+          "word": "小李",
+          "pinyin": "Xiǎo Lǐ",
+          "meaning": "name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "毛",
+          "pinyin": "máo",
+          "meaning": "n. hair, fur"
+        },
+        {
+          "word": "抱",
+          "pinyin": "bào",
+          "meaning": "v. to hold in the arms, to hug"
+        },
+        {
+          "word": "干",
+          "pinyin": "gàn",
+          "meaning": "v. to do, to act"
+        },
+        {
+          "word": "严格",
+          "pinyin": "yángé",
+          "meaning": "adj. strict, rigorous"
+        },
+        {
+          "word": "难受",
+          "pinyin": "nánshòu",
+          "meaning": "adj. sad, unhappy; uncomfortable"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "马克和小夏在聊动物 (mǎkè hé xiǎo xià zài liáo dòngwù) (Mark and Xiao Xia are talking about animals)",
+      "audio": "audio/17-3.mp3",
+      "content": [
+        {
+          "speaker": "马克",
+          "text": "上个月我去了一趟北京动物园，那里约有500种动物，听导游说北京动物园是亚洲最大的动物园之一。",
+          "pinyin": "Shàng ge yuè wǒ qù le yí tàng Běijīng Dòngwùyuán, nàli yuē yǒu wǔbǎi zhǒng dòngwù, tīng dǎoyóu shuō Běijīng Dòngwùyuán shì Yàzhōu zuì dà de dòngwùyuán zhī yī.",
+          "translation": "Last month I took a trip to the Beijing Zoo. There are about five hundred kinds of animals there. I heard from the tour guide that the Beijing Zoo is one of the largest zoos in Asia."
+        },
+        {
+          "speaker": "小夏",
+          "text": "去年放暑假的时候，我也去过一次，我在那儿看了马、熊猫、老虎等动物。我特别喜欢熊猫，可惜它们当时大多在睡觉。",
+          "pinyin": "Qùnián fàng shǔjià de shíhou, wǒ yě qù guo yí cì, wǒ zài nàr kàn le mǎ, xióngmāo, lǎohǔ děng dòngwù. Wǒ tèbié xǐhuan xióngmāo, kěxī tāmen dāngshí dàduō zài shuìjiào.",
+          "translation": "I also went there once during summer vacation last year. I saw horses, pandas, tigers, and other animals there. I especially like pandas, but unfortunately most of them were sleeping at the time."
+        },
+        {
+          "speaker": "马克",
+          "text": "我去的那天正赶上六一儿童节，许多父母带着孩子去动物园。入口处排队的人很多，动物园里热闹极了。熊猫们也变得特别活泼，我还给它们照了不少照片呢。",
+          "pinyin": "Wǒ qù de nà tiān zhèng gǎn shang Liùyī Értóngjié, xǔduō fùmǔ dài zhe háizi qù dòngwùyuán. Rùkǒu chù páiduì de rén hěn duō, dòngwùyuán lǐ rènao jí le. Xióngmāo men yě biàn de tèbié huópo, wǒ hái gěi tāmen zhào le bù shǎo zhàopiàn ne.",
+          "translation": "The day I went happened to be International Children’s Day, and many parents took their children to the zoo. There were many people lining up at the entrance, and the zoo was extremely lively. The pandas also became especially active, and I took quite a few photos of them."
+        },
+        {
+          "speaker": "小夏",
+          "text": "大熊猫身子胖胖的，样子可爱极了。",
+          "pinyin": "Dà xióngmāo shēnzi pàng pàng de, yàngzi kě’ài jí le.",
+          "translation": "Giant pandas have chubby bodies and look extremely cute."
+        },
+        {
+          "speaker": "马克",
+          "text": "不过，它们数量不多，现在全世界一共才有一千多只吧。",
+          "pinyin": "Búguò, tāmen shùliàng bù duō, xiànzài quán shìjiè yígòng cái yǒu yì qiān duō zhī ba.",
+          "translation": "However, there are not many of them. There are probably only a little over one thousand in the whole world now."
+        },
+        {
+          "speaker": "小夏",
+          "text": "以前只有中国有大熊猫，为了表示友好，从1957年开始，中国把大熊猫作为礼物送给其他一些国家。现在，很多国家的人们在本国都能看到大熊猫了。",
+          "pinyin": "Yǐqián zhǐ yǒu Zhōngguó yǒu dà xióngmāo, wèile biǎoshì yǒuhǎo, cóng yī jiǔ wǔ qī nián kāishǐ, Zhōngguó bǎ dà xióngmāo zuòwéi lǐwù sòng gěi qítā yìxiē guójiā. Xiànzài, hěn duō guójiā de rénmen zài běnguó dōu néng kàn dào dà xióngmāo le.",
+          "translation": "In the past, only China had giant pandas. To show friendship, starting in 1957, China gave giant pandas as gifts to some other countries. Now, people in many countries can see giant pandas in their own countries."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "name of a person"
+        },
+        {
+          "word": "亚洲",
+          "pinyin": "Yàzhōu",
+          "meaning": "Asia"
+        },
+        {
+          "word": "六一儿童节",
+          "pinyin": "Liùyī Értóngjié",
+          "meaning": "International Children's Day"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "趟",
+          "pinyin": "tàng",
+          "meaning": "m. time; used for a round trip"
+        },
+        {
+          "word": "放暑假",
+          "pinyin": "fàng shǔjià",
+          "meaning": "to be on summer vacation"
+        },
+        {
+          "word": "老虎",
+          "pinyin": "lǎohǔ",
+          "meaning": "n. tiger"
+        },
+        {
+          "word": "入口",
+          "pinyin": "rùkǒu",
+          "meaning": "n. entrance"
+        },
+        {
+          "word": "排队",
+          "pinyin": "pái duì",
+          "meaning": "v. to form a line, to line up"
+        },
+        {
+          "word": "活泼",
+          "pinyin": "huópo",
+          "meaning": "adj. lively, vivacious"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "森林里的植物也会竞争 (sēnlín lǐ de zhíwù yě huì jìngzhēng) (Plants in forests also compete)",
+      "audio": "audio/17-4.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "不仅社会上的人与人之间有竞争，森林里的各种植物之间也有竞争，这一点儿也不奇怪。植物会为了阳光、空气和水而竞争。一些高大的植物往往能获得更多的阳光、空气和水，而剩下的一些比较低矮的植物就只能长在这些高大植物的下面。由于气候条件不同，世界各地植物叶子的样子也很不相同。在暖和、水分比较多的地方，叶子往往长得又大又厚；在阳光特别厉害、水分少的地方，叶子就会长得又细又长。",
+          "pinyin": "Bùjǐn shèhuì shang de rén yǔ rén zhī jiān yǒu jìngzhēng, sēnlín lǐ de gè zhǒng zhíwù zhī jiān yě yǒu jìngzhēng, zhè yì diǎnr yě bù qíguài. Zhíwù huì wèile yángguāng, kōngqì hé shuǐ ér jìngzhēng. Yìxiē gāodà de zhíwù wǎngwǎng néng huòdé gèng duō de yángguāng, kōngqì hé shuǐ, ér shèng xià de yìxiē bǐjiào dī ǎi de zhíwù jiù zhǐ néng zhǎng zài zhèxiē gāodà zhíwù de xiàmiàn. Yóuyú qìhòu tiáojiàn bùtóng, shìjiè gèdì zhíwù yèzi de yàngzi yě hěn bù xiāngtóng. Zài nuǎnhuo, shuǐfèn bǐjiào duō de dìfang, yèzi wǎngwǎng zhǎng de yòu dà yòu hòu; zài yángguāng tèbié lìhai, shuǐfèn shǎo de dìfang, yèzi jiù huì zhǎng de yòu xì yòu cháng.",
+          "translation": "Competition exists not only among people in society, but also among various plants in forests, and this is not strange at all. Plants compete for sunlight, air, and water. Some tall plants can often obtain more sunlight, air, and water, while the remaining shorter plants can only grow beneath these tall plants. Because climate conditions differ, the shapes of plant leaves around the world are also very different. In warm places with more moisture, leaves often grow large and thick; in places with especially strong sunlight and little moisture, leaves grow thin and long."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "社会",
+          "pinyin": "shèhuì",
+          "meaning": "n. society"
+        },
+        {
+          "word": "竞争",
+          "pinyin": "jìngzhēng",
+          "meaning": "v. to compete"
+        },
+        {
+          "word": "森林",
+          "pinyin": "sēnlín",
+          "meaning": "n. forest"
+        },
+        {
+          "word": "剩",
+          "pinyin": "shèng",
+          "meaning": "v. to be left over, to remain"
+        },
+        {
+          "word": "暖和",
+          "pinyin": "nuǎnhuo",
+          "meaning": "adj. warm"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "美丽的海底世界 (měilì de hǎidǐ shìjiè) (The beautiful undersea world)",
+      "audio": "audio/17-5.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "地球上大约71%的地方是蓝色的海洋，在美丽的海底世界里，生活着各种各样的植物和动物。我们小时候都听过美人鱼的故事，其实真正的海底世界比故事里写的更美。科学研究发现，海洋底部看上去非常安静，然而却不是一点儿声音也没有，海底的动物们一直在“说话”，只不过人的耳朵是听不到的。另外，就算在几公里深的海底也仍然能看到东西，许多鱼会发出各种颜色的亮光，像一个个排列起来的灯，美极了，就像在梦里一样。",
+          "pinyin": "Dìqiú shang dàyuē bǎi fēn zhī qīshíyī de dìfang shì lánsè de hǎiyáng, zài měilì de hǎidǐ shìjiè lǐ, shēnghuó zhe gè zhǒng gè yàng de zhíwù hé dòngwù. Wǒmen xiǎoshíhou dōu tīng guo měirényú de gùshi, qíshí zhēnzhèng de hǎidǐ shìjiè bǐ gùshi lǐ xiě de gèng měi. Kēxué yánjiū fāxiàn, hǎiyáng dǐbù kàn shangqu fēicháng ānjìng, rán'ér què bú shì yì diǎnr shēngyīn yě méiyǒu, hǎidǐ de dòngwù men yìzhí zài “shuōhuà”, zhǐbúguò rén de ěrduo shì tīng bu dào de. Lìngwài, jiùsuàn zài jǐ gōnglǐ shēn de hǎidǐ yě réngrán néng kàn dào dōngxi, xǔduō yú huì fāchū gè zhǒng yánsè de liàngguāng, xiàng yí ge ge páiliè qǐlai de dēng, měi jí le, jiù xiàng zài mèng lǐ yíyàng.",
+          "translation": "About 71% of the earth is blue ocean. In the beautiful undersea world live all kinds of plants and animals. When we were young, we all heard stories about mermaids, but the real undersea world is actually even more beautiful than what is written in stories. Scientific research has found that the bottom of the ocean looks very quiet, but it is not without sound at all. Animals under the sea are always “talking”; it is just that human ears cannot hear them. In addition, even several kilometers deep under the sea, things can still be seen. Many fish emit bright lights of various colors, like rows of lamps arranged one after another. It is extremely beautiful, just like being in a dream."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "海洋",
+          "pinyin": "hǎiyáng",
+          "meaning": "n. sea, ocean"
+        },
+        {
+          "word": "底",
+          "pinyin": "dǐ",
+          "meaning": "n. bottom, base"
+        },
+        {
+          "word": "美人鱼",
+          "pinyin": "měirényú",
+          "meaning": "n. mermaid"
+        },
+        {
+          "word": "公里",
+          "pinyin": "gōnglǐ",
+          "meaning": "m. kilometer"
+        },
+        {
+          "word": "仍然",
+          "pinyin": "réngrán",
+          "meaning": "adv. still, yet"
+        },
+        {
+          "word": "排列",
+          "pinyin": "páiliè",
+          "meaning": "v. to put in order, to arrange"
+        },
+        {
+          "word": "梦",
+          "pinyin": "mèng",
+          "meaning": "n. dream"
+        }
+      ]
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "真可惜，我还想多照点儿香山的照片呢。去长城<b>倒是</b>一个好主意，那我们明天去吧。",
+      "pinyin": "Zhēn kěxī, wǒ hái xiǎng duō zhào diǎnr Xiāng Shān de zhàopiàn ne. Qù Chángchéng <b>dào shì</b> yí ge hǎo zhǔyi, nà wǒmen míngtiān qù ba.",
+      "translation": "What a pity. I still wanted to take more photos of Fragrant Hill. Going to the Great Wall is actually a good idea, though. Then let’s go tomorrow.",
+      "context": "의견을 일부 인정하고 말할 때"
+    },
+    {
+      "sentence": "每次你让它<b>干</b>什么，它就像能听懂你的话一样去做。",
+      "pinyin": "Měi cì nǐ ràng tā <b>gàn</b> shénme, tā jiù xiàng néng tīng dǒng nǐ de huà yíyàng qù zuò.",
+      "translation": "Every time you ask it to do something, it does it as if it can understand what you are saying.",
+      "context": "어떤 일을 하게 할 때"
+    },
+    {
+      "sentence": "上个月我去了一<b>趟</b>北京动物园，那里约有500种动物。",
+      "pinyin": "Shàng ge yuè wǒ qù le yí <b>tàng</b> Běijīng Dòngwùyuán, nàli yuē yǒu wǔbǎi zhǒng dòngwù.",
+      "translation": "Last month I took a trip to the Beijing Zoo, where there are about five hundred kinds of animals.",
+      "context": "한 번 다녀온 일을 말할 때"
+    },
+    {
+      "sentence": "植物会<b>为了</b>阳光、空气和水<b>而</b>竞争。",
+      "pinyin": "Zhíwù huì <b>wèile</b> yángguāng, kōngqì hé shuǐ <b>ér</b> jìngzhēng.",
+      "translation": "Plants compete for sunlight, air, and water.",
+      "context": "목적을 분명히 설명할 때"
+    },
+    {
+      "sentence": "就算在几公里深的海底也<b>仍然</b>能看到东西。",
+      "pinyin": "Jiùsuàn zài jǐ gōnglǐ shēn de hǎidǐ yě <b>réngrán</b> néng kàn dào dōngxi.",
+      "translation": "Even several kilometers deep under the sea, things can still be seen.",
+      "context": "변함없이 계속됨을 말할 때"
+    }
+  ],
+  "translations": {
+    "lessonTitle": {
+      "en": "Xiao Xia and Anna are chatting about the weather",
+      "ko": "샤오샤와 안나가 날씨에 대해 이야기하다",
+      "ja": "小夏とアンナが天気について話す"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Xiao Xia and Anna are chatting about the weather",
+        "ko": "샤오샤와 안나가 날씨에 대해 이야기하다",
+        "ja": "小夏とアンナが天気について話す"
+      },
+      "2": {
+        "en": "Xiao Lin and Xiao Li are talking about Xiao Li's dog",
+        "ko": "샤오린과 샤오리가 샤오리의 개에 대해 이야기하다",
+        "ja": "小林と小李が小李の犬について話す"
+      },
+      "3": {
+        "en": "Mark and Xiao Xia are talking about animals",
+        "ko": "마크와 샤오샤가 동물에 대해 이야기하다",
+        "ja": "マークと小夏が動物について話す"
+      },
+      "4": {
+        "en": "Plants in forests also compete",
+        "ko": "숲속 식물들도 경쟁하다",
+        "ja": "森の植物も競争する"
+      },
+      "5": {
+        "en": "The beautiful undersea world",
+        "ko": "아름다운 해저 세계",
+        "ja": "美しい海底世界"
+      }
+    },
+    "vocabulary": {
+      "凉快": {
+        "en": "adj. pleasantly cool",
+        "ko": "형. 시원하다, 서늘하다",
+        "ja": "形. 涼しい、心地よく涼しい"
+      },
+      "热闹": {
+        "en": "adj. busy, bustling",
+        "ko": "형. 떠들썩하다, 번화하다",
+        "ja": "形. にぎやかだ"
+      },
+      "云": {
+        "en": "n. cloud",
+        "ko": "명. 구름",
+        "ja": "名. 雲"
+      },
+      "广播": {
+        "en": "n. broadcast, radio program",
+        "ko": "명. 방송, 라디오 프로그램",
+        "ja": "名. 放送、ラジオ番組"
+      },
+      "照": {
+        "en": "v. to take a picture, to photograph",
+        "ko": "동. 사진을 찍다",
+        "ja": "動. 写真を撮る"
+      },
+      "倒": {
+        "en": "adv. yet, actually; used to indicate contrast",
+        "ko": "부. 오히려, 뜻밖에도; 대조를 나타냄",
+        "ja": "副. かえって、意外にも; 対比を表す"
+      },
+      "毛": {
+        "en": "n. hair, fur",
+        "ko": "명. 털, 모발",
+        "ja": "名. 毛、毛皮"
+      },
+      "抱": {
+        "en": "v. to hold in the arms, to hug",
+        "ko": "동. 안다, 껴안다",
+        "ja": "動. 抱く、抱きしめる"
+      },
+      "干": {
+        "en": "v. to do, to act",
+        "ko": "동. 하다, 행동하다",
+        "ja": "動. する、やる"
+      },
+      "严格": {
+        "en": "adj. strict, rigorous",
+        "ko": "형. 엄격하다",
+        "ja": "形. 厳格だ、厳しい"
+      },
+      "难受": {
+        "en": "adj. sad, unhappy; uncomfortable",
+        "ko": "형. 괴롭다, 마음이 힘들다; 불편하다",
+        "ja": "形. つらい、気分が悪い、悲しい"
+      },
+      "趟": {
+        "en": "m. time; used for a round trip",
+        "ko": "양. 왕복이나 이동 횟수를 세는 말",
+        "ja": "量. 往復や移動の回数を数える語"
+      },
+      "放暑假": {
+        "en": "to be on summer vacation",
+        "ko": "여름방학을 하다",
+        "ja": "夏休みになる、夏休みを過ごす"
+      },
+      "老虎": {
+        "en": "n. tiger",
+        "ko": "명. 호랑이",
+        "ja": "名. トラ"
+      },
+      "入口": {
+        "en": "n. entrance",
+        "ko": "명. 입구",
+        "ja": "名. 入口"
+      },
+      "排队": {
+        "en": "v. to form a line, to line up",
+        "ko": "동. 줄을 서다",
+        "ja": "動. 列に並ぶ"
+      },
+      "活泼": {
+        "en": "adj. lively, vivacious",
+        "ko": "형. 활발하다, 생기 있다",
+        "ja": "形. 活発だ、生き生きしている"
+      },
+      "社会": {
+        "en": "n. society",
+        "ko": "명. 사회",
+        "ja": "名. 社会"
+      },
+      "竞争": {
+        "en": "v. to compete",
+        "ko": "동. 경쟁하다",
+        "ja": "動. 競争する"
+      },
+      "森林": {
+        "en": "n. forest",
+        "ko": "명. 숲, 삼림",
+        "ja": "名. 森林"
+      },
+      "剩": {
+        "en": "v. to be left over, to remain",
+        "ko": "동. 남다",
+        "ja": "動. 残る"
+      },
+      "暖和": {
+        "en": "adj. warm",
+        "ko": "형. 따뜻하다",
+        "ja": "形. 暖かい"
+      },
+      "海洋": {
+        "en": "n. sea, ocean",
+        "ko": "명. 바다, 해양",
+        "ja": "名. 海洋、海"
+      },
+      "底": {
+        "en": "n. bottom, base",
+        "ko": "명. 바닥, 밑",
+        "ja": "名. 底、基部"
+      },
+      "美人鱼": {
+        "en": "n. mermaid",
+        "ko": "명. 인어",
+        "ja": "名. 人魚"
+      },
+      "公里": {
+        "en": "m. kilometer",
+        "ko": "양. 킬로미터",
+        "ja": "量. キロメートル"
+      },
+      "仍然": {
+        "en": "adv. still, yet",
+        "ko": "부. 여전히, 아직도",
+        "ja": "副. 依然として、なお"
+      },
+      "排列": {
+        "en": "v. to put in order, to arrange",
+        "ko": "동. 배열하다, 정렬하다",
+        "ja": "動. 配列する、並べる"
+      },
+      "梦": {
+        "en": "n. dream",
+        "ko": "명. 꿈",
+        "ja": "名. 夢"
+      }
+    },
+    "properNouns": {
+      "安娜": {
+        "en": "Anna; name of a person",
+        "ko": "안나; 사람 이름",
+        "ja": "アンナ; 人名"
+      },
+      "香山": {
+        "en": "the Fragrant Hill (in Beijing)",
+        "ko": "샹산; 베이징의 향산",
+        "ja": "香山; 北京にある香山"
+      },
+      "长城": {
+        "en": "the Great Wall",
+        "ko": "만리장성",
+        "ja": "万里の長城"
+      },
+      "小林": {
+        "en": "Xiao Lin; name of a person",
+        "ko": "샤오린; 사람 이름",
+        "ja": "小林; 人名"
+      },
+      "小李": {
+        "en": "Xiao Li; name of a person",
+        "ko": "샤오리; 사람 이름",
+        "ja": "小李; 人名"
+      },
+      "马克": {
+        "en": "Mark; name of a person",
+        "ko": "마크; 사람 이름",
+        "ja": "マーク; 人名"
+      },
+      "亚洲": {
+        "en": "Asia",
+        "ko": "아시아",
+        "ja": "アジア"
+      },
+      "六一儿童节": {
+        "en": "International Children's Day",
+        "ko": "국제 어린이날",
+        "ja": "国際子どもの日"
+      }
+    },
+    "grammar": {
+      "倒": {
+        "formal_translation": {
+          "en": "As a verb, “倒” means to tilt a container and pour out what is inside. As an adverb, “倒” indicates something contrary to expectation, often carrying a tone of blame or showing concession. Sometimes “倒是” is used instead.",
+          "ko": "“倒”는 동사로 쓰이면 용기를 기울여 안에 있는 것을 따라 내다는 뜻이다. 부사로 쓰이면 예상과 반대되는 상황을 나타내며, 종종 책망하는 어조를 띠거나 양보의 뜻을 나타낸다. 때로는 “倒是”를 대신 쓰기도 한다.",
+          "ja": "「倒」は動詞として使うと、容器を傾けて中のものを注ぎ出すという意味です。副詞として使うと、予想に反することを表し、しばしば非難の語気を含んだり、譲歩を表したりします。時には「倒是」が使われることもあります。"
+        },
+        "colloquial_translation": {
+          "en": "Use verb “倒” for pouring a drink or liquid. Use adverbial “倒” or “倒是” when the result is unexpected, when lightly blaming someone, or when conceding one point before adding a reservation.",
+          "ko": "음료나 액체를 따를 때는 동사 “倒”를 쓴다. 결과가 예상 밖이거나 가볍게 책망할 때, 또는 한 점은 인정하고 뒤에 단서를 붙일 때는 부사 “倒”나 “倒是”를 쓴다.",
+          "ja": "飲み物や液体を注ぐときは動詞の「倒」を使います。結果が予想外であるとき、軽く責めるとき、または一点を認めてから条件を付け加えるときは、副詞の「倒」や「倒是」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Please pour me a cup of coffee. I am terribly sleepy.",
+              "ko": "미안하지만 커피 한 잔 따라 줘. 너무 졸려 죽겠어.",
+              "ja": "すみません、コーヒーを一杯注いでください。眠くてたまりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Why are you coughing so badly? Let me pour you a glass of water.",
+              "ko": "왜 이렇게 심하게 기침해? 내가 물 한 잔 따라 줄게.",
+              "ja": "どうしてそんなにひどく咳をしているのですか。水を一杯注いであげましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I thought taking a taxi would be faster, but unexpectedly it was even slower than riding a bike.",
+              "ko": "나는 택시를 타면 더 빠를 줄 알았는데, 뜻밖에도 자전거보다 더 느렸다.",
+              "ja": "タクシーに乗ればもっと速いと思っていましたが、意外にも自転車より遅かったです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "It is easy for you to say, but actually doing it is hard!",
+              "ko": "말은 쉽지, 실제로 하려면 어렵다고!",
+              "ja": "言うのは簡単ですが、実際にやるとなると難しいですよ。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Going to the Great Wall is actually a good idea; it is just too far.",
+              "ko": "만리장성에 가는 건 좋은 생각이긴 한데, 너무 멀어.",
+              "ja": "長城へ行くのは確かにいい考えですが、遠すぎます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Let me pour you a glass of water.",
+              "ko": "내가 물 한 잔 따라 줄게.",
+              "ja": "水を一杯注いであげます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This idea is actually not bad; it is just a bit far.",
+              "ko": "이 생각 괜찮긴 한데, 좀 멀어.",
+              "ja": "この案は悪くないですが、少し遠いです。"
+            }
+          }
+        ]
+      },
+      "干": {
+        "formal_translation": {
+          "en": "The verb “干 (gàn)” means “to do” or “to engage in a certain cause, job, or activity”. Note that “干 (gān)” can also be an adjective meaning “dry”, and “干儿 (gānr)” is a noun meaning dried food that has had its moisture removed through processing.",
+          "ko": "동사 “干 (gàn)”은 ‘하다, 어떤 사업·일·활동에 종사하다’라는 뜻이다. 주의할 점은 “干 (gān)”으로 읽으면 ‘마른, 건조한’이라는 형용사가 될 수 있고, “干儿 (gānr)”는 가공을 통해 수분을 제거한 음식, 즉 말린 식품을 뜻하는 명사라는 것이다.",
+          "ja": "動詞の「干 (gàn)」は「する、ある事業・仕事・活動に従事する」という意味です。注意点として、「干 (gān)」と読むと「乾いた」という形容詞にもなり、「干儿 (gānr)」は加工して水分を取り除いた食品、つまり乾物を意味する名詞です。"
+        },
+        "colloquial_translation": {
+          "en": "Use “干 (gàn)” for doing work, tasks, or activities. Use “干 (gān)” for dryness, and “干儿 (gānr)” for dried foods such as dried meat or fruit.",
+          "ko": "일, 임무, 활동을 할 때는 “干 (gàn)”을 쓴다. 마른 상태를 말할 때는 “干 (gān)”, 육포나 말린 과일 같은 말린 음식은 “干儿 (gānr)”를 쓴다.",
+          "ja": "仕事・任務・活動をする場合は「干 (gàn)」を使います。乾いた状態を言う場合は「干 (gān)」、干し肉やドライフルーツのような乾物には「干儿 (gānr)」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Every time you ask it to do something, it does it as if it can understand what you are saying.",
+              "ko": "네가 매번 뭘 시키면, 마치 네 말을 알아듣는 것처럼 그대로 하더라.",
+              "ja": "あなたが何かをさせるたびに、まるであなたの言葉が分かるかのように行動します。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: You wrote this report very well. Keep working hard in the future. B: Thank you. I will definitely work hard.",
+              "ko": "A: 이 보도문 정말 잘 썼어요. 앞으로도 계속 노력하세요. B: 감사합니다. 꼭 열심히 하겠습니다.",
+              "ja": "A: この報道記事はとてもよく書けています。これからも努力を続けてください。B: ありがとうございます。必ずしっかり頑張ります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When doing work, you must be serious and careful, and pay attention to every part of the plan; otherwise, problems can easily occur.",
+              "ko": "일을 할 때는 반드시 진지하고 꼼꼼해야 하며, 계획상의 모든 부분에 주의를 기울여야 한다. 그렇지 않으면 문제가 생기기 쉽다.",
+              "ja": "仕事をするときは必ず真剣かつ細かく、計画上の一つ一つの部分に注意しなければなりません。そうでないと問題が起こりやすくなります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Mom, get me a towel. It is raining so hard outside! B: You forgot to bring an umbrella again, didn’t you? Your hair is all wet. Dry it first so you do not catch a cold.",
+              "ko": "A: 엄마, 수건 하나 가져다줘. 밖에 비가 정말 많이 와! B: 또 우산 가져가는 걸 잊었지? 머리가 다 젖었네. 먼저 머리를 닦아 말리고 감기 걸리지 마.",
+              "ja": "A: お母さん、タオルを一枚取って。外は雨が本当にひどいよ。B: また傘を持って行くのを忘れたんでしょう。髪が濡れているから、まず髪を拭いて乾かしなさい。風邪をひかないように。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: This beef jerky tastes really good. Where did you buy it? B: I didn’t buy it. My boyfriend sent it from his hometown.",
+              "ko": "A: 이 육포 맛이 정말 괜찮네. 어디서 산 거야? B: 내가 산 게 아니라, 남자친구가 고향에서 보내 준 거야.",
+              "ja": "A: このビーフジャーキーは本当においしいですね。どこで買ったのですか。B: 私が買ったのではなく、彼氏が実家から送ってくれたものです。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I will definitely work hard.",
+              "ko": "꼭 열심히 할게요.",
+              "ja": "必ずしっかり頑張ります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Dry your hair first so you do not catch a cold.",
+              "ko": "먼저 머리 말려. 감기 걸리지 말고.",
+              "ja": "まず髪を乾かして。風邪をひかないように。"
+            }
+          }
+        ]
+      },
+      "趟": {
+        "formal_translation": {
+          "en": "The measure word “趟” indicates the number of trips, especially round trips or times going somewhere and coming back.",
+          "ko": "양사 “趟”은 왕복이나 어떤 곳에 갔다가 돌아오는 횟수를 나타낸다.",
+          "ja": "量詞の「趟」は、往復やある場所へ行って戻る回数を表します。"
+        },
+        "colloquial_translation": {
+          "en": "Use “趟” when counting how many times someone goes to a place and usually returns, such as “去一趟”, “回一趟家”, or “出一趟差”.",
+          "ko": "“去一趟”, “回一趟家”, “出一趟差”처럼 어떤 곳에 한 번 다녀오는 횟수를 셀 때 “趟”을 쓴다.",
+          "ja": "「去一趟」「回一趟家」「出一趟差」のように、ある場所へ一度行って戻る回数を数えるときに「趟」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Last month I went to the Beijing Zoo once; there are about more than five hundred kinds of animals there.",
+              "ko": "지난달에 나는 베이징 동물원에 한 번 갔는데, 거기에는 약 500여 종의 동물이 있다.",
+              "ja": "先月、私は北京動物園へ一度行きました。そこには約五百種類以上の動物がいます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I need to go on a business trip. Can you help take care of my dog for me?",
+              "ko": "출장을 한 번 가야 하는데, 내 강아지를 좀 돌봐 줄 수 있어?",
+              "ja": "出張に一度行かなければならないのですが、私の子犬の世話を少ししてくれますか。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Summer vacation is coming soon. Do you have any plans? B: I plan to go home first to visit my grandmother, and then return to school to prepare for the graduate school exam.",
+              "ko": "A: 곧 여름방학인데, 무슨 계획 있어? B: 먼저 집에 한 번 돌아가서 할머니를 뵙고, 그다음 학교로 돌아와 대학원 시험을 준비할 생각이야.",
+              "ja": "A: もうすぐ夏休みですが、何か予定はありますか。B: まず一度家に帰って祖母に会い、それから学校に戻って大学院入試の準備をするつもりです。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I need to go home for a bit.",
+              "ko": "나 집에 한 번 다녀와야 해.",
+              "ja": "家に一度帰らなければなりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I have to go on a business trip tomorrow.",
+              "ko": "나 내일 출장 한 번 가야 해.",
+              "ja": "明日、出張に一度行かなければなりません。"
+            }
+          }
+        ]
+      },
+      "趟——次": {
+        "formal_translation": {
+          "en": "Both “趟” and “次” indicate the number of times an action takes place and are often interchangeable with actions involving coming and going, such as “来”, “去”, “走”, “跑”, “接”, and “送”. However, “趟” emphasizes a trip there and back and is only used for actions involving movement to and from a place, while “次” simply counts repeated actions and does not necessarily imply a round trip. “次” can also count other behaviors such as asking, speaking, looking, and discussing, while “趟” cannot. “趟” can also be used for buses or trains that travel on a scheduled route, similar to “辆” or “列”; “次” cannot be used this way.",
+          "ko": "“趟”와 “次”는 모두 동작이 일어난 횟수를 나타내며, “来”, “去”, “走”, “跑”, “接”, “送”처럼 오고 가는 동작에서는 자주 바꿔 쓸 수 있다. 그러나 “趟”는 갔다가 돌아오는 한 차례의 이동을 강조하며 장소를 오가는 동작에만 쓰인다. 반면 “次”는 반복된 동작의 횟수를 세는 일반적인 표현으로, 반드시 왕복 과정을 강조하지 않는다. 또한 “次”는 묻다, 말하다, 보다, 토론하다 같은 다른 행위의 횟수도 나타낼 수 있지만 “趟”에는 이런 용법이 없다. “趟”는 정해진 시간과 노선으로 운행하는 버스나 기차에도 쓰일 수 있어 “辆”, “列”과 비슷하지만 “次”는 이렇게 쓰지 않는다.",
+          "ja": "「趟」と「次」はどちらも動作が行われる回数を表し、「来」「去」「走」「跑」「接」「送」のような行き来を伴う動作ではよく置き換えられます。しかし「趟」は行って戻る一回の移動を強調し、場所を往復する動作にだけ使われます。一方、「次」は繰り返される動作の回数を数える一般的な表現で、必ずしも往復の過程を強調しません。また「次」は尋ねる、話す、見る、討論するなど、他の行為の回数も表せますが、「趟」にはこの用法はありません。「趟」は決まった時間や路線で運行するバスや列車にも使え、「辆」や「列」に近い働きをしますが、「次」はこのようには使えません。"
+        },
+        "colloquial_translation": {
+          "en": "Use “趟” when the action feels like making a trip. Use “次” as the general counter for repeated actions.",
+          "ko": "어딘가에 한 번 다녀오는 느낌이면 “趟”를 쓰고, 반복 횟수를 일반적으로 셀 때는 “次”를 쓴다.",
+          "ja": "どこかへ一度行って戻る感じがある場合は「趟」を使い、繰り返しの回数を一般的に数える場合は「次」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "This winter vacation I went to Guangdong once for fun.",
+              "ko": "올해 겨울방학에 나는 광둥에 한 번 놀러 갔다.",
+              "ja": "今年の冬休みに、私は広東へ一度遊びに行きました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "On the way back, I stopped by the bank once.",
+              "ko": "돌아오는 길에 나는 겸사겸사 은행에 한 번 들렀다.",
+              "ja": "帰り道に、ついでに銀行へ一度寄りました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When I was little, my grandfather took me to watch Peking opera almost once every month.",
+              "ko": "어렸을 때 할아버지는 거의 매달 나를 데리고 경극을 한 번 보러 가셨다.",
+              "ja": "子どものころ、祖父はほぼ毎月、私を連れて京劇を一度見に行きました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Where are you rushing off to? I called you twice just now, but you did not hear me.",
+              "ko": "너 그렇게 급하게 어디 가? 내가 방금 너를 두 번 불렀는데도 못 들었잖아.",
+              "ja": "そんなに急いでどこへ行くのですか。さっきあなたを二回呼びましたが、聞こえませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "There are several bus routes nearby that can get to the company where I work.",
+              "ko": "근처에는 내가 일하는 회사까지 갈 수 있는 버스 노선이 여러 개 있다.",
+              "ja": "近くには、私が働いている会社まで行けるバスが何本もあります。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I need to make a trip to the bank.",
+              "ko": "나 은행에 한 번 다녀와야 해.",
+              "ja": "銀行へ一度行ってこなければなりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I called you twice just now.",
+              "ko": "내가 방금 너 두 번 불렀어.",
+              "ja": "さっきあなたを二回呼びました。"
+            }
+          }
+        ]
+      },
+      "为了……而……": {
+        "formal_translation": {
+          "en": "In the structure “为了……而……”, the first clause indicates the purpose of the action or behavior in the second clause. “为了” is followed by a word or phrase, and “而” links that purpose to the following action.",
+          "ko": "“为了……而……” 구조에서 앞 절은 뒤 절 동작이나 행위의 목적을 나타낸다. “为了” 뒤에는 단어나 구가 오고, “而”는 그 목적과 뒤따르는 동작을 연결한다.",
+          "ja": "「为了……而……」の構文では、前の節が後ろの節の動作や行為の目的を表します。「为了」の後には語や句が続き、「而」がその目的と後続の動作を結びつけます。"
+        },
+        "colloquial_translation": {
+          "en": "Use “为了……而……” in formal or explanatory contexts when you want to clearly state that an action is done for a particular purpose.",
+          "ko": "어떤 행동이 특정 목적을 위해 이루어졌다는 점을 분명히 말하고 싶을 때, 특히 설명적이거나 격식 있는 문맥에서 “为了……而……”를 쓴다.",
+          "ja": "ある行動が特定の目的のために行われたことをはっきり述べたいとき、特に説明的またはやや改まった文脈で「为了……而……」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Plants compete for sunlight, air, and water.",
+              "ko": "식물은 햇빛, 공기, 물을 얻기 위해 경쟁한다.",
+              "ja": "植物は日光、空気、水を得るために競争します。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The north wind and the south wind began arguing in order to compare who was more capable. They decided that whoever could make people take off their coats would win.",
+              "ko": "북풍과 남풍은 누가 더 능력이 있는지 겨루기 위해 다투기 시작했다. 그들은 사람들의 외투를 벗기게 하는 쪽이 이기는 것으로 정했다.",
+              "ja": "北風と南風は、どちらがより力があるかを比べるために争い始めました。彼らは、人々のコートを脱がせることができた方が勝ちだと決めました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In nature, many animals and plants change the color or appearance of their bodies in order to protect themselves, making themselves part of the surrounding environment.",
+              "ko": "자연계에서 적지 않은 동물과 식물은 자신을 보호하기 위해 몸의 색이나 모습을 바꾸어, 자신을 주변 환경의 일부가 되게 한다.",
+              "ja": "自然界では、多くの動物や植物が自分を守るために体の色や姿を変え、自分を周囲の環境の一部にします。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "He practices every day in order to learn Chinese well.",
+              "ko": "그는 중국어를 잘 배우기 위해 매일 연습한다.",
+              "ja": "彼は中国語を上手に学ぶために毎日練習しています。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Many animals change color in order to protect themselves.",
+              "ko": "많은 동물이 자신을 보호하기 위해 색을 바꾼다.",
+              "ja": "多くの動物は自分を守るために色を変えます。"
+            }
+          }
+        ]
+      },
+      "仍然": {
+        "formal_translation": {
+          "en": "The adverb “仍然” means that the situation remains the same as before without any change.",
+          "ko": "부사 “仍然”은 상황이 이전과 같고 변하지 않았음을 나타낸다.",
+          "ja": "副詞の「仍然」は、状況が以前と同じで変化していないことを表します。"
+        },
+        "colloquial_translation": {
+          "en": "Use “仍然” to emphasize that something continues unchanged, especially after time has passed or conditions have changed.",
+          "ko": "시간이 지나거나 조건이 바뀌었는데도 어떤 일이 계속 변하지 않음을 강조할 때 “仍然”을 쓴다.",
+          "ja": "時間が経ったり条件が変わったりしても、物事が変わらず続いていることを強調するときに「仍然」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Even several kilometers deep under the sea, things can still be seen.",
+              "ko": "몇 킬로미터 깊은 해저에서도 여전히 사물을 볼 수 있다.",
+              "ja": "数キロメートル深い海底でも、なお物を見ることができます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Humans are smarter than animals, but animals still have many things worth learning from.",
+              "ko": "사람은 동물보다 똑똑하지만, 동물에게도 여전히 사람이 배울 만한 점이 많다.",
+              "ja": "人間は動物より賢いですが、動物にはなお人間が学ぶべき点がたくさんあります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In a football final, if the score is still 0–0 after ninety minutes, according to the rules, extra time can be played to decide the winner.",
+              "ko": "축구 결승전에서 90분 후에도 여전히 0대0이면, 규정에 따라 연장전을 진행해 승패를 결정할 수 있다.",
+              "ja": "サッカーの決勝戦で、90分後もなお0対0であれば、規定に従って延長戦を行い、勝敗を決めることができます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "He still lives in Beijing now.",
+              "ko": "그는 지금도 여전히 베이징에 산다.",
+              "ja": "彼は今もなお北京に住んでいます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "It rained for a long time, but the match still continued.",
+              "ko": "비가 오래 내렸지만 경기는 여전히 계속됐다.",
+              "ja": "雨が長く降りましたが、試合はなお続きました。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "真可惜，我还想多照点儿香山的照片呢。去长城<b>倒是</b>一个好主意，那我们明天去吧。": {
+        "translation": {
+          "en": "What a pity. I still wanted to take more photos of Fragrant Hill. Going to the Great Wall is actually a good idea, though. Then let’s go tomorrow.",
+          "ko": "정말 아쉽다. 나는 샹산 사진을 좀 더 많이 찍고 싶었는데. 만리장성에 가는 것도 오히려 좋은 생각이긴 해. 그럼 우리 내일 가자.",
+          "ja": "本当に残念です。香山の写真をもっと撮りたかったのに。長城へ行くのは、むしろいい考えですね。では明日行きましょう。"
+        },
+        "colloquial_translation": {
+          "en": "The Great Wall is actually a pretty good idea. Let’s go tomorrow.",
+          "ko": "만리장성도 괜찮긴 하네. 그럼 내일 가자.",
+          "ja": "長城も悪くないですね。じゃあ明日行きましょう。"
+        },
+        "context": {
+          "en": "Partly agreeing with an idea",
+          "ko": "의견을 일부 인정하고 말할 때",
+          "ja": "意見を一部認めて言うとき"
+        }
+      },
+      "每次你让它<b>干</b>什么，它就像能听懂你的话一样去做。": {
+        "translation": {
+          "en": "Every time you ask it to do something, it does it as if it can understand what you are saying.",
+          "ko": "네가 매번 뭘 시키면, 마치 네 말을 알아듣는 것처럼 그대로 하더라.",
+          "ja": "あなたが何かをさせるたびに、まるであなたの言葉が分かるかのように行動します。"
+        },
+        "colloquial_translation": {
+          "en": "Whenever you tell it to do something, it acts like it understands you.",
+          "ko": "네가 뭘 시키면 진짜 알아듣는 것처럼 하더라.",
+          "ja": "何かをさせると、本当に分かっているみたいにやります。"
+        },
+        "context": {
+          "en": "Asking someone or something to do an action",
+          "ko": "어떤 일을 하게 할 때",
+          "ja": "何かをさせるとき"
+        }
+      },
+      "上个月我去了一<b>趟</b>北京动物园，那里约有500种动物。": {
+        "translation": {
+          "en": "Last month I took a trip to the Beijing Zoo, where there are about five hundred kinds of animals.",
+          "ko": "지난달에 나는 베이징 동물원에 한 번 갔는데, 거기에는 약 500종의 동물이 있다.",
+          "ja": "先月、私は北京動物園へ一度行きました。そこには約五百種類の動物がいます。"
+        },
+        "colloquial_translation": {
+          "en": "I went to the Beijing Zoo once last month.",
+          "ko": "지난달에 베이징 동물원에 한 번 다녀왔어.",
+          "ja": "先月、北京動物園へ一度行ってきました。"
+        },
+        "context": {
+          "en": "Talking about making one trip somewhere",
+          "ko": "한 번 다녀온 일을 말할 때",
+          "ja": "一度行ってきたことを言うとき"
+        }
+      },
+      "植物会<b>为了</b>阳光、空气和水<b>而</b>竞争。": {
+        "translation": {
+          "en": "Plants compete for sunlight, air, and water.",
+          "ko": "식물은 햇빛, 공기, 물을 얻기 위해 경쟁한다.",
+          "ja": "植物は日光、空気、水を得るために競争します。"
+        },
+        "colloquial_translation": {
+          "en": "Plants compete to get sunlight, air, and water.",
+          "ko": "식물도 햇빛, 공기, 물을 얻으려고 경쟁해.",
+          "ja": "植物も日光、空気、水を得るために競争します。"
+        },
+        "context": {
+          "en": "Clearly explaining a purpose",
+          "ko": "목적을 분명히 설명할 때",
+          "ja": "目的をはっきり説明するとき"
+        }
+      },
+      "就算在几公里深的海底也<b>仍然</b>能看到东西。": {
+        "translation": {
+          "en": "Even several kilometers deep under the sea, things can still be seen.",
+          "ko": "몇 킬로미터 깊은 해저에서도 여전히 사물을 볼 수 있다.",
+          "ja": "数キロメートル深い海底でも、なお物を見ることができます。"
+        },
+        "colloquial_translation": {
+          "en": "Even deep under the sea, you can still see things.",
+          "ko": "깊은 바닷속에서도 여전히 뭔가를 볼 수 있어.",
+          "ja": "深い海底でも、まだ物を見ることができます。"
+        },
+        "context": {
+          "en": "Saying something continues unchanged",
+          "ko": "변함없이 계속됨을 말할 때",
+          "ja": "変わらず続いていることを言うとき"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "The weather has been getting cooler lately. When the wind blows, the grass gets covered with a thick layer of yellow leaves. It looks like autumn has already arrived.",
+              "ko": "요즘 날씨가 점점 시원해졌어. 바람이 불면 잔디 위에 두꺼운 노란 잎이 한 겹 쌓여. 보아하니 가을이 이미 온 것 같아.",
+              "ja": "最近、天気がだんだん涼しくなってきました。風が吹くと、草地には厚い黄色い葉が一面に積もります。秋がもう来たようです。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Fragrant Hill has been especially lively these days. As the temperature drops, the leaves of many plants there turn from green to yellow or red, attracting many tourists. Let's go take a look today too.",
+              "ko": "요 며칠 샹산이 특히 북적거려. 기온이 내려가면서 그곳의 많은 식물 잎이 초록색에서 노란색이나 빨간색으로 변해서 많은 관광객을 끌어들이고 있어. 우리도 오늘 가서 한번 보자.",
+              "ja": "ここ数日、香山は特ににぎやかです。気温が下がるにつれて、そこにある多くの植物の葉が緑から黄色や赤に変わり、多くの観光客を引きつけています。私たちも今日見に行きましょう。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Look at the clouds in the sky. It will definitely rain heavily today. Besides, there are too many people at Fragrant Hill looking at the red leaves. Let's go to the Great Wall another day; the radio said there are also quite a few good places there for viewing red leaves.",
+              "ko": "하늘의 구름을 봐. 오늘은 틀림없이 큰비가 올 거야. 게다가 샹산에는 단풍을 보러 온 사람이 너무 많아. 우리 다음에 만리장성에 가자. 방송에서 거기에도 단풍을 전문적으로 볼 만한 좋은 곳이 적지 않다고 했어.",
+              "ja": "空の雲を見てください。今日はきっと大雨になります。それに、香山で紅葉を見る人が多すぎます。別の日に長城へ行きましょう。ラジオでは、そこにも紅葉を見るのに良い場所が少なくないと言っていました。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "What a pity. I still wanted to take more photos of Fragrant Hill. Going to the Great Wall is actually a good idea, though. Then let's go tomorrow.",
+              "ko": "정말 아쉽다. 나는 샹산 사진을 좀 더 많이 찍고 싶었는데. 만리장성에 가는 것도 오히려 좋은 생각이긴 해. 그럼 우리 내일 가자.",
+              "ja": "本当に残念です。香山の写真をもっと撮りたかったのに。長城へ行くのは、むしろいい考えですね。では明日行きましょう。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Tomorrow probably won't work either. Tomorrow is my dad's birthday.",
+              "ko": "내일도 아마 안 될 것 같아. 내일은 우리 아빠 생신이야.",
+              "ja": "明日もおそらく無理です。明日は父の誕生日です。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "No problem. Then let's set another time.",
+              "ko": "괜찮아. 그럼 우리 다시 시간을 잡자.",
+              "ja": "大丈夫です。では、また時間を決めましょう。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "This big black dog of yours has such beautiful fur, and it is so smart. Every time I see it, I want to give it a hug.",
+              "ko": "네 이 큰 검은 개는 털이 정말 예쁘고, 게다가 이렇게 똑똑해서 볼 때마다 한번 안아 보고 싶어.",
+              "ja": "あなたのこの大きな黒い犬は毛が本当にきれいで、しかもとても賢いですね。見るたびに抱いてみたくなります。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Dogs are very smart animals. As long as you spend a little time teaching them, they can learn many things.",
+              "ko": "개는 매우 똑똑한 동물이야. 조금만 시간을 들여 가르치면 많은 것을 배울 수 있어.",
+              "ja": "犬はとても賢い動物です。少し時間をかけて教えれば、たくさんのことを覚えられます。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Hearing you say that, I want to raise a dog now too. Every time you ask it to do something, it does it as if it can understand what you are saying. Did you use some special method to teach it?",
+              "ko": "네 말을 들으니 나도 지금 개를 한 마리 키우고 싶어졌어. 네가 매번 뭘 시키면, 마치 네 말을 알아듣는 것처럼 그대로 하더라. 특별한 방법으로 가르친 거야?",
+              "ja": "あなたの話を聞いて、私も今、犬を飼いたくなりました。あなたが何かをさせるたびに、まるであなたの言葉が分かるかのように行動しますね。何か特別な方法で教えたのですか。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "If you want it to complete tasks, teaching it only once is not enough. You should patiently teach it again and again so that it becomes familiar with them, and then it will strictly follow your requirements.",
+              "ko": "어떤 임무를 완성하게 하려면 한 번만 가르쳐서는 부족해. 인내심을 가지고 여러 번 반복해서 가르쳐 익숙하게 해야 해. 그러면 네 요구대로 엄격하게 하게 돼.",
+              "ja": "何かの任務をこなさせるには、一度教えるだけでは足りません。根気よく何度も教えて慣れさせるべきです。そうすれば、あなたの要求どおりにきちんと行うようになります。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "It seems it is not as easy as I imagined.",
+              "ko": "생각했던 것만큼 쉽지는 않은 것 같네.",
+              "ja": "思っていたほど簡単ではないようですね。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Dogs are our good friends. They can understand people’s words and feelings. When you feel sad inside, they will stay by your side.",
+              "ko": "개는 우리의 좋은 친구야. 사람의 말을 알아듣고 사람의 마음도 이해할 수 있어. 네 마음이 힘들 때, 계속 네 곁에 있어 줄 거야.",
+              "ja": "犬は私たちのよい友達です。人の言葉を理解し、人の気持ちも分かります。あなたがつらいとき、ずっとそばにいてくれます。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Last month I took a trip to the Beijing Zoo. There are about five hundred kinds of animals there. I heard from the tour guide that the Beijing Zoo is one of the largest zoos in Asia.",
+              "ko": "지난달에 나는 베이징 동물원에 한 번 갔어. 거기에는 약 500종의 동물이 있고, 가이드 말로는 베이징 동물원이 아시아에서 가장 큰 동물원 중 하나래.",
+              "ja": "先月、私は北京動物園へ一度行きました。そこには約五百種類の動物がいて、ガイドによると北京動物園はアジア最大の動物園の一つだそうです。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I also went there once during summer vacation last year. I saw horses, pandas, tigers, and other animals there. I especially like pandas, but unfortunately most of them were sleeping at the time.",
+              "ko": "작년 여름방학 때 나도 한 번 가 봤어. 거기서 말, 판다, 호랑이 같은 동물들을 봤어. 나는 판다를 특히 좋아하는데, 아쉽게도 그때는 대부분 자고 있었어.",
+              "ja": "去年の夏休みに、私も一度行ったことがあります。そこで馬、パンダ、トラなどの動物を見ました。私は特にパンダが好きですが、残念ながらその時はほとんど寝ていました。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "The day I went happened to be International Children’s Day, and many parents took their children to the zoo. There were many people lining up at the entrance, and the zoo was extremely lively. The pandas also became especially active, and I took quite a few photos of them.",
+              "ko": "내가 간 날은 마침 6월 1일 어린이날이어서, 많은 부모가 아이를 데리고 동물원에 왔어. 입구에는 줄 선 사람이 많았고, 동물원 안은 정말 북적거렸어. 판다들도 특히 활발해졌고, 나는 사진도 꽤 많이 찍었어.",
+              "ja": "私が行った日はちょうど六一国際子どもの日で、多くの親が子どもを連れて動物園に来ていました。入口には並んでいる人が多く、動物園の中はとてもにぎやかでした。パンダたちも特に活発になっていて、私は写真もたくさん撮りました。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Giant pandas have chubby bodies and look extremely cute.",
+              "ko": "자이언트 판다는 몸이 통통하고 모습이 정말 귀여워.",
+              "ja": "ジャイアントパンダは体がぽっちゃりしていて、姿がとてもかわいいです。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "However, there are not many of them. There are probably only a little over one thousand in the whole world now.",
+              "ko": "하지만 수가 많지 않아. 지금 전 세계에 모두 합쳐 겨우 천여 마리 정도밖에 없을 거야.",
+              "ja": "しかし、数は多くありません。今、全世界で合わせても千頭あまりしかいないでしょう。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "In the past, only China had giant pandas. To show friendship, starting in 1957, China gave giant pandas as gifts to some other countries. Now, people in many countries can see giant pandas in their own countries.",
+              "ko": "예전에는 중국에만 자이언트 판다가 있었어. 우호를 표시하기 위해 1957년부터 중국은 자이언트 판다를 선물로 다른 몇몇 나라에 보내기 시작했어. 지금은 많은 나라 사람들이 자기 나라에서도 자이언트 판다를 볼 수 있게 되었어.",
+              "ja": "以前は中国にだけジャイアントパンダがいました。友好を示すため、1957年から中国はジャイアントパンダを贈り物として他のいくつかの国に送りました。今では、多くの国の人々が自国でジャイアントパンダを見ることができます。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Competition exists not only among people in society, but also among various plants in forests, and this is not strange at all. Plants compete for sunlight, air, and water. Some tall plants can often obtain more sunlight, air, and water, while the remaining shorter plants can only grow beneath these tall plants. Because climate conditions differ, the shapes of plant leaves around the world are also very different. In warm places with more moisture, leaves often grow large and thick; in places with especially strong sunlight and little moisture, leaves grow thin and long.",
+              "ko": "사회에서 사람과 사람 사이에 경쟁이 있을 뿐만 아니라, 숲속의 여러 식물 사이에도 경쟁이 있다. 이것은 조금도 이상한 일이 아니다. 식물은 햇빛, 공기, 물을 얻기 위해 경쟁한다. 키가 큰 식물들은 보통 더 많은 햇빛, 공기, 물을 얻을 수 있지만, 남은 비교적 낮은 식물들은 이런 키 큰 식물 아래에서만 자랄 수 있다. 기후 조건이 다르기 때문에 세계 각지 식물 잎의 모습도 매우 다르다. 따뜻하고 수분이 비교적 많은 곳에서는 잎이 보통 크고 두껍게 자라고, 햇빛이 특히 강하고 수분이 적은 곳에서는 잎이 가늘고 길게 자란다.",
+              "ja": "社会における人と人との間に競争があるだけでなく、森の中のさまざまな植物の間にも競争があります。これは少しも不思議なことではありません。植物は日光、空気、水を求めて競争します。背の高い植物はたいてい、より多くの日光、空気、水を得ることができますが、残った比較的低い植物は、それらの高い植物の下でしか育つことができません。気候条件が異なるため、世界各地の植物の葉の形も大きく異なります。暖かく水分が比較的多い場所では、葉は大きく厚く育つことが多く、日差しが特に強く水分が少ない場所では、葉は細長く育ちます。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "About 71% of the earth is blue ocean. In the beautiful undersea world live all kinds of plants and animals. When we were young, we all heard stories about mermaids, but the real undersea world is actually even more beautiful than what is written in stories. Scientific research has found that the bottom of the ocean looks very quiet, but it is not without sound at all. Animals under the sea are always “talking”; it is just that human ears cannot hear them. In addition, even several kilometers deep under the sea, things can still be seen. Many fish emit bright lights of various colors, like rows of lamps arranged one after another. It is extremely beautiful, just like being in a dream.",
+              "ko": "지구 표면의 약 71%는 푸른 바다이고, 아름다운 해저 세계에는 각양각색의 식물과 동물이 살고 있다. 우리는 어릴 때 모두 인어 이야기를 들어 본 적이 있지만, 사실 진짜 해저 세계는 이야기 속에 쓰인 것보다 더 아름답다. 과학 연구에 따르면 해양의 바닥은 보기에는 매우 조용하지만, 사실 소리가 전혀 없는 것은 아니다. 해저의 동물들은 계속 “말”하고 있지만, 다만 사람의 귀로는 들을 수 없을 뿐이다. 또한 몇 킬로미터 깊은 해저에서도 여전히 사물을 볼 수 있고, 많은 물고기들이 여러 색의 빛을 내는데, 마치 하나하나 줄지어 배열된 등불 같아서 매우 아름답고 꿈속에 있는 것 같다.",
+              "ja": "地球上のおよそ71%は青い海洋で、美しい海底世界にはさまざまな植物や動物が暮らしています。私たちは子どものころ、人魚の物語を聞いたことがありますが、実は本当の海底世界は物語に書かれているものよりさらに美しいのです。科学研究によると、海洋の底は一見とても静かですが、まったく音がないわけではありません。海底の動物たちはずっと「話して」います。ただ、人間の耳には聞こえないだけです。また、数キロメートル深い海底でもなお物を見ることができ、多くの魚がさまざまな色の光を放ちます。それは一つ一つ並べられた灯りのようで、非常に美しく、まるで夢の中にいるようです。"
+            }
+          }
+        }
+      }
+    }
+  }
+}
