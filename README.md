@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.9.84-B8860B?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.9.86-B8860B?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
@@ -50,6 +50,13 @@ A premium "glassmorphic" interface designed for focus:
 ### 🔢 Live Version Badge
 The app header now shows the current version and last build date in real time — no more guessing what's deployed.
 
+### 🧱 Auto JSON Rule Pack
+Lesson data generation now uses a compact `plan/auto_json` rule pack:
+- **Execution Context**: Load only `0.rules_common.md` through `3.rules_mastery.md` for lesson work.
+- **Schema Alignment**: Use `data/lesson1.json` as the practical data-shape baseline, with `plan/lesson-schema-canonical.md` as a reference.
+- **Locale Safety**: Keep source fields such as `proper_nouns` and `key_sentences` aligned with translation-pack fields such as `properNouns` and `keySentences`.
+- **Translation Matching**: Require `texts`, `grammar`, and `keySentences` translations to match source array counts and order.
+
 ---
 
 ## 🛠 Tech Stack & Architecture
@@ -69,7 +76,7 @@ Built for performance, scalability, and the **Google Cloud** ecosystem:
 ```bash
 redgold/
 ├── data/               # HSK 4 Lesson JSONs (Vocab, Grammar, Texts)
-├── plan/               # Technical specs and design documentation
+├── plan/               # Technical specs, auto JSON rules, and design documentation
 ├── public/             # Assets (Audio, Images, Logos)
 ├── scripts/            # Python automation for data processing
 └── src/
@@ -118,6 +125,7 @@ npm run build
 | **Data** | Lesson 5 Textbook Data Build-Out | ✅ Done |
 | **Data** | Lesson 11 Textbook Data Build-Out | ✅ Done |
 | **Data** | Lesson 12 Textbook Data Build-Out | ✅ Done |
+| **Pipeline** | Auto JSON Rule Pack Optimization | ✅ Done |
 | **Data** | Mastery Quiz System & Progress Tracking | ⏳ Next |
 
 ---
@@ -125,6 +133,16 @@ npm run build
 ## 📋 Changelog
 
 Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
+
+---
+
+### v0.9.86 — 2026-06-03
+> *Auto JSON Rules Hardened.* The lesson-generation prompts are now smaller, stricter, and safer for locale data.
+
+- 🧱 **Auto JSON Rule Pack** — Added `plan/auto_json` as the execution-ready rule set for Lesson JSON generation, split into common, Kewen, Notes, and Mastery files.
+- 🚫 **Spec Excluded from Runtime Context** — Marked `rules-optimization-spec.md` as design/history only, so future Lesson work loads only `0~3.rules_*.md`.
+- 🌐 **Locale Mapping Guardrails** — Documented the source-vs-translation naming split for `proper_nouns`/`properNouns` and `key_sentences`/`keySentences`.
+- ✅ **Translation Count Checks** — Required text-line, grammar-example, and mastery-sentence translations to match the source arrays by count and order.
 
 ---
 
