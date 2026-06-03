@@ -1,0 +1,1532 @@
+{
+  "lessonId": 12,
+  "title": "Lesson 12: 用心发现世界 (yòng xīn fāxiàn shìjiè) (Discover the world attentively)",
+  "vocabulary": [
+    {
+      "word": "规定",
+      "pinyin": "guīdìng",
+      "meaning": "n. rule, regulation"
+    },
+    {
+      "word": "死",
+      "pinyin": "sǐ",
+      "meaning": "adj. rigid, inflexible"
+    },
+    {
+      "word": "可惜",
+      "pinyin": "kěxī",
+      "meaning": "adj. pitiful, regretful"
+    },
+    {
+      "word": "全部",
+      "pinyin": "quánbù",
+      "meaning": "n. all, whole"
+    },
+    {
+      "word": "也许",
+      "pinyin": "yěxǔ",
+      "meaning": "adv. maybe, perhaps"
+    },
+    {
+      "word": "商量",
+      "pinyin": "shāngliang",
+      "meaning": "v. to discuss, to consult"
+    },
+    {
+      "word": "并且",
+      "pinyin": "bìngqiě",
+      "meaning": "conj. and"
+    },
+    {
+      "word": "盐",
+      "pinyin": "yán",
+      "meaning": "n. salt"
+    },
+    {
+      "word": "勺子",
+      "pinyin": "sháozi",
+      "meaning": "n. spoon"
+    },
+    {
+      "word": "保护",
+      "pinyin": "bǎohù",
+      "meaning": "v. to protect"
+    },
+    {
+      "word": "作用",
+      "pinyin": "zuòyòng",
+      "meaning": "n. function"
+    },
+    {
+      "word": "无法",
+      "pinyin": "wúfǎ",
+      "meaning": "v. cannot, to be unable (to do sth.)"
+    },
+    {
+      "word": "无",
+      "pinyin": "wú",
+      "meaning": "v. not to have, to be without"
+    },
+    {
+      "word": "节",
+      "pinyin": "jié",
+      "meaning": "m. section, length"
+    },
+    {
+      "word": "详细",
+      "pinyin": "xiángxì",
+      "meaning": "adj. detailed"
+    },
+    {
+      "word": "解释",
+      "pinyin": "jiěshì",
+      "meaning": "v. to explain"
+    },
+    {
+      "word": "对于",
+      "pinyin": "duìyú",
+      "meaning": "prep. for, to, with regard to"
+    },
+    {
+      "word": "叶子",
+      "pinyin": "yèzi",
+      "meaning": "n. leaf"
+    },
+    {
+      "word": "教育",
+      "pinyin": "jiàoyù",
+      "meaning": "v. to educate"
+    },
+    {
+      "word": "使用",
+      "pinyin": "shǐyòng",
+      "meaning": "v. to use"
+    },
+    {
+      "word": "语言",
+      "pinyin": "yǔyán",
+      "meaning": "n. language"
+    },
+    {
+      "word": "直接",
+      "pinyin": "zhíjiē",
+      "meaning": "adj. direct, straight"
+    },
+    {
+      "word": "引起",
+      "pinyin": "yǐnqǐ",
+      "meaning": "v. to cause, to lead to"
+    },
+    {
+      "word": "误会",
+      "pinyin": "wùhuì",
+      "meaning": "n. misunderstanding"
+    },
+    {
+      "word": "友好",
+      "pinyin": "yǒuhǎo",
+      "meaning": "adj. friendly"
+    },
+    {
+      "word": "事半功倍",
+      "pinyin": "shì bàn gōng bèi",
+      "meaning": "to achieve twice the result with half the effort"
+    },
+    {
+      "word": "节约",
+      "pinyin": "jiéyuē",
+      "meaning": "v. to economize, to save"
+    },
+    {
+      "word": "力气",
+      "pinyin": "lìqi",
+      "meaning": "n. physical strength, effort"
+    },
+    {
+      "word": "相反",
+      "pinyin": "xiāngfǎn",
+      "meaning": "conj. on the contrary"
+    },
+    {
+      "word": "任务",
+      "pinyin": "rènwu",
+      "meaning": "n. task, mission"
+    },
+    {
+      "word": "意见",
+      "pinyin": "yìjiàn",
+      "meaning": "n. opinion, suggestion"
+    },
+    {
+      "word": "仔细",
+      "pinyin": "zǐxì",
+      "meaning": "adj. careful, meticulous"
+    },
+    {
+      "word": "达到",
+      "pinyin": "dádào",
+      "meaning": "v. to reach, to attain"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "并且",
+      "explanation": "“并且”，连词，可用于连接并列的动词或形容词等，表示几个动作同时进行或几种性质同时存在。也可以连接句子，表示更进一步的意思。",
+      "nuance": "“并且” is a conjunction used to connect coordinate verbs or adjectives, indicating that several actions or qualities happen or exist at the same time. It can also connect sentences to add a further meaning.",
+      "formal_examples": [
+        {
+          "chinese": "他做事很认真，并且有丰富的经验，让他负责很合适。",
+          "pinyin": "Tā zuò shì hěn rènzhēn, bìngqiě yǒu fēngfù de jīngyàn, ràng tā fùzé hěn héshì.",
+          "translation": "He works very seriously and has rich experience, so it is very suitable to let him be in charge."
+        },
+        {
+          "chinese": "这种植物开的花比普通的花大很多，并且特别漂亮。",
+          "pinyin": "Zhè zhǒng zhíwù kāi de huā bǐ pǔtōng de huā dà hěn duō, bìngqiě tèbié piàoliang.",
+          "translation": "The flowers of this plant are much larger than ordinary flowers, and they are especially beautiful."
+        },
+        {
+          "chinese": "这房子家具全，电视、空调、冰箱都很新，并且价格也便宜，真的很值得考虑。",
+          "pinyin": "Zhè fángzi jiājù quán, diànshì, kōngtiáo, bīngxiāng dōu hěn xīn, bìngqiě jiàgé yě piányi, zhēn de hěn zhíde kǎolǜ.",
+          "translation": "This house has complete furniture; the TV, air conditioner, and refrigerator are all very new, and the price is also cheap. It is really worth considering."
+        },
+        {
+          "chinese": "好，我再跟同事商量商量，希望能及时发现问题，并且准确地找到解决问题的方法。",
+          "pinyin": "Hǎo, wǒ zài gēn tóngshì shāngliang shāngliang, xīwàng néng jíshí fāxiàn wèntí, bìngqiě zhǔnquè de zhǎodào jiějué wèntí de fāngfǎ.",
+          "translation": "Okay, I will discuss it with my colleagues again, hoping to discover the problem in time and accurately find a way to solve it."
+        }
+      ],
+      "colloquial_examples": []
+    },
+    {
+      "point": "再……也……",
+      "explanation": "“再……也……”结构常用于表示让步的假设句。“再”后面可加动词、形容词、句子等，表示“即使、无论怎么”的意思。",
+      "nuance": "The structure “再……也……” is usually used in a hypothetical sentence indicating concession. “再” can be followed by a verb, adjective, or sentence, meaning “even if” or “no matter how.”",
+      "formal_examples": [
+        {
+          "chinese": "事情已经发生了，你再后悔也无法改变，别伤心了。",
+          "pinyin": "Shìqing yǐjīng fāshēng le, nǐ zài hòuhuǐ yě wúfǎ gǎibiàn, bié shāngxīn le.",
+          "translation": "The matter has already happened. No matter how much you regret it, you cannot change it, so do not be sad."
+        },
+        {
+          "chinese": "用盐水来洗新衣服，这样穿得再久、洗的次数再多，衣服也不容易掉颜色。",
+          "pinyin": "Yòng yánshuǐ lái xǐ xīn yīfu, zhèyàng chuān de zài jiǔ, xǐ de cìshù zài duō, yīfu yě bù róngyì diào yánsè.",
+          "translation": "Wash new clothes with salt water; this way, even if they are worn for a long time and washed many times, they will not fade easily."
+        },
+        {
+          "chinese": "如果我们有什么看法或者意见，不管别人再怎么不同意、不支持，也应该说出来，让别人知道我们的想法和态度。",
+          "pinyin": "Rúguǒ wǒmen yǒu shénme kànfǎ huòzhě yìjiàn, bùguǎn biérén zài zěnme bù tóngyì, bù zhīchí, yě yīnggāi shuō chūlai, ràng biérén zhīdào wǒmen de xiǎngfǎ hé tàidu.",
+          "translation": "If we have any views or suggestions, no matter how much others disagree or do not support us, we should still say them so others know our thoughts and attitude."
+        }
+      ],
+      "colloquial_examples": []
+    },
+    {
+      "point": "对于",
+      "explanation": "“对于”，介词，表示某种态度或情况所涉及的对象。“对于……”可用在主语前或后。",
+      "nuance": "The preposition “对于” introduces the object that a certain attitude or situation is concerned with. “对于……” can either precede or follow the subject.",
+      "formal_examples": [
+        {
+          "chinese": "对于这件事，我跟大家的看法不同。",
+          "pinyin": "Duìyú zhè jiàn shì, wǒ gēn dàjiā de kànfǎ bùtóng.",
+          "translation": "Regarding this matter, my view is different from everyone else’s."
+        },
+        {
+          "chinese": "对于中国人来说，春节是一年之中最重要的节日，春节的时候人们会举行各种各样的迎新年活动。",
+          "pinyin": "Duìyú Zhōngguó rén lái shuō, Chūnjié shì yì nián zhī zhōng zuì zhòngyào de jiérì, Chūnjié de shíhou rénmen huì jǔxíng gè zhǒng gè yàng de yíng xīnnián huódòng.",
+          "translation": "For Chinese people, the Spring Festival is the most important holiday of the year, and during it people hold all kinds of activities to welcome the New Year."
+        },
+        {
+          "chinese": "那您认为对于老师来说，什么是最难做到的？",
+          "pinyin": "Nà nín rènwéi duìyú lǎoshī lái shuō, shénme shì zuì nán zuò dào de?",
+          "translation": "Then, in your opinion, what is the hardest thing for teachers to achieve?"
+        }
+      ],
+      "colloquial_examples": []
+    },
+    {
+      "point": "对于——关于",
+      "explanation": "“对于”和“关于”都是介词，但意义和用法不同。“对于”着重指出对象，这个对象常是动作的受动者，或者某种情况涉及的事物；“关于”着重指出范围，介绍出所关系到的事物。“对于”可放在主语前或后；“关于”只可放在主语前。“关于……”可以出现在书或者文章的名字中，而“对于”无此用法。",
+      "nuance": "Both “对于” and “关于” are prepositions, but they differ in meaning and usage. “对于” points out the object concerned, while “关于” points out the scope or topic. “对于” may appear before or after the subject; “关于” can only precede the subject. “关于……” can also appear in book or article titles, while “对于” cannot be used this way.",
+      "formal_examples": [
+        {
+          "chinese": "对于这次调查计划，经理特别满意。",
+          "pinyin": "Duìyú zhè cì diàochá jìhuà, jīnglǐ tèbié mǎnyì.",
+          "translation": "The manager is especially satisfied with this survey plan."
+        },
+        {
+          "chinese": "关于这次调查计划，经理说有很多不清楚的地方。",
+          "pinyin": "Guānyú zhè cì diàochá jìhuà, jīnglǐ shuō yǒu hěn duō bù qīngchu de dìfang.",
+          "translation": "Regarding this survey plan, the manager said there are many unclear parts."
+        },
+        {
+          "chinese": "对于每个需要帮助的人，他都会热情、耐心地提供帮助。",
+          "pinyin": "Duìyú měi ge xūyào bāngzhù de rén, tā dōu huì rèqíng, nàixīn de tígōng bāngzhù.",
+          "translation": "For every person who needs help, he will provide help warmly and patiently."
+        },
+        {
+          "chinese": "他对于每个需要帮助的人都会热情、耐心地提供帮助。",
+          "pinyin": "Tā duìyú měi ge xūyào bāngzhù de rén dōu huì rèqíng, nàixīn de tígōng bāngzhù.",
+          "translation": "He will warmly and patiently help every person who needs help."
+        },
+        {
+          "chinese": "关于什么是幸福，每个人都有自己不同的看法。",
+          "pinyin": "Guānyú shénme shì xìngfú, měi ge rén dōu yǒu zìjǐ bùtóng de kànfǎ.",
+          "translation": "Regarding what happiness is, everyone has their own different view."
+        }
+      ],
+      "colloquial_examples": []
+    },
+    {
+      "point": "名量词重叠",
+      "explanation": "名量词重叠，常用“AA”格式，表示“每”的意思。名量词重叠后可做主语、主语的定语和状语，但不可做宾语和宾语的定语。",
+      "nuance": "A noun or measure word is often reduplicated in the form of “AA” to mean “each” or “every.” The head word modified by a reduplicated measure word can serve as the subject, the attribute of the subject, or the adverbial, but not the object or the attribute of the object.",
+      "formal_examples": [
+        {
+          "chinese": "人人都会使用语言，但是怎么用语言把话说好却是一门艺术。",
+          "pinyin": "Rénrén dōu huì shǐyòng yǔyán, dànshì zěnme yòng yǔyán bǎ huà shuō hǎo què shì yì mén yìshù.",
+          "translation": "Everyone can use language, but how to use language to speak well is an art."
+        },
+        {
+          "chinese": "白先生天天都去那家咖啡馆坐一会儿，因为他觉得，工作了一天，只有安静的地方才能让他得到放松。",
+          "pinyin": "Bái xiānsheng tiāntiān dōu qù nà jiā kāfēiguǎn zuò yíhuìr, yīnwèi tā juéde, gōngzuò le yì tiān, zhǐyǒu ānjìng de dìfang cái néng ràng tā dédào fàngsōng.",
+          "translation": "Mr. Bai goes to that coffee shop every day to sit for a while, because he feels that after working for a whole day, only a quiet place can help him relax."
+        },
+        {
+          "chinese": "做好小事是完成大事的第一步，因此，件件小事都应该被看成是一次学习的机会。",
+          "pinyin": "Zuò hǎo xiǎo shì shì wánchéng dà shì de dì yī bù, yīncǐ, jiànjiàn xiǎo shì dōu yīnggāi bèi kànchéng shì yí cì xuéxí de jīhuì.",
+          "translation": "Doing small things well is the first step toward completing big things; therefore, every small thing should be seen as an opportunity to learn."
+        }
+      ],
+      "colloquial_examples": []
+    },
+    {
+      "point": "相反",
+      "explanation": "“相反”，连词，用在后面句子的开头或中间，表示转折或递进的意思。“相反”也可作形容词，表示事物的两个方面互相对立或排斥，可做谓语，也可修饰名词。在修饰名词时，后面必须带“的”。",
+      "nuance": "The conjunction “相反” is used at the beginning or in the middle of the following sentence to indicate a contrary or further meaning. As an adjective, “相反” indicates that two aspects of something oppose or contradict each other. It can serve as the predicate or modify a noun; when modifying a noun, it must be followed by “的.”",
+      "formal_examples": [
+        {
+          "chinese": "如果还是使用以前的办法，不但不能解决任何问题，相反，会使问题变得更复杂。",
+          "pinyin": "Rúguǒ háishi shǐyòng yǐqián de bànfǎ, bùdàn bù néng jiějué rènhé wèntí, xiāngfǎn, huì shǐ wèntí biàn de gèng fùzá.",
+          "translation": "If the old methods are still used, not only will they fail to solve any problems; on the contrary, they will make the problems more complicated."
+        },
+        {
+          "chinese": "使用正确的方法，我们做起事来能“事半功倍”……相反，如果方法不对，可能花五倍甚至十倍的时间都不能完成任务，结果变成了“事倍功半”。",
+          "pinyin": "Shǐyòng zhèngquè de fāngfǎ, wǒmen zuò qǐ shì lai néng “shì bàn gōng bèi”... Xiāngfǎn, rúguǒ fāngfǎ bú duì, kěnéng huā wǔ bèi shènzhì shí bèi de shíjiān dōu bù néng wánchéng rènwu, jiéguǒ biàn chéng le “shì bèi gōng bàn”.",
+          "translation": "By using the correct method, we can achieve twice the result with half the effort. On the contrary, if the method is wrong, we may spend five or even ten times as much time and still fail to complete the task, resulting in twice the effort for half the result."
+        },
+        {
+          "chinese": "调查结果和他们想的几乎完全相反，他们不得不改变原来的计划。",
+          "pinyin": "Diàochá jiéguǒ hé tāmen xiǎng de jīhū wánquán xiāngfǎn, tāmen bùdébù gǎibiàn yuánlái de jìhuà.",
+          "translation": "The survey results were almost completely opposite to what they had expected, so they had to change their original plan."
+        },
+        {
+          "chinese": "我本来以为任务能顺利完成，没想到事情正好向相反的方向发展。",
+          "pinyin": "Wǒ běnlái yǐwéi rènwu néng shùnlì wánchéng, méi xiǎngdào shìqing zhènghǎo xiàng xiāngfǎn de fāngxiàng fāzhǎn.",
+          "translation": "I originally thought the task could be completed smoothly, but unexpectedly, things developed in exactly the opposite direction."
+        }
+      ],
+      "colloquial_examples": []
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "有些年轻人申请了信用卡，但在购物时却没有考虑自己的经济能力，最后不能按时还银行的钱。",
+      "pinyin": "Yǒuxiē niánqīng rén shēnqǐng le xìnyòngkǎ, dàn zài gòuwù shí què méiyǒu kǎolǜ zìjǐ de jīngjì nénglì, zuìhòu bù néng ànshí hái yínháng de qián.",
+      "translation": "Some young people applied for credit cards, but when shopping they did not consider their own financial ability, and in the end they could not repay the bank on time.",
+      "context": "同字词：用（信用卡）"
+    },
+    {
+      "sentence": "有些故事不仅能给人带来快乐，还有教育的作用，能使人们重新认识到一些问题。",
+      "pinyin": "Yǒuxiē gùshi bùjǐn néng gěi rén dài lái kuàilè, hái yǒu jiàoyù de zuòyòng, néng shǐ rénmen chóngxīn rènshi dào yìxiē wèntí.",
+      "translation": "Some stories can not only bring people happiness, but also have an educational function, helping people recognize some issues anew.",
+      "context": "同字词：用（作用）"
+    },
+    {
+      "sentence": "医生提醒人们，在使用感冒药之前，一定要仔细阅读说明书。",
+      "pinyin": "Yīshēng tíxǐng rénmen, zài shǐyòng gǎnmào yào zhīqián, yídìng yào zǐxì yuèdú shuōmíngshū.",
+      "translation": "Doctors remind people that before using cold medicine, they must carefully read the instructions.",
+      "context": "同字词：用（使用）"
+    },
+    {
+      "sentence": "遇到不能解决的问题时，我们应该试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。",
+      "pinyin": "Yùdào bù néng jiějué de wèntí shí, wǒmen yīnggāi shìzhe zǒu zou yǐqián cónglái méi zǒu guo de lù, yěxǔ zhèyàng jiù néng zhǎodào jiějué wèntí de fāngfǎ le.",
+      "translation": "When we encounter problems we cannot solve, we should try taking paths we have never taken before; perhaps this way we can find a solution.",
+      "colloquial_equivalent": "碰到搞不定的问题，别老按老办法来，换条路试试，说不定就有答案了。",
+      "context": "해결책을 찾을 때"
+    },
+    {
+      "sentence": "我发现您对学生特别了解，而且总是能用最简单的方法把复杂的问题解释清楚，让每个学生都能听懂。",
+      "pinyin": "Wǒ fāxiàn nín duì xuésheng tèbié liǎojiě, érqiě zǒng shì néng yòng zuì jiǎndān de fāngfǎ bǎ fùzá de wèntí jiěshì qīngchu, ràng měi ge xuésheng dōu néng tīng dǒng.",
+      "translation": "I found that you understand students especially well, and you can always explain complex problems clearly using the simplest methods so every student can understand.",
+      "colloquial_equivalent": "您真的很懂学生，而且特别会把复杂的事讲简单，大家一听就明白。",
+      "context": "칭찬할 때"
+    },
+    {
+      "sentence": "对于老师来说，最难做到的是根据学生的特点选择不同的方法。",
+      "pinyin": "Duìyú lǎoshī lái shuō, zuì nán zuò dào de shì gēnjù xuésheng de tèdiǎn xuǎnzé bùtóng de fāngfǎ.",
+      "translation": "For teachers, the hardest thing to achieve is choosing different methods according to students’ characteristics.",
+      "colloquial_equivalent": "对老师来说，最难的就是因材施教，不能一套方法用到底。",
+      "context": "교육 방법을 말할 때"
+    },
+    {
+      "sentence": "有的人虽然也看到了别人的缺点，但却不会直接指出来，而是通过别的方法来提醒。",
+      "pinyin": "Yǒu de rén suīrán yě kàn dào le biérén de quēdiǎn, dàn què bù huì zhíjiē zhǐ chūlai, ér shì tōngguò bié de fāngfǎ lái tíxǐng.",
+      "translation": "Some people also notice others’ shortcomings, but they do not point them out directly; instead, they remind them through other methods.",
+      "colloquial_equivalent": "有些话别太直说，换个方式提醒，对方更容易接受。",
+      "context": "조언할 때"
+    },
+    {
+      "sentence": "我们应该在听取别人意见的同时，仔细考虑一下，再根据不同的情况选择不同的方法，这样才能达到最好的效果。",
+      "pinyin": "Wǒmen yīnggāi zài tīngqǔ biérén yìjiàn de tóngshí, zǐxì kǎolǜ yíxià, zài gēnjù bùtóng de qíngkuàng xuǎnzé bùtóng de fāngfǎ, zhèyàng cái néng dádào zuì hǎo de xiàoguǒ.",
+      "translation": "While listening to others’ suggestions, we should think carefully and then choose different methods according to different situations; only this way can we achieve the best results.",
+      "colloquial_equivalent": "别人的建议可以听，但要先想清楚，再按自己的情况选方法，这样效果才最好。",
+      "context": "방법 선택을 조언할 때"
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "王经理做生意遇到了困难 (wáng jīnglǐ zuò shēngyi yù dào le kùnnan) (Manager Wang runs into difficulties doing business)",
+      "content": [
+        {
+          "speaker": "王经理",
+          "text": "听说这次生意你到现在还没谈成。",
+          "pinyin": "Tīngshuō zhè cì shēngyi nǐ dào xiànzài hái méi tán chéng.",
+          "translation": "I heard that you still haven’t closed this business deal."
+        },
+        {
+          "speaker": "马经理",
+          "text": "按我以前的经验，早应该谈成了，这次我也不知道哪儿出了问题。",
+          "pinyin": "Àn wǒ yǐqián de jīngyàn, zǎo yīnggāi tán chéng le, zhè cì wǒ yě bù zhīdào nǎr chū le wèntí.",
+          "translation": "Based on my past experience, it should have been settled long ago. This time, I also don’t know where the problem occurred."
+        },
+        {
+          "speaker": "王经理",
+          "text": "有的话叫“<b>规定</b>和经验是<b>死</b>的，人是活的”。当“规定”和“经验”不能解决问题时，建议你改变一下自己的态度和想法。",
+          "pinyin": "Yǒu de huà jiào “guīdìng hé jīngyàn shì sǐ de, rén shì huó de.” Dāng “guīdìng” hé “jīngyàn” bù néng jiějué wèntí shí, jiànyì nǐ gǎibiàn yíxià zìjǐ de tàidu hé xiǎngfǎ.",
+          "translation": "There is a saying: “Rules and experience are fixed, but people are flexible.” When rules and experience cannot solve a problem, I suggest you change your attitude and way of thinking."
+        },
+        {
+          "speaker": "马经理",
+          "text": "很多时候，我都习惯根据过去的经验做事，可惜，经验不是<b>全部</b>都是对的。",
+          "pinyin": "Hěn duō shíhou, wǒ dōu xíguàn gēnjù guòqù de jīngyàn zuò shì, kěxī, jīngyàn bú shì quánbù dōu shì duì de.",
+          "translation": "A lot of the time, I’m used to doing things based on past experience. Unfortunately, experience is not always entirely correct."
+        },
+        {
+          "speaker": "王经理",
+          "text": "遇到不能解决的问题时，我们应该试着走走以前从来没走过的路，<b>也许</b>这样就能找到解决问题的方法了。",
+          "pinyin": "Yù dào bù néng jiějué de wèntí shí, wǒmen yīnggāi shìzhe zǒu zou yǐqián cónglái méi zǒu guò de lù, yěxǔ zhèyàng jiù néng zhǎodào jiějué wèntí de fāngfǎ le.",
+          "translation": "When we run into problems we cannot solve, we should try taking paths we have never taken before. Maybe that way we can find a solution."
+        },
+        {
+          "speaker": "马经理",
+          "text": "好，我再跟同事<b>商量</b>商量，希望能及时发现问题，<b>并且</b>准确地找到解决问题的方法。",
+          "pinyin": "Hǎo, wǒ zài gēn tóngshì shāngliang shangliang, xīwàng néng jíshí fāxiàn wèntí, bìngqiě zhǔnquè de zhǎodào jiějué wèntí de fāngfǎ.",
+          "translation": "Okay. I’ll discuss it again with my colleagues. I hope we can discover the problem in time and accurately find a way to solve it."
+        }
+      ],
+      "audio": "audio/12-1.mp3",
+      "proper_nouns": [
+        {
+          "word": "王经理",
+          "pinyin": "Wáng jīnglǐ",
+          "meaning": "Manager Wang, name/title of a person"
+        },
+        {
+          "word": "马经理",
+          "pinyin": "Mǎ jīnglǐ",
+          "meaning": "Manager Ma, name/title of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "规定",
+          "pinyin": "guīdìng",
+          "meaning": "n. rule, regulation"
+        },
+        {
+          "word": "死",
+          "pinyin": "sǐ",
+          "meaning": "adj. rigid, inflexible"
+        },
+        {
+          "word": "可惜",
+          "pinyin": "kěxī",
+          "meaning": "adj. pitiful, regretful"
+        },
+        {
+          "word": "全部",
+          "pinyin": "quánbù",
+          "meaning": "n. all, whole"
+        },
+        {
+          "word": "也许",
+          "pinyin": "yěxǔ",
+          "meaning": "adv. maybe, perhaps"
+        },
+        {
+          "word": "商量",
+          "pinyin": "shāngliang",
+          "meaning": "v. to discuss, to consult"
+        },
+        {
+          "word": "并且",
+          "pinyin": "bìngqiě",
+          "meaning": "conj. and"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "高老师告诉女儿洗衣服的方法 (gāo lǎoshī gàosu nǚ’ér xǐ yīfu de fāngfǎ) (Teacher Gao tells her daughter how to wash clothes)",
+      "content": [
+        {
+          "speaker": "女儿",
+          "text": "妈，您看我刚买的裤子，洗完以后颜色怎么变得这么难看呢？",
+          "pinyin": "Mā, nín kàn wǒ gāng mǎi de kùzi, xǐ wán yǐhòu yánsè zěnme biàn de zhème nánkàn ne?",
+          "translation": "Mom, look at the pants I just bought. Why did the color become so ugly after washing them?"
+        },
+        {
+          "speaker": "高老师",
+          "text": "看来是掉颜色了，你洗的时候在水里加点儿<b>盐</b>就不会这样了。",
+          "pinyin": "Kànlai shì diào yánsè le, nǐ xǐ de shíhou zài shuǐ li jiā diǎnr yán jiù bú huì zhèyàng le.",
+          "translation": "It looks like the color faded. If you add a little salt to the water when washing them, this won’t happen."
+        },
+        {
+          "speaker": "女儿",
+          "text": "放盐？！盐不是用来做饭的吗？难道它还能让衣服不掉颜色？",
+          "pinyin": "Fàng yán?! Yán bú shì yòng lái zuò fàn de ma? Nándào tā hái néng ràng yīfu bù diào yánsè?",
+          "translation": "Add salt?! Isn’t salt used for cooking? Can it really stop clothes from fading?"
+        },
+        {
+          "speaker": "高老师",
+          "text": "当然。有些衣服第一次洗的时候会掉颜色，其实，有很多方法可以解决这个问题。在水里加<b>勺</b>盐再洗是最简单的方法。用盐水来洗新衣服，这样穿得再次、洗的次数再多，衣服也不容易掉颜色。",
+          "pinyin": "Dāngrán. Yǒu xiē yīfu dì yī cì xǐ de shíhou huì diào yánsè, qíshí, yǒu hěn duō fāngfǎ kěyǐ jiějué zhège wèntí. Zài shuǐ li jiā sháo yán zài xǐ shì zuì jiǎndān de fāngfǎ. Yòng yánshuǐ lái xǐ xīn yīfu, zhèyàng chuān de zài cì, xǐ de cìshù zài duō, yīfu yě bù róngyì diào yánsè.",
+          "translation": "Of course. Some clothes fade the first time they are washed. Actually, there are many ways to solve this problem. Adding a spoonful of salt to the water before washing is the simplest method. If you wash new clothes with salt water, then even after wearing and washing them many times, the clothes will not fade easily."
+        },
+        {
+          "speaker": "女儿",
+          "text": "我第一次听说盐有<b>保护</b>衣服颜色的<b>作用</b>，生活中还真有不少课本上<b>无法</b>学到的知识。",
+          "pinyin": "Wǒ dì yī cì tīngshuō yán yǒu bǎohù yīfu yánsè de zuòyòng, shēnghuó zhōng hái zhēn yǒu bù shǎo kèběn shang wúfǎ xué dào de zhīshi.",
+          "translation": "This is the first time I’ve heard that salt can help protect the color of clothes. There really is a lot of knowledge in life that you cannot learn from textbooks."
+        },
+        {
+          "speaker": "高老师",
+          "text": "实际上，很多问题的答案都可以从生活中找到。但这需要你用眼睛去发现，用心去总结。",
+          "pinyin": "Shíjì shang, hěn duō wèntí de dá’àn dōu kěyǐ cóng shēnghuó zhōng zhǎodào. Dàn zhè xūyào nǐ yòng yǎnjing qù fāxiàn, yòngxīn qù zǒngjié.",
+          "translation": "In fact, the answers to many questions can be found in life. But this requires you to discover them with your eyes and summarize them with care."
+        }
+      ],
+      "audio": "audio/12-2.mp3",
+      "proper_nouns": [
+        {
+          "word": "高老师",
+          "pinyin": "Gāo lǎoshī",
+          "meaning": "Teacher Gao, name/title of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "盐",
+          "pinyin": "yán",
+          "meaning": "n. salt"
+        },
+        {
+          "word": "勺子",
+          "pinyin": "sháozi",
+          "meaning": "n. spoon"
+        },
+        {
+          "word": "保护",
+          "pinyin": "bǎohù",
+          "meaning": "v. to protect"
+        },
+        {
+          "word": "作用",
+          "pinyin": "zuòyòng",
+          "meaning": "n. function"
+        },
+        {
+          "word": "无法",
+          "pinyin": "wúfǎ",
+          "meaning": "v. cannot, to be unable (to do sth.)"
+        },
+        {
+          "word": "无",
+          "pinyin": "wú",
+          "meaning": "v. not to have, to be without"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "高老师学习王教授的教育方法 (gāo lǎoshī xuéxí wáng jiàoshòu de jiàoyù fāngfǎ) (Teacher Gao learns Professor Wang’s educational methods)",
+      "audio": "audio/12-3.mp3",
+      "proper_nouns": [
+        {
+          "word": "高老师",
+          "pinyin": "Gāo lǎoshī",
+          "meaning": "Teacher Gao, name/title of a person"
+        },
+        {
+          "word": "王教授",
+          "pinyin": "Wáng jiàoshòu",
+          "meaning": "Professor Wang, name/title of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "节",
+          "pinyin": "jié",
+          "meaning": "m. section, length"
+        },
+        {
+          "word": "详细",
+          "pinyin": "xiángxì",
+          "meaning": "adj. detailed"
+        },
+        {
+          "word": "解释",
+          "pinyin": "jiěshì",
+          "meaning": "v. to explain"
+        },
+        {
+          "word": "对于",
+          "pinyin": "duìyú",
+          "meaning": "prep. for, to, with regard to"
+        },
+        {
+          "word": "叶子",
+          "pinyin": "yèzi",
+          "meaning": "n. leaf"
+        },
+        {
+          "word": "教育",
+          "pinyin": "jiàoyù",
+          "meaning": "v. to educate"
+        }
+      ],
+      "content": [
+        {
+          "speaker": "高老师",
+          "text": "王教授，今天听完您的这<b>节</b>课，我终于明白为什么您的课那么受学生欢迎了。",
+          "pinyin": "Wáng jiàoshòu, jīntiān tīng wán nín de zhè jié kè, wǒ zhōngyú míngbai wèishénme nín de kè nàme shòu xuésheng huānyíng le.",
+          "translation": "Professor Wang, after listening to your class today, I finally understand why your classes are so popular with students."
+        },
+        {
+          "speaker": "王教授",
+          "text": "谢谢！您能<b>详细</b>谈谈对我的课的看法吗？",
+          "pinyin": "Xièxie! Nín néng xiángxì tán tan duì wǒ de kè de kànfǎ ma?",
+          "translation": "Thank you! Could you talk in detail about your thoughts on my class?"
+        },
+        {
+          "speaker": "高老师",
+          "text": "我发现您对学生特别了解，而且总是能用最简单的方法把复杂的问题<b>解释</b>清楚，让每个学生都能听懂，这一点真是值得我们好好儿学习。",
+          "pinyin": "Wǒ fāxiàn nín duì xuésheng tèbié liǎojiě, érqiě zǒng shì néng yòng zuì jiǎndān de fāngfǎ bǎ fùzá de wèntí jiěshì qīngchu, ràng měi ge xuésheng dōu néng tīng dǒng, zhè yì diǎn zhēn shì zhíde wǒmen hǎohāor xuéxí.",
+          "translation": "I found that you understand your students especially well, and you can always use the simplest methods to explain complex problems clearly so every student can understand. This is truly worth learning from."
+        },
+        {
+          "speaker": "王教授",
+          "text": "哪里哪里，这只是因为我对每个学生的能力水平比较了解。",
+          "pinyin": "Nǎli nǎli, zhè zhǐ shì yīnwèi wǒ duì měi ge xuésheng de nénglì shuǐpíng bǐjiào liǎojiě.",
+          "translation": "Not at all. It is only because I have a fairly good understanding of each student’s ability level."
+        },
+        {
+          "speaker": "高老师",
+          "text": "那您认为<b>对于</b>老师来说，什么是最难做到的？",
+          "pinyin": "Nà nín rènwéi duìyú lǎoshī lái shuō, shénme shì zuì nán zuò dào de?",
+          "translation": "Then, in your opinion, what is the hardest thing for teachers to achieve?"
+        },
+        {
+          "speaker": "王教授",
+          "text": "世界上没有完全相同的<b>叶子</b>，同样地，世界上也没有完全一样的人。所以，在<b>教育</b>学生时，要根据学生的特点选择不同的方法，我想这应该是最不容易做到的。",
+          "pinyin": "Shìjiè shang méiyǒu wánquán xiāngtóng de yèzi, tóngyàng de, shìjiè shang yě méiyǒu wánquán yíyàng de rén. Suǒyǐ, zài jiàoyù xuésheng shí, yào gēnjù xuésheng de tèdiǎn xuǎnzé bùtóng de fāngfǎ, wǒ xiǎng zhè yīnggāi shì zuì bù róngyì zuò dào de.",
+          "translation": "There are no two completely identical leaves in the world; similarly, there are no two completely identical people. So when educating students, one should choose different methods according to each student’s characteristics. I think this is probably the hardest thing to do."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "使用语言是一门艺术 (shǐyòng yǔyán shì yì mén yìshù) (Using language is an art)",
+      "audio": "audio/12-4.mp3",
+      "vocabulary": [
+        {
+          "word": "使用",
+          "pinyin": "shǐyòng",
+          "meaning": "v. to use"
+        },
+        {
+          "word": "语言",
+          "pinyin": "yǔyán",
+          "meaning": "n. language"
+        },
+        {
+          "word": "直接",
+          "pinyin": "zhíjiē",
+          "meaning": "adj. direct, straight"
+        },
+        {
+          "word": "引起",
+          "pinyin": "yǐnqǐ",
+          "meaning": "v. to cause, to lead to"
+        },
+        {
+          "word": "误会",
+          "pinyin": "wùhuì",
+          "meaning": "n. misunderstanding"
+        },
+        {
+          "word": "友好",
+          "pinyin": "yǒuhǎo",
+          "meaning": "adj. friendly"
+        }
+      ],
+      "proper_nouns": [],
+      "content": [
+        {
+          "speaker": null,
+          "text": "人人都会<b>使用</b><b>语言</b>，但是怎么用语言把话说好却是一门艺术。看一个人怎么说话，往往可以比较准确地判断出他是一个什么样的人。有的人心里怎么想，嘴上就怎么说，即使是别人的缺点，他也会<b>直接</b>说出来，这样的人虽然很诚实，但是可能会<b>引起</b>别人的<b>误会</b>；有的人虽然也看到了别人的缺点，但却不会直接指出来，而是通过别的方法来提醒，让他认识到自己的缺点，这样的人会让人觉得更<b>友好</b>。",
+          "pinyin": "Rénrén dōu huì shǐyòng yǔyán, dànshì zěnme yòng yǔyán bǎ huà shuō hǎo què shì yì mén yìshù. Kàn yí ge rén zěnme shuōhuà, wǎngwǎng kěyǐ bǐjiào zhǔnquè de pànduàn chū tā shì yí ge shénme yàng de rén. Yǒu de rén xīnli zěnme xiǎng, zuǐ shang jiù zěnme shuō, jíshǐ shì biérén de quēdiǎn, tā yě huì zhíjiē shuō chūlai, zhèyàng de rén suīrán hěn chéngshí, dànshì kěnéng huì yǐnqǐ biérén de wùhuì; yǒu de rén suīrán yě kàn dào le biérén de quēdiǎn, dàn què bù huì zhíjiē zhǐ chūlai, ér shì tōngguò bié de fāngfǎ lái tíxǐng, ràng tā rènshi dào zìjǐ de quēdiǎn, zhèyàng de rén huì ràng rén juéde gèng yǒuhǎo.",
+          "translation": "Everyone can use language, but using language to express oneself well is an art. By seeing how a person speaks, one can often judge fairly accurately what kind of person they are. Some people say exactly what they think, and even if it is someone else’s shortcomings, they will say it directly. Such people may be very honest, but they may cause misunderstandings. Some people also notice others’ shortcomings, but they do not point them out directly; instead, they use other methods to remind them and help them recognize their own shortcomings. People like this make others feel they are friendlier."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "注意方法才能达到最好的效果 (zhùyì fāngfǎ cái néng dádào zuì hǎo de xiàoguǒ) (Pay attention to methods to achieve the best results)",
+      "audio": "audio/12-5.mp3",
+      "vocabulary": [
+        {
+          "word": "事半功倍",
+          "pinyin": "shì bàn gōng bèi",
+          "meaning": "to achieve twice the result with half the effort"
+        },
+        {
+          "word": "节约",
+          "pinyin": "jiéyuē",
+          "meaning": "v. to economize, to save"
+        },
+        {
+          "word": "力气",
+          "pinyin": "lìqi",
+          "meaning": "n. physical strength, effort"
+        },
+        {
+          "word": "相反",
+          "pinyin": "xiāngfǎn",
+          "meaning": "conj. on the contrary"
+        },
+        {
+          "word": "任务",
+          "pinyin": "rènwu",
+          "meaning": "n. task, mission"
+        },
+        {
+          "word": "意见",
+          "pinyin": "yìjiàn",
+          "meaning": "n. opinion, suggestion"
+        },
+        {
+          "word": "仔细",
+          "pinyin": "zǐxì",
+          "meaning": "adj. careful, meticulous"
+        },
+        {
+          "word": "达到",
+          "pinyin": "dádào",
+          "meaning": "v. to reach, to attain"
+        }
+      ],
+      "proper_nouns": [],
+      "content": [
+        {
+          "speaker": null,
+          "text": "无论做什么事情，都要注意方法，学习尤其是这样。使用正确的方法，我们做起事来能“<b>事半功倍</b>”，也就是说，能<b>节约</b>时间，用较少的<b>力气</b>，取得更好的效果。<b>相反</b>，如果方法不对，可能花五倍甚至十倍的时间都不能完成<b>任务</b>，结果变成了“事倍功半”。有一点需要提醒大家，别人的方法也许很有效，但是并不一定适合自己。因此，我们应该在听取别人<b>意见</b>的同时，<b>仔细</b>考虑一下，再根据不同的情况选择不同的方法，这样才能<b>达到</b>最好的效果。",
+          "pinyin": "Wúlùn zuò shénme shìqing, dōu yào zhùyì fāngfǎ, xuéxí yóuqí shì zhèyàng. Shǐyòng zhèngquè de fāngfǎ, wǒmen zuò qǐ shì lai néng “shì bàn gōng bèi”, yě jiù shì shuō, néng jiéyuē shíjiān, yòng jiào shǎo de lìqi, qǔdé gèng hǎo de xiàoguǒ. Xiāngfǎn, rúguǒ fāngfǎ bú duì, kěnéng huā wǔ bèi shènzhì shí bèi de shíjiān dōu bù néng wánchéng rènwu, jiéguǒ biàn chéng le “shì bèi gōng bàn”. Yǒu yì diǎn xūyào tíxǐng dàjiā, biérén de fāngfǎ yěxǔ hěn yǒuxiào, dànshì bìng bù yídìng shìhé zìjǐ. Yīncǐ, wǒmen yīnggāi zài tīngqǔ biérén yìjiàn de tóngshí, zǐxì kǎolǜ yíxià, zài gēnjù bùtóng de qíngkuàng xuǎnzé bùtóng de fāngfǎ, zhèyàng cái néng dádào zuì hǎo de xiàoguǒ.",
+          "translation": "No matter what you do, you should pay attention to methods, and this is especially true for studying. By using the correct method, we can achieve twice the result with half the effort; that is, we can save time, use less effort, and achieve better results. On the contrary, if the method is wrong, you may spend five times or even ten times as much time and still fail to complete the task, resulting in twice the effort for half the result. One thing needs to be pointed out to everyone: other people’s methods may be effective, but they are not necessarily suitable for you. Therefore, while listening to other people’s suggestions, we should also think carefully and then choose different methods according to different situations. Only in this way can we achieve the best results."
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "vocabulary": {
+      "规定": {
+        "en": "rule, regulation",
+        "ko": "규정, 규칙",
+        "ja": "規定、規則"
+      },
+      "死": {
+        "en": "rigid, inflexible",
+        "ko": "융통성 없는, 고정된",
+        "ja": "融通が利かない、固定的な"
+      },
+      "可惜": {
+        "en": "pitiful, regretful",
+        "ko": "아쉬운, 안타까운",
+        "ja": "惜しい、残念な"
+      },
+      "全部": {
+        "en": "all, whole",
+        "ko": "전부, 전체",
+        "ja": "全部、全体"
+      },
+      "也许": {
+        "en": "maybe, perhaps",
+        "ko": "아마, 어쩌면",
+        "ja": "もしかすると、たぶん"
+      },
+      "商量": {
+        "en": "to discuss, to consult",
+        "ko": "상의하다, 의논하다",
+        "ja": "相談する、話し合う"
+      },
+      "并且": {
+        "en": "and",
+        "ko": "그리고, 또한",
+        "ja": "そして、かつ"
+      },
+      "盐": {
+        "en": "salt",
+        "ko": "소금",
+        "ja": "塩"
+      },
+      "勺子": {
+        "en": "spoon",
+        "ko": "숟가락",
+        "ja": "スプーン"
+      },
+      "保护": {
+        "en": "to protect",
+        "ko": "보호하다",
+        "ja": "保護する"
+      },
+      "作用": {
+        "en": "function, effect",
+        "ko": "작용, 효과",
+        "ja": "作用、効果"
+      },
+      "无法": {
+        "en": "cannot, to be unable",
+        "ko": "할 수 없다, 불가능하다",
+        "ja": "できない、不可能である"
+      },
+      "无": {
+        "en": "not to have, to be without",
+        "ko": "없다, ~이 없다",
+        "ja": "ない、〜がない"
+      },
+      "节": {
+        "en": "section, length",
+        "ko": "수업 단위, 마디",
+        "ja": "節、一区切り"
+      },
+      "详细": {
+        "en": "detailed",
+        "ko": "상세한",
+        "ja": "詳しい"
+      },
+      "解释": {
+        "en": "to explain",
+        "ko": "설명하다",
+        "ja": "説明する"
+      },
+      "对于": {
+        "en": "for, to, with regard to",
+        "ko": "~에 대해, ~에게",
+        "ja": "〜に対して、〜について"
+      },
+      "叶子": {
+        "en": "leaf",
+        "ko": "잎",
+        "ja": "葉"
+      },
+      "教育": {
+        "en": "to educate",
+        "ko": "교육하다",
+        "ja": "教育する"
+      },
+      "使用": {
+        "en": "to use",
+        "ko": "사용하다",
+        "ja": "使用する"
+      },
+      "语言": {
+        "en": "language",
+        "ko": "언어",
+        "ja": "言語"
+      },
+      "直接": {
+        "en": "direct, straight",
+        "ko": "직접적인",
+        "ja": "直接の、まっすぐな"
+      },
+      "引起": {
+        "en": "to cause, to lead to",
+        "ko": "일으키다, 초래하다",
+        "ja": "引き起こす"
+      },
+      "误会": {
+        "en": "misunderstanding",
+        "ko": "오해",
+        "ja": "誤解"
+      },
+      "友好": {
+        "en": "friendly",
+        "ko": "우호적인, 친절한",
+        "ja": "友好的な"
+      },
+      "事半功倍": {
+        "en": "to achieve twice the result with half the effort",
+        "ko": "적은 노력으로 큰 성과를 거두다",
+        "ja": "半分の努力で倍の成果を得る"
+      },
+      "节约": {
+        "en": "to economize, to save",
+        "ko": "절약하다",
+        "ja": "節約する"
+      },
+      "力气": {
+        "en": "physical strength, effort",
+        "ko": "힘, 노력",
+        "ja": "力、労力"
+      },
+      "相反": {
+        "en": "on the contrary",
+        "ko": "반대로",
+        "ja": "反対に"
+      },
+      "任务": {
+        "en": "task, mission",
+        "ko": "임무, 과제",
+        "ja": "任務、課題"
+      },
+      "意见": {
+        "en": "opinion, suggestion",
+        "ko": "의견, 건의",
+        "ja": "意見、提案"
+      },
+      "仔细": {
+        "en": "careful, meticulous",
+        "ko": "세심한, 꼼꼼한",
+        "ja": "細かい、入念な"
+      },
+      "达到": {
+        "en": "to reach, to attain",
+        "ko": "도달하다, 달성하다",
+        "ja": "達する、到達する"
+      }
+    },
+    "properNouns": {
+      "王经理": {
+        "en": "Manager Wang, name/title of a person",
+        "ko": "왕 매니저, 사람 이름/직함",
+        "ja": "王マネージャー、人名/肩書"
+      },
+      "马经理": {
+        "en": "Manager Ma, name/title of a person",
+        "ko": "마 매니저, 사람 이름/직함",
+        "ja": "馬マネージャー、人名/肩書"
+      },
+      "高老师": {
+        "en": "Teacher Gao, name/title of a person",
+        "ko": "가오 선생님, 사람 이름/직함",
+        "ja": "高先生、人名/肩書"
+      },
+      "王教授": {
+        "en": "Professor Wang, name/title of a person",
+        "ko": "왕 교수, 사람 이름/직함",
+        "ja": "王教授、人名/肩書"
+      }
+    },
+    "lessonTitle": {
+      "en": "Discover the world attentively",
+      "ko": "마음을 기울여 세상을 발견하다",
+      "ja": "心を込めて世界を発見する"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Manager Wang runs into difficulties doing business",
+        "ko": "왕 매니저가 사업에서 어려움을 만나다",
+        "ja": "王マネージャーが商売で困難に直面する"
+      },
+      "2": {
+        "en": "Teacher Gao tells her daughter how to wash clothes",
+        "ko": "가오 선생님이 딸에게 옷 세탁 방법을 알려 주다",
+        "ja": "高先生が娘に服の洗い方を教える"
+      },
+      "3": {
+        "en": "Teacher Gao learns Professor Wang’s educational methods",
+        "ko": "가오 선생님이 왕 교수의 교육 방법을 배우다",
+        "ja": "高先生が王教授の教育方法を学ぶ"
+      },
+      "4": {
+        "en": "Using language is an art",
+        "ko": "언어를 사용하는 것은 하나의 예술이다",
+        "ja": "言語を使うことは一つの芸術である"
+      },
+      "5": {
+        "en": "Pay attention to methods to achieve the best results",
+        "ko": "방법에 주의해야 최고의 효과를 얻을 수 있다",
+        "ja": "方法に注意してこそ最良の効果に達する"
+      }
+    },
+    "grammar": {
+      "并且": {
+        "formal_translation": {
+          "en": "“并且” is a conjunction used to connect coordinate verbs or adjectives, indicating that several actions or qualities happen or exist at the same time. It can also connect sentences to add a further meaning.",
+          "ko": "“并且”는 접속사로, 병렬 관계의 동사나 형용사 등을 연결하여 여러 동작이 동시에 진행되거나 여러 성질이 동시에 존재함을 나타낸다. 또한 문장을 연결하여 한층 더 나아간 의미를 나타낼 수도 있다.",
+          "ja": "「并且」は接続詞で、並列する動詞や形容詞などをつなぎ、いくつかの動作が同時に行われたり、いくつかの性質が同時に存在したりすることを表す。また、文をつなぎ、さらに一歩進んだ意味を表すこともできる。"
+        },
+        "colloquial_translation": {
+          "en": "“并且” is a conjunction used to connect coordinate verbs or adjectives, indicating that several actions or qualities happen or exist at the same time. It can also connect sentences to add a further meaning.",
+          "ko": "쉽게 말해 “并且”는 “그리고/게다가”처럼 앞뒤 내용을 자연스럽게 이어 주며, 뒤에서 내용을 더 보태는 느낌을 줄 때 쓴다.",
+          "ja": "簡単に言うと、「并且」は「そして／そのうえ」のように前後の内容を自然につなぎ、後ろで内容をさらに付け加えるときに使う。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "He works very seriously and has rich experience, so it is very suitable to let him be in charge.",
+              "ko": "그는 일을 매우 성실하게 하고, 게다가 경험도 풍부해서 그에게 맡기는 것이 매우 적합하다.",
+              "ja": "彼は仕事をとても真面目にし、しかも豊富な経験があるので、彼に任せるのがとても適している。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The flowers of this plant are much larger than ordinary flowers, and they are especially beautiful.",
+              "ko": "이 식물이 피우는 꽃은 보통 꽃보다 훨씬 크고, 게다가 특히 예쁘다.",
+              "ja": "この植物が咲かせる花は普通の花よりずっと大きく、しかも特に美しい。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This house has complete furniture; the TV, air conditioner, and refrigerator are all very new, and the price is also cheap. It is really worth considering.",
+              "ko": "이 집은 가구가 모두 갖추어져 있고, 텔레비전, 에어컨, 냉장고도 모두 새것이며, 게다가 가격도 저렴해서 정말 고려해 볼 만하다.",
+              "ja": "この部屋は家具がそろっていて、テレビ、エアコン、冷蔵庫もすべて新しく、しかも価格も安いので、本当に検討する価値がある。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Okay, I will discuss it with my colleagues again, hoping to discover the problem in time and accurately find a way to solve it.",
+              "ko": "좋아요, 제가 다시 동료들과 의논해 보겠습니다. 문제를 제때 발견하고, 또한 정확하게 문제를 해결할 방법을 찾을 수 있기를 바랍니다.",
+              "ja": "わかりました。もう一度同僚と相談してみます。問題をすぐに発見し、さらに正確に問題を解決する方法を見つけられることを願っています。"
+            }
+          }
+        ],
+        "colloquial_examples": []
+      },
+      "再……也……": {
+        "formal_translation": {
+          "en": "The structure “再……也……” is usually used in a hypothetical sentence indicating concession. “再” can be followed by a verb, adjective, or sentence, meaning “even if” or “no matter how.”",
+          "ko": "“再……也……” 구조는 양보를 나타내는 가정문에 자주 쓰인다. “再” 뒤에는 동사, 형용사, 문장 등이 올 수 있으며, “설령, 아무리 어떠해도”라는 뜻을 나타낸다.",
+          "ja": "「再……也……」の構造は、譲歩を表す仮定文によく用いられる。「再」の後ろには動詞、形容詞、文などを置くことができ、「たとえ、どんなに〜しても」という意味を表す。"
+        },
+        "colloquial_translation": {
+          "en": "The structure “再……也……” is usually used in a hypothetical sentence indicating concession. “再” can be followed by a verb, adjective, or sentence, meaning “even if” or “no matter how.”",
+          "ko": "쉽게 말해 “아무리 ~해도 결국 ~하다”라는 뜻이다. 앞부분에서 극단적 조건을 말하고, 뒤에서는 결과가 변하지 않음을 말한다.",
+          "ja": "簡単に言うと、「どんなに〜しても結局〜だ」という意味。前半で極端な条件を述べ、後半で結果が変わらないことを表す。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "The matter has already happened. No matter how much you regret it, you cannot change it, so do not be sad.",
+              "ko": "일은 이미 일어났으니, 아무리 후회해도 바꿀 수 없습니다. 너무 슬퍼하지 마세요.",
+              "ja": "事はすでに起こってしまったので、どんなに後悔しても変えることはできません。悲しまないでください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Wash new clothes with salt water; this way, even if they are worn for a long time and washed many times, they will not fade easily.",
+              "ko": "새 옷을 소금물로 빨면, 이렇게 아무리 오래 입고 세탁 횟수가 아무리 많아도 옷이 쉽게 색이 빠지지 않습니다.",
+              "ja": "新しい服を塩水で洗えば、このようにどんなに長く着ても、洗う回数がどんなに多くても、服は色落ちしにくくなります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If we have any views or suggestions, no matter how much others disagree or do not support us, we should still say them so others know our thoughts and attitude.",
+              "ko": "우리에게 어떤 견해나 의견이 있다면, 다른 사람이 아무리 동의하지 않고 지지하지 않더라도 말해야 하며, 다른 사람이 우리의 생각과 태도를 알게 해야 합니다.",
+              "ja": "私たちに何か見方や意見があるなら、他人がどんなに同意せず、支持しなくても、言うべきであり、他人に私たちの考えや態度を知ってもらうべきです。"
+            }
+          }
+        ],
+        "colloquial_examples": []
+      },
+      "对于": {
+        "formal_translation": {
+          "en": "The preposition “对于” introduces the object that a certain attitude or situation is concerned with. “对于……” can either precede or follow the subject.",
+          "ko": "“对于”는 전치사로, 어떤 태도나 상황이 관련되는 대상을 나타낸다. “对于……”는 주어 앞이나 뒤에 모두 올 수 있다.",
+          "ja": "「对于」は前置詞で、ある態度や状況が関わる対象を表す。「对于……」は主語の前にも後ろにも置くことができる。"
+        },
+        "colloquial_translation": {
+          "en": "The preposition “对于” introduces the object that a certain attitude or situation is concerned with. “对于……” can either precede or follow the subject.",
+          "ko": "쉽게 말해 “~에 대해, ~에게 있어서”라는 뜻이다. 말하려는 대상이나 기준을 먼저 밝혀 줄 때 쓴다.",
+          "ja": "簡単に言うと、「〜について、〜にとって」という意味。話題にする対象や基準を先に示すときに使う。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Regarding this matter, my view is different from everyone else’s.",
+              "ko": "이 일에 대해 저는 여러분과 생각이 다릅니다.",
+              "ja": "この件について、私は皆さんと見方が違います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "For Chinese people, the Spring Festival is the most important holiday of the year, and during it people hold all kinds of activities to welcome the New Year.",
+              "ko": "중국인에게 춘절은 일 년 중 가장 중요한 명절이며, 춘절 때 사람들은 여러 가지 새해맞이 활동을 합니다.",
+              "ja": "中国人にとって、春節は一年の中で最も重要な祝日であり、春節の時には人々がさまざまな新年を迎える活動を行います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Then, in your opinion, what is the hardest thing for teachers to achieve?",
+              "ko": "그럼 선생님께서는 교사에게 가장 하기 어려운 일이 무엇이라고 생각하시나요?",
+              "ja": "では、先生にとって最も実現しにくいことは何だと思われますか。"
+            }
+          }
+        ],
+        "colloquial_examples": []
+      },
+      "对于——关于": {
+        "formal_translation": {
+          "en": "Both “对于” and “关于” are prepositions, but they differ in meaning and usage. “对于” points out the object concerned, while “关于” points out the scope or topic. “对于” may appear before or after the subject; “关于” can only precede the subject. “关于……” can also appear in book or article titles, while “对于” cannot be used this way.",
+          "ko": "“对于”와 “关于”는 모두 전치사이지만 의미와 용법이 다르다. “对于”는 대상을 지적하는 데 중점을 두며, 이 대상은 보통 동작의 영향을 받는 대상이거나 어떤 상황이 관련되는 사물이다. “关于”는 범위를 지적하는 데 중점을 두며, 관련되는 일을 소개한다. “对于”는 주어 앞이나 뒤에 올 수 있지만, “关于”는 주어 앞에만 올 수 있다. “关于……”는 책이나 글의 제목에 나타날 수 있지만, “对于”에는 이런 용법이 없다.",
+          "ja": "「对于」と「关于」はどちらも前置詞だが、意味と用法が異なる。「对于」は対象を示すことに重点があり、その対象は多くの場合、動作の受け手、またはある状況が関わる事物である。「关于」は範囲を示すことに重点があり、関係する事柄を紹介する。「对于」は主語の前にも後ろにも置けるが、「关于」は主語の前にしか置けない。「关于……」は本や文章の題名に現れることができるが、「对于」にはこの用法はない。"
+        },
+        "colloquial_translation": {
+          "en": "Both “对于” and “关于” are prepositions, but they differ in meaning and usage. “对于” points out the object concerned, while “关于” points out the scope or topic. “对于” may appear before or after the subject; “关于” can only precede the subject. “关于……” can also appear in book or article titles, while “对于” cannot be used this way.",
+          "ko": "간단히 말해 “对于”는 “누구/무엇에 대해 어떤 태도나 상황인가”를 말할 때 쓰고, “关于”는 “무슨 주제에 관한 이야기인가”를 말할 때 쓴다.",
+          "ja": "簡単に言うと、「对于」は「誰／何に対してどんな態度や状況なのか」を言うときに使い、「关于」は「どんなテーマについての話なのか」を言うときに使う。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "The manager is especially satisfied with this survey plan.",
+              "ko": "이번 조사 계획에 대해 매니저는 특히 만족했다.",
+              "ja": "今回の調査計画に対して、マネージャーは特に満足している。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Regarding this survey plan, the manager said there are many unclear parts.",
+              "ko": "이번 조사 계획에 관해 매니저는 분명하지 않은 부분이 많다고 말했다.",
+              "ja": "今回の調査計画について、マネージャーは不明確なところが多いと言った。"
+            }
+          },
+          {
+            "translation": {
+              "en": "For every person who needs help, he will provide help warmly and patiently.",
+              "ko": "도움이 필요한 모든 사람에게 그는 열정적이고 인내심 있게 도움을 제공한다.",
+              "ja": "助けを必要とする一人ひとりに対して、彼は熱心に、根気よく助けを提供する。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He will warmly and patiently help every person who needs help.",
+              "ko": "그는 도움이 필요한 모든 사람에게 열정적이고 인내심 있게 도움을 제공한다.",
+              "ja": "彼は助けを必要とする一人ひとりに対して、熱心に、根気よく助けを提供する。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Regarding what happiness is, everyone has their own different view.",
+              "ko": "무엇이 행복인가에 관해, 사람마다 자신만의 서로 다른 견해가 있다.",
+              "ja": "何が幸せかについて、人それぞれ自分の異なる見方を持っている。"
+            }
+          }
+        ],
+        "colloquial_examples": []
+      },
+      "名量词重叠": {
+        "formal_translation": {
+          "en": "A noun or measure word is often reduplicated in the form of “AA” to mean “each” or “every.” The head word modified by a reduplicated measure word can serve as the subject, the attribute of the subject, or the adverbial, but not the object or the attribute of the object.",
+          "ko": "명사나 양사의 중첩은 보통 “AA” 형식을 사용하며 “매, 각각”의 뜻을 나타낸다. 중첩된 명량사는 주어, 주어의 관형어, 부사어가 될 수 있지만, 목적어나 목적어의 관형어가 될 수는 없다.",
+          "ja": "名詞や量詞の重ね型は、よく「AA」の形で用いられ、「それぞれ、毎」の意味を表す。重ねられた名詞・量詞は主語、主語の連体修飾語、または連用修飾語になることができるが、目的語や目的語の連体修飾語にはなれない。"
+        },
+        "colloquial_translation": {
+          "en": "A noun or measure word is often reduplicated in the form of “AA” to mean “each” or “every.” The head word modified by a reduplicated measure word can serve as the subject, the attribute of the subject, or the adverbial, but not the object or the attribute of the object.",
+          "ko": "쉽게 말해 `人人`, `天天`, `件件`처럼 같은 말을 반복하면 “모든 사람”, “매일”, “하나하나” 같은 의미가 된다.",
+          "ja": "簡単に言うと、`人人`、`天天`、`件件` のように同じ語を重ねると、「すべての人」「毎日」「一つ一つ」のような意味になる。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Everyone can use language, but how to use language to speak well is an art.",
+              "ko": "사람은 누구나 언어를 사용할 줄 알지만, 어떻게 언어로 말을 잘하느냐는 하나의 예술입니다.",
+              "ja": "誰でも言語を使うことはできますが、言語を使ってうまく話すことは一つの芸術です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Mr. Bai goes to that coffee shop every day to sit for a while, because he feels that after working for a whole day, only a quiet place can help him relax.",
+              "ko": "백 선생님은 매일 그 카페에 가서 잠시 앉아 있습니다. 그는 하루 일한 뒤에는 조용한 곳만이 자신을 편안하게 해 줄 수 있다고 생각하기 때문입니다.",
+              "ja": "白先生は毎日そのカフェに行ってしばらく座ります。なぜなら、一日働いた後は、静かな場所だけが彼をリラックスさせてくれると感じているからです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Doing small things well is the first step toward completing big things; therefore, every small thing should be seen as an opportunity to learn.",
+              "ko": "작은 일을 잘하는 것은 큰일을 완성하는 첫걸음입니다. 따라서 모든 작은 일은 한 번의 배움의 기회로 여겨져야 합니다.",
+              "ja": "小さなことをきちんと行うことは、大きなことを成し遂げる第一歩です。したがって、一つ一つの小さなことは学習の機会と見なされるべきです。"
+            }
+          }
+        ],
+        "colloquial_examples": []
+      },
+      "相反": {
+        "formal_translation": {
+          "en": "The conjunction “相反” is used at the beginning or in the middle of the following sentence to indicate a contrary or further meaning. As an adjective, “相反” indicates that two aspects of something oppose or contradict each other. It can serve as the predicate or modify a noun; when modifying a noun, it must be followed by “的.”",
+          "ko": "“相反”은 접속사로 뒤 문장의 시작이나 중간에 쓰여 전환 또는 더 나아간 의미를 나타낸다. 또한 형용사로도 쓰여 사물의 두 측면이 서로 대립하거나 배척함을 나타내며, 술어가 될 수도 있고 명사를 수식할 수도 있다. 명사를 수식할 때는 뒤에 반드시 “的”를 붙여야 한다.",
+          "ja": "「相反」は接続詞で、後続文の冒頭または中間に用いられ、逆接またはさらに進んだ意味を表す。また形容詞としても使われ、物事の二つの側面が互いに対立したり排斥したりすることを表す。述語にもなり、名詞を修飾することもできる。名詞を修飾するときは、後ろに必ず「的」を付ける。"
+        },
+        "colloquial_translation": {
+          "en": "The conjunction “相反” is used at the beginning or in the middle of the following sentence to indicate a contrary or further meaning. As an adjective, “相反” indicates that two aspects of something oppose or contradict each other. It can serve as the predicate or modify a noun; when modifying a noun, it must be followed by “的.”",
+          "ko": "쉽게 말해 접속사일 때는 “반대로”라는 뜻이고, 형용사일 때는 “서로 반대되는”이라는 뜻이다.",
+          "ja": "簡単に言うと、接続詞としては「反対に」、形容詞としては「互いに反対の」という意味になる。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "If the old methods are still used, not only will they fail to solve any problems; on the contrary, they will make the problems more complicated.",
+              "ko": "만약 여전히 예전 방법을 사용한다면 어떤 문제도 해결하지 못할 뿐만 아니라, 반대로 문제를 더 복잡하게 만들 것입니다.",
+              "ja": "もし以前の方法を使い続けるなら、どんな問題も解決できないばかりか、反対に問題をさらに複雑にしてしまいます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "By using the correct method, we can achieve twice the result with half the effort. On the contrary, if the method is wrong, we may spend five or even ten times as much time and still fail to complete the task, resulting in twice the effort for half the result.",
+              "ko": "올바른 방법을 사용하면 우리는 적은 노력으로 큰 성과를 거둘 수 있습니다. 반대로 방법이 맞지 않으면 다섯 배, 심지어 열 배의 시간을 들여도 임무를 완성하지 못할 수 있고, 결과적으로 많은 노력을 들이고도 성과는 적은 상황이 됩니다.",
+              "ja": "正しい方法を使えば、私たちは半分の努力で倍の成果を得ることができます。反対に、方法が正しくなければ、五倍、さらには十倍の時間をかけても任務を完成できず、結果として倍の努力で半分の成果になってしまうかもしれません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The survey results were almost completely opposite to what they had expected, so they had to change their original plan.",
+              "ko": "조사 결과는 그들이 생각한 것과 거의 완전히 반대여서, 그들은 원래의 계획을 바꾸지 않을 수 없었습니다.",
+              "ja": "調査結果は彼らが考えていたこととほぼ完全に反対で、彼らは元の計画を変えざるを得ませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I originally thought the task could be completed smoothly, but unexpectedly, things developed in exactly the opposite direction.",
+              "ko": "저는 원래 임무가 순조롭게 완성될 수 있다고 생각했는데, 뜻밖에도 일이 마침 반대 방향으로 전개되었습니다.",
+              "ja": "私はもともと任務が順調に完了できると思っていましたが、思いがけず物事はちょうど反対の方向へ進みました。"
+            }
+          }
+        ],
+        "colloquial_examples": []
+      }
+    },
+    "keySentences": {
+      "有些年轻人申请了信用卡，但在购物时却没有考虑自己的经济能力，最后不能按时还银行的钱。": {
+        "translation": {
+          "en": "Some young people applied for credit cards, but when shopping they did not consider their own financial ability, and in the end they could not repay the bank on time.",
+          "ko": "어떤 젊은이들은 신용카드를 신청했지만, 쇼핑할 때 자신의 경제 능력을 고려하지 않아 결국 은행 돈을 제때 갚지 못했습니다.",
+          "ja": "一部の若者はクレジットカードを申請しましたが、買い物の際に自分の経済能力を考えず、最後には銀行のお金を期限どおりに返せませんでした。"
+        },
+        "colloquial_translation": {
+          "en": "Some young people applied for credit cards, but when shopping they did not consider their own financial ability, and in the end they could not repay the bank on time.",
+          "ko": "어떤 젊은이들은 신용카드를 신청했지만, 쇼핑할 때 자신의 경제 능력을 고려하지 않아 결국 은행 돈을 제때 갚지 못했습니다.",
+          "ja": "一部の若者はクレジットカードを申請しましたが、買い物の際に自分の経済能力を考えず、最後には銀行のお金を期限どおりに返せませんでした。"
+        },
+        "context": {
+          "en": "同字词：用（信用卡）",
+          "ko": "같은 글자 단어: 用（信用卡）",
+          "ja": "同じ字を含む語：用（信用卡）"
+        }
+      },
+      "有些故事不仅能给人带来快乐，还有教育的作用，能使人们重新认识到一些问题。": {
+        "translation": {
+          "en": "Some stories can not only bring people happiness, but also have an educational function, helping people recognize some issues anew.",
+          "ko": "어떤 이야기는 사람들에게 즐거움을 가져다줄 뿐만 아니라 교육적인 작용도 있어, 사람들이 몇몇 문제를 새롭게 인식하게 할 수 있습니다.",
+          "ja": "ある物語は人に楽しさをもたらすだけでなく、教育の作用もあり、人々にいくつかの問題を改めて認識させることができます。"
+        },
+        "colloquial_translation": {
+          "en": "Some stories can not only bring people happiness, but also have an educational function, helping people recognize some issues anew.",
+          "ko": "어떤 이야기는 사람들에게 즐거움을 가져다줄 뿐만 아니라 교육적인 작용도 있어, 사람들이 몇몇 문제를 새롭게 인식하게 할 수 있습니다.",
+          "ja": "ある物語は人に楽しさをもたらすだけでなく、教育の作用もあり、人々にいくつかの問題を改めて認識させることができます。"
+        },
+        "context": {
+          "en": "同字词：用（作用）",
+          "ko": "같은 글자 단어: 用（作用）",
+          "ja": "同じ字を含む語：用（作用）"
+        }
+      },
+      "医生提醒人们，在使用感冒药之前，一定要仔细阅读说明书。": {
+        "translation": {
+          "en": "Doctors remind people that before using cold medicine, they must carefully read the instructions.",
+          "ko": "의사는 사람들에게 감기약을 사용하기 전에 반드시 설명서를 꼼꼼히 읽으라고 일깨워 줍니다.",
+          "ja": "医者は人々に、風邪薬を使用する前に必ず説明書を注意深く読むよう注意しています。"
+        },
+        "colloquial_translation": {
+          "en": "Doctors remind people that before using cold medicine, they must carefully read the instructions.",
+          "ko": "의사는 사람들에게 감기약을 사용하기 전에 반드시 설명서를 꼼꼼히 읽으라고 일깨워 줍니다.",
+          "ja": "医者は人々に、風邪薬を使用する前に必ず説明書を注意深く読むよう注意しています。"
+        },
+        "context": {
+          "en": "同字词：用（使用）",
+          "ko": "같은 글자 단어: 用（使用）",
+          "ja": "同じ字を含む語：用（使用）"
+        }
+      },
+      "遇到不能解决的问题时，我们应该试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。": {
+        "translation": {
+          "en": "When we encounter problems we cannot solve, we should try taking paths we have never taken before; perhaps this way we can find a solution.",
+          "ko": "해결할 수 없는 문제를 만났을 때, 우리는 예전에 한 번도 가 보지 않은 길을 시도해 보아야 합니다. 어쩌면 이렇게 하면 문제를 해결할 방법을 찾을 수 있습니다.",
+          "ja": "解決できない問題に出会ったとき、私たちは以前一度も歩いたことのない道を試してみるべきです。そうすれば問題を解決する方法を見つけられるかもしれません。"
+        },
+        "colloquial_translation": {
+          "en": "碰到搞不定的问题，别老按老办法来，换条路试试，说不定就有答案了。",
+          "ko": "해결이 안 되는 문제를 만나면 늘 하던 방식만 고집하지 말고 다른 길을 한번 시도해 보세요. 의외로 답이 나올 수도 있습니다.",
+          "ja": "解決できない問題にぶつかったら、いつもの方法にこだわらず、別の道を試してみましょう。意外と答えが見つかるかもしれません。"
+        },
+        "context": {
+          "en": "해결책을 찾을 때",
+          "ko": "해결책을 찾을 때",
+          "ja": "解決策を探すとき"
+        }
+      },
+      "我发现您对学生特别了解，而且总是能用最简单的方法把复杂的问题解释清楚，让每个学生都能听懂。": {
+        "translation": {
+          "en": "I found that you understand students especially well, and you can always explain complex problems clearly using the simplest methods so every student can understand.",
+          "ko": "저는 교수님께서 학생들을 특히 잘 이해하시고, 항상 가장 간단한 방법으로 복잡한 문제를 분명하게 설명해서 모든 학생이 알아들을 수 있게 하신다는 것을 알게 됐습니다.",
+          "ja": "先生は学生を特によく理解していて、いつも最も簡単な方法で複雑な問題をはっきり説明し、どの学生にも理解できるようにしていることに気づきました。"
+        },
+        "colloquial_translation": {
+          "en": "您真的很懂学生，而且特别会把复杂的事讲简单，大家一听就明白。",
+          "ko": "선생님은 학생들을 정말 잘 아시고, 복잡한 내용도 쉽게 풀어서 설명하시니 다들 바로 이해합니다.",
+          "ja": "先生は学生のことを本当によく分かっていて、複雑なことも簡単に説明してくれるので、みんなすぐ理解できます。"
+        },
+        "context": {
+          "en": "칭찬할 때",
+          "ko": "칭찬할 때",
+          "ja": "褒めるとき"
+        }
+      },
+      "对于老师来说，最难做到的是根据学生的特点选择不同的方法。": {
+        "translation": {
+          "en": "For teachers, the hardest thing to achieve is choosing different methods according to students’ characteristics.",
+          "ko": "교사에게 가장 하기 어려운 일은 학생의 특징에 따라 서로 다른 방법을 선택하는 것입니다.",
+          "ja": "教師にとって最も難しいのは、学生の特徴に応じて異なる方法を選ぶことです。"
+        },
+        "colloquial_translation": {
+          "en": "对老师来说，最难的就是因材施教，不能一套方法用到底。",
+          "ko": "선생님에게 가장 어려운 건 학생마다 맞는 방식으로 가르치는 것입니다. 한 가지 방법만 계속 쓸 수는 없습니다.",
+          "ja": "先生にとって一番難しいのは、学生に合わせて教え方を変えることです。一つの方法だけでは通用しません。"
+        },
+        "context": {
+          "en": "교육 방법을 말할 때",
+          "ko": "교육 방법을 말할 때",
+          "ja": "教育方法を話すとき"
+        }
+      },
+      "有的人虽然也看到了别人的缺点，但却不会直接指出来，而是通过别的方法来提醒。": {
+        "translation": {
+          "en": "Some people also notice others’ shortcomings, but they do not point them out directly; instead, they remind them through other methods.",
+          "ko": "어떤 사람은 다른 사람의 단점을 보았어도 직접 지적하지 않고, 다른 방법으로 일깨워 줍니다.",
+          "ja": "ある人は他人の欠点に気づいても直接指摘せず、別の方法で注意を促します。"
+        },
+        "colloquial_translation": {
+          "en": "有些话别太直说，换个方式提醒，对方更容易接受。",
+          "ko": "어떤 말은 너무 직설적으로 하지 말고, 다른 방식으로 알려 주면 상대가 더 쉽게 받아들입니다.",
+          "ja": "言いにくいことは直接言いすぎず、別の言い方で伝えると、相手も受け入れやすくなります。"
+        },
+        "context": {
+          "en": "조언할 때",
+          "ko": "조언할 때",
+          "ja": "助言するとき"
+        }
+      },
+      "我们应该在听取别人意见的同时，仔细考虑一下，再根据不同的情况选择不同的方法，这样才能达到最好的效果。": {
+        "translation": {
+          "en": "While listening to others’ suggestions, we should think carefully and then choose different methods according to different situations; only this way can we achieve the best results.",
+          "ko": "우리는 다른 사람의 의견을 듣는 동시에 자세히 생각해 보고, 서로 다른 상황에 따라 다른 방법을 선택해야 합니다. 그래야 최고의 효과에 도달할 수 있습니다.",
+          "ja": "私たちは他人の意見を聞くと同時に、よく考え、それから状況に応じて異なる方法を選ぶべきです。そうしてこそ最良の効果に達することができます。"
+        },
+        "colloquial_translation": {
+          "en": "别人的建议可以听，但要先想清楚，再按自己的情况选方法，这样效果才最好。",
+          "ko": "다른 사람의 조언은 들을 수 있지만, 먼저 잘 생각해 보고 자기 상황에 맞는 방법을 골라야 효과가 가장 좋습니다.",
+          "ja": "人のアドバイスは聞いてもいいですが、まずよく考えて、自分の状況に合う方法を選ぶことが大事です。そうしてこそ効果が一番よくなります。"
+        },
+        "context": {
+          "en": "방법 선택을 조언할 때",
+          "ko": "방법 선택을 조언할 때",
+          "ja": "方法選びを助言するとき"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "I heard that you still haven’t closed this business deal.",
+              "ko": "이번 사업 이야기가 아직도 성사되지 않았다고 들었어요.",
+              "ja": "今回の商談は今になってもまだまとまっていないと聞きました。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Based on my past experience, it should have been settled long ago. This time, I also don’t know where the problem occurred.",
+              "ko": "제 예전 경험으로 보면 벌써 성사됐어야 해요. 이번에는 저도 어디에서 문제가 생겼는지 모르겠어요.",
+              "ja": "以前の経験からすると、とっくにまとまっているはずでした。今回は私もどこに問題が出たのか分かりません。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "There is a saying: “Rules and experience are fixed, but people are flexible.” When rules and experience cannot solve a problem, I suggest you change your attitude and way of thinking.",
+              "ko": "“규정과 경험은 고정된 것이고, 사람은 살아 있는 것이다”라는 말이 있어요. 규정과 경험으로 문제를 해결할 수 없을 때는 자신의 태도와 생각을 조금 바꿔 보라고 권하고 싶어요.",
+              "ja": "「規定と経験は固定的なものだが、人は柔軟なものだ」という言葉があります。規定と経験で問題を解決できないときは、自分の態度や考え方を少し変えることをおすすめします。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "A lot of the time, I’m used to doing things based on past experience. Unfortunately, experience is not always entirely correct.",
+              "ko": "많은 경우 저는 과거의 경험에 따라 일을 하는 데 익숙해요. 아쉽게도 경험이 전부 다 맞는 것은 아니죠.",
+              "ja": "多くの場合、私は過去の経験に基づいて物事を行うことに慣れています。残念ながら、経験がすべて正しいとは限りません。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "When we run into problems we cannot solve, we should try taking paths we have never taken before. Maybe that way we can find a solution.",
+              "ko": "해결할 수 없는 문제를 만났을 때는 예전에 한 번도 가 보지 않은 길을 걸어 보려고 해야 해요. 어쩌면 그렇게 해서 문제를 해결할 방법을 찾을 수 있을지도 몰라요.",
+              "ja": "解決できない問題に出会ったとき、私たちはこれまで一度も歩いたことのない道を歩いてみるべきです。そうすれば、問題を解決する方法が見つかるかもしれません。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Okay. I’ll discuss it again with my colleagues. I hope we can discover the problem in time and accurately find a way to solve it.",
+              "ko": "좋아요. 다시 동료들과 상의해 볼게요. 제때 문제를 발견하고 정확하게 해결 방법을 찾을 수 있기를 바랍니다.",
+              "ja": "分かりました。もう一度同僚と相談してみます。問題を早めに発見し、正確に解決方法を見つけられるといいです。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Mom, look at the pants I just bought. Why did the color become so ugly after washing them?",
+              "ko": "엄마, 제가 방금 산 바지를 보세요. 세탁하고 나니 색이 왜 이렇게 보기 싫게 변했죠?",
+              "ja": "お母さん、私がさっき買ったズボンを見てください。洗った後、色がどうしてこんなに変になったんでしょう？"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "It looks like the color faded. If you add a little salt to the water when washing them, this won’t happen.",
+              "ko": "색이 빠진 것 같구나. 빨 때 물에 소금을 조금 넣으면 이렇게 되지 않을 거야.",
+              "ja": "色落ちしたようですね。洗うときに水に少し塩を入れれば、こうはなりません。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Add salt?! Isn’t salt used for cooking? Can it really stop clothes from fading?",
+              "ko": "소금을 넣어요?! 소금은 밥할 때 쓰는 거 아니에요? 옷이 색이 빠지지 않게도 할 수 있나요?",
+              "ja": "塩を入れるんですか？！塩は料理に使うものではないんですか？服の色落ちも防げるんですか？"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Of course. Some clothes fade the first time they are washed. Actually, there are many ways to solve this problem. Adding a spoonful of salt to the water before washing is the simplest method. If you wash new clothes with salt water, then even after wearing and washing them many times, the clothes will not fade easily.",
+              "ko": "물론이지. 어떤 옷은 처음 빨 때 색이 빠져. 사실 이 문제를 해결할 방법은 많아. 물에 소금 한 숟가락을 넣고 다시 빠는 것이 가장 간단한 방법이야. 새 옷을 소금물로 빨면, 이렇게 여러 번 입고 세탁 횟수가 많아져도 옷이 쉽게 색이 빠지지 않아.",
+              "ja": "もちろんです。服によっては初めて洗うときに色落ちします。実は、この問題を解決する方法はたくさんあります。水にスプーン一杯の塩を加えて洗うのが一番簡単な方法です。新しい服を塩水で洗うと、何度着ても、何度洗っても、服は色落ちしにくくなります。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "This is the first time I’ve heard that salt can help protect the color of clothes. There really is a lot of knowledge in life that you cannot learn from textbooks.",
+              "ko": "소금이 옷 색을 보호하는 작용을 한다는 건 처음 들었어요. 생활 속에는 정말 교과서에서 배울 수 없는 지식이 적지 않네요.",
+              "ja": "塩に服の色を保護する作用があるとは初めて聞きました。生活の中には、教科書では学べない知識が本当に少なくありませんね。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "In fact, the answers to many questions can be found in life. But this requires you to discover them with your eyes and summarize them with care.",
+              "ko": "사실 많은 문제의 답은 생활 속에서 찾을 수 있어. 하지만 그러려면 눈으로 발견하고 마음을 써서 정리해야 해.",
+              "ja": "実際、多くの問題の答えは生活の中から見つけられます。ただし、それには目で発見し、心を込めてまとめる必要があります。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Professor Wang, after listening to your class today, I finally understand why your classes are so popular with students.",
+              "ko": "왕 교수님, 오늘 교수님의 이 수업을 듣고 나서야 왜 교수님의 수업이 학생들에게 그렇게 인기가 있는지 알게 됐습니다.",
+              "ja": "王教授、今日先生のこの授業を聞き終えて、なぜ先生の授業が学生にあれほど人気があるのか、ようやく分かりました。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Thank you! Could you talk in detail about your thoughts on my class?",
+              "ko": "고맙습니다! 제 수업에 대한 의견을 자세히 말씀해 주실 수 있나요?",
+              "ja": "ありがとうございます！私の授業についてのご意見を詳しく話していただけますか。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "I found that you understand your students especially well, and you can always use the simplest methods to explain complex problems clearly so every student can understand. This is truly worth learning from.",
+              "ko": "저는 교수님께서 학생들을 특히 잘 이해하시고, 항상 가장 간단한 방법으로 복잡한 문제를 분명하게 설명해서 모든 학생이 알아들을 수 있게 하신다는 것을 알게 됐습니다. 이 점은 정말 우리가 잘 배울 만합니다.",
+              "ja": "先生は学生を特によく理解していて、いつも最も簡単な方法で複雑な問題をはっきり説明し、どの学生にも理解できるようにしていることに気づきました。この点は本当に私たちがしっかり学ぶ価値があります。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Not at all. It is only because I have a fairly good understanding of each student’s ability level.",
+              "ko": "아닙니다. 그저 제가 각 학생의 능력 수준을 비교적 잘 알고 있기 때문입니다.",
+              "ja": "いえいえ、それはただ私が一人ひとりの学生の能力レベルを比較的よく理解しているからです。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Then, in your opinion, what is the hardest thing for teachers to achieve?",
+              "ko": "그럼 선생님께서는 교사에게 가장 하기 어려운 일이 무엇이라고 생각하시나요?",
+              "ja": "では、先生にとって最も実現しにくいことは何だと思われますか。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "There are no two completely identical leaves in the world; similarly, there are no two completely identical people. So when educating students, one should choose different methods according to each student’s characteristics. I think this is probably the hardest thing to do.",
+              "ko": "세상에는 완전히 같은 잎이 없고, 마찬가지로 세상에는 완전히 똑같은 사람도 없습니다. 그래서 학생을 교육할 때는 학생의 특징에 따라 다른 방법을 선택해야 합니다. 저는 이것이 아마 가장 하기 어려운 일이라고 생각합니다.",
+              "ja": "世界には完全に同じ葉はなく、同じように、世界には完全に同じ人もいません。ですから、学生を教育するときは、学生の特徴に基づいて異なる方法を選ぶ必要があります。私はこれが最も実現しにくいことだと思います。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Everyone can use language, but using language to express oneself well is an art. By seeing how a person speaks, one can often judge fairly accurately what kind of person they are. Some people say exactly what they think, and even if it is someone else’s shortcomings, they will say it directly. Such people may be very honest, but they may cause misunderstandings. Some people also notice others’ shortcomings, but they do not point them out directly; instead, they use other methods to remind them and help them recognize their own shortcomings. People like this make others feel they are friendlier.",
+              "ko": "사람은 누구나 언어를 사용할 줄 알지만, 어떻게 언어로 말을 잘하느냐는 하나의 예술입니다. 한 사람이 어떻게 말하는지를 보면, 종종 그가 어떤 사람인지 비교적 정확하게 판단할 수 있습니다. 어떤 사람은 마음속으로 생각한 것을 입으로 그대로 말하고, 다른 사람의 단점이라도 직접 말합니다. 이런 사람은 비록 매우 솔직하지만 다른 사람의 오해를 불러일으킬 수 있습니다. 또 어떤 사람은 다른 사람의 단점을 보았어도 직접 지적하지 않고, 다른 방법으로 일깨워 주어 그 사람이 자신의 단점을 알게 합니다. 이런 사람은 더 친절하다고 느끼게 합니다.",
+              "ja": "誰でも言語を使うことはできますが、言語を使ってうまく話すことは一つの芸術です。ある人がどのように話すかを見ると、その人がどんな人なのかを比較的正確に判断できることがよくあります。ある人は心の中で思ったことをそのまま口にし、他人の欠点であっても直接言います。このような人はとても誠実ではありますが、他人の誤解を招く可能性があります。また、他人の欠点に気づいても直接指摘せず、別の方法で注意を促し、その人に自分の欠点を認識させる人もいます。このような人は、より友好的だと感じさせます。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "No matter what you do, you should pay attention to methods, and this is especially true for studying. By using the correct method, we can achieve twice the result with half the effort; that is, we can save time, use less effort, and achieve better results. On the contrary, if the method is wrong, you may spend five times or even ten times as much time and still fail to complete the task, resulting in twice the effort for half the result. One thing needs to be pointed out to everyone: other people’s methods may be effective, but they are not necessarily suitable for you. Therefore, while listening to other people’s suggestions, we should also think carefully and then choose different methods according to different situations. Only in this way can we achieve the best results.",
+              "ko": "무슨 일을 하든 방법에 주의해야 하며, 공부는 특히 그렇습니다. 올바른 방법을 사용하면 우리는 일을 할 때 “적은 노력으로 큰 성과를 거둘” 수 있습니다. 다시 말해 시간을 절약하고 더 적은 힘으로 더 좋은 효과를 얻을 수 있습니다. 반대로 방법이 맞지 않으면 다섯 배, 심지어 열 배의 시간을 들여도 임무를 완성하지 못할 수 있고, 결과적으로 “많은 노력을 들이고도 성과는 적은” 상황이 됩니다. 한 가지 여러분께 일깨워 드릴 점은, 다른 사람의 방법이 매우 효과적일 수는 있지만 반드시 자신에게 맞는 것은 아니라는 점입니다. 따라서 우리는 다른 사람의 의견을 듣는 동시에 자세히 생각해 보고, 다시 서로 다른 상황에 따라 다른 방법을 선택해야 합니다. 그래야 최고의 효과에 도달할 수 있습니다.",
+              "ja": "何をするにしても方法に注意しなければならず、学習は特にそうです。正しい方法を使えば、私たちは物事を行うときに「半分の努力で倍の成果を得る」ことができます。つまり、時間を節約し、少ない労力でよりよい効果を得ることができます。反対に、方法が正しくなければ、五倍、さらには十倍の時間をかけても任務を完成できず、結果として「倍の努力で半分の成果」になってしまうかもしれません。一つ皆さんに注意しておきたいのは、他人の方法はとても効果的かもしれませんが、必ずしも自分に合うとは限らないということです。したがって、私たちは他人の意見を聞くと同時に、よく考え、それから状況に応じて異なる方法を選ぶべきです。そうしてこそ最良の効果に達することができます。"
+            }
+          }
+        }
+      }
+    }
+  },
+  "proper_nouns": [
+    {
+      "word": "高老师",
+      "pinyin": "Gāo lǎoshī",
+      "meaning": "Teacher Gao, name/title of a person"
+    },
+    {
+      "word": "王教授",
+      "pinyin": "Wáng jiàoshòu",
+      "meaning": "Professor Wang, name/title of a person"
+    }
+  ]
+}

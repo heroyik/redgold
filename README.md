@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.9.82-B8860B?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.9.84-B8860B?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
@@ -117,6 +117,7 @@ npm run build
 | **Auth** | Firebase Authentication Implementation | ✅ Done |
 | **Data** | Lesson 5 Textbook Data Build-Out | ✅ Done |
 | **Data** | Lesson 11 Textbook Data Build-Out | ✅ Done |
+| **Data** | Lesson 12 Textbook Data Build-Out | ✅ Done |
 | **Data** | Mastery Quiz System & Progress Tracking | ⏳ Next |
 
 ---
@@ -124,6 +125,17 @@ npm run build
 ## 📋 Changelog
 
 Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
+
+---
+
+### v0.9.84 — 2026-06-03
+> *Lesson 12 Complete.* The textbook data pipeline now covers the careful-observation and methods chapter.
+
+- 📚 **Lesson 12 Textbook Data Complete** — Added `data/lesson12.json` for `用心发现世界`, covering Text 1-5, 33 vocabulary items, 6 grammar/notes entries, 5 mastery sentences, and 3 same-character word examples.
+- 🧩 **Grammar Notes Preserved** — Added `并且`, `再……也……`, `对于`, `对于 vs 关于`, `名量词重叠`, and `相反` with full formal examples.
+- 🏆 **Mastery Expansion** — Added 5 Golden Sentences with Living Language equivalents for problem solving, praise, education methods, giving advice, and choosing methods.
+- 🌐 **Locale Sync** — Filled KO/JA/EN translations for vocabulary, proper nouns, text titles, text lines, grammar explanations/examples, same-character examples, and mastery sentences.
+- ✅ **Validation** — Confirmed Lesson 12 JSON parses successfully, locale mapping reports zero missing fields, and text line indexes are 0-based.
 
 ---
 
