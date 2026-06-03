@@ -1,0 +1,1702 @@
+{
+  "lessonId": 11,
+  "title": "Lesson 11: 马克介绍自己学习汉语的方法 (mǎkè jièshào zìjǐ xuéxí hànyǔ de fāngfǎ) (Mark introduces his methods for learning Chinese)",
+  "vocabulary": [
+    {
+      "word": "流利",
+      "pinyin": "liúlì",
+      "meaning": "adj. fluent"
+    },
+    {
+      "word": "厉害",
+      "pinyin": "lìhai",
+      "meaning": "adj. awesome, serious"
+    },
+    {
+      "word": "语法",
+      "pinyin": "yǔfǎ",
+      "meaning": "n. grammar"
+    },
+    {
+      "word": "准确",
+      "pinyin": "zhǔnquè",
+      "meaning": "adj. accurate, precise"
+    },
+    {
+      "word": "词语",
+      "pinyin": "cíyǔ",
+      "meaning": "n. word, expression"
+    },
+    {
+      "word": "连",
+      "pinyin": "lián",
+      "meaning": "prep. even"
+    },
+    {
+      "word": "阅读",
+      "pinyin": "yuèdú",
+      "meaning": "v. to read"
+    },
+    {
+      "word": "来得及",
+      "pinyin": "láidejí",
+      "meaning": "v. there is still time (to do sth.)"
+    },
+    {
+      "word": "复杂",
+      "pinyin": "fùzá",
+      "meaning": "adj. complicated"
+    },
+    {
+      "word": "只好",
+      "pinyin": "zhǐhǎo",
+      "meaning": "adv. cannot but, to be forced to"
+    },
+    {
+      "word": "填空",
+      "pinyin": "tián kòng",
+      "meaning": "v. to fill in a blank"
+    },
+    {
+      "word": "猜",
+      "pinyin": "cāi",
+      "meaning": "v. to guess"
+    },
+    {
+      "word": "否则",
+      "pinyin": "fǒuzé",
+      "meaning": "conj. or, otherwise"
+    },
+    {
+      "word": "客厅",
+      "pinyin": "kètīng",
+      "meaning": "n. living room"
+    },
+    {
+      "word": "无论",
+      "pinyin": "wúlùn",
+      "meaning": "conj. regardless of, no matter"
+    },
+    {
+      "word": "杂志",
+      "pinyin": "zázhì",
+      "meaning": "n. magazine"
+    },
+    {
+      "word": "著名",
+      "pinyin": "zhùmíng",
+      "meaning": "adj. famous, well-known"
+    },
+    {
+      "word": "页",
+      "pinyin": "yè",
+      "meaning": "m. page"
+    },
+    {
+      "word": "增加",
+      "pinyin": "zēngjiā",
+      "meaning": "v. to increase, to add"
+    },
+    {
+      "word": "文章",
+      "pinyin": "wénzhāng",
+      "meaning": "n. essay, article"
+    },
+    {
+      "word": "之",
+      "pinyin": "zhī",
+      "meaning": "part. connecting the modifier and the word modified"
+    },
+    {
+      "word": "内容",
+      "pinyin": "nèiróng",
+      "meaning": "n. content"
+    },
+    {
+      "word": "然而",
+      "pinyin": "rán’ér",
+      "meaning": "conj. but, however"
+    },
+    {
+      "word": "看法",
+      "pinyin": "kànfǎ",
+      "meaning": "n. viewpoint, opinion"
+    },
+    {
+      "word": "相同",
+      "pinyin": "xiāngtóng",
+      "meaning": "adj. same"
+    },
+    {
+      "word": "顺序",
+      "pinyin": "shùnxù",
+      "meaning": "n. order, sequence"
+    },
+    {
+      "word": "表示",
+      "pinyin": "biǎoshì",
+      "meaning": "v. to express, to indicate"
+    },
+    {
+      "word": "养成",
+      "pinyin": "yǎngchéng",
+      "meaning": "v. to develop, to form"
+    },
+    {
+      "word": "同时",
+      "pinyin": "tóngshí",
+      "meaning": "conj. at the same time, meanwhile"
+    },
+    {
+      "word": "精彩",
+      "pinyin": "jīngcǎi",
+      "meaning": "adj. wonderful, splendid"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "连……也/都……",
+      "explanation": "The preposition “连” is used for emphasis, often in the structure “连……也/都……”. The speaker highlights an extreme case to make another situation clear. The noun or phrase after “连” can be the subject, or it can be a preposed object.",
+      "formal_examples": [
+        {
+          "chinese": "如果<b>连</b>你自己<b>都</b>不喜欢自己，又怎么能让别人喜欢你呢？",
+          "pinyin": "Rúguǒ lián nǐ zìjǐ dōu bù xǐhuan zìjǐ, yòu zěnme néng ràng biérén xǐhuan nǐ ne?",
+          "translation": "If even you yourself do not like yourself, how can you make others like you?"
+        },
+        {
+          "chinese": "广告越来越多，几乎无处不在。不只是电视上有广告，公共汽车、地铁上也有很多广告，<b>连</b>我住的楼的电梯里<b>都</b>有三个广告。",
+          "pinyin": "Guǎnggào yuè lái yuè duō, jīhū wú chù bú zài. Bù zhǐ shì diànshì shang yǒu guǎnggào, gōnggòng qìchē, dìtiě shang yě yǒu hěn duō guǎnggào, lián wǒ zhù de lóu de diàntī li dōu yǒu sān ge guǎnggào.",
+          "translation": "Advertisements are becoming more and more numerous, almost everywhere. Not only are there ads on TV, there are also many ads on buses and subways, and even the elevator in my building has three ads."
+        },
+        {
+          "chinese": "你太厉害了！<b>连</b>中文报纸<b>都</b>看得懂。",
+          "pinyin": "Nǐ tài lìhai le! Lián Zhōngwén bàozhǐ dōu kàn de dǒng.",
+          "translation": "You are amazing! You can even understand Chinese newspapers."
+        }
+      ],
+      "colloquial_pattern": "连……都…… / 连……也……",
+      "colloquial_examples": [
+        {
+          "chinese": "这道题太难了，<b>连</b>老师<b>都</b>得想半天。",
+          "pinyin": "Zhè dào tí tài nán le, lián lǎoshī dōu děi xiǎng bàn tiān.",
+          "translation": "This question is so hard that even the teacher has to think for a while."
+        },
+        {
+          "chinese": "他最近忙疯了，<b>连</b>吃饭的时间<b>都</b>没有。",
+          "pinyin": "Tā zuìjìn máng fēng le, lián chīfàn de shíjiān dōu méiyǒu.",
+          "translation": "He has been insanely busy lately; he does not even have time to eat."
+        },
+        {
+          "chinese": "这家店太火了，<b>连</b>平时不排队的人<b>也</b>愿意等。",
+          "pinyin": "Zhè jiā diàn tài huǒ le, lián píngshí bù páiduì de rén yě yuànyì děng.",
+          "translation": "This place is so popular that even people who normally do not line up are willing to wait."
+        }
+      ],
+      "nuance": "“连……都/也……” makes the sentence more emphatic by choosing an extreme or surprising example. In speech, “连……都……” is especially common when stressing that something is unexpected, impressive, difficult, or excessive."
+    },
+    {
+      "point": "否则",
+      "explanation": "The conjunction “否则” means “if not, then...” or “otherwise.” The sentence following it indicates the result inferred from the previous sentence or offers another choice.",
+      "formal_examples": [
+        {
+          "chinese": "他一定有重要的事找你，<b>否则</b>不会打这么多次电话来。",
+          "pinyin": "Tā yídìng yǒu zhòngyào de shì zhǎo nǐ, fǒuzé bú huì dǎ zhème duō cì diànhuà lái.",
+          "translation": "He must have something important to talk to you about; otherwise, he would not have called so many times."
+        },
+        {
+          "chinese": "你最好下午四点前去公司找她，<b>否则</b>就明天早上再去。",
+          "pinyin": "Nǐ zuì hǎo xiàwǔ sì diǎn qián qù gōngsī zhǎo tā, fǒuzé jiù míngtiān zǎoshang zài qù.",
+          "translation": "You had better go to the company to find her before four this afternoon; otherwise, go again tomorrow morning."
+        },
+        {
+          "chinese": "看来要想考好，不但要认真复习，还得注意考试的方法，<b>否则</b>会做的题也没时间做了。",
+          "pinyin": "Kànlai yào xiǎng kǎo hǎo, búdàn yào rènzhēn fùxí, hái děi zhùyì kǎoshì de fāngfǎ, fǒuzé huì zuò de tí yě méi shíjiān zuò le.",
+          "translation": "It looks like if you want to do well on an exam, you not only need to review carefully, but also need to pay attention to exam strategy. Otherwise, you will not even have time to do the questions you know how to answer."
+        }
+      ],
+      "colloquial_pattern": "否则 / 不然 / 要不然",
+      "colloquial_examples": [
+        {
+          "chinese": "你快点儿出门吧，<b>不然</b>又要迟到了。",
+          "pinyin": "Nǐ kuài diǎnr chūmén ba, bùrán yòu yào chídào le.",
+          "translation": "Hurry up and leave, or you will be late again."
+        },
+        {
+          "chinese": "今天先把重点复习完，<b>否则</b>明天肯定来不及。",
+          "pinyin": "Jīntiān xiān bǎ zhòngdiǎn fùxí wán, fǒuzé míngtiān kěndìng lái bu jí.",
+          "translation": "Review the key points today first; otherwise, there definitely will not be enough time tomorrow."
+        },
+        {
+          "chinese": "你最好提前订票，<b>要不然</b>周末可能买不到。",
+          "pinyin": "Nǐ zuì hǎo tíqián dìng piào, yàobùrán zhōumò kěnéng mǎi bu dào.",
+          "translation": "You had better book tickets in advance, or you might not be able to get any on the weekend."
+        }
+      ],
+      "nuance": "“否则” is clearer and more formal than “不然” or “要不然.” In everyday speech, “不然” and “要不然” are common for casual warnings or alternatives, while “否则” sounds more structured and is often used in explanations, advice, or written language."
+    },
+    {
+      "point": "无论……都/也……",
+      "explanation": "The conjunction “无论” means that the result or conclusion will not change under any circumstances. It is usually used in the structure “无论……都/也……”. It can be followed by coordinate alternatives, or by an interrogative pronoun referring to anybody or anything.",
+      "formal_examples": [
+        {
+          "chinese": "<b>无论</b>是普通杂志，还是著名小说，只要打开它们，就会发现，世界上有那么多有意思的事情，有那么多不一样的生活。",
+          "pinyin": "Wúlùn shì pǔtōng zázhì, háishi zhùmíng xiǎoshuō, zhǐyào dǎkāi tāmen, jiù huì fāxiàn, shìjiè shang yǒu nàme duō yǒu yìsi de shìqing, yǒu nàme duō bù yíyàng de shēnghuó.",
+          "translation": "Whether it is an ordinary magazine or a famous novel, as long as you open it, you will discover that there are so many interesting things in the world and so many different ways of life."
+        },
+        {
+          "chinese": "<b>无论</b>做什么事<b>都</b>要注意方法，正确的方法可以让我们做得更好。",
+          "pinyin": "Wúlùn zuò shénme shì dōu yào zhùyì fāngfǎ, zhèngquè de fāngfǎ kěyǐ ràng wǒmen zuò de gèng hǎo.",
+          "translation": "No matter what we do, we should pay attention to the method; the right method can help us do it better."
+        },
+        {
+          "chinese": "这次比赛他已经打出了自己最好的水平，<b>无论</b>结果怎么样，我们<b>都</b>应该为他高兴。",
+          "pinyin": "Zhè cì bǐsài tā yǐjīng dǎ chū le zìjǐ zuì hǎo de shuǐpíng, wúlùn jiéguǒ zěnmeyàng, wǒmen dōu yīnggāi wèi tā gāoxìng.",
+          "translation": "In this competition, he has already performed at his best. No matter what the result is, we should be happy for him."
+        }
+      ],
+      "colloquial_pattern": "无论……都/也…… / 不管……都/也……",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>不管</b>你选哪本书，<b>都</b>先坚持读完。",
+          "pinyin": "Bùguǎn nǐ xuǎn nǎ běn shū, dōu xiān jiānchí dú wán.",
+          "translation": "No matter which book you choose, first stick with it and finish reading it."
+        },
+        {
+          "chinese": "<b>无论</b>工作多忙，我<b>也</b>会抽时间看几页书。",
+          "pinyin": "Wúlùn gōngzuò duō máng, wǒ yě huì chōu shíjiān kàn jǐ yè shū.",
+          "translation": "No matter how busy work gets, I will still make time to read a few pages."
+        },
+        {
+          "chinese": "<b>不管</b>考试结果怎么样，咱们<b>都</b>先把问题总结一下。",
+          "pinyin": "Bùguǎn kǎoshì jiéguǒ zěnmeyàng, zánmen dōu xiān bǎ wèntí zǒngjié yíxià.",
+          "translation": "No matter how the exam result turns out, let’s first summarize the problems."
+        }
+      ],
+      "nuance": "“无论” is more formal and written than “不管,” while “不管” is more common in everyday speech. Both show that the result remains the same despite different conditions, but “无论” sounds more polished in explanations or essays."
+    },
+    {
+      "point": "无论 vs 不管",
+      "explanation": "Compare “无论” and “不管”. Similarity: Both can be used as conjunctions, usually with “都/也”, to indicate that the result or conclusion will not change under any circumstances. Both can be followed by an interrogative pronoun referring to anybody or anything, or by coordinate alternatives. Differences: 1) “不管” is often used in spoken Chinese and cannot take formal or classical words such as “如何” and “是否”, while “无论” is often used in written Chinese and has no such restriction. 2) “不管” can be followed directly by an affirmative-negative form; when “无论” is followed by an affirmative-negative form, “还是/跟/与” is usually used between the affirmative and negative constituents.",
+      "formal_examples": [
+        {
+          "chinese": "<b>无论/不管</b>干什么事情，最好都能提前做好计划。",
+          "pinyin": "Wúlùn/bùguǎn gàn shénme shìqing, zuì hǎo dōu néng tíqián zuò hǎo jìhuà.",
+          "translation": "No matter what you do, it is best to make a plan in advance."
+        },
+        {
+          "chinese": "<b>无论/不管</b>是烦恼的事，还是愉快的事，我每天都会在日记里记下来。",
+          "pinyin": "Wúlùn/bùguǎn shì fánnǎo de shì, háishi yúkuài de shì, wǒ měi tiān dōu huì zài rìjì li jì xiàlai.",
+          "translation": "Whether it is something troubling or something pleasant, I write it down in my diary every day."
+        },
+        {
+          "chinese": "<b>无论</b>如何，我都不会离开你。",
+          "pinyin": "Wúlùn rúhé, wǒ dōu bú huì líkāi nǐ.",
+          "translation": "No matter what, I will not leave you."
+        },
+        {
+          "chinese": "<b>不管</b>热不热，他总是穿这么多。",
+          "pinyin": "Bùguǎn rè bu rè, tā zǒng shì chuān zhème duō.",
+          "translation": "Whether it is hot or not, he always wears this much."
+        },
+        {
+          "chinese": "<b>无论/不管</b>热还是不热，他总是穿这么多。",
+          "pinyin": "Wúlùn/bùguǎn rè háishi bú rè, tā zǒng shì chuān zhème duō.",
+          "translation": "Whether it is hot or not, he always wears this much."
+        }
+      ],
+      "colloquial_pattern": "不管……都/也……；formal/written: 无论……都/也……",
+      "colloquial_examples": [
+        {
+          "chinese": "平时聊天更常说<b>不管</b>：<b>不管</b>多忙，我<b>都</b>会回你消息。",
+          "pinyin": "Píngshí liáotiān gèng cháng shuō bùguǎn: bùguǎn duō máng, wǒ dōu huì huí nǐ xiāoxi.",
+          "translation": "In everyday conversation, “不管” is more common: No matter how busy I am, I will reply to your message."
+        },
+        {
+          "chinese": "写文章时更适合用<b>无论</b>：<b>无论</b>结果如何，我们<b>都</b>要尊重他的选择。",
+          "pinyin": "Xiě wénzhāng shí gèng shìhé yòng wúlùn: wúlùn jiéguǒ rúhé, wǒmen dōu yào zūnzhòng tā de xuǎnzé.",
+          "translation": "In writing, “无论” is more suitable: No matter what the result is, we should respect his choice."
+        },
+        {
+          "chinese": "正反形式口语里直接说：<b>不管</b>去不去，你先告诉我一声。",
+          "pinyin": "Zhèngfǎn xíngshì kǒuyǔ li zhíjiē shuō: bùguǎn qù bu qù, nǐ xiān gàosu wǒ yì shēng.",
+          "translation": "With an affirmative-negative form, everyday speech says it directly: Whether you go or not, tell me first."
+        }
+      ],
+      "nuance": "This is a comparison note, not a new standalone pattern. “不管” is the more natural spoken choice, while “无论” is more formal and written. When the following phrase is formal, such as “如何” or “是否”, choose “无论”. With a simple affirmative-negative form like “热不热”, “不管” is natural; “无论” usually needs “还是/跟/与” between the alternatives."
+    },
+    {
+      "point": "然而",
+      "explanation": "The conjunction “然而” is used at the beginning of the second half of a sentence to indicate a turn in meaning. It is usually used in written Chinese and can be followed by a comma to mark a pause.",
+      "formal_examples": [
+        {
+          "chinese": "他虽然失败了很多次，<b>然而</b>一直没有放弃。",
+          "pinyin": "Tā suīrán shībài le hěn duō cì, rán’ér yìzhí méiyǒu fàngqì.",
+          "translation": "Although he failed many times, he never gave up."
+        },
+        {
+          "chinese": "很多人觉得自己的生活是幸福的，<b>然而</b>每个人对幸福的看法却不完全相同。",
+          "pinyin": "Hěn duō rén juéde zìjǐ de shēnghuó shì xìngfú de, rán’ér měi ge rén duì xìngfú de kànfǎ què bù wánquán xiāngtóng.",
+          "translation": "Many people feel that their own lives are happy; however, each person’s view of happiness is not exactly the same."
+        },
+        {
+          "chinese": "另外，在看完一篇文章或一本书之后，还可以把它的主要内容和自己的想法写下来。<b>然而</b>，你不能完全相信书本上的内容，要有自己的看法和判断。",
+          "pinyin": "Lìngwài, zài kàn wán yì piān wénzhāng huò yì běn shū zhī hòu, hái kěyǐ bǎ tā de zhǔyào nèiróng hé zìjǐ de xiǎngfǎ xiě xiàlai. Rán’ér, nǐ bù néng wánquán xiāngxìn shūběn shang de nèiróng, yào yǒu zìjǐ de kànfǎ hé pànduàn.",
+          "translation": "In addition, after reading an article or a book, you can write down its main content and your own thoughts. However, you cannot completely believe everything in books; you need to have your own views and judgment."
+        }
+      ],
+      "colloquial_pattern": "然而 / 但是 / 可是 / 不过",
+      "colloquial_examples": [
+        {
+          "chinese": "他失败了很多次，<b>但是</b>一直没放弃。",
+          "pinyin": "Tā shībài le hěn duō cì, dànshì yìzhí méi fàngqì.",
+          "translation": "He failed many times, but he never gave up."
+        },
+        {
+          "chinese": "大家都觉得自己挺幸福，<b>不过</b>每个人想法不太一样。",
+          "pinyin": "Dàjiā dōu juéde zìjǐ tǐng xìngfú, búguò měi ge rén xiǎngfǎ bú tài yíyàng.",
+          "translation": "Everyone feels they are pretty happy, but everyone thinks about it a bit differently."
+        },
+        {
+          "chinese": "书里说得有道理，<b>可是</b>你也得有自己的判断。",
+          "pinyin": "Shū li shuō de yǒu dàolǐ, kěshì nǐ yě děi yǒu zìjǐ de pànduàn.",
+          "translation": "What the book says makes sense, but you still need your own judgment."
+        }
+      ],
+      "nuance": "“然而” is a written and polished transition, similar to “however.” In everyday conversation, “但是,” “可是,” and “不过” sound more natural. Use “然而” when writing essays, explanations, or formal passages where the contrast should feel clear and organized."
+    },
+    {
+      "point": "同时",
+      "explanation": "“同时” can be used as a conjunction to introduce a further remark, often with “又/也/还”. It can also be used as a noun meaning that two actions take place at the same time, often in the structure “在……（的）同时”.",
+      "formal_examples": [
+        {
+          "chinese": "因为小孩子的想法没有那么复杂，所以他们总是很快乐。<b>同时</b>，小孩子也是最诚实的。",
+          "pinyin": "Yīnwèi xiǎo háizi de xiǎngfǎ méiyǒu nàme fùzá, suǒyǐ tāmen zǒng shì hěn kuàilè. Tóngshí, xiǎo háizi yě shì zuì chéngshí de.",
+          "translation": "Because children’s thoughts are not that complicated, they are always very happy. At the same time, children are also the most honest."
+        },
+        {
+          "chinese": "阅读有许多好处，它能丰富你的知识，让你找到解决问题的办法；<b>同时</b>，它还会丰富你的情感，使你的生活更精彩。",
+          "pinyin": "Yuèdú yǒu xǔduō hǎochù, tā néng fēngfù nǐ de zhīshi, ràng nǐ zhǎodào jiějué wèntí de bànfǎ; tóngshí, tā hái huì fēngfù nǐ de qínggǎn, shǐ nǐ de shēnghuó gèng jīngcǎi.",
+          "translation": "Reading has many benefits: it can enrich your knowledge and help you find ways to solve problems; at the same time, it can also enrich your emotions and make your life more wonderful."
+        },
+        {
+          "chinese": "李教授讲的这个故事让人觉得好笑的<b>同时</b>，又让人觉得有些难过。",
+          "pinyin": "Lǐ jiàoshòu jiǎng de zhège gùshi ràng rén juéde hǎoxiào de tóngshí, yòu ràng rén juéde yǒuxiē nánguò.",
+          "translation": "While Professor Li’s story makes people laugh, it also makes them feel a little sad."
+        },
+        {
+          "chinese": "在学习汉语的<b>同时</b>，我还了解了中国文化，认识了很多中国朋友。",
+          "pinyin": "Zài xuéxí Hànyǔ de tóngshí, wǒ hái liǎojiě le Zhōngguó wénhuà, rènshi le hěn duō Zhōngguó péngyou.",
+          "translation": "While studying Chinese, I also learned about Chinese culture and met many Chinese friends."
+        }
+      ],
+      "colloquial_pattern": "同时 / 也 / 还；在……的同时",
+      "colloquial_examples": [
+        {
+          "chinese": "看书能学知识，<b>同时</b>也能让人放松。",
+          "pinyin": "Kàn shū néng xué zhīshi, tóngshí yě néng ràng rén fàngsōng.",
+          "translation": "Reading can help you learn knowledge and, at the same time, help you relax."
+        },
+        {
+          "chinese": "工作忙的<b>同时</b>，也要照顾好自己的身体。",
+          "pinyin": "Gōngzuò máng de tóngshí, yě yào zhàogù hǎo zìjǐ de shēntǐ.",
+          "translation": "While being busy with work, you also need to take good care of your health."
+        },
+        {
+          "chinese": "学汉语的<b>同时</b>，我还交了不少朋友。",
+          "pinyin": "Xué Hànyǔ de tóngshí, wǒ hái jiāo le bù shǎo péngyou.",
+          "translation": "While learning Chinese, I also made quite a few friends."
+        }
+      ],
+      "nuance": "As a conjunction, “同时” adds another point and is often close to “also/meanwhile.” As a noun in “在……的同时,” it emphasizes two actions happening together. It is natural in both speech and writing, but in casual speech simple “也/还” can often replace the conjunction use."
+    },
+    {
+      "point": "同字词：同",
+      "explanation": "Words with the same character “同” include “同意” (to agree), “共同” (common, shared; together), “相同” (same), and “同时” (at the same time; meanwhile). This expansion note groups words that share the character “同” and shows how each word is used in context.",
+      "formal_examples": [
+        {
+          "chinese": "如果她再坚持一次请我帮忙，我就<b>同意</b>了，可是她没有。",
+          "pinyin": "Rúguǒ tā zài jiānchí yí cì qǐng wǒ bāngmáng, wǒ jiù tóngyì le, kěshì tā méiyǒu.",
+          "translation": "If she had insisted one more time and asked me to help, I would have agreed, but she did not."
+        },
+        {
+          "chinese": "夫妻之间只有浪漫的爱情是不够的，<b>共同</b>的理想和爱好也很重要。",
+          "pinyin": "Fūqī zhī jiān zhǐ yǒu làngmàn de àiqíng shì bù gòu de, gòngtóng de lǐxiǎng hé àihào yě hěn zhòngyào.",
+          "translation": "Between husband and wife, romantic love alone is not enough; shared ideals and hobbies are also very important."
+        },
+        {
+          "chinese": "他很年轻，可是遇到问题时，却比<b>相同</b>年龄的人更冷静。",
+          "pinyin": "Tā hěn niánqīng, kěshì yù dào wèntí shí, què bǐ xiāngtóng niánlíng de rén gèng lěngjìng.",
+          "translation": "He is very young, but when he encounters problems, he is calmer than people of the same age."
+        },
+        {
+          "chinese": "我哥哥今年26岁，在读硕士研究生的<b>同时</b>，还在一家公司工作。",
+          "pinyin": "Wǒ gēge jīnnián èrshíliù suì, zài dú shuòshì yánjiūshēng de tóngshí, hái zài yì jiā gōngsī gōngzuò.",
+          "translation": "My older brother is 26 this year. While studying for a master’s degree, he is also working at a company."
+        }
+      ],
+      "colloquial_pattern": "同意 / 共同 / 相同 / 同时",
+      "colloquial_examples": [
+        {
+          "chinese": "这个办法我<b>同意</b>，咱们就这么做吧。",
+          "pinyin": "Zhège bànfǎ wǒ tóngyì, zánmen jiù zhème zuò ba.",
+          "translation": "I agree with this method. Let’s do it this way."
+        },
+        {
+          "chinese": "我们有<b>共同</b>的目标，所以合作起来很顺。",
+          "pinyin": "Wǒmen yǒu gòngtóng de mùbiāo, suǒyǐ hézuò qǐlai hěn shùn.",
+          "translation": "We have a common goal, so working together goes smoothly."
+        },
+        {
+          "chinese": "这两道题看起来不一样，其实方法<b>相同</b>。",
+          "pinyin": "Zhè liǎng dào tí kàn qǐlai bù yíyàng, qíshí fāngfǎ xiāngtóng.",
+          "translation": "These two questions look different, but the method is actually the same."
+        }
+      ],
+      "nuance": "This is a same-character expansion note. “同” carries the idea of sameness, togetherness, or agreement, but each compound has its own usage: “同意” is agreeing, “共同” is shared or together, “相同” is identical or the same, and “同时” is at the same time or meanwhile."
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "你来中国<b>才</b>一年，汉语就说得这么流利，真厉害！",
+      "pinyin": "Nǐ lái Zhōngguó cái yì nián, Hànyǔ jiù shuō de zhème liúlì, zhēn lìhai!",
+      "translation": "You’ve only been in China for one year, but you already speak Chinese so fluently. That’s amazing!",
+      "colloquial_equivalent": "你才来中国一年，中文就说得这么溜，<b>太牛了</b>！",
+      "colloquial_pinyin": "Nǐ cái lái Zhōngguó yì nián, Zhōngwén jiù shuō de zhème liū, tài niú le!",
+      "context": "Praising someone’s fast progress."
+    },
+    {
+      "sentence": "你太厉害了！<b>连</b>中文报纸<b>都</b>看得懂。",
+      "pinyin": "Nǐ tài lìhai le! Lián Zhōngwén bàozhǐ dōu kàn de dǒng.",
+      "translation": "You’re amazing! You can even understand Chinese newspapers.",
+      "colloquial_equivalent": "你也太强了吧，<b>连</b>中文报纸<b>都</b>能看懂！",
+      "colloquial_pinyin": "Nǐ yě tài qiáng le ba, lián Zhōngwén bàozhǐ dōu néng kàn dǒng!",
+      "context": "Emphasizing an impressive extreme case."
+    },
+    {
+      "sentence": "看来要想考好，不但要认真复习，还得注意考试的方法，<b>否则</b>，会做的题也没时间做了。",
+      "pinyin": "Kànlai yào xiǎng kǎo hǎo, búdàn yào rènzhēn fùxí, hái děi zhùyì kǎoshì de fāngfǎ, fǒuzé, huì zuò de tí yě méi shíjiān zuò le.",
+      "translation": "It looks like if you want to do well on an exam, you not only need to review carefully, but also need to pay attention to exam strategy. Otherwise, you won’t even have time to do the questions you know how to answer.",
+      "colloquial_equivalent": "想考好，复习要认真，方法也要对，<b>不然</b>会的题都来不及做。",
+      "colloquial_pinyin": "Xiǎng kǎo hǎo, fùxí yào rènzhēn, fāngfǎ yě yào duì, bùrán huì de tí dōu lái bu jí zuò.",
+      "context": "Giving exam strategy advice with a warning."
+    },
+    {
+      "sentence": "<b>无论</b>是普通杂志，还是著名小说，只要打开它们，就会发现，世界上有那么多有意思的事情，有那么多不一样的生活。",
+      "pinyin": "Wúlùn shì pǔtōng zázhì, háishi zhùmíng xiǎoshuō, zhǐyào dǎkāi tāmen, jiù huì fāxiàn, shìjiè shang yǒu nàme duō yǒu yìsi de shìqing, yǒu nàme duō bù yíyàng de shēnghuó.",
+      "translation": "Whether it is an ordinary magazine or a famous novel, as long as you open it, you will discover that there are so many interesting things in the world and so many different ways of life.",
+      "colloquial_equivalent": "<b>不管</b>是杂志还是小说，翻开看看，都会发现很多有意思的东西。",
+      "colloquial_pinyin": "Bùguǎn shì zázhì háishi xiǎoshuō, fān kāi kànkan, dōu huì fāxiàn hěn duō yǒu yìsi de dōngxi.",
+      "context": "Explaining that reading opens up different worlds."
+    },
+    {
+      "sentence": "阅读有许多好处，它能丰富你的知识，让你找到解决问题的办法；<b>同时</b>，它还会丰富你的情感，使你的生活更精彩。",
+      "pinyin": "Yuèdú yǒu xǔduō hǎochù, tā néng fēngfù nǐ de zhīshi, ràng nǐ zhǎodào jiějué wèntí de bànfǎ; tóngshí, tā hái huì fēngfù nǐ de qínggǎn, shǐ nǐ de shēnghuó gèng jīngcǎi.",
+      "translation": "Reading has many benefits: it can enrich your knowledge and help you find ways to solve problems; at the same time, it can also enrich your emotions and make your life more wonderful.",
+      "colloquial_equivalent": "读书不光能长知识，<b>同时</b>也能让生活更有意思。",
+      "colloquial_pinyin": "Dúshū bùguāng néng zhǎng zhīshi, tóngshí yě néng ràng shēnghuó gèng yǒu yìsi.",
+      "context": "Summarizing the practical and emotional benefits of reading."
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "马克介绍自己学习汉语的方法 (mǎkè jièshào zìjǐ xuéxí hànyǔ de fāngfǎ) (Mark introduces his methods for learning Chinese)",
+      "content": [
+        {
+          "speaker": "大卫",
+          "text": "你来中国<b>才</b>一年，汉语就说得这么<b>流利</b>，真<b>厉害</b>！",
+          "pinyin": "Nǐ lái Zhōngguó cái yì nián, Hànyǔ jiù shuō de zhème liúlì, zhēn lìhai!",
+          "translation": "You’ve only been in China for one year, but you already speak Chinese so fluently. That’s amazing!"
+        },
+        {
+          "speaker": "马克",
+          "text": "谢谢！其实我的<b>语法</b>不太好，很多句子说得都不太<b>准确</b>。",
+          "pinyin": "Xièxie! Qíshí wǒ de yǔfǎ bú tài hǎo, hěn duō jùzi shuō de dōu bú tài zhǔnquè.",
+          "translation": "Thanks! Actually, my grammar isn’t very good, and many of the sentences I say are not very accurate."
+        },
+        {
+          "speaker": "大卫",
+          "text": "但是我看你跟中国人交流没什么问题，你是怎么做到的？",
+          "pinyin": "Dànshì wǒ kàn nǐ gēn Zhōngguó rén jiāoliú méi shénme wèntí, nǐ shì zěnme zuò dào de?",
+          "translation": "But it looks to me like you have no problem communicating with Chinese people. How did you manage that?"
+        },
+        {
+          "speaker": "马克",
+          "text": "平时多交一些中国朋友，经常和他们聊天儿，听说能力自然就能得到很大的提高。另外，我建议你坚持看中文报纸，这样能学到很多新<b>词语</b>。",
+          "pinyin": "Píngshí duō jiāo yìxiē Zhōngguó péngyou, jīngcháng hé tāmen liáo tiānr, tīngshuō nénglì zìrán jiù néng dédào hěn dà de tígāo. Lìngwài, wǒ jiànyì nǐ jiānchí kàn Zhōngwén bàozhǐ, zhèyàng néng xué dào hěn duō xīn cíyǔ.",
+          "translation": "In daily life, make more Chinese friends and often chat with them; your listening and speaking ability will naturally improve a lot. Also, I suggest you keep reading Chinese newspapers. That way, you can learn many new words and expressions."
+        },
+        {
+          "speaker": "大卫",
+          "text": "你太厉害了！<b>连</b>中文报纸都看得懂。",
+          "pinyin": "Nǐ tài lìhai le! Lián Zhōngwén bàozhǐ dōu kàn de dǒng.",
+          "translation": "You’re amazing! You can even understand Chinese newspapers."
+        },
+        {
+          "speaker": "马克",
+          "text": "刚开始肯定有困难，不过遇到不认识的词语，你可以查词典，然后写在本子上，有空儿就拿出来复习一下，慢慢地就会发现中文报纸也没那么难了。",
+          "pinyin": "Gāng kāishǐ kěndìng yǒu kùnnan, búguò yù dào bù rènshi de cíyǔ, nǐ kěyǐ chá cídiǎn, ránhòu xiě zài běnzi shang, yǒu kòngr jiù ná chūlai fùxí yíxià, mànmàn de jiù huì fāxiàn Zhōngwén bàozhǐ yě méi nàme nán le.",
+          "translation": "At the beginning there will definitely be difficulties, but when you run into words you don’t know, you can look them up in a dictionary and write them in a notebook. Whenever you have time, take them out and review them. Slowly, you’ll find that Chinese newspapers are not that hard either."
+        }
+      ],
+      "audio": "audio/11-1.mp3",
+      "proper_nouns": [
+        {
+          "word": "大卫",
+          "pinyin": "Dàwèi",
+          "meaning": "Dawei, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "流利",
+          "pinyin": "liúlì",
+          "meaning": "adj. fluent"
+        },
+        {
+          "word": "厉害",
+          "pinyin": "lìhai",
+          "meaning": "adj. awesome, serious"
+        },
+        {
+          "word": "语法",
+          "pinyin": "yǔfǎ",
+          "meaning": "n. grammar"
+        },
+        {
+          "word": "准确",
+          "pinyin": "zhǔnquè",
+          "meaning": "adj. accurate, precise"
+        },
+        {
+          "word": "词语",
+          "pinyin": "cíyǔ",
+          "meaning": "n. word, expression"
+        },
+        {
+          "word": "连",
+          "pinyin": "lián",
+          "meaning": "prep. even"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "小夏和小雨聊考试的情况 (xiǎo xià hé xiǎo yǔ liáo kǎoshì de qíngkuàng) (Xiao Xia and Xiao Yu talk about the exam situation)",
+      "content": [
+        {
+          "speaker": "小夏",
+          "text": "考试结束了，你对自己的成绩满意吗？",
+          "pinyin": "Kǎoshì jiéshù le, nǐ duì zìjǐ de chéngjì mǎnyì ma?",
+          "translation": "The exam is over. Are you satisfied with your results?"
+        },
+        {
+          "speaker": "小雨",
+          "text": "说真的，我不太满意。这次<b>阅读</b>考试的题太多了，我没做完。",
+          "pinyin": "Shuō zhēn de, wǒ bú tài mǎnyì. Zhè cì yuèdú kǎoshì de tí tài duō le, wǒ méi zuò wán.",
+          "translation": "To be honest, I’m not very satisfied. There were too many questions on this reading exam, and I didn’t finish them."
+        },
+        {
+          "speaker": "小夏",
+          "text": "两个小时的时间应该<b>来得及</b>吧？",
+          "pinyin": "Liǎng ge xiǎoshí de shíjiān yīnggāi láidejí ba?",
+          "translation": "Two hours should have been enough time, right?"
+        },
+        {
+          "speaker": "小雨",
+          "text": "这次主要是因为我先做了比较难、比较<b>复杂</b>的题，结果花了太多时间，后面简单的题我虽然会，可是时间来不及，最后<b>只好</b>放弃了。",
+          "pinyin": "Zhè cì zhǔyào shì yīnwèi wǒ xiān zuò le bǐjiào nán, bǐjiào fùzá de tí, jiéguǒ huā le tài duō shíjiān, hòumian jiǎndān de tí wǒ suīrán huì, kěshì shíjiān lái bu jí, zuìhòu zhǐhǎo fàngqì le.",
+          "translation": "This time it was mainly because I did the harder, more complicated questions first. As a result, I spent too much time on them. I knew how to do the easier questions later, but there wasn’t enough time, so in the end I had no choice but to give them up."
+        },
+        {
+          "speaker": "小夏",
+          "text": "其实我考得也不怎么样。有几个<b>填空</b>题不会做，有几个选择题，实在想不出来该选哪个，就随便<b>猜</b>了一个答案，结果一个都没猜对。",
+          "pinyin": "Qíshí wǒ kǎo de yě bù zěnmeyàng. Yǒu jǐ ge tiánkòng tí bú huì zuò, yǒu jǐ ge xuǎnzé tí, shízài xiǎng bu chūlai gāi xuǎn nǎ ge, jiù suíbiàn cāi le yí ge dá’àn, jiéguǒ yí ge dōu méi cāi duì.",
+          "translation": "Actually, I didn’t do very well either. I couldn’t do several fill-in-the-blank questions, and for a few multiple-choice questions, I really couldn’t figure out which one to choose, so I randomly guessed an answer. In the end, I didn’t guess a single one correctly."
+        },
+        {
+          "speaker": "小雨",
+          "text": "看来要想考好，不但要认真复习，还得注意考试的方法，<b>否则</b>，会做的题也没时间做了。",
+          "pinyin": "Kànlai yào xiǎng kǎo hǎo, búdàn yào rènzhēn fùxí, hái děi zhùyì kǎoshì de fāngfǎ, fǒuzé, huì zuò de tí yě méi shíjiān zuò le.",
+          "translation": "It looks like if you want to do well on an exam, you not only need to review carefully, but also need to pay attention to exam strategy. Otherwise, you won’t even have time to do the questions you know how to answer."
+        }
+      ],
+      "audio": "audio/11-2.mp3",
+      "vocabulary": [
+        {
+          "word": "阅读",
+          "pinyin": "yuèdú",
+          "meaning": "v. to read"
+        },
+        {
+          "word": "来得及",
+          "pinyin": "láidejí",
+          "meaning": "v. there is still time (to do sth.)"
+        },
+        {
+          "word": "复杂",
+          "pinyin": "fùzá",
+          "meaning": "adj. complicated"
+        },
+        {
+          "word": "只好",
+          "pinyin": "zhǐhǎo",
+          "meaning": "adv. cannot but, to be forced to"
+        },
+        {
+          "word": "填空",
+          "pinyin": "tián kòng",
+          "meaning": "v. to fill in a blank"
+        },
+        {
+          "word": "猜",
+          "pinyin": "cāi",
+          "meaning": "v. to guess"
+        },
+        {
+          "word": "否则",
+          "pinyin": "fǒuzé",
+          "meaning": "conj. or, otherwise"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "小李告诉小林阅读的好处 (xiǎo lǐ gàosu xiǎo lín yuèdú de hǎochù) (Xiao Li tells Xiao Lin about the benefits of reading)",
+      "content": [
+        {
+          "speaker": "小林",
+          "text": "你的<b>客厅</b>里怎么到处是书啊？这些书你都喜欢看吗？",
+          "pinyin": "Nǐ de kètīng li zěnme dàochù shì shū a? Zhèxiē shū nǐ dōu xǐhuan kàn ma?",
+          "translation": "Why are there books everywhere in your living room? Do you like reading all these books?"
+        },
+        {
+          "speaker": "小李",
+          "text": "当然，我每天都要看书。<b>无论</b>是普通<b>杂志</b>，<b>还是</b><b>著名</b>小说，只要打开它们，就会发现，世界上有那么多有意思的事情，有那么多不一样的生活。",
+          "pinyin": "Dāngrán, wǒ měi tiān dōu yào kàn shū. Wúlùn shì pǔtōng zázhì, háishi zhùmíng xiǎoshuō, zhǐyào dǎkāi tāmen, jiù huì fāxiàn, shìjiè shang yǒu nàme duō yǒu yìsi de shìqing, yǒu nàme duō bù yíyàng de shēnghuó.",
+          "translation": "Of course. I read every day. Whether it is an ordinary magazine or a famous novel, as long as you open it, you will discover that there are so many interesting things in the world and so many different ways of life."
+        },
+        {
+          "speaker": "小林",
+          "text": "想不到你工作那么忙，还能每天坚持阅读。",
+          "pinyin": "Xiǎng bu dào nǐ gōngzuò nàme máng, hái néng měi tiān jiānchí yuèdú.",
+          "translation": "I didn’t expect that even though you are so busy with work, you can still keep reading every day."
+        },
+        {
+          "speaker": "小李",
+          "text": "<b>如果</b>3分钟读一<b>页</b>书，半个小时就可以读10页。每天花半个小时来读书，一个月就可以读300页，差不多就是一本书了。",
+          "pinyin": "Rúguǒ sān fēnzhōng dú yí yè shū, bàn ge xiǎoshí jiù kěyǐ dú shí yè. Měi tiān huā bàn ge xiǎoshí lái dú shū, yí ge yuè jiù kěyǐ dú sān bǎi yè, chàbuduō jiù shì yì běn shū le.",
+          "translation": "If you read one page in three minutes, you can read ten pages in half an hour. If you spend half an hour reading every day, you can read 300 pages in a month, which is almost a whole book."
+        },
+        {
+          "speaker": "小林",
+          "text": "是啊，一个真正爱看书的人总能找出时间来阅读。",
+          "pinyin": "Shì a, yí ge zhēnzhèng ài kàn shū de rén zǒng néng zhǎo chū shíjiān lái yuèdú.",
+          "translation": "That’s true. A person who truly loves reading can always find time to read."
+        },
+        {
+          "speaker": "小李",
+          "text": "坚持阅读，除了能<b>增加</b>知识外，还能帮助我减轻压力，人也会变得轻松起来。",
+          "pinyin": "Jiānchí yuèdú, chúle néng zēngjiā zhīshi wài, hái néng bāngzhù wǒ jiǎnqīng yālì, rén yě huì biàn de qīngsōng qǐlai.",
+          "translation": "Keeping up the habit of reading can not only increase my knowledge, but also help me reduce stress and make me feel more relaxed."
+        }
+      ],
+      "audio": "audio/11-3.mp3",
+      "vocabulary": [
+        {
+          "word": "客厅",
+          "pinyin": "kètīng",
+          "meaning": "n. living room"
+        },
+        {
+          "word": "无论",
+          "pinyin": "wúlùn",
+          "meaning": "conj. regardless of, no matter"
+        },
+        {
+          "word": "杂志",
+          "pinyin": "zázhì",
+          "meaning": "n. magazine"
+        },
+        {
+          "word": "著名",
+          "pinyin": "zhùmíng",
+          "meaning": "adj. famous, well-known"
+        },
+        {
+          "word": "页",
+          "pinyin": "yè",
+          "meaning": "m. page"
+        },
+        {
+          "word": "增加",
+          "pinyin": "zēngjiā",
+          "meaning": "v. to increase, to add"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "关于提高阅读能力的短文 (guānyú tígāo yuèdú nénglì de duǎnwén) (A short passage about improving reading ability)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "根据调查，阅读能力好的人，不但容易找到工作，而且工资也比较高。怎么才能有效提高自己的阅读能力呢？做读书笔记就是其中<b>之一</b>种好方法。读书笔记有很多种，最简单的就是把自己喜欢或者觉得有用的词语和句子记下来。另外，在看完一篇<b>文章</b>或一本书<b>之后</b>，还可以把它的主要<b>内容</b>和自己的想法写下来。<b>然而</b>，你不能完全相信书本上的内容，要有自己的<b>看法</b>和判断。坚持做读书笔记，对提高阅读能力有很大帮助。",
+          "pinyin": "Gēnjù diàochá, yuèdú nénglì hǎo de rén, búdàn róngyì zhǎodào gōngzuò, érqiě gōngzī yě bǐjiào gāo. Zěnme cái néng yǒuxiào tígāo zìjǐ de yuèdú nénglì ne? Zuò dúshū bǐjì jiù shì qízhōng zhī yì zhǒng hǎo fāngfǎ. Dúshū bǐjì yǒu hěn duō zhǒng, zuì jiǎndān de jiù shì bǎ zìjǐ xǐhuan huòzhě juéde yǒuyòng de cíyǔ hé jùzi jì xiàlai. Lìngwài, zài kàn wán yì piān wénzhāng huò yì běn shū zhī hòu, hái kěyǐ bǎ tā de zhǔyào nèiróng hé zìjǐ de xiǎngfǎ xiě xiàlai. Rán’ér, nǐ bù néng wánquán xiāngxìn shūběn shang de nèiróng, yào yǒu zìjǐ de kànfǎ hé pànduàn. Jiānchí zuò dúshū bǐjì, duì tígāo yuèdú nénglì yǒu hěn dà bāngzhù.",
+          "translation": "According to surveys, people with strong reading ability not only find jobs more easily, but also have relatively higher salaries. How can you effectively improve your reading ability? Taking reading notes is one good method. There are many kinds of reading notes; the simplest is to write down words and sentences you like or find useful. In addition, after reading an article or a book, you can also write down its main content and your own thoughts. However, you cannot completely believe everything in books; you need to have your own views and judgment. Persisting in taking reading notes is very helpful for improving reading ability."
+        }
+      ],
+      "audio": "audio/11-4.mp3",
+      "vocabulary": [
+        {
+          "word": "文章",
+          "pinyin": "wénzhāng",
+          "meaning": "n. essay, article"
+        },
+        {
+          "word": "之",
+          "pinyin": "zhī",
+          "meaning": "part. connecting the modifier and the word modified"
+        },
+        {
+          "word": "内容",
+          "pinyin": "nèiróng",
+          "meaning": "n. content"
+        },
+        {
+          "word": "然而",
+          "pinyin": "rán’ér",
+          "meaning": "conj. but, however"
+        },
+        {
+          "word": "看法",
+          "pinyin": "kànfǎ",
+          "meaning": "n. viewpoint, opinion"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "关于读书习惯的短文 (guānyú dúshū xíguàn de duǎnwén) (A short passage about reading habits)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "“读书好，读好书，好读书”。虽然这句话只用了三个<b>相同</b>的汉字，但是不同的<b>顺序</b>却<b>表示</b>了不同的意思。首先，“读书好”说的是读书有很多好处；其次，每个人的时间都是有限的，不可能把世界上每一本书都读完，所以要读好的书；最后，“好读书”就是要<b>养成</b>阅读的习惯，使读书真正成为自己的兴趣爱好。阅读有许多好处，它能丰富你的知识，让你找到解决问题的办法；<b>同时</b>，它还会丰富你的情感，使你的生活更<b>精彩</b>。所以，让阅读成为你的习惯吧！",
+          "pinyin": "“Dúshū hǎo, dú hǎo shū, hào dúshū.” Suīrán zhè jù huà zhǐ yòng le sān ge xiāngtóng de Hànzì, dànshì bùtóng de shùnxù què biǎoshì le bùtóng de yìsi. Shǒuxiān, “dúshū hǎo” shuō de shì dúshū yǒu hěn duō hǎochù; qícì, měi ge rén de shíjiān dōu shì yǒuxiàn de, bù kěnéng bǎ shìjiè shang měi yì běn shū dōu dú wán, suǒyǐ yào dú hǎo de shū; zuìhòu, “hào dúshū” jiù shì yào yǎngchéng yuèdú de xíguàn, shǐ dúshū zhēnzhèng chéngwéi zìjǐ de xìngqù àihào. Yuèdú yǒu xǔduō hǎochù, tā néng fēngfù nǐ de zhīshi, ràng nǐ zhǎodào jiějué wèntí de bànfǎ; tóngshí, tā hái huì fēngfù nǐ de qínggǎn, shǐ nǐ de shēnghuó gèng jīngcǎi. Suǒyǐ, ràng yuèdú chéngwéi nǐ de xíguàn ba!",
+          "translation": "“Reading is good; read good books; love reading.” Although this sentence uses only three identical Chinese characters, different word orders express different meanings. First, “reading is good” means that reading has many benefits. Next, everyone’s time is limited, and it is impossible to read every book in the world, so you should read good books. Finally, “love reading” means developing the habit of reading so that reading truly becomes your own interest and hobby. Reading has many benefits: it can enrich your knowledge and help you find ways to solve problems; at the same time, it can also enrich your emotions and make your life more wonderful. So, let reading become your habit!"
+        }
+      ],
+      "audio": "audio/11-5.mp3",
+      "vocabulary": [
+        {
+          "word": "相同",
+          "pinyin": "xiāngtóng",
+          "meaning": "adj. same"
+        },
+        {
+          "word": "顺序",
+          "pinyin": "shùnxù",
+          "meaning": "n. order, sequence"
+        },
+        {
+          "word": "表示",
+          "pinyin": "biǎoshì",
+          "meaning": "v. to express, to indicate"
+        },
+        {
+          "word": "养成",
+          "pinyin": "yǎngchéng",
+          "meaning": "v. to develop, to form"
+        },
+        {
+          "word": "同时",
+          "pinyin": "tóngshí",
+          "meaning": "conj. at the same time, meanwhile"
+        },
+        {
+          "word": "精彩",
+          "pinyin": "jīngcǎi",
+          "meaning": "adj. wonderful, splendid"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "vocabulary": {
+      "流利": {
+        "en": "fluent",
+        "ko": "유창한",
+        "ja": "流暢な"
+      },
+      "厉害": {
+        "en": "awesome, serious",
+        "ko": "대단한, 심한",
+        "ja": "すごい、ひどい"
+      },
+      "语法": {
+        "en": "grammar",
+        "ko": "문법",
+        "ja": "文法"
+      },
+      "准确": {
+        "en": "accurate, precise",
+        "ko": "정확한",
+        "ja": "正確な"
+      },
+      "词语": {
+        "en": "word, expression",
+        "ko": "단어, 표현",
+        "ja": "語句、表現"
+      },
+      "连": {
+        "en": "even",
+        "ko": "~조차, ~까지도",
+        "ja": "〜さえ、〜までも"
+      },
+      "阅读": {
+        "en": "to read",
+        "ko": "읽다, 독해하다",
+        "ja": "読む"
+      },
+      "来得及": {
+        "en": "there is still time",
+        "ko": "시간이 되다, 늦지 않다",
+        "ja": "まだ間に合う"
+      },
+      "复杂": {
+        "en": "complicated",
+        "ko": "복잡한",
+        "ja": "複雑な"
+      },
+      "只好": {
+        "en": "to have no choice but to",
+        "ko": "어쩔 수 없이 ~하다",
+        "ja": "仕方なく〜する"
+      },
+      "填空": {
+        "en": "to fill in a blank",
+        "ko": "빈칸을 채우다",
+        "ja": "空欄を埋める"
+      },
+      "猜": {
+        "en": "to guess",
+        "ko": "추측하다, 찍다",
+        "ja": "推測する、当てずっぽうで答える"
+      },
+      "否则": {
+        "en": "or, otherwise",
+        "ko": "그렇지 않으면",
+        "ja": "そうでなければ"
+      },
+      "客厅": {
+        "en": "living room",
+        "ko": "거실",
+        "ja": "リビング、居間"
+      },
+      "无论": {
+        "en": "regardless of, no matter",
+        "ko": "~든지, 무엇이든",
+        "ja": "〜であろうと、〜にかかわらず"
+      },
+      "杂志": {
+        "en": "magazine",
+        "ko": "잡지",
+        "ja": "雑誌"
+      },
+      "著名": {
+        "en": "famous, well-known",
+        "ko": "저명한, 유명한",
+        "ja": "有名な、著名な"
+      },
+      "页": {
+        "en": "page",
+        "ko": "쪽, 페이지",
+        "ja": "ページ"
+      },
+      "增加": {
+        "en": "to increase, to add",
+        "ko": "늘리다, 증가하다",
+        "ja": "増やす、増加する"
+      },
+      "文章": {
+        "en": "essay, article",
+        "ko": "글, 문장, 기사",
+        "ja": "文章、記事"
+      },
+      "之": {
+        "en": "particle connecting a modifier and the word modified",
+        "ko": "수식어와 피수식어를 연결하는 조사",
+        "ja": "修飾語と被修飾語をつなぐ助詞"
+      },
+      "内容": {
+        "en": "content",
+        "ko": "내용",
+        "ja": "内容"
+      },
+      "然而": {
+        "en": "but, however",
+        "ko": "그러나, 하지만",
+        "ja": "しかし、けれども"
+      },
+      "看法": {
+        "en": "viewpoint, opinion",
+        "ko": "견해, 의견",
+        "ja": "見方、意見"
+      },
+      "相同": {
+        "en": "same",
+        "ko": "같은, 동일한",
+        "ja": "同じ"
+      },
+      "顺序": {
+        "en": "order, sequence",
+        "ko": "순서",
+        "ja": "順序"
+      },
+      "表示": {
+        "en": "to express, to indicate",
+        "ko": "나타내다, 표시하다",
+        "ja": "表す、示す"
+      },
+      "养成": {
+        "en": "to develop, to form",
+        "ko": "기르다, 형성하다",
+        "ja": "身につける、形成する"
+      },
+      "同时": {
+        "en": "at the same time, meanwhile",
+        "ko": "동시에",
+        "ja": "同時に"
+      },
+      "精彩": {
+        "en": "wonderful, splendid",
+        "ko": "멋진, 훌륭한",
+        "ja": "すばらしい、精彩な"
+      }
+    },
+    "properNouns": {
+      "大卫": {
+        "en": "Dawei, name of a person",
+        "ko": "다웨이, 사람 이름",
+        "ja": "大衛、人名"
+      }
+    },
+    "lessonTitle": {
+      "en": "Mark introduces his methods for learning Chinese",
+      "ko": "마크가 자신의 중국어 학습 방법을 소개하다",
+      "ja": "マークが自分の中国語学習方法を紹介する"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Mark introduces his methods for learning Chinese",
+        "ko": "마크가 자신의 중국어 학습 방법을 소개하다",
+        "ja": "マークが自分の中国語学習方法を紹介する"
+      },
+      "2": {
+        "en": "Xiao Xia and Xiao Yu talk about the exam situation",
+        "ko": "샤오샤와 샤오위가 시험 상황에 대해 이야기하다",
+        "ja": "小夏と小雨が試験の状況について話す"
+      },
+      "3": {
+        "en": "Xiao Li tells Xiao Lin about the benefits of reading",
+        "ko": "샤오리가 샤오린에게 독서의 장점을 알려 주다",
+        "ja": "小李が小林に読書のよい点を教える"
+      },
+      "4": {
+        "en": "A short passage about improving reading ability",
+        "ko": "읽기 능력을 향상시키는 방법에 관한 짧은 글",
+        "ja": "読解力を高めることについての短文"
+      },
+      "5": {
+        "en": "A short passage about reading habits",
+        "ko": "독서 습관에 관한 짧은 글",
+        "ja": "読書習慣についての短文"
+      }
+    },
+    "grammar": {
+      "连……也/都……": {
+        "formal_translation": {
+          "en": "The preposition “连” is used for emphasis, often in the structure “连……也/都……”. The speaker highlights an extreme case to make another situation clear. The noun or phrase after “连” can be the subject, or it can be a preposed object.",
+          "ko": "전치사 “连”은 강조를 나타내며, 보통 “连……也/都……” 구조로 쓰인다. 말하는 사람은 하나의 극단적인 예를 강조하여 다른 상황을 설명한다. “连” 뒤에는 주어가 올 수도 있고, 앞에 놓인 목적어가 올 수도 있다.",
+          "ja": "前置詞「连」は強調を表し、よく「连……也/都……」の構造で使われます。話し手は極端な例を強調して、別の状況を説明します。「连」の後ろには主語が来ることも、前置された目的語が来ることもあります。"
+        },
+        "colloquial_translation": {
+          "en": "“连……都/也……” makes the sentence more emphatic by choosing an extreme or surprising example. In speech, “连……都……” is especially common when stressing that something is unexpected, impressive, difficult, or excessive.",
+          "ko": "“连……都/也……”는 극단적이거나 의외인 예를 들어 문장을 더 강하게 만든다. 구어에서는 예상 밖의 일, 대단함, 어려움, 과도함을 강조할 때 “连……都……”가 특히 자주 쓰인다.",
+          "ja": "「连……都/也……」は、極端または意外な例を挙げて文をより強調します。会話では、意外さ、すごさ、難しさ、過度さを強調するときに「连……都……」が特によく使われます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "If even you yourself do not like yourself, how can you make others like you?",
+              "ko": "만약 너 자신조차 자신을 좋아하지 않는다면, 또 어떻게 다른 사람이 너를 좋아하게 할 수 있겠니?",
+              "ja": "もし自分自身さえ好きでないなら、どうして他の人にあなたを好きになってもらえるでしょうか。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Advertisements are becoming more and more numerous, almost everywhere. Not only are there ads on TV, there are also many ads on buses and subways, and even the elevator in my building has three ads.",
+              "ko": "광고는 점점 많아져서 거의 없는 곳이 없다. TV에만 광고가 있는 것이 아니라 버스와 지하철에도 많은 광고가 있고, 내가 사는 건물의 엘리베이터 안에도 광고가 세 개나 있다.",
+              "ja": "広告はますます多くなり、ほとんど至るところにあります。テレビに広告があるだけでなく、バスや地下鉄にも多くの広告があり、私が住んでいる建物のエレベーターの中にさえ三つの広告があります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "You are amazing! You can even understand Chinese newspapers.",
+              "ko": "정말 대단해요! 중국어 신문까지 이해할 수 있다니요.",
+              "ja": "本当にすごいですね！中国語の新聞まで理解できるんですね。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "This question is so hard that even the teacher has to think for a while.",
+              "ko": "이 문제는 너무 어려워서 선생님조차 한참 생각해야 해.",
+              "ja": "この問題は難しすぎて、先生でさえしばらく考えなければなりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He has been insanely busy lately; he does not even have time to eat.",
+              "ko": "그는 요즘 너무 바빠서 밥 먹을 시간조차 없어.",
+              "ja": "彼は最近ものすごく忙しくて、食事をする時間さえありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This place is so popular that even people who normally do not line up are willing to wait.",
+              "ko": "이 가게는 너무 인기 있어서 평소 줄 서지 않는 사람들도 기다리려고 해.",
+              "ja": "この店はとても人気で、普段並ばない人でさえ待とうとします。"
+            }
+          }
+        ]
+      },
+      "否则": {
+        "formal_translation": {
+          "en": "The conjunction “否则” means “if not, then...” or “otherwise.” The sentence following it indicates the result inferred from the previous sentence or offers another choice.",
+          "ko": "접속사 “否则”는 “그렇지 않으면”이라는 뜻이다. 뒤에 오는 문장은 앞 문장에서 추론한 결과를 나타내거나 또 다른 선택지를 제시한다.",
+          "ja": "接続詞「否则」は「そうでなければ」という意味です。後ろの文は、前の文から推論される結果を示したり、別の選択肢を提示したりします。"
+        },
+        "colloquial_translation": {
+          "en": "“否则” is clearer and more formal than “不然” or “要不然.” In everyday speech, “不然” and “要不然” are common for casual warnings or alternatives, while “否则” sounds more structured and is often used in explanations, advice, or written language.",
+          "ko": "“否则”는 “不然”이나 “要不然”보다 더 분명하고 격식 있는 느낌이다. 일상 대화에서는 가벼운 경고나 대안을 말할 때 “不然”, “要不然”을 자주 쓰고, “否则”는 설명, 조언, 글말에서 더 구조적으로 들린다.",
+          "ja": "「否则」は「不然」や「要不然」より明確でやや改まった響きがあります。日常会話では、軽い注意や代案を言うときに「不然」「要不然」がよく使われ、「否则」は説明、助言、書き言葉でより整った表現に聞こえます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "He must have something important to talk to you about; otherwise, he would not have called so many times.",
+              "ko": "그는 분명 너에게 중요한 일이 있을 거야. 그렇지 않으면 이렇게 여러 번 전화하지 않았을 거야.",
+              "ja": "彼はきっとあなたに重要な用事があるのでしょう。そうでなければ、こんなに何度も電話をかけてこないはずです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "You had better go to the company to find her before four this afternoon; otherwise, go again tomorrow morning.",
+              "ko": "오늘 오후 네 시 전에 회사에 가서 그녀를 찾는 것이 좋아. 그렇지 않으면 내일 아침에 다시 가.",
+              "ja": "今日の午後四時前に会社へ彼女を探しに行ったほうがいいです。そうでなければ、明日の朝また行きなさい。"
+            }
+          },
+          {
+            "translation": {
+              "en": "It looks like if you want to do well on an exam, you not only need to review carefully, but also need to pay attention to exam strategy. Otherwise, you will not even have time to do the questions you know how to answer.",
+              "ko": "시험을 잘 보려면 열심히 복습할 뿐만 아니라 시험 방법에도 주의해야 할 것 같아. 그렇지 않으면 할 줄 아는 문제도 풀 시간이 없어져.",
+              "ja": "試験でよい結果を出したいなら、まじめに復習するだけでなく、試験のやり方にも注意しなければならないようです。そうでなければ、解ける問題をする時間もなくなります。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Hurry up and leave, or you will be late again.",
+              "ko": "빨리 나가. 안 그러면 또 지각할 거야.",
+              "ja": "早く出かけなさい。そうしないとまた遅刻しますよ。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Review the key points today first; otherwise, there definitely will not be enough time tomorrow.",
+              "ko": "오늘 먼저 중요한 부분을 복습해. 그렇지 않으면 내일은 분명 시간이 부족할 거야.",
+              "ja": "今日は先に重要なところを復習しなさい。そうでなければ、明日はきっと間に合いません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "You had better book tickets in advance, or you might not be able to get any on the weekend.",
+              "ko": "미리 표를 예약하는 게 좋아. 안 그러면 주말에는 못 살 수도 있어.",
+              "ja": "前もってチケットを予約したほうがいいです。そうしないと、週末には買えないかもしれません。"
+            }
+          }
+        ]
+      },
+      "无论……都/也……": {
+        "formal_translation": {
+          "en": "The conjunction “无论” means that the result or conclusion will not change under any circumstances. It is usually used in the structure “无论……都/也……”. It can be followed by coordinate alternatives, or by an interrogative pronoun referring to anybody or anything.",
+          "ko": "접속사 “无论”는 어떤 조건에서도 결과나 결론이 바뀌지 않음을 나타낸다. 보통 “无论……都/也……” 구조로 쓰인다. “无论” 뒤에는 선택 관계의 병렬 성분이 올 수도 있고, 임의의 사람이나 사물을 가리키는 의문대명사가 올 수도 있다.",
+          "ja": "接続詞「无论」は、どのような条件でも結果や結論が変わらないことを表します。通常「无论……都/也……」の構造で使われます。「无论」の後ろには選択関係を表す並列成分が来ることも、任意の人や物を指す疑問代名詞が来ることもあります。"
+        },
+        "colloquial_translation": {
+          "en": "“无论” is more formal and written than “不管,” while “不管” is more common in everyday speech. Both show that the result remains the same despite different conditions, but “无论” sounds more polished in explanations or essays.",
+          "ko": "“无论”는 “不管”보다 더 격식 있고 글말 느낌이 강하며, “不管”은 일상 회화에서 더 자주 쓰인다. 둘 다 조건이 달라도 결과가 같다는 뜻이지만, 설명문이나 글에서는 “无论”가 더 정돈된 느낌을 준다.",
+          "ja": "「无论」は「不管」よりも改まっていて書き言葉的で、「不管」は日常会話でよりよく使われます。どちらも条件が違っても結果は同じであることを表しますが、説明文や文章では「无论」のほうが整った響きがあります。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Whether it is an ordinary magazine or a famous novel, as long as you open it, you will discover that there are so many interesting things in the world and so many different ways of life.",
+              "ko": "평범한 잡지든 유명한 소설이든, 그것들을 펼치기만 하면 세상에는 이렇게 많은 재미있는 일과 이렇게 다양한 삶이 있다는 걸 발견하게 된다.",
+              "ja": "普通の雑誌であれ有名な小説であれ、それらを開けば、世界にはこんなに多くの面白いことがあり、こんなに多くの違った生活があると分かります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "No matter what we do, we should pay attention to the method; the right method can help us do it better.",
+              "ko": "무슨 일을 하든 방법에 주의해야 하며, 올바른 방법은 우리가 더 잘할 수 있게 해 준다.",
+              "ja": "何をするにしても方法に注意しなければならず、正しい方法は私たちがよりよく行う助けになります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In this competition, he has already performed at his best. No matter what the result is, we should be happy for him.",
+              "ko": "이번 경기에서 그는 이미 자신의 최고 수준을 발휘했으니, 결과가 어떻든 우리는 그를 위해 기뻐해야 한다.",
+              "ja": "今回の試合で彼はすでに自分の最高の力を発揮しました。結果がどうであれ、私たちは彼のために喜ぶべきです。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "No matter which book you choose, first stick with it and finish reading it.",
+              "ko": "네가 어떤 책을 고르든, 우선 끝까지 읽어 봐.",
+              "ja": "どの本を選んでも、まず最後まで読み続けてみてください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "No matter how busy work gets, I will still make time to read a few pages.",
+              "ko": "일이 아무리 바빠도 나는 시간을 내서 몇 쪽은 읽을 거야.",
+              "ja": "仕事がどんなに忙しくても、私は時間を作って数ページは読みます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "No matter how the exam result turns out, let’s first summarize the problems.",
+              "ko": "시험 결과가 어떻든, 우리 먼저 문제를 한번 정리해 보자.",
+              "ja": "試験の結果がどうであれ、まず問題点をまとめてみましょう。"
+            }
+          }
+        ]
+      },
+      "无论 vs 不管": {
+        "formal_translation": {
+          "en": "Compare “无论” and “不管”. Similarity: Both can be used as conjunctions, usually with “都/也”, to indicate that the result or conclusion will not change under any circumstances. Both can be followed by an interrogative pronoun referring to anybody or anything, or by coordinate alternatives. Differences: 1) “不管” is often used in spoken Chinese and cannot take formal or classical words such as “如何” and “是否”, while “无论” is often used in written Chinese and has no such restriction. 2) “不管” can be followed directly by an affirmative-negative form; when “无论” is followed by an affirmative-negative form, “还是/跟/与” is usually used between the affirmative and negative constituents.",
+          "ko": "“无论”와 “不管” 비교. 공통점: 둘 다 접속사로 쓰일 수 있고, 보통 “都/也”와 함께 어떤 조건에서도 결과나 결론이 바뀌지 않음을 나타낸다. 둘 다 임의의 사람이나 사물을 가리키는 의문대명사 또는 선택 관계의 병렬 성분이 뒤따를 수 있다. 차이점: 1) “不管”은 구어에서 많이 쓰이며 “如何”, “是否” 같은 문어적 색채의 단어를 받을 수 없다. “无论”은 글말에서 많이 쓰이며 이런 제한이 없다. 2) “不管” 뒤에는 긍정-부정 형식이 바로 올 수 있다. “无论” 뒤에 긍정-부정 형식을 쓸 때는 보통 긍정과 부정 성분 사이에 “还是/跟/与”를 넣는다.",
+          "ja": "「无论」と「不管」の比較。共通点: どちらも接続詞として使え、通常「都/也」とともに、どのような条件でも結果や結論が変わらないことを表します。どちらも任意の人や物を指す疑問代名詞、または選択関係の並列成分を後ろに取ることができます。相違点: 1) 「不管」は口語でよく使われ、「如何」「是否」のような文語的な語を後ろに取ることはできません。一方、「无论」は書き言葉でよく使われ、そのような制限がありません。2) 「不管」の後ろには肯定否定形式を直接置けます。「无论」の後ろに肯定否定形式を置く場合、通常は肯定成分と否定成分の間に「还是/跟/与」を入れます。"
+        },
+        "colloquial_translation": {
+          "en": "This is a comparison note, not a new standalone pattern. “不管” is the more natural spoken choice, while “无论” is more formal and written. When the following phrase is formal, such as “如何” or “是否”, choose “无论”. With a simple affirmative-negative form like “热不热”, “不管” is natural; “无论” usually needs “还是/跟/与” between the alternatives.",
+          "ko": "이 항목은 새 독립 문법이 아니라 비교 노트이다. “不管”은 구어에서 더 자연스럽고, “无论”는 더 격식 있고 글말 느낌이다. 뒤에 “如何”, “是否”처럼 격식 있는 표현이 오면 “无论”를 쓰는 것이 좋다. “热不热” 같은 단순 긍정-부정 형식에는 “不管”이 자연스럽고, “无论”는 보통 선택지 사이에 “还是/跟/与”가 필요하다.",
+          "ja": "これは新しい単独の文法ではなく比較ノートです。「不管」は話し言葉でより自然で、「无论」はより改まった書き言葉的な表現です。後ろに「如何」「是否」のような改まった表現が来る場合は「无论」を選びます。「热不热」のような単純な肯定否定形式では「不管」が自然で、「无论」は通常、選択肢の間に「还是/跟/与」が必要です。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "No matter what you do, it is best to make a plan in advance.",
+              "ko": "무슨 일을 하든 미리 계획을 잘 세우는 것이 가장 좋다.",
+              "ja": "何をするにしても、前もって計画を立てておくのが一番よいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Whether it is something troubling or something pleasant, I write it down in my diary every day.",
+              "ko": "걱정되는 일이든 즐거운 일이든, 나는 매일 일기장에 적어 둔다.",
+              "ja": "悩ましいことでも楽しいことでも、私は毎日日記に書き留めます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "No matter what, I will not leave you.",
+              "ko": "무슨 일이 있어도 나는 너를 떠나지 않을 거야.",
+              "ja": "何があっても、私はあなたから離れません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Whether it is hot or not, he always wears this much.",
+              "ko": "덥든 덥지 않든, 그는 항상 이렇게 많이 입는다.",
+              "ja": "暑くても暑くなくても、彼はいつもこんなにたくさん着ています。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Whether it is hot or not, he always wears this much.",
+              "ko": "덥든 덥지 않든, 그는 항상 이렇게 많이 입는다.",
+              "ja": "暑くても暑くなくても、彼はいつもこんなにたくさん着ています。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "In everyday conversation, “不管” is more common: No matter how busy I am, I will reply to your message.",
+              "ko": "평소 대화에서는 “不管”을 더 자주 쓴다. 아무리 바빠도 네 메시지에는 답할게.",
+              "ja": "普段の会話では「不管」のほうがよく使われます。どんなに忙しくても、あなたのメッセージには返事します。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In writing, “无论” is more suitable: No matter what the result is, we should respect his choice.",
+              "ko": "글을 쓸 때는 “无论”가 더 적합하다. 결과가 어떻든 우리는 그의 선택을 존중해야 한다.",
+              "ja": "文章を書くときは「无论」のほうが適しています。結果がどうであれ、私たちは彼の選択を尊重すべきです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "With an affirmative-negative form, everyday speech says it directly: Whether you go or not, tell me first.",
+              "ko": "긍정-부정 형식은 구어에서 이렇게 바로 말한다. 가든 안 가든 먼저 나에게 알려 줘.",
+              "ja": "肯定否定形式は口語ではこのように直接言います。行くか行かないかにかかわらず、先に私に知らせてください。"
+            }
+          }
+        ]
+      },
+      "然而": {
+        "formal_translation": {
+          "en": "The conjunction “然而” is used at the beginning of the second half of a sentence to indicate a turn in meaning. It is usually used in written Chinese and can be followed by a comma to mark a pause.",
+          "ko": "접속사 “然而”는 문장의 뒤 절 첫머리에 쓰여 의미의 전환을 나타낸다. 주로 글말에서 쓰이며, 뒤에 쉼표를 붙여 멈춤을 표시할 수 있다.",
+          "ja": "接続詞「然而」は文の後半の始めに使われ、意味の転換を表します。主に書き言葉で使われ、後ろに読点を置いて間を示すことができます。"
+        },
+        "colloquial_translation": {
+          "en": "“然而” is a written and polished transition, similar to “however.” In everyday conversation, “但是,” “可是,” and “不过” sound more natural. Use “然而” when writing essays, explanations, or formal passages where the contrast should feel clear and organized.",
+          "ko": "“然而”는 “however”에 가까운 글말식 전환 표현이다. 일상 대화에서는 “但是”, “可是”, “不过”가 더 자연스럽다. 에세이, 설명문, 격식 있는 글에서 대비를 분명하고 정돈되게 보이고 싶을 때 “然而”를 쓴다.",
+          "ja": "「然而」は「however」に近い、書き言葉的で整った転換表現です。日常会話では「但是」「可是」「不过」のほうが自然です。作文、説明文、改まった文章で対比を明確に整理して示したいときに「然而」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Although he failed many times, he never gave up.",
+              "ko": "그는 여러 번 실패했지만, 계속 포기하지 않았다.",
+              "ja": "彼は何度も失敗しましたが、ずっと諦めませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Many people feel that their own lives are happy; however, each person’s view of happiness is not exactly the same.",
+              "ko": "많은 사람들은 자신의 삶이 행복하다고 느끼지만, 사람마다 행복에 대한 견해는 완전히 같지 않다.",
+              "ja": "多くの人は自分の生活が幸せだと感じています。しかし、一人ひとりの幸せに対する見方は完全には同じではありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In addition, after reading an article or a book, you can write down its main content and your own thoughts. However, you cannot completely believe everything in books; you need to have your own views and judgment.",
+              "ko": "또한 글 한 편이나 책 한 권을 다 읽은 후에는 그 주요 내용과 자신의 생각을 적을 수도 있다. 그러나 책에 있는 내용을 완전히 믿어서는 안 되며, 자신의 견해와 판단이 있어야 한다.",
+              "ja": "また、一編の文章や一冊の本を読み終えた後、その主な内容と自分の考えを書き留めることもできます。しかし、本に書かれている内容を完全に信じてはいけません。自分の見方と判断を持つ必要があります。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "He failed many times, but he never gave up.",
+              "ko": "그는 여러 번 실패했지만 계속 포기하지 않았어.",
+              "ja": "彼は何度も失敗したけれど、ずっと諦めませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Everyone feels they are pretty happy, but everyone thinks about it a bit differently.",
+              "ko": "다들 자신이 꽤 행복하다고 느끼지만, 사람마다 생각은 좀 달라.",
+              "ja": "みんな自分はけっこう幸せだと思っていますが、一人ひとり考え方は少し違います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "What the book says makes sense, but you still need your own judgment.",
+              "ko": "책에서 말한 건 일리가 있지만, 너도 자신의 판단이 있어야 해.",
+              "ja": "本に書いてあることには筋が通っていますが、あなた自身の判断も必要です。"
+            }
+          }
+        ]
+      },
+      "同时": {
+        "formal_translation": {
+          "en": "“同时” can be used as a conjunction to introduce a further remark, often with “又/也/还”. It can also be used as a noun meaning that two actions take place at the same time, often in the structure “在……（的）同时”.",
+          "ko": "“同时”는 접속사로 쓰여 더 나아간 내용을 덧붙이며, 자주 “又/也/还”와 함께 쓰인다. 또한 명사로 쓰여 두 동작이 같은 시간에 일어남을 나타내며, 보통 “在……（的）同时” 구조로 쓰인다.",
+          "ja": "「同时」は接続詞として使われ、さらに一歩進んだ内容を付け加えます。よく「又/也/还」と一緒に使われます。また名詞として、二つの動作が同じ時間に起こることを表し、よく「在……（的）同时」の構造で使われます。"
+        },
+        "colloquial_translation": {
+          "en": "As a conjunction, “同时” adds another point and is often close to “also/meanwhile.” As a noun in “在……的同时,” it emphasizes two actions happening together. It is natural in both speech and writing, but in casual speech simple “也/还” can often replace the conjunction use.",
+          "ko": "접속사로서 “同时”는 또 다른 내용을 덧붙이며 “also/meanwhile”에 가깝다. “在……的同时”의 명사 용법에서는 두 동작이 동시에 일어남을 강조한다. 말과 글 모두에서 자연스럽지만, 일상 대화에서는 접속사 용법을 단순히 “也/还”로 대신할 수 있는 경우가 많다.",
+          "ja": "接続詞としての「同时」は別の内容を付け加え、「also/meanwhile」に近い意味です。「在……的同时」の名詞用法では、二つの動作が同時に起こることを強調します。話し言葉でも書き言葉でも自然ですが、日常会話では接続詞用法を単に「也/还」で言い換えられることがよくあります。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Because children’s thoughts are not that complicated, they are always very happy. At the same time, children are also the most honest.",
+              "ko": "아이들의 생각은 그렇게 복잡하지 않기 때문에 그들은 항상 매우 즐겁다. 동시에 아이들은 가장 솔직하기도 하다.",
+              "ja": "子どもの考えはそれほど複雑ではないので、彼らはいつもとても楽しいです。同時に、子どもは最も正直でもあります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Reading has many benefits: it can enrich your knowledge and help you find ways to solve problems; at the same time, it can also enrich your emotions and make your life more wonderful.",
+              "ko": "독서에는 많은 장점이 있다. 지식을 풍부하게 해 주고 문제를 해결하는 방법을 찾게 해 준다. 동시에 감정도 풍부하게 하여 삶을 더 멋지게 만들어 준다.",
+              "ja": "読書には多くのよい点があります。知識を豊かにし、問題を解決する方法を見つけさせてくれます。同時に、感情も豊かにし、生活をよりすばらしいものにしてくれます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "While Professor Li’s story makes people laugh, it also makes them feel a little sad.",
+              "ko": "리 교수님이 들려준 이 이야기는 사람을 웃기게 하는 동시에, 조금 슬프게도 한다.",
+              "ja": "李教授が話したこの物語は、人を笑わせると同時に、少し悲しい気持ちにもさせます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "While studying Chinese, I also learned about Chinese culture and met many Chinese friends.",
+              "ko": "중국어를 배우는 동시에 나는 중국 문화도 이해하게 되었고 많은 중국 친구도 알게 되었다.",
+              "ja": "中国語を学ぶと同時に、私は中国文化についても理解し、多くの中国人の友達と知り合いました。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Reading can help you learn knowledge and, at the same time, help you relax.",
+              "ko": "책을 읽으면 지식을 배울 수 있고 동시에 마음도 편해질 수 있다.",
+              "ja": "本を読むと知識を学べると同時に、リラックスすることもできます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "While being busy with work, you also need to take good care of your health.",
+              "ko": "일이 바쁜 동시에 자기 몸도 잘 챙겨야 해.",
+              "ja": "仕事が忙しいと同時に、自分の体もしっかり大事にしなければなりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "While learning Chinese, I also made quite a few friends.",
+              "ko": "중국어를 배우는 동시에 친구도 꽤 많이 사귀었어.",
+              "ja": "中国語を学ぶと同時に、かなり多くの友達もできました。"
+            }
+          }
+        ]
+      },
+      "同字词：同": {
+        "formal_translation": {
+          "en": "Words with the same character “同” include “同意” (to agree), “共同” (common, shared; together), “相同” (same), and “同时” (at the same time; meanwhile). This expansion note groups words that share the character “同” and shows how each word is used in context.",
+          "ko": "같은 글자 “同”이 들어간 단어에는 “同意”(동의하다), “共同”(공동의, 함께), “相同”(같다), “同时”(동시에, 한편)가 있다. 이 확장 노트는 “同”이라는 글자를 공유하는 단어들을 묶고, 각 단어가 문맥 속에서 어떻게 쓰이는지 보여 준다.",
+          "ja": "同じ字「同」を含む語には、「同意」（同意する）、「共同」（共通の、一緒に）、「相同」（同じ）、「同时」（同時に、また）がある。この拡張ノートは「同」という字を共有する語をまとめ、それぞれの語が文脈の中でどのように使われるかを示します。"
+        },
+        "colloquial_translation": {
+          "en": "This is a same-character expansion note. “同” carries the idea of sameness, togetherness, or agreement, but each compound has its own usage: “同意” is agreeing, “共同” is shared or together, “相同” is identical or the same, and “同时” is at the same time or meanwhile.",
+          "ko": "이 항목은 동자어 확장 노트이다. “同”은 같음, 함께함, 동의의 느낌을 담지만, 각 합성어의 용법은 다르다. “同意”는 동의하다, “共同”은 공동의/함께, “相同”은 동일하다/같다, “同时”는 동시에/한편이라는 뜻이다.",
+          "ja": "これは同字語の拡張ノートです。「同」には同じ、一緒、同意といった意味合いがありますが、それぞれの複合語には固有の用法があります。「同意」は同意する、「共同」は共通の・一緒に、「相同」は同一・同じ、「同时」は同時に・またという意味です。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "If she had insisted one more time and asked me to help, I would have agreed, but she did not.",
+              "ko": "그녀가 한 번만 더 나에게 도움을 부탁하며 버텼다면 나는 동의했을 텐데, 그녀는 그러지 않았다.",
+              "ja": "もし彼女がもう一度私に助けを頼み続けていたら、私は同意したでしょう。しかし彼女はそうしませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Between husband and wife, romantic love alone is not enough; shared ideals and hobbies are also very important.",
+              "ko": "부부 사이에는 낭만적인 사랑만으로는 부족하며, 공동의 이상과 취미도 매우 중요하다.",
+              "ja": "夫婦の間では、ロマンチックな愛情だけでは不十分で、共通の理想や趣味もとても重要です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He is very young, but when he encounters problems, he is calmer than people of the same age.",
+              "ko": "그는 매우 젊지만, 문제를 만났을 때 같은 나이의 사람들보다 더 침착하다.",
+              "ja": "彼はとても若いですが、問題に出会ったとき、同じ年齢の人よりも冷静です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "My older brother is 26 this year. While studying for a master’s degree, he is also working at a company.",
+              "ko": "우리 형은 올해 26살이고, 석사 과정을 공부하는 동시에 한 회사에서 일하고 있다.",
+              "ja": "私の兄は今年26歳で、修士課程で学ぶと同時に、ある会社で働いています。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I agree with this method. Let’s do it this way.",
+              "ko": "이 방법에 동의해. 우리 이렇게 하자.",
+              "ja": "この方法に賛成です。私たちはこのようにしましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "We have a common goal, so working together goes smoothly.",
+              "ko": "우리는 공동의 목표가 있어서 협력이 순조로워.",
+              "ja": "私たちには共通の目標があるので、協力が順調です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "These two questions look different, but the method is actually the same.",
+              "ko": "이 두 문제는 달라 보이지만 사실 방법은 같아.",
+              "ja": "この二つの問題は違って見えますが、実は方法は同じです。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "你来中国<b>才</b>一年，汉语就说得这么流利，真厉害！": {
+        "translation": {
+          "en": "You’ve only been in China for one year, but you already speak Chinese so fluently. That’s amazing!",
+          "ko": "중국에 온 지 겨우 1년밖에 안 됐는데 중국어를 이렇게 유창하게 하다니 정말 대단해요!",
+          "ja": "中国に来てまだ一年なのに、中国語をこんなに流暢に話せるなんて、本当にすごいですね！"
+        },
+        "colloquial_translation": {
+          "en": "You’ve only been in China for a year, but your Chinese is already so smooth. That’s seriously impressive!",
+          "ko": "중국에 온 지 겨우 1년인데 중국어가 이렇게 술술 나오다니, 진짜 대단해!",
+          "ja": "中国に来てまだ一年なのに、中国語がこんなにスラスラ話せるなんて、本当にすごい！"
+        },
+        "context": {
+          "en": "Praising someone’s fast progress.",
+          "ko": "빠른 실력 향상을 칭찬할 때.",
+          "ja": "速い上達を褒めるとき。"
+        }
+      },
+      "你太厉害了！<b>连</b>中文报纸<b>都</b>看得懂。": {
+        "translation": {
+          "en": "You’re amazing! You can even understand Chinese newspapers.",
+          "ko": "정말 대단해요! 중국어 신문까지 이해할 수 있다니요.",
+          "ja": "本当にすごいですね！中国語の新聞まで理解できるんですね。"
+        },
+        "colloquial_translation": {
+          "en": "You’re seriously strong. You can even read Chinese newspapers!",
+          "ko": "너 진짜 대단하다. 중국어 신문까지 읽을 수 있다니!",
+          "ja": "本当にすごいね。中国語の新聞まで読めるなんて！"
+        },
+        "context": {
+          "en": "Emphasizing an impressive extreme case.",
+          "ko": "극단적인 예를 들어 대단함을 강조할 때.",
+          "ja": "極端な例を挙げてすごさを強調するとき。"
+        }
+      },
+      "看来要想考好，不但要认真复习，还得注意考试的方法，<b>否则</b>，会做的题也没时间做了。": {
+        "translation": {
+          "en": "It looks like if you want to do well on an exam, you not only need to review carefully, but also need to pay attention to exam strategy. Otherwise, you won’t even have time to do the questions you know how to answer.",
+          "ko": "시험을 잘 보려면 열심히 복습할 뿐만 아니라 시험 방법에도 주의해야 할 것 같아. 그렇지 않으면 할 줄 아는 문제도 풀 시간이 없어져.",
+          "ja": "試験でよい結果を出したいなら、まじめに復習するだけでなく、試験のやり方にも注意しなければならないようです。そうでなければ、解ける問題をする時間もなくなります。"
+        },
+        "colloquial_translation": {
+          "en": "If you want to do well, review carefully and use the right strategy, or you won’t even have time for the questions you know.",
+          "ko": "시험을 잘 보려면 복습도 열심히 하고 방법도 맞아야 해. 안 그러면 할 줄 아는 문제도 시간이 없어 못 풀어.",
+          "ja": "よい点を取りたいなら、復習もきちんとして、やり方も大事です。そうしないと、解ける問題も時間がなくてできません。"
+        },
+        "context": {
+          "en": "Giving exam strategy advice with a warning.",
+          "ko": "시험 전략을 조언하며 경고할 때.",
+          "ja": "試験のやり方について助言し、注意を促すとき。"
+        }
+      },
+      "<b>无论</b>是普通杂志，还是著名小说，只要打开它们，就会发现，世界上有那么多有意思的事情，有那么多不一样的生活。": {
+        "translation": {
+          "en": "Whether it is an ordinary magazine or a famous novel, as long as you open it, you will discover that there are so many interesting things in the world and so many different ways of life.",
+          "ko": "평범한 잡지든 유명한 소설이든, 그것들을 펼치기만 하면 세상에는 이렇게 많은 재미있는 일과 이렇게 다양한 삶이 있다는 걸 발견하게 돼요.",
+          "ja": "普通の雑誌であれ有名な小説であれ、それらを開けば、世界にはこんなに多くの面白いことがあり、こんなに多くの違った生活があると分かります。"
+        },
+        "colloquial_translation": {
+          "en": "Whether it’s a magazine or a novel, open it and you’ll find lots of interesting things inside.",
+          "ko": "잡지든 소설이든 펼쳐 보면 재미있는 걸 많이 발견하게 돼.",
+          "ja": "雑誌でも小説でも、開いて読んでみれば面白いことがたくさん見つかります。"
+        },
+        "context": {
+          "en": "Explaining that reading opens up different worlds.",
+          "ko": "독서가 다양한 세계를 열어 준다는 점을 설명할 때.",
+          "ja": "読書がさまざまな世界を開いてくれることを説明するとき。"
+        }
+      },
+      "阅读有许多好处，它能丰富你的知识，让你找到解决问题的办法；<b>同时</b>，它还会丰富你的情感，使你的生活更精彩。": {
+        "translation": {
+          "en": "Reading has many benefits: it can enrich your knowledge and help you find ways to solve problems; at the same time, it can also enrich your emotions and make your life more wonderful.",
+          "ko": "독서에는 많은 장점이 있어요. 지식을 풍부하게 해 주고 문제를 해결하는 방법을 찾게 해 줍니다. 동시에 감정도 풍부하게 하여 삶을 더 멋지게 만들어 줍니다.",
+          "ja": "読書には多くのよい点があります。知識を豊かにし、問題を解決する方法を見つけさせてくれます。同時に、感情も豊かにし、生活をよりすばらしいものにしてくれます。"
+        },
+        "colloquial_translation": {
+          "en": "Reading doesn’t just build knowledge; it also makes life more interesting.",
+          "ko": "독서는 지식을 늘려 줄 뿐만 아니라 삶도 더 재미있게 만들어 줘.",
+          "ja": "読書は知識を増やすだけでなく、生活ももっと面白くしてくれます。"
+        },
+        "context": {
+          "en": "Summarizing the practical and emotional benefits of reading.",
+          "ko": "독서의 실용적·정서적 장점을 요약할 때.",
+          "ja": "読書の実用的・感情的な利点をまとめるとき。"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "You’ve only been in China for one year, but you already speak Chinese so fluently. That’s amazing!",
+              "ko": "중국에 온 지 겨우 1년밖에 안 됐는데 중국어를 이렇게 유창하게 하다니 정말 대단해요!",
+              "ja": "中国に来てまだ一年なのに、中国語をこんなに流暢に話せるなんて、本当にすごいですね！"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Thanks! Actually, my grammar isn’t very good, and many of the sentences I say are not very accurate.",
+              "ko": "고마워요! 사실 제 문법은 별로 좋지 않고, 많은 문장을 말할 때 그다지 정확하지 않아요.",
+              "ja": "ありがとうございます！実は私の文法はあまりよくなくて、多くの文をあまり正確に言えていません。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "But it looks to me like you have no problem communicating with Chinese people. How did you manage that?",
+              "ko": "하지만 제가 보기에는 중국인과 소통하는 데 별 문제가 없어 보여요. 어떻게 그렇게 했어요?",
+              "ja": "でも、中国人と交流するのに特に問題はないように見えます。どうやってできるようになったのですか？"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "In daily life, make more Chinese friends and often chat with them; your listening and speaking ability will naturally improve a lot. Also, I suggest you keep reading Chinese newspapers. That way, you can learn many new words and expressions.",
+              "ko": "평소에 중국인 친구를 많이 사귀고 자주 이야기를 나누면 듣기와 말하기 능력이 자연스럽게 크게 향상돼요. 또 중국어 신문을 꾸준히 보는 것을 추천해요. 그러면 새로운 단어와 표현을 많이 배울 수 있어요.",
+              "ja": "普段から中国人の友達を多く作り、よく彼らと話していれば、聞く力と話す力は自然に大きく伸びます。また、中国語の新聞を読み続けることをおすすめします。そうすれば多くの新しい語句を学べます。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "You’re amazing! You can even understand Chinese newspapers.",
+              "ko": "정말 대단해요! 중국어 신문까지 이해할 수 있다니요.",
+              "ja": "本当にすごいですね！中国語の新聞まで理解できるんですね。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "At the beginning there will definitely be difficulties, but when you run into words you don’t know, you can look them up in a dictionary and write them in a notebook. Whenever you have time, take them out and review them. Slowly, you’ll find that Chinese newspapers are not that hard either.",
+              "ko": "처음에는 분명 어려움이 있을 거예요. 하지만 모르는 단어를 만나면 사전을 찾아보고 공책에 적어 두세요. 시간이 날 때 꺼내서 복습하다 보면, 천천히 중국어 신문도 그렇게 어렵지 않다는 걸 알게 될 거예요.",
+              "ja": "始めたばかりのころは必ず難しさがあります。でも知らない語句に出会ったら、辞書で調べてノートに書き、時間があるときに取り出して復習すれば、少しずつ中国語の新聞もそれほど難しくないと分かるようになります。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "The exam is over. Are you satisfied with your results?",
+              "ko": "시험이 끝났어. 너는 자신의 성적에 만족해?",
+              "ja": "試験が終わったね。自分の成績に満足している？"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "To be honest, I’m not very satisfied. There were too many questions on this reading exam, and I didn’t finish them.",
+              "ko": "솔직히 말하면 별로 만족스럽지 않아. 이번 독해 시험은 문제가 너무 많아서 다 풀지 못했어.",
+              "ja": "正直に言うと、あまり満足していない。今回の読解試験は問題が多すぎて、全部できなかった。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Two hours should have been enough time, right?",
+              "ko": "두 시간이면 충분히 시간이 됐을 텐데?",
+              "ja": "二時間あれば間に合うはずでしょう？"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "This time it was mainly because I did the harder, more complicated questions first. As a result, I spent too much time on them. I knew how to do the easier questions later, but there wasn’t enough time, so in the end I had no choice but to give them up.",
+              "ko": "이번에는 주로 내가 먼저 비교적 어렵고 복잡한 문제를 풀었기 때문이야. 결국 시간이 너무 많이 걸렸고, 뒤의 쉬운 문제들은 할 줄 알았지만 시간이 부족해서 마지막에는 어쩔 수 없이 포기했어.",
+              "ja": "今回は主に、先に比較的難しく複雑な問題を解いたからです。その結果、時間をかけすぎて、後ろの簡単な問題は分かっていたのに時間が足りず、最後は仕方なく諦めました。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Actually, I didn’t do very well either. I couldn’t do several fill-in-the-blank questions, and for a few multiple-choice questions, I really couldn’t figure out which one to choose, so I randomly guessed an answer. In the end, I didn’t guess a single one correctly.",
+              "ko": "사실 나도 시험을 그다지 잘 보지 못했어. 몇 개의 빈칸 채우기 문제는 풀 줄 몰랐고, 몇 개의 선택 문제는 정말 어떤 것을 골라야 할지 생각이 나지 않아서 아무렇게나 답을 찍었는데, 결과적으로 하나도 맞히지 못했어.",
+              "ja": "実は私もあまりよくできませんでした。いくつかの穴埋め問題はできず、いくつかの選択問題はどれを選ぶべきか本当に思いつかなかったので、適当に答えを推測しましたが、結果は一つも当たりませんでした。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "It looks like if you want to do well on an exam, you not only need to review carefully, but also need to pay attention to exam strategy. Otherwise, you won’t even have time to do the questions you know how to answer.",
+              "ko": "시험을 잘 보려면 열심히 복습할 뿐만 아니라 시험 방법에도 주의해야 할 것 같아. 그렇지 않으면 할 줄 아는 문제도 풀 시간이 없어져.",
+              "ja": "試験でよい結果を出したいなら、まじめに復習するだけでなく、試験のやり方にも注意しなければならないようです。そうでなければ、解ける問題をする時間もなくなります。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Why are there books everywhere in your living room? Do you like reading all these books?",
+              "ko": "네 거실에는 왜 온통 책이야? 이 책들을 다 좋아해서 읽는 거야?",
+              "ja": "あなたのリビングはどうして本だらけなの？これらの本は全部読むのが好きなの？"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Of course. I read every day. Whether it is an ordinary magazine or a famous novel, as long as you open it, you will discover that there are so many interesting things in the world and so many different ways of life.",
+              "ko": "물론이야. 나는 매일 책을 읽어. 평범한 잡지든 유명한 소설이든, 그것들을 펼치기만 하면 세상에는 이렇게 많은 재미있는 일과 이렇게 다양한 삶이 있다는 걸 발견하게 돼.",
+              "ja": "もちろんです。私は毎日、本を読みます。普通の雑誌であれ有名な小説であれ、それらを開けば、世界にはこんなに多くの面白いことがあり、こんなに多くの違った生活があると分かります。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "I didn’t expect that even though you are so busy with work, you can still keep reading every day.",
+              "ko": "네가 일이 그렇게 바쁜데도 매일 꾸준히 책을 읽을 수 있다니 생각도 못 했어.",
+              "ja": "仕事がそんなに忙しいのに、毎日読書を続けられるとは思いませんでした。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "If you read one page in three minutes, you can read ten pages in half an hour. If you spend half an hour reading every day, you can read 300 pages in a month, which is almost a whole book.",
+              "ko": "만약 3분에 책 한 쪽을 읽는다면, 30분이면 10쪽을 읽을 수 있어. 매일 30분씩 책을 읽으면 한 달에 300쪽을 읽을 수 있고, 거의 책 한 권이 되는 셈이야.",
+              "ja": "もし三分で本を一ページ読むなら、三十分で十ページ読めます。毎日三十分を読書に使えば、一か月で三百ページ読めて、ほぼ一冊の本になります。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "That’s true. A person who truly loves reading can always find time to read.",
+              "ko": "맞아, 진짜 책을 좋아하는 사람은 늘 시간을 찾아서 읽을 수 있어.",
+              "ja": "そうですね。本当に本を読むのが好きな人は、いつでも時間を見つけて読書できます。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Keeping up the habit of reading can not only increase my knowledge, but also help me reduce stress and make me feel more relaxed.",
+              "ko": "꾸준히 책을 읽으면 지식을 늘릴 수 있을 뿐만 아니라 스트레스를 줄이는 데도 도움이 되고, 사람도 더 가벼워져.",
+              "ja": "読書を続けると、知識を増やせるだけでなく、ストレスを軽くする助けにもなり、気持ちも楽になります。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "According to surveys, people with strong reading ability not only find jobs more easily, but also have relatively higher salaries. How can you effectively improve your reading ability? Taking reading notes is one good method. There are many kinds of reading notes; the simplest is to write down words and sentences you like or find useful. In addition, after reading an article or a book, you can also write down its main content and your own thoughts. However, you cannot completely believe everything in books; you need to have your own views and judgment. Persisting in taking reading notes is very helpful for improving reading ability.",
+              "ko": "조사에 따르면 읽기 능력이 좋은 사람은 일자리를 찾기 쉬울 뿐만 아니라 임금도 비교적 높다. 어떻게 해야 자신의 읽기 능력을 효과적으로 높일 수 있을까? 독서 노트를 쓰는 것은 그중 하나의 좋은 방법이다. 독서 노트에는 여러 종류가 있는데, 가장 간단한 것은 자신이 좋아하거나 유용하다고 생각하는 단어와 문장을 적어 두는 것이다. 또한 글 한 편이나 책 한 권을 다 읽은 후에는 그 주요 내용과 자신의 생각을 적을 수도 있다. 그러나 책에 있는 내용을 완전히 믿어서는 안 되며, 자신의 견해와 판단이 있어야 한다. 꾸준히 독서 노트를 쓰는 것은 읽기 능력을 향상시키는 데 큰 도움이 된다.",
+              "ja": "調査によると、読解力の高い人は仕事を見つけやすいだけでなく、給料も比較的高いです。どうすれば自分の読解力を効果的に高められるのでしょうか。読書ノートを作ることは、そのよい方法の一つです。読書ノートには多くの種類がありますが、最も簡単なのは、自分が好きな、または役に立つと思う語句や文を書き留めることです。また、一編の文章や一冊の本を読み終えた後、その主な内容と自分の考えを書き留めることもできます。しかし、本に書かれている内容を完全に信じてはいけません。自分の見方と判断を持つ必要があります。読書ノートを続けることは、読解力を高めるのに大きな助けになります。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "“Reading is good; read good books; love reading.” Although this sentence uses only three identical Chinese characters, different word orders express different meanings. First, “reading is good” means that reading has many benefits. Next, everyone’s time is limited, and it is impossible to read every book in the world, so you should read good books. Finally, “love reading” means developing the habit of reading so that reading truly becomes your own interest and hobby. Reading has many benefits: it can enrich your knowledge and help you find ways to solve problems; at the same time, it can also enrich your emotions and make your life more wonderful. So, let reading become your habit!",
+              "ko": "“독서는 좋고, 좋은 책을 읽고, 독서를 좋아하라.” 이 말은 세 개의 같은 한자만 사용했지만, 다른 순서가 서로 다른 의미를 나타낸다. 먼저 “读书好”는 독서에는 많은 장점이 있다는 뜻이다. 다음으로, 모든 사람의 시간은 제한되어 있어 세상의 모든 책을 다 읽을 수는 없으므로 좋은 책을 읽어야 한다. 마지막으로 “好读书”는 독서 습관을 길러 독서가 진정으로 자신의 흥미와 취미가 되게 해야 한다는 뜻이다. 독서에는 많은 장점이 있다. 지식을 풍부하게 해 주고 문제를 해결하는 방법을 찾게 해 준다. 동시에 감정도 풍부하게 하여 삶을 더 멋지게 만들어 준다. 그러니 독서가 너의 습관이 되게 하자!",
+              "ja": "「読書はよい、よい本を読む、読書を好む」。この文は三つの同じ漢字だけを使っていますが、異なる順序によって異なる意味を表しています。まず、「読書好」は読書には多くのよい点があるという意味です。次に、誰の時間も限られており、世界中のすべての本を読み終えることはできないので、よい本を読むべきです。最後に、「好読書」とは読書の習慣を身につけ、読書を本当に自分の興味や趣味にすることです。読書には多くのよい点があります。知識を豊かにし、問題を解決する方法を見つけさせてくれます。同時に、感情も豊かにし、生活をよりすばらしいものにしてくれます。だから、読書をあなたの習慣にしましょう！"
+            }
+          }
+        }
+      }
+    }
+  }
+}

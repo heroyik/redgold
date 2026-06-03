@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.9.80-B8860B?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-0.9.82-B8860B?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
@@ -116,6 +116,7 @@ npm run build
 | **Versioning** | Pre-commit patch bump + versioned commit messages + header badge | ✅ Done |
 | **Auth** | Firebase Authentication Implementation | ✅ Done |
 | **Data** | Lesson 5 Textbook Data Build-Out | ✅ Done |
+| **Data** | Lesson 11 Textbook Data Build-Out | ✅ Done |
 | **Data** | Mastery Quiz System & Progress Tracking | ⏳ Next |
 
 ---
@@ -123,6 +124,16 @@ npm run build
 ## 📋 Changelog
 
 Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
+
+---
+
+### v0.9.82 — 2026-06-03
+> *Lesson 11 Complete.* The textbook data pipeline now covers the reading-methods chapter.
+
+- 📚 **Lesson 11 Textbook Data Complete** — Added `data/lesson11.json` for `马克介绍自己学习汉语的方法`, covering Text 1-5, 30 vocabulary items, 7 grammar/notes entries, 5 mastery sentences, and complete locale data.
+- 🧩 **Grammar Notes Preserved** — Added `连……也/都……`, `否则`, `无论……都/也……`, `无论 vs 不管`, `然而`, `同时`, and `同字词：同` with full formal and colloquial examples.
+- 🌐 **Locale Sync** — Filled KO/JA/EN translations for vocabulary, proper nouns, text titles, text lines, grammar explanations/examples, and mastery sentences.
+- ✅ **Validation** — Confirmed Lesson 11 JSON parses successfully and locale mapping reports zero issues.
 
 ---
 
