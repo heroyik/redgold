@@ -2,7 +2,7 @@
   <img src="public/assets/logo.png" width="240" alt="Redgold Logo">
 </p>
 
-<h1 align="center">✨ REDGOLD 1.0.0 — 전체 교재 작업 완료 ✨</h1>
+<h1 align="center">✨ REDGOLD 1.0.0 — Full Textbook Run Complete ✨</h1>
 
 <p align="center">
   <strong>Textbooks are mid. Master the bridge from HSK 4 to real-world talk.</strong><br>
@@ -21,8 +21,8 @@
 ## 🏮 The Philosophy: Red Meets Gold
 
 In traditional Chinese learning, there has always been a disconnect.
-- **The Red (赤)**: Represents the formal, structured HSK curriculum—essential for exams but often sounding "robotic" in real life.
-- **The Gold (金)**: Represents the colloquial, native rhythm—the way people *actually* talk in the streets of Beijing or Shanghai.
+- **The Red**: Represents the formal, structured HSK curriculum—essential for exams but often sounding "robotic" in real life.
+- **The Gold**: Represents the colloquial, native rhythm—the way people *actually* talk in the streets of Beijing or Shanghai.
 
 **RedGold** bridges this gap. We transform the **[HSK 4 Standard Course](https://www.blcup.com/EnSeriesBook/index/8)** into a premium, interactive experience that teaches you not just *what* to say, but *how* to say it like a native.
 
@@ -36,7 +36,7 @@ Our intelligent **Scroll Engine** in the `TextSection` component provides a seam
 - **Timing Heuristics**: Calculates line changes based on character weight and audio duration for frame-perfect synchronization.
 
 ### 🏷️ Proper Nouns Support
-Unlike standard HSK tools, RedGold explicitly identifies and styles **专有名词 (Proper Nouns)** — names, places, brands — with pinyin AND English meaning right there, no lookup needed. Styled in the signature **Modern Han Elegant** gold theme.
+Unlike standard HSK tools, RedGold explicitly identifies and styles **Proper Nouns** — names, places, brands — with pinyin AND English meaning right there, no lookup needed. Styled in the signature **Modern Han Elegant** gold theme.
 
 ### ⚡ Smart Prefetching
 Zero-latency transitions. The app predicts your learning path and pre-warms audio assets and lesson data as you browse, ensuring the next chapter is ready before you even click.
@@ -138,10 +138,10 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 ---
 
 ### v1.0.0 — 2026-06-04
-> *전체 교재 작업 완료.* RedGold now has complete HSK 4 textbook JSON coverage from Lesson 1 through Lesson 20.
+> *Full textbook run complete.* RedGold now has complete HSK 4 textbook JSON coverage from Lesson 1 through Lesson 20.
 
 - 📚 **Lessons 1-20 Complete** — Completed and validated all lesson JSON data across textbook texts, vocabulary, grammar/notes, mastery sentences, and locale translation packs.
-- 🏆 **Lesson 20 Finalized** — Added Lesson 20 notes and mastery sentences, including `V+着+V+着`, `一……就……`, `究竟`, `起来`, `V+起`, and `同字词：格`.
+- 🏆 **Lesson 20 Finalized** — Added Lesson 20 notes and mastery sentences, including repeated-progressive verb patterns, immediate-sequence structures, emphasis adverbs, directional complements, and same-character vocab notes.
 - 🌐 **Locale Packs Completed** — Backfilled missing `translations.vocabulary`, `properNouns`, `lessonTitle`, `textTitles`, grammar examples, and mastery fields where needed.
 - 🧱 **Auto JSON Rules Hardened** — Updated `plan/auto_json` rules to prevent recurring schema gaps around optional `proper_nouns`, grammar translation wrappers, and mastery base fields.
 - ✅ **Full Validation Pass** — Revalidated Lessons 1-20 with optional proper nouns excluded correctly: `checked: 20`, `passed: 20`, `failed: 0`.
@@ -161,8 +161,8 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 ### v0.9.84 — 2026-06-03
 > *Lesson 12 Complete.* The textbook data pipeline now covers the careful-observation and methods chapter.
 
-- 📚 **Lesson 12 Textbook Data Complete** — Added `data/lesson12.json` for `用心发现世界`, covering Text 1-5, 33 vocabulary items, 6 grammar/notes entries, 5 mastery sentences, and 3 same-character word examples.
-- 🧩 **Grammar Notes Preserved** — Added `并且`, `再……也……`, `对于`, `对于 vs 关于`, `名量词重叠`, and `相反` with full formal examples.
+- 📚 **Lesson 12 Textbook Data Complete** — Added `data/lesson12.json` for the attentive-world-discovery chapter, covering Text 1-5, 33 vocabulary items, 6 grammar/notes entries, 5 mastery sentences, and 3 same-character word examples.
+- 🧩 **Grammar Notes Preserved** — Added the full set of Lesson 12 conjunction, comparison, noun-measure reduplication, and contrast notes with complete formal examples.
 - 🏆 **Mastery Expansion** — Added 5 Golden Sentences with Living Language equivalents for problem solving, praise, education methods, giving advice, and choosing methods.
 - 🌐 **Locale Sync** — Filled KO/JA/EN translations for vocabulary, proper nouns, text titles, text lines, grammar explanations/examples, same-character examples, and mastery sentences.
 - ✅ **Validation** — Confirmed Lesson 12 JSON parses successfully, locale mapping reports zero missing fields, and text line indexes are 0-based.
@@ -172,8 +172,8 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 ### v0.9.82 — 2026-06-03
 > *Lesson 11 Complete.* The textbook data pipeline now covers the reading-methods chapter.
 
-- 📚 **Lesson 11 Textbook Data Complete** — Added `data/lesson11.json` for `马克介绍自己学习汉语的方法`, covering Text 1-5, 30 vocabulary items, 7 grammar/notes entries, 5 mastery sentences, and complete locale data.
-- 🧩 **Grammar Notes Preserved** — Added `连……也/都……`, `否则`, `无论……都/也……`, `无论 vs 不管`, `然而`, `同时`, and `同字词：同` with full formal and colloquial examples.
+- 📚 **Lesson 11 Textbook Data Complete** — Added `data/lesson11.json` for the self-study-methods chapter, covering Text 1-5, 30 vocabulary items, 7 grammar/notes entries, 5 mastery sentences, and complete locale data.
+- 🧩 **Grammar Notes Preserved** — Added the full set of Lesson 11 emphasis, condition, no-matter, contrast, simultaneity, and same-character notes with full formal and colloquial examples.
 - 🌐 **Locale Sync** — Filled KO/JA/EN translations for vocabulary, proper nouns, text titles, text lines, grammar explanations/examples, and mastery sentences.
 - ✅ **Validation** — Confirmed Lesson 11 JSON parses successfully and locale mapping reports zero issues.
 
@@ -183,7 +183,7 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 > *Lessons 1-5 Grammar Image Review Complete.* The textbook grammar notes were rechecked against the source images.
 
 - 📚 **Lesson 1-5 Grammar Review** — Rechecked grammar sections in `data/lesson1.json` through `data/lesson5.json` against the provided textbook images.
-- 🧩 **Compare & Expansion Notes Preserved** — Stored comparison pages such as `刚 vs 刚才`, `另外 vs 另`, and `尤其 vs 特别` as explicit grammar items, and preserved same-character expansion pages as `同字词` entries.
+- 🧩 **Compare & Expansion Notes Preserved** — Stored comparison pages as explicit grammar items and preserved same-character expansion pages as dedicated notes.
 - 🈶 **Chinese Examples Complete** — Ensured every Chinese example shown in the grammar images is represented in the JSON data.
 - 🌐 **Locale Sync** — Aligned `translations.grammar` keys and example counts with the updated grammar entries, including Korean, Japanese, and English translations.
 - 🛠️ **Recognition Rules Hardened** — Updated `plan/image_recognition/2.rules_notes.md` so future grammar image passes preserve comparison/expansion pages instead of collapsing or inventing structure.
@@ -194,7 +194,7 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 ### v0.9.78 — 2026-06-02
 > *Lesson 5 Complete.* The textbook data pipeline now covers Lesson 5.
 
-- 📚 **Lesson 5 Textbook Data Complete** — Added `data/lesson5.json` for `王静在家具店买沙发`, covering Text 1-5, vocabulary, grammar notes, comparison content, same-character word notes, mastery sentences, and locale data.
+- 📚 **Lesson 5 Textbook Data Complete** — Added `data/lesson5.json` for the furniture-store sofa-buying chapter, covering Text 1-5, vocabulary, grammar notes, comparison content, same-character word notes, mastery sentences, and locale data.
 - ✅ **Validation** — Confirmed `data/lesson5.json` parses as valid JSON.
 
 ---
@@ -215,12 +215,12 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 ---
 
 ### v0.9.74 — 2026-06-01
-> *生词-Sourced Vocab, Lesson Title i18n & Pinyin Toggle Polish.* Precision over assumptions.
+> *Textbook-Sourced Vocab, Lesson Title i18n & Pinyin Toggle Polish.* Precision over assumptions.
 
-- 📝 **Pinyin Toggle Fix for Text Titles** — Extracted pinyin from text titles (e.g., `孙月和王静聊王静的男朋友 (sūn yuè hé wáng jìng liáo wáng jìng de nán péng yǒu)`) into a separate `.pinyin` div via `titlePinyin` field in `lessonTranslations.ts`, so the global pinyin toggle CSS properly hides/shows it.
-- 🎯 **Vocab & Review Tabs Now Sourced from 生词** — Both tabs now collect unique vocabulary items from each text's 生词 (new words) section instead of the top-level `lesson.vocabulary` array. This ensures only words actually introduced in the textbook pages appear.
+- 📝 **Pinyin Toggle Fix for Text Titles** — Extracted pinyin from text titles into a separate `.pinyin` div via the `titlePinyin` field in `lessonTranslations.ts`, so the global pinyin toggle CSS properly hides/shows it.
+- 🎯 **Vocab & Review Tabs Now Sourced from Textbook New-Words Sections** — Both tabs now collect unique vocabulary items from each text's new-words section instead of the top-level `lesson.vocabulary` array. This ensures only words actually introduced in the textbook pages appear.
 - 🔧 **`getTextVocab()` Extracted** — Deduplicated vocab collection logic into a reusable exported function in `lessonTranslations.ts`, used by both the vocab tab and review tab.
-- 🛡️ **Meaning Fallback Fix** — Added `pickLocalized(...) || item.meaning` so text vocabulary items without a translation pack entry still display their original English meaning (e.g., `幸福` → `adj. happy`).
+- 🛡️ **Meaning Fallback Fix** — Added `pickLocalized(...) || item.meaning` so text vocabulary items without a translation pack entry still display their original English meaning.
 - 🌏 **Lesson Title Korean/Japanese i18n** — Filled in `lessonTitle` and `textTitles` translations (ko/ja) for Lessons 1–4. Now the lesson header properly displays the locale-specific subtitle below the pinyin line.
 
 ---
@@ -255,9 +255,9 @@ Every local commit bumps the patch version by `0.0.1`, and the commit message is
 
 - 🔢 **Version badge is live** — header now shows `vX.X.X` + last build date on both the landing page and the lesson view
 - ⚙️ **Automatic patch bump** — local git hooks patch `0.0.1` before every commit and make sure the commit message includes the bumped version
-- 🏷️ **专有名词 (Proper Nouns) overhaul** — corrected all proper noun entries to match the actual textbook pages (images > assumptions, always)
-- 📖 **Dialogue 2 data fix** — `李` is the only proper noun. `王静` and `李老师` were wrongly listed; axed. Textbook is the source of truth.
-- ➕ **幸福 (xìngfú)** added to Dialogue 2 vocabulary — it was literally in the textbook and we missed it. Fixed.
+- 🏷️ **Proper Nouns Overhaul** — corrected all proper noun entries to match the actual textbook pages (images > assumptions, always)
+- 📖 **Dialogue 2 Data Fix** — cleaned up the proper noun list so it follows the textbook instead of guesswork.
+- ➕ **Missing Vocab Added** — added the missing "happy" vocab item from Dialogue 2 because the textbook had it and the data needed to catch up.
 - 📏 **Vocabulary meanings tightened up** — part-of-speech labels (`adj.`, `v.`, `adv.`) now match the textbook format exactly
 
 ---
