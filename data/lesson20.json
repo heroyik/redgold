@@ -1,6 +1,6 @@
 {
   "lessonId": 20,
-  "title": "Lesson 20: 小张去北京，朋友送小张去机场 (Xiǎo Zhāng qù Běijīng, péngyou sòng Xiǎo Zhāng qù jīchǎng) (Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport)",
+  "title": "Lesson 20: 小张去北京，朋友送小张去机场 (xiǎo zhāng qù běijīng, péngyou sòng xiǎo zhāng qù jīchǎng) (Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport)",
   "vocabulary": [
     {
       "word": "加油站",
@@ -1836,9 +1836,9 @@
       }
     },
     "lessonTitle": {
-      "ko": "제20과: 샤오장이 베이징에 가고, 친구가 샤오장을 공항까지 바래다주다",
-      "ja": "第20課: 小張が北京へ行き、友人が小張を空港まで送る",
-      "en": "Lesson 20: Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport"
+      "ko": "Xiao Zhang heads to Beijing, and his friend gives him an airport ride.",
+      "ja": "小張が北京へ行き、友だちが空港まで送ってくれる。",
+      "en": "Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport"
     },
     "textTitles": {
       "1": {
