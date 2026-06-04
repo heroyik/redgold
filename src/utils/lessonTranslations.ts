@@ -27,8 +27,16 @@ type LessonTranslationPack = {
   }>;
 };
 
+function normalizeEnglishText(text: string) {
+  return text.replace(/([A-Za-z])\s*[’']\s*([A-Za-z])/g, "$1'$2");
+}
+
 function pickLocalized(localized: LocalizedText | undefined, language: AppLanguage) {
-  return localized?.[language];
+  const text = localized?.[language];
+  if (language === 'en' && text) {
+    return normalizeEnglishText(text);
+  }
+  return text;
 }
 
 export function getTextVocab(data: { texts?: any[] }): any[] {
