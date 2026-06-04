@@ -1,6 +1,6 @@
 {
   "lessonId": 17,
-  "title": "Lesson 17: 小夏和安娜在聊天气 (xiǎo xià hé ānnà zài liáo tiānqì) (Xiao Xia and Anna are chatting about the weather)",
+  "title": "Lesson 17: 人与自然 (rén yǔ zìrán) (People and Nature)",
   "vocabulary": [
     {
       "word": "凉快",
@@ -805,9 +805,9 @@
   ],
   "translations": {
     "lessonTitle": {
-      "en": "Xiao Xia and Anna are chatting about the weather",
-      "ko": "샤오샤와 안나가 날씨에 대해 이야기하다",
-      "ja": "小夏とアンナが天気について話す"
+      "ko": "People and nature, same ecosystem.",
+      "ja": "人と自然は同じ生態系にいる。",
+      "en": "People and Nature"
     },
     "textTitles": {
       "1": {

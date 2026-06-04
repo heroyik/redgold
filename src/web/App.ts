@@ -107,6 +107,25 @@ class App extends HTMLElement {
     this.render();
   }
 
+  private getCurrentLessonTitle() {
+    return this._lessons.find(l => l.id === this._currentLesson)?.title || this._data?.title || 'HSK 4';
+  }
+
+  private getLessonHeaderParts() {
+    const title = this.getCurrentLessonTitle();
+    const dataTitleMatch = this._data?.title.match(/^Lesson\s+\d+:\s+.+?\s*\(([^)]+)\)\s*\(([^)]+)\)$/);
+    const titleMatch = title.match(/^(Lesson\s+\d+:\s*.+?)(?:\s*\(([^)]+)\))?(?:\s*\(([^)]+)\))?$/);
+
+    if (!titleMatch) {
+      return { heading: title, subtitle: dataTitleMatch?.[1] || '' };
+    }
+
+    return {
+      heading: titleMatch[1].trim(),
+      subtitle: titleMatch[2] || dataTitleMatch?.[1] || '',
+    };
+  }
+
   connectedCallback() {
 
     this.render();
@@ -910,8 +929,13 @@ class App extends HTMLElement {
         <div class="app-container">
           <div class="lesson-toolbar">
             <header>
-              <h1>${this._data ? this._data.title.split('(')[0].trim() : 'HSK 4'}</h1>
-              <p class="subtitle">${this._data ? this._data.title.split('(')[1]?.replace(')', '') || '' : ''}</p>
+              ${(() => {
+                const lessonHeader = this.getLessonHeaderParts();
+                return `
+                  <h1>${lessonHeader.heading}</h1>
+                  <p class="subtitle">${lessonHeader.subtitle}</p>
+                `;
+              })()}
               ${this._data && this._data.translations?.lessonTitle?.[this._language] ? `<p class="locale-title">${this._data.translations.lessonTitle[this._language]}</p>` : ''}
             </header>
 

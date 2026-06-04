@@ -1,6 +1,6 @@
 {
   "lessonId": 18,
-  "title": "Lesson 18: 王静给孙月推荐一本书 (wáng jìng gěi sūn yuè tuījiàn yì běn shū) (Wang Jing recommends a book to Sun Yue)",
+  "title": "Lesson 18: 科技与生活 (kējì yǔ shēnghuó) (Technology and Life)",
   "vocabulary": [
     {
       "word": "降落",
@@ -1653,9 +1653,9 @@
       }
     },
     "lessonTitle": {
-      "ko": "왕징이 쑨웨에게 책 한 권을 추천하다",
-      "ja": "王静が孙月に本を一冊勧める",
-      "en": "Wang Jing recommends a book to Sun Yue"
+      "ko": "Tech is part of everyday life now.",
+      "ja": "テクノロジーはもう日常の一部。",
+      "en": "Technology and Life"
     }
   }
 }

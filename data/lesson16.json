@@ -1,6 +1,6 @@
 {
   "lessonId": 16,
-  "title": "Lesson 16: 小夏出国留学遇到了问题 (xiǎo xià chūguó liúxué yùdào le wèntí) (Xiao Xia runs into a problem while preparing to study abroad)",
+  "title": "Lesson 16: 生活可以更美好 (shēnghuó kěyǐ gèng měihǎo) (Life Can Be Better)",
   "vocabulary": [
     {
       "word": "博士",
@@ -846,9 +846,9 @@
   ],
   "translations": {
     "lessonTitle": {
-      "en": "Xiao Xia runs into a problem while preparing to study abroad",
-      "ko": "샤오샤가 출국 유학을 준비하다가 문제를 만나다",
-      "ja": "小夏が海外留学の準備中に問題に遭う"
+      "ko": "Life can get even better.",
+      "ja": "生活はもっとよくできる。",
+      "en": "Life Can Be Better"
     },
     "textTitles": {
       "1": {
