@@ -1,0 +1,1738 @@
+{
+  "lessonId": 8,
+  "title": "Lesson 8: 生活中不缺少美 (shēnghuó zhōng bù quēshǎo měi) (There is no lack of beauty in life)",
+  "vocabulary": [
+    {
+      "word": "巧克力",
+      "pinyin": "qiǎokèlì",
+      "meaning": "n. chocolate"
+    },
+    {
+      "word": "亲戚",
+      "pinyin": "qīnqi",
+      "meaning": "n. relative, kinsfolk"
+    },
+    {
+      "word": "伤心",
+      "pinyin": "shāngxīn",
+      "meaning": "adj. sad, sorrowful"
+    },
+    {
+      "word": "使",
+      "pinyin": "shǐ",
+      "meaning": "v. to make, to cause"
+    },
+    {
+      "word": "心情",
+      "pinyin": "xīnqíng",
+      "meaning": "n. mood, state of mind"
+    },
+    {
+      "word": "愉快",
+      "pinyin": "yúkuài",
+      "meaning": "adj. glad, cheerful"
+    },
+    {
+      "word": "景色",
+      "pinyin": "jǐngsè",
+      "meaning": "n. scene, view"
+    },
+    {
+      "word": "放松",
+      "pinyin": "fàngsōng",
+      "meaning": "v. to relax"
+    },
+    {
+      "word": "压力",
+      "pinyin": "yālì",
+      "meaning": "n. pressure, stress"
+    },
+    {
+      "word": "回忆",
+      "pinyin": "huíyì",
+      "meaning": "v. to call to mind, to recall"
+    },
+    {
+      "word": "发生",
+      "pinyin": "fāshēng",
+      "meaning": "v. to happen, to take place"
+    },
+    {
+      "word": "成为",
+      "pinyin": "chéngwéi",
+      "meaning": "v. to become"
+    },
+    {
+      "word": "只要",
+      "pinyin": "zhǐyào",
+      "meaning": "conj. as long as, provided"
+    },
+    {
+      "word": "师傅",
+      "pinyin": "shīfu",
+      "meaning": "n. a polite title for one with accomplished skills in a trade or handicraft"
+    },
+    {
+      "word": "大使馆",
+      "pinyin": "dàshǐguǎn",
+      "meaning": "n. embassy"
+    },
+    {
+      "word": "堵车",
+      "pinyin": "dǔ chē",
+      "meaning": "v. traffic jam"
+    },
+    {
+      "word": "距离",
+      "pinyin": "jùlí",
+      "meaning": "n. distance"
+    },
+    {
+      "word": "耐心",
+      "pinyin": "nàixīn",
+      "meaning": "n. patience"
+    },
+    {
+      "word": "生命",
+      "pinyin": "shēngmìng",
+      "meaning": "n. life"
+    },
+    {
+      "word": "缺少",
+      "pinyin": "quēshǎo",
+      "meaning": "v. to lack"
+    },
+    {
+      "word": "到处",
+      "pinyin": "dàochù",
+      "meaning": "adv. everywhere"
+    },
+    {
+      "word": "态度",
+      "pinyin": "tàidù",
+      "meaning": "n. attitude"
+    },
+    {
+      "word": "因此",
+      "pinyin": "yīncǐ",
+      "meaning": "conj. therefore, so"
+    },
+    {
+      "word": "科学",
+      "pinyin": "kēxué",
+      "meaning": "n. science"
+    },
+    {
+      "word": "证明",
+      "pinyin": "zhèngmíng",
+      "meaning": "v. to prove"
+    },
+    {
+      "word": "往往",
+      "pinyin": "wǎngwǎng",
+      "meaning": "adv. often, usually"
+    },
+    {
+      "word": "阳光",
+      "pinyin": "yángguāng",
+      "meaning": "adj. optimistic, cheerful"
+    },
+    {
+      "word": "积极",
+      "pinyin": "jījí",
+      "meaning": "adj. positive"
+    },
+    {
+      "word": "特点",
+      "pinyin": "tèdiǎn",
+      "meaning": "n. characteristic"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "使",
+      "explanation": "The verb “使” means “to make, to cause”, similar to “让”. It is usually used in written Chinese and often describes causing someone or something to enter a certain state or produce a certain result.",
+      "formal_examples": [
+        {
+          "chinese": "她看都没看过我一眼，怎么样才能<b>使</b>她喜欢我呢？",
+          "pinyin": "Tā kàn dōu méi kàn guo wǒ yì yǎn, zěnmeyàng cái néng shǐ tā xǐhuan wǒ ne?",
+          "translation": "She has never even glanced at me. How can I make her like me?"
+        },
+        {
+          "chinese": "在中国生活的三年<b>使</b>他在音乐方面有了很多新的想法。",
+          "pinyin": "Zài Zhōngguó shēnghuó de sān nián shǐ tā zài yīnyuè fāngmiàn yǒu le hěn duō xīn de xiǎngfǎ.",
+          "translation": "The three years he spent living in China gave him many new ideas about music."
+        },
+        {
+          "chinese": "听说伤心难过的时候吃块儿巧克力，还能<b>使</b>人的心情变得愉快。",
+          "pinyin": "Tīngshuō shāngxīn nánguò de shíhou chī kuàir qiǎokèlì, hái néng shǐ rén de xīnqíng biàn de yúkuài.",
+          "translation": "I heard that eating a piece of chocolate when you are sad can also make your mood become cheerful."
+        }
+      ],
+      "colloquial_pattern": "使 / 让",
+      "colloquial_examples": [
+        {
+          "chinese": "这件事<b>让</b>我很高兴。",
+          "pinyin": "Zhè jiàn shì ràng wǒ hěn gāoxìng.",
+          "translation": "This made me very happy."
+        },
+        {
+          "chinese": "这次旅行<b>让</b>他有了很多新的想法。",
+          "pinyin": "Zhè cì lǚxíng ràng tā yǒu le hěn duō xīn de xiǎngfǎ.",
+          "translation": "This trip gave him many new ideas."
+        },
+        {
+          "chinese": "吃点儿甜的能<b>让</b>心情好一点儿。",
+          "pinyin": "Chī diǎnr tián de néng ràng xīnqíng hǎo yìdiǎnr.",
+          "translation": "Eating something sweet can make your mood a little better."
+        }
+      ],
+      "nuance": "“使” and “让” can both express causing a result, but “使” is more formal and common in written Chinese, while “让” is more common in everyday speech. “使” often appears in explanatory or descriptive statements about effects and results."
+    },
+    {
+      "point": "只要",
+      "explanation": "The conjunction “只要” is often used in the structure “只要……就……”. The clause after “只要” states an essential condition, and the clause after “就” indicates the result produced by this condition.",
+      "formal_examples": [
+        {
+          "chinese": "<b>只要</b>这次你好好儿准备，一定能把比赛踢好。",
+          "pinyin": "Zhǐyào zhè cì nǐ hǎohāor zhǔnbèi, yídìng néng bǎ bǐsài tī hǎo.",
+          "translation": "As long as you prepare well this time, you will definitely play the match well."
+        },
+        {
+          "chinese": "<b>只要</b>你用心<b>就</b>会发现，身边有那么多有意思的事情，有那么多不一样的生活。",
+          "pinyin": "Zhǐyào nǐ yòngxīn jiù huì fāxiàn, shēnbiān yǒu nàme duō yǒu yìsi de shìqing, yǒu nàme duō bù yíyàng de shēnghuó.",
+          "translation": "As long as you pay attention, you will discover that there are so many interesting things around you and so many different ways of living."
+        },
+        {
+          "chinese": "每个人对幸福有不同的理解，对我来说，<b>只要</b>能做自己喜欢的事，<b>就</b>是幸福。",
+          "pinyin": "Měi ge rén duì xìngfú yǒu bùtóng de lǐjiě, duì wǒ lái shuō, zhǐyào néng zuò zìjǐ xǐhuan de shì, jiù shì xìngfú.",
+          "translation": "Everyone understands happiness differently. For me, as long as I can do what I like, that is happiness."
+        }
+      ],
+      "colloquial_pattern": "只要……就…… / 只要……就行",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>只要</b>你来，大家<b>就</b>很高兴。",
+          "pinyin": "Zhǐyào nǐ lái, dàjiā jiù hěn gāoxìng.",
+          "translation": "As long as you come, everyone will be happy."
+        },
+        {
+          "chinese": "<b>只要</b>别迟到<b>就</b>行。",
+          "pinyin": "Zhǐyào bié chídào jiù xíng.",
+          "translation": "It is fine as long as you are not late."
+        },
+        {
+          "chinese": "<b>只要</b>天气好，我们<b>就</b>去散步。",
+          "pinyin": "Zhǐyào tiānqì hǎo, wǒmen jiù qù sànbù.",
+          "translation": "As long as the weather is good, we will go for a walk."
+        }
+      ],
+      "nuance": "“只要……就……” emphasizes that one condition is sufficient for a result. “就” is often used in the result clause, but in natural speech it may be omitted when the result is clear."
+    },
+    {
+      "point": "可不是",
+      "explanation": "The adverb “可不是” is used to agree with or echo what the other person has said. It is often used alone as a sentence, and “可不” can also be used instead.",
+      "formal_examples": [
+        {
+          "chinese": "A：没想到咱们毕业都已经十年了。\nB：<b>可不是</b>！时间过得太快了，真想大家。",
+          "pinyin": "A: Méi xiǎng dào zánmen bìyè dōu yǐjīng shí nián le.\nB: Kě bú shì! Shíjiān guò de tài kuài le, zhēn xiǎng dàjiā.",
+          "translation": "A: I didn’t expect that it has already been ten years since we graduated.\nB: Exactly! Time passes so quickly. I really miss everyone."
+        },
+        {
+          "chinese": "A：遇到堵车，心情也“堵”。\nB：<b>可不是</b>！上班堵车怕迟到，下班堵车怕回家晚。",
+          "pinyin": "A: Yù dào dǔchē, xīnqíng yě “dǔ”.\nB: Kě bú shì! Shàngbān dǔchē pà chídào, xiàbān dǔchē pà huí jiā wǎn.",
+          "translation": "A: When you run into a traffic jam, your mood gets “jammed” too.\nB: Exactly! If there’s a traffic jam on the way to work, you’re afraid of being late; if there’s one after work, you’re afraid of getting home late."
+        },
+        {
+          "chinese": "A：这家网球馆的服务不错，给我的印象很好。\nB：<b>可不是</b>！这儿不仅环境好，还免费提供吃的和水，打球打累的时候，可以吃点儿东西休息一下。",
+          "pinyin": "A: Zhè jiā wǎngqiúguǎn de fúwù búcuò, gěi wǒ de yìnxiàng hěn hǎo.\nB: Kě bú shì! Zhèr bùjǐn huánjìng hǎo, hái miǎnfèi tígōng chī de hé shuǐ, dǎ qiú dǎ lèi de shíhou, kěyǐ chī diǎnr dōngxi xiūxi yíxià.",
+          "translation": "A: The service at this tennis court is good, and it left a very good impression on me.\nB: Exactly! The environment here is not only good, but they also provide free food and water. When you get tired from playing, you can eat something and rest for a bit."
+        }
+      ],
+      "colloquial_pattern": "可不是 / 可不",
+      "colloquial_examples": [
+        {
+          "chinese": "A：今天真热。\nB：<b>可不是</b>！",
+          "pinyin": "A: Jīntiān zhēn rè.\nB: Kě bú shì!",
+          "translation": "A: It’s really hot today.\nB: Exactly!"
+        },
+        {
+          "chinese": "A：这件事挺麻烦。\nB：<b>可不</b>！",
+          "pinyin": "A: Zhè jiàn shì tǐng máfan.\nB: Kě bù!",
+          "translation": "A: This is pretty troublesome.\nB: It sure is!"
+        },
+        {
+          "chinese": "A：时间过得真快。\nB：<b>可不是</b>嘛。",
+          "pinyin": "A: Shíjiān guò de zhēn kuài.\nB: Kě bú shì ma.",
+          "translation": "A: Time really passes quickly.\nB: It really does."
+        }
+      ],
+      "nuance": "“可不是” is a conversational response showing strong agreement, similar to “Exactly” or “That’s so true.” It can stand alone. “可不” is shorter and more colloquial, and “可不是嘛” sounds even more conversational."
+    },
+    {
+      "point": "因此",
+      "explanation": "The conjunction “因此” means “because of this”, similar to “所以” (so, therefore), but it cannot be used together with “因为”. It is often used to state a result or conclusion based on the previous reason.",
+      "formal_examples": [
+        {
+          "chinese": "我认识他很多年，<b>因此</b>，很了解他的性格。",
+          "pinyin": "Wǒ rènshi tā hěn duō nián, yīncǐ, hěn liǎojiě tā de xìnggé.",
+          "translation": "I have known him for many years; therefore, I understand his personality very well."
+        },
+        {
+          "chinese": "每个学生的性格、能力不同，<b>因此</b>，老师要根据学生的特点，用不同的方法。",
+          "pinyin": "Měi ge xuésheng de xìnggé, nénglì bùtóng, yīncǐ, lǎoshī yào gēnjù xuésheng de tèdiǎn, yòng bùtóng de fāngfǎ.",
+          "translation": "Every student has a different personality and ability; therefore, teachers should use different methods according to each student’s characteristics."
+        },
+        {
+          "chinese": "生活的态度要自己选择，<b>因此</b>，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。",
+          "pinyin": "Shēnghuó de tàidù yào zìjǐ xuǎnzé, yīncǐ, yù dào fánnǎo shí, nǐ yīnggāi xiǎng yìxiē bànfǎ ràng zìjǐ cóng bù gāoxìng de xīnqíng zhōng zǒu chūlai.",
+          "translation": "You must choose your own attitude toward life; therefore, when you encounter troubles, you should think of some ways to help yourself come out of an unhappy mood."
+        }
+      ],
+      "colloquial_pattern": "因此 / 所以",
+      "colloquial_examples": [
+        {
+          "chinese": "我今天有事，<b>所以</b>不能去。",
+          "pinyin": "Wǒ jīntiān yǒu shì, suǒyǐ bù néng qù.",
+          "translation": "I have something to do today, so I can’t go."
+        },
+        {
+          "chinese": "他准备得很认真，<b>因此</b>成绩不错。",
+          "pinyin": "Tā zhǔnbèi de hěn rènzhēn, yīncǐ chéngjì búcuò.",
+          "translation": "He prepared very carefully; therefore, his result was good."
+        },
+        {
+          "chinese": "不能说“因为……<b>因此</b>……”，一般说“因为……所以……”或者只用“因此”。",
+          "pinyin": "Bù néng shuō “yīnwèi... yīncǐ...”, yìbān shuō “yīnwèi... suǒyǐ...” huòzhě zhǐ yòng “yīncǐ”.",
+          "translation": "Do not say “because... therefore...” with “因为……因此……”; generally use “因为……所以……” or use only “因此”."
+        }
+      ],
+      "nuance": "“因此” is more formal than “所以” and is common in written or explanatory contexts. Use it to connect a reason already stated with its result. Do not combine it with “因为” in the same cause-result pattern."
+    },
+    {
+      "point": "往往",
+      "explanation": "The adverb “往往” indicates that a certain situation frequently happens under specific circumstances, often based on past experience. It is usually used to talk about things that happen with some regularity.",
+      "formal_examples": [
+        {
+          "chinese": "女孩子对衣服颜色的选择<b>往往</b>与她们的性格有关。",
+          "pinyin": "Nǚ háizi duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tāmen de xìnggé yǒuguān.",
+          "translation": "Girls’ choices of clothing colors are often related to their personalities."
+        },
+        {
+          "chinese": "有经验的出租车司机<b>往往</b>对道路情况都非常熟悉，他们知道一天的每个时段什么地方可能堵车。",
+          "pinyin": "Yǒu jīngyàn de chūzūchē sījī wǎngwǎng duì dàolù qíngkuàng dōu fēicháng shúxī, tāmen zhīdào yì tiān de měi ge shíduàn shénme dìfang kěnéng dǔchē.",
+          "translation": "Experienced taxi drivers are often very familiar with road conditions; they know where traffic jams may occur at each time of day."
+        },
+        {
+          "chinese": "除了正式的名字，中国人一般都有个小名。在家里，父母<b>往往</b>只叫孩子的小名。",
+          "pinyin": "Chúle zhèngshì de míngzi, Zhōngguó rén yìbān dōu yǒu ge xiǎomíng. Zài jiā li, fùmǔ wǎngwǎng zhǐ jiào háizi de xiǎomíng.",
+          "translation": "Besides a formal name, Chinese people usually have a childhood nickname. At home, parents often call children only by their nickname."
+        }
+      ],
+      "colloquial_pattern": "往往 / 常常 / 经常",
+      "colloquial_examples": [
+        {
+          "chinese": "天气冷的时候，大家<b>往往</b>更想吃热的东西。",
+          "pinyin": "Tiānqì lěng de shíhou, dàjiā wǎngwǎng gèng xiǎng chī rè de dōngxi.",
+          "translation": "When the weather is cold, people often want to eat hot food more."
+        },
+        {
+          "chinese": "他工作忙的时候，<b>常常</b>忘了吃午饭。",
+          "pinyin": "Tā gōngzuò máng de shíhou, chángcháng wàng le chī wǔfàn.",
+          "translation": "When he is busy with work, he often forgets to eat lunch."
+        },
+        {
+          "chinese": "有经验的人<b>往往</b>能更快找到问题。",
+          "pinyin": "Yǒu jīngyàn de rén wǎngwǎng néng gèng kuài zhǎodào wèntí.",
+          "translation": "Experienced people can often find the problem more quickly."
+        }
+      ],
+      "nuance": "“往往” emphasizes a regular tendency under certain conditions, usually inferred from experience. Compared with “常常” or “经常”, it is more analytical and is often used in explanatory statements."
+    },
+    {
+      "point": "往往 vs 经常",
+      "explanation": "Similarity: Both “往往” and “经常” can be used as adverbs to indicate that a situation occurs repeatedly. Differences: 1) “往往” summarizes situations up to the present and shows a certain regularity, so it is used for things that have already happened; “经常” only indicates that an action occurs many times, does not necessarily show regularity, and can be used for subjective wishes or things that have not yet happened but may occur repeatedly. 2) Sentences using “往往” usually specify the situation, condition, or result related to the action; sentences using “经常” have no such restriction. 3) “经常” is often equivalent to “常”, while “往往” cannot be shortened to “往”.",
+      "formal_examples": [
+        {
+          "chinese": "要是缺少调查、不听别人说明情况，不理解<b>往往/经常</b>就可能发生。",
+          "pinyin": "Yàoshi quēshǎo diàochá, bù tīng biérén shuōmíng qíngkuàng, bù lǐjiě wǎngwǎng/jīngcháng jiù kěnéng fāshēng.",
+          "translation": "If there is a lack of investigation and you do not listen to others explain the situation, misunderstanding may often occur."
+        },
+        {
+          "chinese": "吃完晚饭，他们一家<b>往往</b>去附近的公园散散步。",
+          "pinyin": "Chī wán wǎnfàn, tāmen yì jiā wǎngwǎng qù fùjìn de gōngyuán sàn san bù.",
+          "translation": "After dinner, their family often goes to a nearby park for a walk."
+        },
+        {
+          "chinese": "长时间对着电脑工作对身体不好，我们以后也<b>经常</b>去公园散散步吧。",
+          "pinyin": "Cháng shíjiān duìzhe diànnǎo gōngzuò duì shēntǐ bù hǎo, wǒmen yǐhòu yě jīngcháng qù gōngyuán sàn san bù ba.",
+          "translation": "Working in front of a computer for a long time is bad for the body. Let’s often go to the park for walks in the future too."
+        },
+        {
+          "chinese": "上大学时我很喜欢运动，<b>往往/经常</b>在周末打篮球、踢足球。",
+          "pinyin": "Shàng dàxué shí wǒ hěn xǐhuan yùndòng, wǎngwǎng/jīngcháng zài zhōumò dǎ lánqiú, tī zúqiú.",
+          "translation": "When I was in college, I liked sports very much and often played basketball and soccer on weekends."
+        },
+        {
+          "chinese": "上大学时我很喜欢运动，<b>经常</b>打篮球、踢足球。",
+          "pinyin": "Shàng dàxué shí wǒ hěn xǐhuan yùndòng, jīngcháng dǎ lánqiú, tī zúqiú.",
+          "translation": "When I was in college, I liked sports very much and often played basketball and soccer."
+        },
+        {
+          "chinese": "在商家打折的时候，有的人<b>（经）常</b>会买一些自己本来不需要，甚至很可能一直都用不到的东西。",
+          "pinyin": "Zài shāngjiā dǎzhé de shíhou, yǒu de rén (jīng)cháng huì mǎi yìxiē zìjǐ běnlái bù xūyào, shènzhì hěn kěnéng yìzhí dōu yòng bù dào de dōngxi.",
+          "translation": "When stores offer discounts, some people often buy things they originally do not need and may even never use."
+        }
+      ],
+      "colloquial_pattern": "往往 / 经常 / 常",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>往往</b>用于总结已经发生的规律：有经验的人往往更冷静。",
+          "pinyin": "Wǎngwǎng yòng yú zǒngjié yǐjīng fāshēng de guīlǜ: yǒu jīngyàn de rén wǎngwǎng gèng lěngjìng.",
+          "translation": "“往往” is used to summarize a regular pattern that has already occurred: experienced people are often calmer."
+        },
+        {
+          "chinese": "<b>经常</b>可以说将来的打算：以后我们经常联系吧。",
+          "pinyin": "Jīngcháng kěyǐ shuō jiānglái de dǎsuàn: yǐhòu wǒmen jīngcháng liánxì ba.",
+          "translation": "“经常” can be used for future intentions: Let’s keep in touch often in the future."
+        },
+        {
+          "chinese": "<b>经常</b>可以说成<b>常</b>，但<b>往往</b>不能说成“往”。",
+          "pinyin": "Jīngcháng kěyǐ shuō chéng cháng, dàn wǎngwǎng bù néng shuō chéng “wǎng”.",
+          "translation": "“经常” can be shortened to “常”, but “往往” cannot be shortened to “往”."
+        }
+      ],
+      "nuance": "Use “往往” when emphasizing an observed regularity under a specific condition, usually based on past or existing facts. Use “经常” for repeated actions more generally, including habits, subjective wishes, or future repeated actions. “经常” can be shortened to “常”; “往往” cannot be shortened."
+    },
+    {
+      "point": "同字词：要",
+      "explanation": "Words with the same character “要”: 重要, 主要, 只要, 要是. These words share the character “要”, but each has a different meaning and usage: “重要” means important, “主要” means main or mainly, “只要” means as long as, and “要是” means if.",
+      "formal_examples": [
+        {
+          "chinese": "年轻人最<b>重要</b>的是要对自己有信心。",
+          "pinyin": "Niánqīng rén zuì zhòngyào de shì yào duì zìjǐ yǒu xìnxīn.",
+          "translation": "The most important thing for young people is to have confidence in themselves."
+        },
+        {
+          "chinese": "这本书<b>主要</b>介绍了中国的文化和历史。",
+          "pinyin": "Zhè běn shū zhǔyào jièshào le Zhōngguó de wénhuà hé lìshǐ.",
+          "translation": "This book mainly introduces Chinese culture and history."
+        },
+        {
+          "chinese": "<b>只要</b>你打开电视，总能看到那么多的广告，真是浪费时间。",
+          "pinyin": "Zhǐyào nǐ dǎkāi diànshì, zǒng néng kàn dào nàme duō de guǎnggào, zhēn shì làngfèi shíjiān.",
+          "translation": "As long as you turn on the TV, you can always see so many advertisements. It really wastes time."
+        },
+        {
+          "chinese": "那个电视节目特别有意思，你<b>要是</b>有时间也看看吧。",
+          "pinyin": "Nà ge diànshì jiémù tèbié yǒu yìsi, nǐ yàoshi yǒu shíjiān yě kàn kan ba.",
+          "translation": "That TV program is especially interesting. If you have time, watch it too."
+        }
+      ],
+      "colloquial_pattern": "重要 / 主要 / 只要 / 要是",
+      "colloquial_examples": [
+        {
+          "chinese": "这件事很<b>重要</b>，别忘了。",
+          "pinyin": "Zhè jiàn shì hěn zhòngyào, bié wàng le.",
+          "translation": "This matter is important. Don’t forget it."
+        },
+        {
+          "chinese": "<b>要是</b>你累了，就休息一下。",
+          "pinyin": "Yàoshi nǐ lèi le, jiù xiūxi yíxià.",
+          "translation": "If you are tired, rest for a bit."
+        },
+        {
+          "chinese": "<b>只要</b>你愿意，我们就一起去。",
+          "pinyin": "Zhǐyào nǐ yuànyì, wǒmen jiù yìqǐ qù.",
+          "translation": "As long as you are willing, we will go together."
+        }
+      ],
+      "nuance": "This same-character note groups common words containing “要”. Do not infer the meaning only from the shared character: “重要” and “主要” are adjectives/adverbs, while “只要” and “要是” are conjunctions used to introduce conditions."
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "听说伤心难过的时候吃块儿巧克力，还能<b>使</b>人的心情变得愉快。",
+      "pinyin": "Tīngshuō shāngxīn nánguò de shíhou chī kuàir qiǎokèlì, hái néng shǐ rén de xīnqíng biàn de yúkuài.",
+      "translation": "I heard that eating a piece of chocolate when you are sad can also make your mood become cheerful.",
+      "colloquial_equivalent": "听说不开心的时候吃点儿巧克力，心情会<b>好一点儿</b>。",
+      "colloquial_pinyin": "Tīngshuō bù kāixīn de shíhou chī diǎnr qiǎokèlì, xīnqíng huì hǎo yìdiǎnr.",
+      "context": "Explaining how something can improve someone’s mood."
+    },
+    {
+      "sentence": "<b>只要</b>这次你好好儿准备，一定能把比赛踢好。",
+      "pinyin": "Zhǐyào zhè cì nǐ hǎohāor zhǔnbèi, yídìng néng bǎ bǐsài tī hǎo.",
+      "translation": "As long as you prepare well this time, you will definitely play the match well.",
+      "colloquial_equivalent": "这次<b>你好好准备</b>，肯定能踢好。",
+      "colloquial_pinyin": "Zhè cì nǐ hǎohǎo zhǔnbèi, kěndìng néng tī hǎo.",
+      "context": "Encouraging someone by emphasizing a sufficient condition for success."
+    },
+    {
+      "sentence": "遇到<b>堵车</b>，心情也“堵”。",
+      "pinyin": "Yù dào dǔchē, xīnqíng yě “dǔ”.",
+      "translation": "When you run into a traffic jam, your mood gets “jammed” too.",
+      "colloquial_equivalent": "一<b>堵车</b>，心里也跟着堵得慌。",
+      "colloquial_pinyin": "Yì dǔchē, xīn li yě gēnzhe dǔ de huāng.",
+      "context": "Using a playful expression to describe frustration in traffic."
+    },
+    {
+      "sentence": "生活的态度要自己选择，<b>因此</b>，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。",
+      "pinyin": "Shēnghuó de tàidù yào zìjǐ xuǎnzé, yīncǐ, yù dào fánnǎo shí, nǐ yīnggāi xiǎng yìxiē bànfǎ ràng zìjǐ cóng bù gāoxìng de xīnqíng zhōng zǒu chūlai.",
+      "translation": "You must choose your own attitude toward life; therefore, when you encounter troubles, you should think of some ways to help yourself come out of an unhappy mood.",
+      "colloquial_equivalent": "生活态度是自己选的，<b>所以</b>不开心的时候，要想办法让自己走出来。",
+      "colloquial_pinyin": "Shēnghuó tàidù shì zìjǐ xuǎn de, suǒyǐ bù kāixīn de shíhou, yào xiǎng bànfǎ ràng zìjǐ zǒu chūlai.",
+      "context": "Giving advice about choosing a positive attitude when facing troubles."
+    },
+    {
+      "sentence": "科学研究证明，女孩子对衣服颜色的选择<b>往往</b>与她们的性格有关。",
+      "pinyin": "Kēxué yánjiū zhèngmíng, nǚ háizi duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tāmen de xìnggé yǒuguān.",
+      "translation": "Scientific research shows that girls’ choices of clothing colors are often related to their personalities.",
+      "colloquial_equivalent": "研究发现，女生选什么颜色的衣服，<b>常常</b>跟性格有关系。",
+      "colloquial_pinyin": "Yánjiū fāxiàn, nǚshēng xuǎn shénme yánsè de yīfu, chángcháng gēn xìnggé yǒu guānxi.",
+      "context": "Summarizing an observed pattern between color choices and personality."
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "李老师和高老师聊关于巧克力的事情 (lǐ lǎoshī hé gāo lǎoshī liáo guānyú qiǎokèlì de shìqing) (Teacher Li and Teacher Gao talk about chocolate)",
+      "content": [
+        {
+          "speaker": "李老师",
+          "text": "这种巧克力味道不错，你在哪儿买的？",
+          "pinyin": "Zhè zhǒng qiǎokèlì wèidào búcuò, nǐ zài nǎr mǎi de?",
+          "translation": "This chocolate tastes pretty good. Where did you buy it?"
+        },
+        {
+          "speaker": "高老师",
+          "text": "不是我买的，是我女儿给我从国外带回来的礼物。",
+          "pinyin": "Bú shì wǒ mǎi de, shì wǒ nǚ'ér gěi wǒ cóng guówài dài huílái de lǐwù.",
+          "translation": "I didn't buy it. It was a gift my daughter brought back for me from abroad."
+        },
+        {
+          "speaker": "李老师",
+          "text": "很多人出国后常常会买外国的巧克力，回来送给亲戚朋友。",
+          "pinyin": "Hěn duō rén chūguó hòu chángcháng huì mǎi wàiguó de qiǎokèlì, huílái sòng gěi qīnqi péngyou.",
+          "translation": "After going abroad, many people often buy foreign chocolate and bring it back as gifts for relatives and friends."
+        },
+        {
+          "speaker": "高老师",
+          "text": "是啊，因为很多人都爱吃巧克力，尤其是女性。",
+          "pinyin": "Shì a, yīnwèi hěn duō rén dōu ài chī qiǎokèlì, yóuqí shì nǚxìng.",
+          "translation": "Yes, because many people love eating chocolate, especially women."
+        },
+        {
+          "speaker": "李老师",
+          "text": "这是为什么呢？",
+          "pinyin": "Zhè shì wèishénme ne?",
+          "translation": "Why is that?"
+        },
+        {
+          "speaker": "高老师",
+          "text": "巧克力大多是甜的，而很多女性都喜欢吃甜的。而且，听说伤心难过的时候吃块儿巧克力，还能使人的心情变得愉快。",
+          "pinyin": "Qiǎokèlì dàduō shì tián de, ér hěn duō nǚxìng dōu xǐhuan chī tián de. Érqiě, tīngshuō shāngxīn nánguò de shíhou chī kuàir qiǎokèlì, hái néng shǐ rén de xīnqíng biàn de yúkuài.",
+          "translation": "Most chocolate is sweet, and many women like eating sweet things. Also, I heard that when someone is sad, eating a piece of chocolate can even make their mood become cheerful."
+        }
+      ],
+      "audio": "audio/08-1.mp3",
+      "proper_nouns": [
+        {
+          "word": "李老师",
+          "pinyin": "Lǐ Lǎoshī",
+          "meaning": "Teacher Li"
+        },
+        {
+          "word": "高老师",
+          "pinyin": "Gāo Lǎoshī",
+          "meaning": "Teacher Gao"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "巧克力",
+          "pinyin": "qiǎokèlì",
+          "meaning": "n. chocolate"
+        },
+        {
+          "word": "亲戚",
+          "pinyin": "qīnqi",
+          "meaning": "n. relative, kinsfolk"
+        },
+        {
+          "word": "伤心",
+          "pinyin": "shāngxīn",
+          "meaning": "adj. sad, sorrowful"
+        },
+        {
+          "word": "使",
+          "pinyin": "shǐ",
+          "meaning": "v. to make, to cause"
+        },
+        {
+          "word": "心情",
+          "pinyin": "xīnqíng",
+          "meaning": "n. mood, state of mind"
+        },
+        {
+          "word": "愉快",
+          "pinyin": "yúkuài",
+          "meaning": "adj. glad, cheerful"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "小夏和马克聊关于上次足球比赛的事情 (xiǎo xià hé mǎkè liáo guānyú shàng cì zúqiú bǐsài de shìqing) (Xiao Xia and Mark talk about the last football match)",
+      "content": [
+        {
+          "speaker": "小夏",
+          "text": "这里的景色真美，空气也好。",
+          "pinyin": "Zhèlǐ de jǐngsè zhēn měi, kōngqì yě hǎo.",
+          "translation": "The scenery here is really beautiful, and the air is good too."
+        },
+        {
+          "speaker": "马克",
+          "text": "怎么样，心情好些了吗？",
+          "pinyin": "Zěnmeyàng, xīnqíng hǎo xiē le ma?",
+          "translation": "So, is your mood a bit better?"
+        },
+        {
+          "speaker": "小夏",
+          "text": "好多了，上次足球比赛后，好久都没这么放松了。",
+          "pinyin": "Hǎo duō le, shàng cì zúqiú bǐsài hòu, hǎo jiǔ dōu méi zhème fàngsōng le.",
+          "translation": "Much better. Since the last football match, I haven’t been this relaxed for a long time."
+        },
+        {
+          "speaker": "马克",
+          "text": "你不要有压力，好好儿准备下次比赛就好了。",
+          "pinyin": "Nǐ bú yào yǒu yālì, hǎohāor zhǔnbèi xià cì bǐsài jiù hǎo le.",
+          "translation": "Don’t feel pressured. Just prepare well for the next match."
+        },
+        {
+          "speaker": "小夏",
+          "text": "这段时间我总是一个人坐在房间里回忆那次比赛。<b>如果</b>我们能再努力一点儿，<b>就</b>一定会多进一个球。",
+          "pinyin": "Zhè duàn shíjiān wǒ zǒngshì yí ge rén zuò zài fángjiān lǐ huíyì nà cì bǐsài. Rúguǒ wǒmen néng zài nǔlì yìdiǎnr, jiù yídìng huì duō jìn yí ge qiú.",
+          "translation": "During this period, I have always been sitting alone in my room recalling that match. If we had worked just a little harder, we definitely would have scored one more goal."
+        },
+        {
+          "speaker": "马克",
+          "text": "事情已经发生了，过去的就让它成为过去吧。<b>只要</b>这次你好好儿准备，一定能把比赛踢好。",
+          "pinyin": "Shìqing yǐjīng fāshēng le, guòqù de jiù ràng tā chéngwéi guòqù ba. Zhǐyào zhè cì nǐ hǎohāor zhǔnbèi, yídìng néng bǎ bǐsài tī hǎo.",
+          "translation": "It has already happened, so let the past become the past. As long as you prepare well this time, you will definitely play the match well."
+        }
+      ],
+      "audio": "audio/08-2.mp3",
+      "proper_nouns": [
+        {
+          "word": "小夏",
+          "pinyin": "Xiǎo Xià",
+          "meaning": "name of a person"
+        },
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "景色",
+          "pinyin": "jǐngsè",
+          "meaning": "n. scene, view"
+        },
+        {
+          "word": "放松",
+          "pinyin": "fàngsōng",
+          "meaning": "v. to relax"
+        },
+        {
+          "word": "压力",
+          "pinyin": "yālì",
+          "meaning": "n. pressure, stress"
+        },
+        {
+          "word": "回忆",
+          "pinyin": "huíyì",
+          "meaning": "v. to call to mind, to recall"
+        },
+        {
+          "word": "发生",
+          "pinyin": "fāshēng",
+          "meaning": "v. to happen, to take place"
+        },
+        {
+          "word": "成为",
+          "pinyin": "chéngwéi",
+          "meaning": "v. to become"
+        },
+        {
+          "word": "只要",
+          "pinyin": "zhǐyào",
+          "meaning": "conj. as long as, provided"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "马克和司机聊关于堵车的事情 (mǎkè hé sījī liáo guānyú dǔchē de shìqing) (Mark and the driver talk about traffic jams)",
+      "content": [
+        {
+          "speaker": "马克",
+          "text": "师傅，我去大使馆，你是不是走错了？",
+          "pinyin": "Mǎkè: Shīfu, wǒ qù dàshǐguǎn, nǐ shì bu shì zǒu cuò le?",
+          "translation": "Sir, I’m going to the embassy. Did you take the wrong way?"
+        },
+        {
+          "speaker": "师傅",
+          "text": "现在是上班时间，前面有点儿堵车，我们走另外一条路，距离差不多。",
+          "pinyin": "Shīfu: Xiànzài shì shàngbān shíjiān, qiánmiàn yǒu diǎnr dǔchē, wǒmen zǒu lìngwài yì tiáo lù, jùlí chàbuduō.",
+          "translation": "It’s rush hour now, and there’s a bit of traffic ahead. Let’s take another road; the distance is about the same."
+        },
+        {
+          "speaker": "马克",
+          "text": "那就好，堵车浪费时间，遇到堵车，心情也“堵”。",
+          "pinyin": "Mǎkè: Nà jiù hǎo, dǔchē làngfèi shíjiān, yù dào dǔchē, xīnqíng yě “dǔ”.",
+          "translation": "That’s good. Traffic jams waste time, and when you run into one, your mood gets “jammed” too."
+        },
+        {
+          "speaker": "师傅",
+          "text": "可不是！上班堵车怕迟到，下班堵车怕回家晚。每天在马路上开车，要想不遇到堵车，还真难。",
+          "pinyin": "Shīfu: Kě bú shì! Shàngbān dǔchē pà chídào, xiàbān dǔchē pà huí jiā wǎn. Měitiān zài mǎlù shang kāichē, yào xiǎng bù yù dào dǔchē, hái zhēn nán.",
+          "translation": "Exactly! If there’s a traffic jam on the way to work, you’re afraid of being late; if there’s one after work, you’re afraid of getting home late. Driving on the road every day, it’s really hard to avoid traffic jams."
+        },
+        {
+          "speaker": "马克",
+          "text": "<b>一</b>遇到堵车，人们<b>就</b>容易变得没有耐心。长期这样，还会影响脾气<b>甚至</b>性格。但是您的心情为什么这么好呢？",
+          "pinyin": "Mǎkè: Yí yù dào dǔchē, rénmen jiù róngyì biàn de méiyǒu nàixīn. Chángqī zhèyàng, hái huì yǐngxiǎng píqi shènzhì xìnggé. Dànshì nín de xīnqíng wèishénme zhème hǎo ne?",
+          "translation": "Once people run into a traffic jam, they easily become impatient. If this goes on for a long time, it can also affect their temper and even their personality. But why is your mood so good?"
+        },
+        {
+          "speaker": "师傅",
+          "text": "我们改变不了堵车，但是可以试着改变自己的心情。堵车时正好可以休息一下，还可以听听自己喜欢的音乐。",
+          "pinyin": "Shīfu: Wǒmen gǎibiàn bùliǎo dǔchē, dànshì kěyǐ shìzhe gǎibiàn zìjǐ de xīnqíng. Dǔchē shí zhènghǎo kěyǐ xiūxi yíxià, hái kěyǐ tīng ting zìjǐ xǐhuan de yīnyuè.",
+          "translation": "We can’t change the traffic jam, but we can try to change our own mood. When there’s a traffic jam, it’s just a good time to rest a bit and listen to music we like."
+        }
+      ],
+      "audio": "audio/08-3.mp3",
+      "proper_nouns": [
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "name of a person"
+        },
+        {
+          "word": "师傅",
+          "pinyin": "Shīfu",
+          "meaning": "polite title for a driver or skilled worker"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "师傅",
+          "pinyin": "shīfu",
+          "meaning": "n. a polite title for one with accomplished skills in a trade or handicraft"
+        },
+        {
+          "word": "大使馆",
+          "pinyin": "dàshǐguǎn",
+          "meaning": "n. embassy"
+        },
+        {
+          "word": "堵车",
+          "pinyin": "dǔ chē",
+          "meaning": "v. traffic jam"
+        },
+        {
+          "word": "距离",
+          "pinyin": "jùlí",
+          "meaning": "n. distance"
+        },
+        {
+          "word": "耐心",
+          "pinyin": "nàixīn",
+          "meaning": "n. patience"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "关于生活态度的短文 (guānyú shēnghuó tàidù de duǎnwén) (A short passage about attitude toward life)",
+      "content": [
+        {
+          "speaker": "",
+          "text": "草绿了，那是生命的颜色；花开了，那是大自然的礼物。生活中不缺少美，缺少的是发现美的眼睛。<b>只要</b>有心，生活中的美到处都是。生活的态度要自己选择，<b>因此</b>，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。窗外是什么样子，我们无法改变，但我们可以选择站在哪个窗户前。选择一个能够带给我们快乐的窗户，这样才能选对心情，选对生活的态度。",
+          "pinyin": "Cǎo lǜ le, nà shì shēngmìng de yánsè; huā kāi le, nà shì dà zìrán de lǐwù. Shēnghuó zhōng bù quēshǎo měi, quēshǎo de shì fāxiàn měi de yǎnjing. Zhǐyào yǒu xīn, shēnghuó zhōng de měi dàochù dōu shì. Shēnghuó de tàidù yào zìjǐ xuǎnzé, yīncǐ, yù dào fánnǎo shí, nǐ yīnggāi xiǎng yìxiē bànfǎ ràng zìjǐ cóng bù gāoxìng de xīnqíng zhōng zǒu chūlái. Chuāngwài shì shénme yàngzi, wǒmen wúfǎ gǎibiàn, dàn wǒmen kěyǐ xuǎnzé zhàn zài nǎ ge chuānghu qián. Xuǎnzé yí ge nénggòu dài gěi wǒmen kuàilè de chuānghu, zhèyàng cái néng xuǎn duì xīnqíng, xuǎn duì shēnghuó de tàidù.",
+          "translation": "When the grass turns green, that is the color of life; when flowers bloom, that is a gift from nature. Life does not lack beauty; what it lacks are eyes that discover beauty. As long as you pay attention, beauty in life is everywhere. You must choose your own attitude toward life. Therefore, when you run into worries, you should think of some ways to help yourself get out of an unhappy mood. We cannot change what the view outside the window is like, but we can choose which window to stand in front of. Choose a window that can bring us happiness; only in this way can we choose the right mood and the right attitude toward life."
+        }
+      ],
+      "audio": "audio/08-4.mp3",
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "生命",
+          "pinyin": "shēngmìng",
+          "meaning": "n. life"
+        },
+        {
+          "word": "缺少",
+          "pinyin": "quēshǎo",
+          "meaning": "v. to lack"
+        },
+        {
+          "word": "到处",
+          "pinyin": "dàochù",
+          "meaning": "adv. everywhere"
+        },
+        {
+          "word": "态度",
+          "pinyin": "tàidù",
+          "meaning": "n. attitude"
+        },
+        {
+          "word": "因此",
+          "pinyin": "yīncǐ",
+          "meaning": "conj. therefore, so"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "关于颜色和性格的短文 (guānyú yánsè hé xìnggé de duǎnwén) (A short passage about colors and personality)",
+      "content": [
+        {
+          "speaker": "",
+          "text": "科学研究证明，女孩子对衣服颜色的选择往往与她们的性格有关。喜欢穿白色衣服的女孩子性格比较阳光，生活态度积极向上是她们的共同特点；而喜欢穿红色衣服的女孩子性格比较浪漫。颜色也会影响人的心情，不同的颜色会给我们带来不同的感情变化。红色让人变得热情；黄色和白色让人心情愉快；黑色却容易让人感到伤心；人们在看到蓝色时会觉得很舒服，变得安静下来；绿色让我们的眼睛得到休息。",
+          "pinyin": "Kēxué yánjiū zhèngmíng, nǚháizi duì yīfu yánsè de xuǎnzé wǎngwǎng yǔ tāmen de xìnggé yǒuguān. Xǐhuan chuān báisè yīfu de nǚháizi xìnggé bǐjiào yángguāng, shēnghuó tàidù jījí xiàng shàng shì tāmen de gòngtóng tèdiǎn; ér xǐhuan chuān hóngsè yīfu de nǚháizi xìnggé bǐjiào làngmàn. Yánsè yě huì yǐngxiǎng rén de xīnqíng, bùtóng de yánsè huì gěi wǒmen dài lái bùtóng de gǎnqíng biànhuà. Hóngsè ràng rén biàn de rèqíng; huángsè hé báisè ràng rén xīnqíng yúkuài; hēisè què róngyì ràng rén gǎndào shāngxīn; rénmen zài kàn dào lánsè shí huì juéde hěn shūfu, biàn de ānjìng xiàlái; lǜsè ràng wǒmen de yǎnjing dédào xiūxi.",
+          "translation": "Scientific research proves that girls’ choices of clothing colors are often related to their personalities. Girls who like wearing white clothes tend to have cheerful personalities, and an active, upward-looking attitude toward life is their common characteristic; girls who like wearing red clothes tend to be more romantic. Colors can also affect people’s moods, and different colors bring us different emotional changes. Red makes people become enthusiastic; yellow and white make people feel cheerful; black, however, easily makes people feel sad; when people see blue, they feel very comfortable and become calm; green lets our eyes rest."
+        }
+      ],
+      "audio": "audio/08-5.mp3",
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "科学",
+          "pinyin": "kēxué",
+          "meaning": "n. science"
+        },
+        {
+          "word": "证明",
+          "pinyin": "zhèngmíng",
+          "meaning": "v. to prove"
+        },
+        {
+          "word": "往往",
+          "pinyin": "wǎngwǎng",
+          "meaning": "adv. often, usually"
+        },
+        {
+          "word": "阳光",
+          "pinyin": "yángguāng",
+          "meaning": "adj. optimistic, cheerful"
+        },
+        {
+          "word": "积极",
+          "pinyin": "jījí",
+          "meaning": "adj. positive"
+        },
+        {
+          "word": "特点",
+          "pinyin": "tèdiǎn",
+          "meaning": "n. characteristic"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "vocabulary": {
+      "巧克力": {
+        "ko": "초콜릿",
+        "ja": "チョコレート",
+        "en": "chocolate"
+      },
+      "亲戚": {
+        "ko": "친척",
+        "ja": "親戚",
+        "en": "relative, kinsfolk"
+      },
+      "伤心": {
+        "ko": "슬프다, 마음이 아프다",
+        "ja": "悲しい、心が痛む",
+        "en": "sad, sorrowful"
+      },
+      "使": {
+        "ko": "~하게 하다",
+        "ja": "〜させる",
+        "en": "to make, to cause"
+      },
+      "心情": {
+        "ko": "기분, 마음 상태",
+        "ja": "気分、心の状態",
+        "en": "mood, state of mind"
+      },
+      "愉快": {
+        "ko": "즐겁다, 유쾌하다",
+        "ja": "愉快である、楽しい",
+        "en": "glad, cheerful"
+      },
+      "景色": {
+        "ko": "경치, 풍경",
+        "ja": "景色、眺め",
+        "en": "scene, view"
+      },
+      "放松": {
+        "ko": "긴장을 풀다, 편안해지다",
+        "ja": "リラックスする",
+        "en": "to relax"
+      },
+      "压力": {
+        "ko": "압력, 스트레스",
+        "ja": "プレッシャー、ストレス",
+        "en": "pressure, stress"
+      },
+      "回忆": {
+        "ko": "회상하다, 떠올리다",
+        "ja": "思い出す、回想する",
+        "en": "to call to mind, to recall"
+      },
+      "发生": {
+        "ko": "발생하다, 일어나다",
+        "ja": "起こる、発生する",
+        "en": "to happen, to take place"
+      },
+      "成为": {
+        "ko": "~이 되다",
+        "ja": "〜になる",
+        "en": "to become"
+      },
+      "只要": {
+        "ko": "~하기만 하면",
+        "ja": "〜さえすれば",
+        "en": "as long as, provided"
+      },
+      "师傅": {
+        "ko": "기사님, 스승/장인에 대한 공손한 호칭",
+        "ja": "師傅、職人や運転手への丁寧な呼び方",
+        "en": "polite title for a skilled worker or driver"
+      },
+      "大使馆": {
+        "ko": "대사관",
+        "ja": "大使館",
+        "en": "embassy"
+      },
+      "堵车": {
+        "ko": "교통이 막히다",
+        "ja": "渋滞する",
+        "en": "traffic jam"
+      },
+      "距离": {
+        "ko": "거리",
+        "ja": "距離",
+        "en": "distance"
+      },
+      "耐心": {
+        "ko": "인내심",
+        "ja": "忍耐、辛抱強さ",
+        "en": "patience"
+      },
+      "生命": {
+        "ko": "생명",
+        "ja": "生命",
+        "en": "life"
+      },
+      "缺少": {
+        "ko": "부족하다, 결핍되다",
+        "ja": "欠ける、不足する",
+        "en": "to lack"
+      },
+      "到处": {
+        "ko": "곳곳에, 어디에나",
+        "ja": "至るところに、どこでも",
+        "en": "everywhere"
+      },
+      "态度": {
+        "ko": "태도",
+        "ja": "態度",
+        "en": "attitude"
+      },
+      "因此": {
+        "ko": "그러므로, 따라서",
+        "ja": "したがって、それゆえ",
+        "en": "therefore, so"
+      },
+      "科学": {
+        "ko": "과학",
+        "ja": "科学",
+        "en": "science"
+      },
+      "证明": {
+        "ko": "증명하다",
+        "ja": "証明する",
+        "en": "to prove"
+      },
+      "往往": {
+        "ko": "왕왕, 흔히, 보통",
+        "ja": "往々にして、しばしば、たいてい",
+        "en": "often, usually"
+      },
+      "阳光": {
+        "ko": "밝고 긍정적인",
+        "ja": "明るい、前向きな",
+        "en": "optimistic, cheerful"
+      },
+      "积极": {
+        "ko": "적극적인, 긍정적인",
+        "ja": "積極的な、前向きな",
+        "en": "positive"
+      },
+      "特点": {
+        "ko": "특징",
+        "ja": "特徴",
+        "en": "characteristic"
+      }
+    },
+    "properNouns": {
+      "李老师": {
+        "ko": "이 선생님",
+        "ja": "李先生",
+        "en": "Teacher Li"
+      },
+      "高老师": {
+        "ko": "가오 선생님",
+        "ja": "高先生",
+        "en": "Teacher Gao"
+      },
+      "小夏": {
+        "ko": "샤오샤",
+        "ja": "小夏",
+        "en": "Xiao Xia"
+      },
+      "马克": {
+        "ko": "마크",
+        "ja": "マーク",
+        "en": "Mark"
+      },
+      "师傅": {
+        "ko": "기사님",
+        "ja": "運転手さん",
+        "en": "sir, driver"
+      }
+    },
+    "grammar": {
+      "使": {
+        "formal_translation": {
+          "ko": "동사 “使”는 “~하게 하다, ~하게 만들다”라는 뜻으로 “让”과 비슷하다. 주로 서면어에서 쓰이며, 어떤 사람이나 사물이 특정 상태가 되거나 어떤 결과가 생기게 함을 나타낸다.",
+          "ja": "動詞「使」は「〜させる、〜にする」という意味で、「让」と似ています。主に書き言葉で使われ、人や物がある状態になったり、ある結果が生じたりすることを表します。",
+          "en": "The verb “使” means “to make, to cause”, similar to “让”. It is usually used in written Chinese and often describes causing someone or something to enter a certain state or produce a certain result."
+        },
+        "colloquial_translation": {
+          "ko": "“使”와 “让”은 모두 어떤 결과를 일으킨다는 뜻을 나타낼 수 있지만, “使”는 더 격식 있고 서면어에서 자주 쓰이며, “让”은 일상 회화에서 더 자연스럽다.",
+          "ja": "「使」と「让」はどちらもある結果を引き起こすことを表せますが、「使」はより改まった書き言葉で、「让」は日常会話でより自然に使われます。",
+          "en": "“使” and “让” can both express causing a result, but “使” is more formal and common in written Chinese, while “让” is more common in everyday speech. “使” often appears in explanatory or descriptive statements about effects and results."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "She has never even glanced at me. How can I make her like me?",
+              "ko": "She has never even glanced at me. How can I make her like me?",
+              "ja": "She has never even glanced at me. How can I make her like me?"
+            }
+          },
+          {
+            "translation": {
+              "en": "The three years he spent living in China gave him many new ideas about music.",
+              "ko": "The three years he spent living in China gave him many new ideas about music.",
+              "ja": "The three years he spent living in China gave him many new ideas about music."
+            }
+          },
+          {
+            "translation": {
+              "en": "I heard that eating a piece of chocolate when you are sad can also make your mood become cheerful.",
+              "ko": "I heard that eating a piece of chocolate when you are sad can also make your mood become cheerful.",
+              "ja": "I heard that eating a piece of chocolate when you are sad can also make your mood become cheerful."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "This made me very happy.",
+              "ko": "This made me very happy.",
+              "ja": "This made me very happy."
+            }
+          },
+          {
+            "translation": {
+              "en": "This trip gave him many new ideas.",
+              "ko": "This trip gave him many new ideas.",
+              "ja": "This trip gave him many new ideas."
+            }
+          },
+          {
+            "translation": {
+              "en": "Eating something sweet can make your mood a little better.",
+              "ko": "Eating something sweet can make your mood a little better.",
+              "ja": "Eating something sweet can make your mood a little better."
+            }
+          }
+        ]
+      },
+      "只要": {
+        "formal_translation": {
+          "ko": "접속사 “只要”는 흔히 “只要……就……” 구조로 쓰인다. “只要” 뒤의 절은 필요한 조건을 제시하고, “就” 뒤의 절은 그 조건으로 생기는 결과를 나타낸다.",
+          "ja": "接続詞「只要」はよく「只要……就……」の構文で使われます。「只要」の後の節は必要条件を示し、「就」の後の節はその条件によって生じる結果を表します。",
+          "en": "The conjunction “只要” is often used in the structure “只要……就……”. The clause after “只要” states an essential condition, and the clause after “就” indicates the result produced by this condition."
+        },
+        "colloquial_translation": {
+          "ko": "“只要……就……”는 하나의 조건만 충족되면 결과가 성립함을 강조한다. 결과절에는 보통 “就”를 쓰지만, 의미가 분명할 때는 구어에서 생략되기도 한다.",
+          "ja": "「只要……就……」は、一つの条件が満たされれば結果が成り立つことを強調します。結果節には普通「就」を使いますが、意味が明らかな場合、口語では省略されることもあります。",
+          "en": "“只要……就……” emphasizes that one condition is sufficient for a result. “就” is often used in the result clause, but in natural speech it may be omitted when the result is clear."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "As long as you prepare well this time, you will definitely play the match well.",
+              "ko": "As long as you prepare well this time, you will definitely play the match well.",
+              "ja": "As long as you prepare well this time, you will definitely play the match well."
+            }
+          },
+          {
+            "translation": {
+              "en": "As long as you pay attention, you will discover that there are so many interesting things around you and so many different ways of living.",
+              "ko": "As long as you pay attention, you will discover that there are so many interesting things around you and so many different ways of living.",
+              "ja": "As long as you pay attention, you will discover that there are so many interesting things around you and so many different ways of living."
+            }
+          },
+          {
+            "translation": {
+              "en": "Everyone understands happiness differently. For me, as long as I can do what I like, that is happiness.",
+              "ko": "Everyone understands happiness differently. For me, as long as I can do what I like, that is happiness.",
+              "ja": "Everyone understands happiness differently. For me, as long as I can do what I like, that is happiness."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "As long as you come, everyone will be happy.",
+              "ko": "As long as you come, everyone will be happy.",
+              "ja": "As long as you come, everyone will be happy."
+            }
+          },
+          {
+            "translation": {
+              "en": "It is fine as long as you are not late.",
+              "ko": "It is fine as long as you are not late.",
+              "ja": "It is fine as long as you are not late."
+            }
+          },
+          {
+            "translation": {
+              "en": "As long as the weather is good, we will go for a walk.",
+              "ko": "As long as the weather is good, we will go for a walk.",
+              "ja": "As long as the weather is good, we will go for a walk."
+            }
+          }
+        ]
+      },
+      "可不是": {
+        "formal_translation": {
+          "ko": "부사 “可不是”는 상대방의 말에 동의하거나 맞장구칠 때 쓰인다. 보통 단독으로 한 문장이 되며, “可不”로도 말할 수 있다.",
+          "ja": "副詞「可不是」は、相手の言ったことに同意したり、相づちを打ったりするときに使います。単独で一文になることが多く、「可不」と言うこともできます。",
+          "en": "The adverb “可不是” is used to agree with or echo what the other person has said. It is often used alone as a sentence, and “可不” can also be used instead."
+        },
+        "colloquial_translation": {
+          "ko": "“可不是”는 “맞아”, “그러게 말이야”처럼 강한 동의를 나타내는 회화 응답이다. 단독으로 쓸 수 있고, “可不”는 더 짧고 구어적이며 “可不是嘛”는 더욱 자연스러운 맞장구 느낌이다.",
+          "ja": "「可不是」は「まったくその通り」「そうだよね」のように強い同意を表す会話での返答です。単独で使え、「可不」はより短く口語的で、「可不是嘛」はさらに会話らしい相づちになります。",
+          "en": "“可不是” is a conversational response showing strong agreement, similar to “Exactly” or “That’s so true.” It can stand alone. “可不” is shorter and more colloquial, and “可不是嘛” sounds even more conversational."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "A: I didn’t expect that it has already been ten years since we graduated.\nB: Exactly! Time passes so quickly. I really miss everyone.",
+              "ko": "A: I didn’t expect that it has already been ten years since we graduated.\nB: Exactly! Time passes so quickly. I really miss everyone.",
+              "ja": "A: I didn’t expect that it has already been ten years since we graduated.\nB: Exactly! Time passes so quickly. I really miss everyone."
+            }
+          },
+          {
+            "translation": {
+              "en": "A: When you run into a traffic jam, your mood gets “jammed” too.\nB: Exactly! If there’s a traffic jam on the way to work, you’re afraid of being late; if there’s one after work, you’re afraid of getting home late.",
+              "ko": "A: When you run into a traffic jam, your mood gets “jammed” too.\nB: Exactly! If there’s a traffic jam on the way to work, you’re afraid of being late; if there’s one after work, you’re afraid of getting home late.",
+              "ja": "A: When you run into a traffic jam, your mood gets “jammed” too.\nB: Exactly! If there’s a traffic jam on the way to work, you’re afraid of being late; if there’s one after work, you’re afraid of getting home late."
+            }
+          },
+          {
+            "translation": {
+              "en": "A: The service at this tennis court is good, and it left a very good impression on me.\nB: Exactly! The environment here is not only good, but they also provide free food and water. When you get tired from playing, you can eat something and rest for a bit.",
+              "ko": "A: The service at this tennis court is good, and it left a very good impression on me.\nB: Exactly! The environment here is not only good, but they also provide free food and water. When you get tired from playing, you can eat something and rest for a bit.",
+              "ja": "A: The service at this tennis court is good, and it left a very good impression on me.\nB: Exactly! The environment here is not only good, but they also provide free food and water. When you get tired from playing, you can eat something and rest for a bit."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "A: It’s really hot today.\nB: Exactly!",
+              "ko": "A: It’s really hot today.\nB: Exactly!",
+              "ja": "A: It’s really hot today.\nB: Exactly!"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: This is pretty troublesome.\nB: It sure is!",
+              "ko": "A: This is pretty troublesome.\nB: It sure is!",
+              "ja": "A: This is pretty troublesome.\nB: It sure is!"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Time really passes quickly.\nB: It really does.",
+              "ko": "A: Time really passes quickly.\nB: It really does.",
+              "ja": "A: Time really passes quickly.\nB: It really does."
+            }
+          }
+        ]
+      },
+      "因此": {
+        "formal_translation": {
+          "en": "The conjunction “因此” means “because of this”, similar to “所以” (so, therefore), but it cannot be used together with “因为”. It is often used to state a result or conclusion based on the previous reason.",
+          "ko": "접속사 “因此”는 “이 때문에, 그래서”라는 뜻으로 “所以”와 비슷하지만 “因为”와 함께 쓸 수 없습니다. 앞에서 말한 이유를 바탕으로 결과나 결론을 말할 때 자주 씁니다.",
+          "ja": "接続詞「因此」は「このため、したがって」という意味で、「所以」と似ていますが、「因为」と一緒には使えません。前に述べた理由に基づいて結果や結論を述べるときによく使います。"
+        },
+        "colloquial_translation": {
+          "en": "“因此” is more formal than “所以” and is common in written or explanatory contexts. Use it to connect a reason already stated with its result. Do not combine it with “因为” in the same cause-result pattern.",
+          "ko": "“因此”는 “所以”보다 격식 있고 설명문이나 글에서 자주 쓰입니다. 이미 말한 이유와 그 결과를 연결할 때 쓰며, 같은 인과 구조 안에서 “因为”와 함께 쓰지 않습니다.",
+          "ja": "「因此」は「所以」よりやや硬く、書き言葉や説明文でよく使われます。すでに述べた理由とその結果をつなぐときに使い、同じ因果構文の中で「因为」と一緒には使いません。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "I have known him for many years; therefore, I understand his personality very well.",
+              "ko": "I have known him for many years; therefore, I understand his personality very well.",
+              "ja": "I have known him for many years; therefore, I understand his personality very well."
+            }
+          },
+          {
+            "translation": {
+              "en": "Every student has a different personality and ability; therefore, teachers should use different methods according to each student’s characteristics.",
+              "ko": "Every student has a different personality and ability; therefore, teachers should use different methods according to each student’s characteristics.",
+              "ja": "Every student has a different personality and ability; therefore, teachers should use different methods according to each student’s characteristics."
+            }
+          },
+          {
+            "translation": {
+              "en": "You must choose your own attitude toward life; therefore, when you encounter troubles, you should think of some ways to help yourself come out of an unhappy mood.",
+              "ko": "You must choose your own attitude toward life; therefore, when you encounter troubles, you should think of some ways to help yourself come out of an unhappy mood.",
+              "ja": "You must choose your own attitude toward life; therefore, when you encounter troubles, you should think of some ways to help yourself come out of an unhappy mood."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I have something to do today, so I can’t go.",
+              "ko": "I have something to do today, so I can’t go.",
+              "ja": "I have something to do today, so I can’t go."
+            }
+          },
+          {
+            "translation": {
+              "en": "He prepared very carefully; therefore, his result was good.",
+              "ko": "He prepared very carefully; therefore, his result was good.",
+              "ja": "He prepared very carefully; therefore, his result was good."
+            }
+          },
+          {
+            "translation": {
+              "en": "Do not say “because... therefore...” with “因为……因此……”; generally use “因为……所以……” or use only “因此”.",
+              "ko": "Do not say “because... therefore...” with “因为……因此……”; generally use “因为……所以……” or use only “因此”.",
+              "ja": "Do not say “because... therefore...” with “因为……因此……”; generally use “因为……所以……” or use only “因此”."
+            }
+          }
+        ]
+      },
+      "往往": {
+        "formal_translation": {
+          "en": "The adverb “往往” indicates that a certain situation frequently happens under specific circumstances, often based on past experience. It is usually used to talk about things that happen with some regularity.",
+          "ko": "부사 “往往”은 과거 경험을 바탕으로 어떤 상황이 특정 조건에서 자주 발생한다는 뜻을 나타냅니다. 보통 어느 정도 규칙성이 있는 일을 말할 때 씁니다.",
+          "ja": "副詞「往往」は、過去の経験に基づいて、ある状況が特定の条件のもとでよく起こることを表します。通常、ある程度の規則性がある事柄について述べるときに使います。"
+        },
+        "colloquial_translation": {
+          "en": "“往往” emphasizes a regular tendency under certain conditions, usually inferred from experience. Compared with “常常” or “经常”, it is more analytical and is often used in explanatory statements.",
+          "ko": "“往往”은 특정 조건 아래에서 나타나는 규칙적 경향을 강조하며, 보통 경험에서 나온 판단입니다. “常常”, “经常”보다 분석적이고 설명적인 문장에서 자주 쓰입니다.",
+          "ja": "「往往」は、特定の条件のもとで見られる規則的な傾向を強調し、普通は経験から導かれた判断です。「常常」や「经常」より分析的で、説明的な文でよく使われます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Girls’ choices of clothing colors are often related to their personalities.",
+              "ko": "Girls’ choices of clothing colors are often related to their personalities.",
+              "ja": "Girls’ choices of clothing colors are often related to their personalities."
+            }
+          },
+          {
+            "translation": {
+              "en": "Experienced taxi drivers are often very familiar with road conditions; they know where traffic jams may occur at each time of day.",
+              "ko": "Experienced taxi drivers are often very familiar with road conditions; they know where traffic jams may occur at each time of day.",
+              "ja": "Experienced taxi drivers are often very familiar with road conditions; they know where traffic jams may occur at each time of day."
+            }
+          },
+          {
+            "translation": {
+              "en": "Besides a formal name, Chinese people usually have a childhood nickname. At home, parents often call children only by their nickname.",
+              "ko": "Besides a formal name, Chinese people usually have a childhood nickname. At home, parents often call children only by their nickname.",
+              "ja": "Besides a formal name, Chinese people usually have a childhood nickname. At home, parents often call children only by their nickname."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "When the weather is cold, people often want to eat hot food more.",
+              "ko": "When the weather is cold, people often want to eat hot food more.",
+              "ja": "When the weather is cold, people often want to eat hot food more."
+            }
+          },
+          {
+            "translation": {
+              "en": "When he is busy with work, he often forgets to eat lunch.",
+              "ko": "When he is busy with work, he often forgets to eat lunch.",
+              "ja": "When he is busy with work, he often forgets to eat lunch."
+            }
+          },
+          {
+            "translation": {
+              "en": "Experienced people can often find the problem more quickly.",
+              "ko": "Experienced people can often find the problem more quickly.",
+              "ja": "Experienced people can often find the problem more quickly."
+            }
+          }
+        ]
+      },
+      "往往 vs 经常": {
+        "formal_translation": {
+          "en": "Similarity: Both “往往” and “经常” can be used as adverbs to indicate that a situation occurs repeatedly. Differences: “往往” summarizes observed regularity up to the present and is used for things that have already happened; “经常” only indicates repeated occurrence and can also express wishes or future repeated actions. Sentences with “往往” usually specify a situation, condition, or result, while “经常” has no such restriction. “经常” can be shortened to “常”, but “往往” cannot be shortened to “往”.",
+          "ko": "공통점: “往往”과 “经常”은 모두 어떤 상황이 반복해서 나타남을 나타내는 부사입니다. 차이점: “往往”은 지금까지 관찰된 규칙성을 요약하며 이미 발생한 일에 씁니다. “经常”은 단순히 여러 번 발생함을 나타내며 바람이나 앞으로 반복될 일을 말할 수도 있습니다. “往往”이 쓰인 문장은 보통 상황, 조건, 결과를 함께 밝히지만 “经常”은 이런 제한이 없습니다. “经常”은 “常”으로 줄일 수 있지만 “往往”은 “往”으로 줄일 수 없습니다.",
+          "ja": "共通点：「往往」と「经常」はどちらも、ある状況が繰り返し起こることを表す副詞です。違い：「往往」はこれまで観察された規則性をまとめる表現で、すでに起こった事柄に使います。「经常」は単に何度も起こることを示し、願望や今後繰り返される行動にも使えます。「往往」を使う文は通常、状況・条件・結果を明示しますが、「经常」にはその制限がありません。「经常」は「常」と短くできますが、「往往」は「往」とは言えません。"
+        },
+        "colloquial_translation": {
+          "en": "Use “往往” when emphasizing an observed regularity under a specific condition. Use “经常” more generally for repeated actions, including habits, wishes, and future plans.",
+          "ko": "특정 조건에서 관찰된 규칙성을 강조할 때는 “往往”을 씁니다. 습관, 바람, 앞으로의 계획처럼 반복되는 동작을 넓게 말할 때는 “经常”을 씁니다.",
+          "ja": "特定の条件のもとで観察された規則性を強調するときは「往往」を使います。習慣、願望、今後の予定など、繰り返される行動を広く言うときは「经常」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "If there is a lack of investigation and you do not listen to others explain the situation, misunderstanding may often occur.",
+              "ko": "If there is a lack of investigation and you do not listen to others explain the situation, misunderstanding may often occur.",
+              "ja": "If there is a lack of investigation and you do not listen to others explain the situation, misunderstanding may often occur."
+            }
+          },
+          {
+            "translation": {
+              "en": "After dinner, their family often goes to a nearby park for a walk.",
+              "ko": "After dinner, their family often goes to a nearby park for a walk.",
+              "ja": "After dinner, their family often goes to a nearby park for a walk."
+            }
+          },
+          {
+            "translation": {
+              "en": "Working in front of a computer for a long time is bad for the body. Let’s often go to the park for walks in the future too.",
+              "ko": "Working in front of a computer for a long time is bad for the body. Let’s often go to the park for walks in the future too.",
+              "ja": "Working in front of a computer for a long time is bad for the body. Let’s often go to the park for walks in the future too."
+            }
+          },
+          {
+            "translation": {
+              "en": "When I was in college, I liked sports very much and often played basketball and soccer on weekends.",
+              "ko": "When I was in college, I liked sports very much and often played basketball and soccer on weekends.",
+              "ja": "When I was in college, I liked sports very much and often played basketball and soccer on weekends."
+            }
+          },
+          {
+            "translation": {
+              "en": "When I was in college, I liked sports very much and often played basketball and soccer.",
+              "ko": "When I was in college, I liked sports very much and often played basketball and soccer.",
+              "ja": "When I was in college, I liked sports very much and often played basketball and soccer."
+            }
+          },
+          {
+            "translation": {
+              "en": "When stores offer discounts, some people often buy things they originally do not need and may even never use.",
+              "ko": "When stores offer discounts, some people often buy things they originally do not need and may even never use.",
+              "ja": "When stores offer discounts, some people often buy things they originally do not need and may even never use."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "“往往” is used to summarize a regular pattern that has already occurred: experienced people are often calmer.",
+              "ko": "“往往” is used to summarize a regular pattern that has already occurred: experienced people are often calmer.",
+              "ja": "“往往” is used to summarize a regular pattern that has already occurred: experienced people are often calmer."
+            }
+          },
+          {
+            "translation": {
+              "en": "“经常” can be used for future intentions: Let’s keep in touch often in the future.",
+              "ko": "“经常” can be used for future intentions: Let’s keep in touch often in the future.",
+              "ja": "“经常” can be used for future intentions: Let’s keep in touch often in the future."
+            }
+          },
+          {
+            "translation": {
+              "en": "“经常” can be shortened to “常”, but “往往” cannot be shortened to “往”.",
+              "ko": "“经常” can be shortened to “常”, but “往往” cannot be shortened to “往”.",
+              "ja": "“经常” can be shortened to “常”, but “往往” cannot be shortened to “往”."
+            }
+          }
+        ]
+      },
+      "同字词：要": {
+        "formal_translation": {
+          "en": "Words with the same character “要”: 重要, 主要, 只要, 要是. These words share the character “要”, but each has a different meaning and usage: “重要” means important, “主要” means main or mainly, “只要” means as long as, and “要是” means if.",
+          "ko": "같은 글자 “要”가 들어간 단어: 重要, 主要, 只要, 要是. 모두 “要”를 포함하지만 뜻과 용법은 다릅니다. “重要”는 중요하다, “主要”는 주요한/주로, “只要”는 ~하기만 하면, “要是”는 만약이라는 뜻입니다.",
+          "ja": "同じ字「要」を含む語：重要、主要、只要、要是。どれも「要」を含みますが、意味と用法は異なります。「重要」は重要である、「主要」は主な・主に、「只要」は〜しさえすれば、「要是」はもし、という意味です。"
+        },
+        "colloquial_translation": {
+          "en": "Do not infer the meaning only from the shared character. “重要” and “主要” are adjectives/adverbs, while “只要” and “要是” are conjunctions used to introduce conditions.",
+          "ko": "공통 글자만 보고 뜻을 추측하면 안 됩니다. “重要”와 “主要”는 형용사/부사 성격이고, “只要”와 “要是”는 조건을 이끄는 접속사입니다.",
+          "ja": "共通する字だけで意味を判断してはいけません。「重要」と「主要」は形容詞・副詞的な語で、「只要」と「要是」は条件を導く接続詞です。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "The most important thing for young people is to have confidence in themselves.",
+              "ko": "The most important thing for young people is to have confidence in themselves.",
+              "ja": "The most important thing for young people is to have confidence in themselves."
+            }
+          },
+          {
+            "translation": {
+              "en": "This book mainly introduces Chinese culture and history.",
+              "ko": "This book mainly introduces Chinese culture and history.",
+              "ja": "This book mainly introduces Chinese culture and history."
+            }
+          },
+          {
+            "translation": {
+              "en": "As long as you turn on the TV, you can always see so many advertisements. It really wastes time.",
+              "ko": "As long as you turn on the TV, you can always see so many advertisements. It really wastes time.",
+              "ja": "As long as you turn on the TV, you can always see so many advertisements. It really wastes time."
+            }
+          },
+          {
+            "translation": {
+              "en": "That TV program is especially interesting. If you have time, watch it too.",
+              "ko": "That TV program is especially interesting. If you have time, watch it too.",
+              "ja": "That TV program is especially interesting. If you have time, watch it too."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "This matter is important. Don’t forget it.",
+              "ko": "This matter is important. Don’t forget it.",
+              "ja": "This matter is important. Don’t forget it."
+            }
+          },
+          {
+            "translation": {
+              "en": "If you are tired, rest for a bit.",
+              "ko": "If you are tired, rest for a bit.",
+              "ja": "If you are tired, rest for a bit."
+            }
+          },
+          {
+            "translation": {
+              "en": "As long as you are willing, we will go together.",
+              "ko": "As long as you are willing, we will go together.",
+              "ja": "As long as you are willing, we will go together."
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "听说伤心难过的时候吃块儿巧克力，还能<b>使</b>人的心情变得愉快。": {
+        "translation": {
+          "en": "I heard that eating a piece of chocolate when you are sad can also make your mood become cheerful.",
+          "ko": "슬프고 괴로울 때 초콜릿 한 조각을 먹으면 기분이 즐거워질 수도 있다고 들었습니다.",
+          "ja": "悲しくつらいときにチョコレートを一かけ食べると、気分を楽しくすることもできるそうです。"
+        },
+        "colloquial_translation": {
+          "en": "I heard that when you feel down, eating a little chocolate can make you feel better.",
+          "ko": "기분이 안 좋을 때 초콜릿을 조금 먹으면 기분이 좀 나아진대요.",
+          "ja": "落ち込んだとき、チョコレートを少し食べると気分がよくなるそうです。"
+        },
+        "context": {
+          "en": "Explaining how something can improve someone’s mood.",
+          "ko": "어떤 것이 기분을 좋게 만들 수 있음을 설명할 때.",
+          "ja": "何かが気分をよくすることを説明するとき。"
+        }
+      },
+      "<b>只要</b>这次你好好儿准备，一定能把比赛踢好。": {
+        "translation": {
+          "en": "As long as you prepare well this time, you will definitely play the match well.",
+          "ko": "이번에 잘 준비하기만 하면, 반드시 경기를 잘할 수 있을 거예요.",
+          "ja": "今回しっかり準備しさえすれば、必ず試合でうまくプレーできます。"
+        },
+        "colloquial_translation": {
+          "en": "Prepare well this time and you’ll definitely play well.",
+          "ko": "이번에 제대로 준비하면 분명 잘할 수 있어요.",
+          "ja": "今回はちゃんと準備すれば、きっといいプレーができます。"
+        },
+        "context": {
+          "en": "Encouraging someone by emphasizing a sufficient condition for success.",
+          "ko": "성공 조건을 강조하며 상대를 격려할 때.",
+          "ja": "成功の条件を強調して相手を励ますとき。"
+        }
+      },
+      "生活的态度要自己选择，<b>因此</b>，遇到烦恼时，你应该想一些办法让自己从不高兴的心情中走出来。": {
+        "translation": {
+          "en": "You must choose your own attitude toward life; therefore, when you encounter troubles, you should think of some ways to help yourself come out of an unhappy mood.",
+          "ko": "삶의 태도는 스스로 선택해야 합니다. 그러므로 고민을 만났을 때는 불쾌한 기분에서 벗어날 방법을 생각해야 합니다.",
+          "ja": "生活への態度は自分で選ぶものです。したがって、悩みに出会ったときは、不愉快な気分から抜け出す方法を考えるべきです。"
+        },
+        "colloquial_translation": {
+          "en": "Your attitude toward life is your choice, so when you feel unhappy, find a way to pull yourself out of it.",
+          "ko": "삶을 대하는 태도는 내가 고르는 거니까, 기분이 안 좋을 때는 스스로 빠져나올 방법을 찾아야 해요.",
+          "ja": "生活への向き合い方は自分で選ぶものだから、気分が沈んだときは自分で抜け出す方法を探すべきです。"
+        },
+        "context": {
+          "en": "Giving advice about choosing a positive attitude when facing troubles.",
+          "ko": "고민을 마주했을 때 긍정적인 태도를 선택하라고 조언할 때.",
+          "ja": "悩みに直面したとき、前向きな態度を選ぶよう助言するとき。"
+        }
+      },
+      "科学研究证明，女孩子对衣服颜色的选择<b>往往</b>与她们的性格有关。": {
+        "translation": {
+          "en": "Scientific research shows that girls’ choices of clothing colors are often related to their personalities.",
+          "ko": "과학 연구에 따르면 여자아이들이 옷 색깔을 선택하는 것은 종종 그들의 성격과 관련이 있습니다.",
+          "ja": "科学研究によると、女の子の服の色の選択は、しばしば性格と関係があります。"
+        },
+        "colloquial_translation": {
+          "en": "Research shows that the colors girls choose for clothes are often connected to their personalities.",
+          "ko": "연구를 보면 여자들이 고르는 옷 색깔은 성격과 관련 있는 경우가 많아요.",
+          "ja": "研究によると、女性が選ぶ服の色は性格と関係していることが多いです。"
+        },
+        "context": {
+          "en": "Summarizing an observed pattern between color choices and personality.",
+          "ko": "색 선택과 성격 사이의 관찰된 경향을 요약할 때.",
+          "ja": "色の選択と性格の間に見られる傾向をまとめるとき。"
+        }
+      },
+      "遇到<b>堵车</b>，心情也“堵”。": {
+        "translation": {
+          "en": "When you run into a traffic jam, your mood gets “jammed” too.",
+          "ko": "교통 체증을 만나면 기분도 “막혀” 버립니다.",
+          "ja": "渋滞に遭うと、気分まで「詰まって」しまいます。"
+        },
+        "colloquial_translation": {
+          "en": "Once traffic gets stuck, your heart feels stuck too.",
+          "ko": "차가 막히면 마음까지 답답해져요.",
+          "ja": "道が混むと、気持ちまで詰まった感じになります。"
+        },
+        "context": {
+          "en": "Using a playful expression to describe frustration in traffic.",
+          "ko": "교통 체증으로 인한 답답함을 재치 있게 표현할 때.",
+          "ja": "渋滞によるいらだちをしゃれた表現で言うとき。"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "이 초콜릿 맛 괜찮네요. 어디에서 샀어요?",
+              "ja": "このチョコレートは味がいいですね。どこで買ったんですか？",
+              "en": "This chocolate tastes pretty good. Where did you buy it?"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "제가 산 게 아니라, 딸이 외국에서 가져다준 선물이에요.",
+              "ja": "私が買ったのではなく、娘が海外から持って帰ってくれたプレゼントです。",
+              "en": "I didn't buy it. It was a gift my daughter brought back for me from abroad."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "많은 사람들이 외국에 나간 뒤 외국 초콜릿을 사서 돌아와 친척과 친구들에게 선물하곤 해요.",
+              "ja": "多くの人は海外に行った後、外国のチョコレートを買って帰り、親戚や友人に贈ります。",
+              "en": "After going abroad, many people often buy foreign chocolate and bring it back as gifts for relatives and friends."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "맞아요. 많은 사람들이 초콜릿 먹는 걸 좋아하니까요. 특히 여성들이요.",
+              "ja": "そうですね。多くの人がチョコレートを食べるのが好きですから。特に女性です。",
+              "en": "Yes, because many people love eating chocolate, especially women."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "그건 왜일까요?",
+              "ja": "それはなぜでしょうか？",
+              "en": "Why is that?"
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "초콜릿은 대부분 달고, 많은 여성들이 단 것을 좋아하죠. 게다가 슬프거나 힘들 때 초콜릿 한 조각을 먹으면 기분이 즐거워질 수도 있다고 들었어요.",
+              "ja": "チョコレートの多くは甘く、多くの女性は甘いものが好きです。それに、悲しくつらいときにチョコレートを一つ食べると、気分を楽しくすることもできるそうです。",
+              "en": "Most chocolate is sweet, and many women like eating sweet things. Also, I heard that when someone is sad, eating a piece of chocolate can even make their mood become cheerful."
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "여기 경치가 정말 아름답고 공기도 좋네.",
+              "ja": "ここの景色は本当に美しく、空気もいいですね。",
+              "en": "The scenery here is really beautiful, and the air is good too."
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "어때, 기분이 좀 나아졌어?",
+              "ja": "どうですか、気分は少しよくなりましたか？",
+              "en": "So, is your mood a bit better?"
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "많이 좋아졌어. 지난번 축구 경기 이후로 이렇게 편안했던 적이 정말 오랜만이야.",
+              "ja": "だいぶよくなりました。前回のサッカーの試合の後、こんなにリラックスしたのは久しぶりです。",
+              "en": "Much better. Since the last football match, I haven’t been this relaxed for a long time."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "부담 갖지 말고 다음 경기를 잘 준비하면 돼.",
+              "ja": "プレッシャーを感じないで、次の試合をしっかり準備すればいいです。",
+              "en": "Don’t feel pressured. Just prepare well for the next match."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "요즘 나는 늘 혼자 방에 앉아 그 경기를 떠올려. 우리가 조금만 더 노력했더라면 분명 한 골을 더 넣었을 텐데.",
+              "ja": "このところ、私はいつも一人で部屋に座ってあの試合を思い出しています。もし私たちがもう少し努力していたら、きっともう一点多く入れられたでしょう。",
+              "en": "During this period, I have always been sitting alone in my room recalling that match. If we had worked just a little harder, we definitely would have scored one more goal."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "일은 이미 일어났으니 지나간 일은 지나간 일이 되게 놔둬. 이번에 네가 잘 준비하기만 하면 반드시 경기를 잘할 수 있어.",
+              "ja": "物事はもう起こってしまったので、過去のことは過去にしましょう。今回しっかり準備さえすれば、きっと試合をうまくやれます。",
+              "en": "It has already happened, so let the past become the past. As long as you prepare well this time, you will definitely play the match well."
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "기사님, 저 대사관에 가는데 길을 잘못 든 거 아니에요?",
+              "ja": "運転手さん、私は大使館へ行くのですが、道を間違えていませんか？",
+              "en": "Sir, I’m going to the embassy. Did you take the wrong way?"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "지금은 출근 시간이라 앞쪽이 좀 막혀요. 다른 길로 가면 거리도 비슷합니다.",
+              "ja": "今は出勤時間で、前が少し渋滞しています。別の道を行きましょう。距離はあまり変わりません。",
+              "en": "It’s rush hour now, and there’s a bit of traffic ahead. Let’s take another road; the distance is about the same."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "그럼 다행이네요. 교통 체증은 시간을 낭비하고, 막히면 기분도 ‘막히죠’.",
+              "ja": "それならよかったです。渋滞は時間を無駄にしますし、渋滞に遭うと気分も「詰まる」感じがします。",
+              "en": "That’s good. Traffic jams waste time, and when you run into one, your mood gets “jammed” too."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "그렇죠! 출근길에 막히면 지각할까 걱정되고, 퇴근길에 막히면 집에 늦게 갈까 걱정되죠. 매일 도로에서 운전하다 보면 교통 체증을 안 만나기는 정말 어렵습니다.",
+              "ja": "まったくです！出勤時に渋滞すると遅刻が心配で、退勤時に渋滞すると帰宅が遅くなるのが心配です。毎日道路で運転していると、渋滞に遭わないようにするのは本当に難しいです。",
+              "en": "Exactly! If there’s a traffic jam on the way to work, you’re afraid of being late; if there’s one after work, you’re afraid of getting home late. Driving on the road every day, it’s really hard to avoid traffic jams."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "일단 교통 체증을 만나면 사람들은 쉽게 인내심을 잃게 됩니다. 이런 일이 오래 지속되면 성격, 심지어 인품에도 영향을 줄 수 있어요. 그런데 기사님은 왜 그렇게 기분이 좋으세요?",
+              "ja": "一度渋滞に遭うと、人はすぐに忍耐力を失いやすくなります。長くそうしていると、気性、さらには性格にも影響します。でも、どうして運転手さんはそんなに気分がいいのですか？",
+              "en": "Once people run into a traffic jam, they easily become impatient. If this goes on for a long time, it can also affect their temper and even their personality. But why is your mood so good?"
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "우리는 교통 체증을 바꿀 수는 없지만, 자신의 기분은 바꾸려고 해 볼 수 있습니다. 막힐 때는 마침 잠깐 쉴 수도 있고, 자신이 좋아하는 음악도 들을 수 있죠.",
+              "ja": "私たちは渋滞を変えることはできませんが、自分の気分を変えてみることはできます。渋滞のときはちょうど少し休めますし、自分の好きな音楽を聞くこともできます。",
+              "en": "We can’t change the traffic jam, but we can try to change our own mood. When there’s a traffic jam, it’s just a good time to rest a bit and listen to music we like."
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "풀이 푸르러지면 그것은 생명의 색이고, 꽃이 피면 그것은 대자연의 선물이다. 생활 속에 아름다움이 부족한 것이 아니라, 아름다움을 발견하는 눈이 부족한 것이다. 마음만 있으면 생활 속의 아름다움은 어디에나 있다. 생활의 태도는 스스로 선택해야 한다. 그러므로 고민을 만났을 때는 불쾌한 기분에서 벗어날 방법을 생각해야 한다. 창밖이 어떤 모습인지는 우리가 바꿀 수 없지만, 우리는 어느 창문 앞에 설지는 선택할 수 있다. 우리에게 즐거움을 가져다줄 수 있는 창문을 선택해야, 올바른 기분과 올바른 생활 태도를 선택할 수 있다.",
+              "ja": "草が緑になった、それは生命の色であり、花が咲いた、それは大自然からの贈り物である。生活の中に美が足りないのではなく、美を発見する目が足りないのである。心がけさえあれば、生活の中の美は至るところにある。生活への態度は自分で選ぶものだ。したがって、悩みに出会ったときは、不愉快な気分から抜け出す方法を考えるべきである。窓の外がどのような様子かを私たちは変えられないが、どの窓の前に立つかは選ぶことができる。私たちに喜びをもたらしてくれる窓を選んでこそ、正しい気分と正しい生活態度を選ぶことができる。",
+              "en": "When the grass turns green, that is the color of life; when flowers bloom, that is a gift from nature. Life does not lack beauty; what it lacks are eyes that discover beauty. As long as you pay attention, beauty in life is everywhere. You must choose your own attitude toward life. Therefore, when you run into worries, you should think of some ways to help yourself get out of an unhappy mood. We cannot change what the view outside the window is like, but we can choose which window to stand in front of. Choose a window that can bring us happiness; only in this way can we choose the right mood and the right attitude toward life."
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "과학 연구에 따르면, 여자아이들이 옷 색깔을 선택하는 것은 흔히 그들의 성격과 관련이 있다. 흰색 옷을 즐겨 입는 여자아이들은 성격이 비교적 밝고, 생활 태도가 적극적이고 향상적이라는 것이 그들의 공통된 특징이다. 반면 빨간색 옷을 즐겨 입는 여자아이들은 성격이 비교적 낭만적이다. 색깔도 사람의 기분에 영향을 줄 수 있으며, 서로 다른 색은 우리에게 서로 다른 감정 변화를 가져온다. 빨간색은 사람을 열정적으로 만들고, 노란색과 흰색은 사람의 기분을 즐겁게 하며, 검은색은 오히려 사람을 쉽게 슬프게 한다. 사람들은 파란색을 보면 매우 편안함을 느끼고 차분해지며, 초록색은 우리의 눈이 휴식하게 해 준다.",
+              "ja": "科学研究によると、女の子の服の色の選択は往々にして彼女たちの性格と関係がある。白い服を好んで着る女の子は性格が比較的明るく、生活態度が積極的で向上心があることが共通の特徴である。一方、赤い服を好んで着る女の子は性格が比較的ロマンチックである。色も人の気分に影響を与え、異なる色は私たちに異なる感情の変化をもたらす。赤は人を情熱的にし、黄色と白は人の気分を愉快にし、黒はかえって人を悲しくさせやすい。人は青を見るととても心地よく感じ、落ち着いてくる。緑は私たちの目を休ませてくれる。",
+              "en": "Scientific research proves that girls’ choices of clothing colors are often related to their personalities. Girls who like wearing white clothes tend to have cheerful personalities, and an active, upward-looking attitude toward life is their common characteristic; girls who like wearing red clothes tend to be more romantic. Colors can also affect people’s moods, and different colors bring us different emotional changes. Red makes people become enthusiastic; yellow and white make people feel cheerful; black, however, easily makes people feel sad; when people see blue, they feel very comfortable and become calm; green lets our eyes rest."
+            }
+          }
+        }
+      }
+    },
+    "lessonTitle": {
+      "ko": "Lesson 8: 이 선생님과 가오 선생님이 초콜릿에 대해 이야기하다",
+      "ja": "Lesson 8: 李先生と高先生がチョコレートについて話す",
+      "en": "Lesson 8: Teacher Li and Teacher Gao talk about chocolate"
+    },
+    "textTitles": {
+      "1": {
+        "ko": "이 선생님과 가오 선생님이 초콜릿에 대해 이야기하다",
+        "ja": "李先生と高先生がチョコレートについて話す",
+        "en": "Teacher Li and Teacher Gao talk about chocolate"
+      },
+      "2": {
+        "ko": "샤오샤와 마크가 지난 축구 경기에 대해 이야기하다",
+        "ja": "小夏とマークが前回のサッカーの試合について話す",
+        "en": "Xiao Xia and Mark talk about the last football match"
+      },
+      "3": {
+        "ko": "마크와 기사님이 교통 체증에 대해 이야기하다",
+        "ja": "マークと運転手さんが渋滞について話す",
+        "en": "Mark and the driver talk about traffic jams"
+      },
+      "4": {
+        "ko": "생활 태도에 관한 짧은 글",
+        "ja": "生活態度についての短文",
+        "en": "A short passage about attitude toward life"
+      },
+      "5": {
+        "ko": "색깔과 성격에 관한 짧은 글",
+        "ja": "色と性格についての短文",
+        "en": "A short passage about colors and personality"
+      }
+    }
+  }
+}

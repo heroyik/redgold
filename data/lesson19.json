@@ -1,0 +1,1881 @@
+{
+  "lessonId": 19,
+  "title": "Lesson 19: 马克申请下个学期继续在学校学习 (mǎkè shēnqǐng xià ge xuéqī jìxù zài xuéxiào xuéxí) (Mark applies to continue studying at school next semester)",
+  "vocabulary": [
+    {
+      "word": "学期",
+      "pinyin": "xuéqī",
+      "meaning": "n. term, semester"
+    },
+    {
+      "word": "出生",
+      "pinyin": "chūshēng",
+      "meaning": "v. to be born"
+    },
+    {
+      "word": "性别",
+      "pinyin": "xìngbié",
+      "meaning": "n. sex, gender"
+    },
+    {
+      "word": "道歉",
+      "pinyin": "dào qiàn",
+      "meaning": "v. to apologize"
+    },
+    {
+      "word": "打印",
+      "pinyin": "dǎyìn",
+      "meaning": "v. to print out"
+    },
+    {
+      "word": "复印",
+      "pinyin": "fùyìn",
+      "meaning": "v. to photocopy, to xerox"
+    },
+    {
+      "word": "饺子",
+      "pinyin": "jiǎozi",
+      "meaning": "n. jiaozi, dumpling"
+    },
+    {
+      "word": "刀",
+      "pinyin": "dāo",
+      "meaning": "n. knife"
+    },
+    {
+      "word": "破",
+      "pinyin": "pò",
+      "meaning": "adj. broken, torn"
+    },
+    {
+      "word": "脱",
+      "pinyin": "tuō",
+      "meaning": "v. to take off"
+    },
+    {
+      "word": "理发",
+      "pinyin": "lǐfà",
+      "meaning": "v. to get a haircut"
+    },
+    {
+      "word": "包子",
+      "pinyin": "bāozi",
+      "meaning": "n. steamed stuffed bun"
+    },
+    {
+      "word": "零钱",
+      "pinyin": "língqián",
+      "meaning": "n. small change"
+    },
+    {
+      "word": "打招呼",
+      "pinyin": "dǎ zhāohu",
+      "meaning": "to greet, to say hello"
+    },
+    {
+      "word": "戴",
+      "pinyin": "dài",
+      "meaning": "v. to wear (accessories)"
+    },
+    {
+      "word": "眼镜",
+      "pinyin": "yǎnjìng",
+      "meaning": "n. glasses, spectacles"
+    },
+    {
+      "word": "舞蹈",
+      "pinyin": "wǔdǎo",
+      "meaning": "n. dance"
+    },
+    {
+      "word": "国籍",
+      "pinyin": "guójí",
+      "meaning": "n. nationality, citizenship"
+    },
+    {
+      "word": "抬",
+      "pinyin": "tái",
+      "meaning": "v. to lift, to raise"
+    },
+    {
+      "word": "胳膊",
+      "pinyin": "gēbo",
+      "meaning": "n. arm"
+    },
+    {
+      "word": "转",
+      "pinyin": "zhuǎn",
+      "meaning": "v. to turn, to shift"
+    },
+    {
+      "word": "租",
+      "pinyin": "zū",
+      "meaning": "v. to rent, to lease"
+    },
+    {
+      "word": "吵",
+      "pinyin": "chǎo",
+      "meaning": "adj. noisy"
+    },
+    {
+      "word": "厨房",
+      "pinyin": "chúfáng",
+      "meaning": "n. kitchen"
+    },
+    {
+      "word": "房东",
+      "pinyin": "fángdōng",
+      "meaning": "n. landlord/landlady"
+    },
+    {
+      "word": "占线",
+      "pinyin": "zhànxiàn",
+      "meaning": "v. (of a telephone line) to be busy, to be engaged"
+    },
+    {
+      "word": "功夫",
+      "pinyin": "gōngfu",
+      "meaning": "n. kung fu"
+    },
+    {
+      "word": "乒乓球",
+      "pinyin": "pīngpāngqiú",
+      "meaning": "n. table tennis, ping-pong"
+    },
+    {
+      "word": "羽毛球",
+      "pinyin": "yǔmáoqiú",
+      "meaning": "n. badminton"
+    },
+    {
+      "word": "场",
+      "pinyin": "chǎng",
+      "meaning": "m. used for sports or recreational events, etc."
+    },
+    {
+      "word": "禁止",
+      "pinyin": "jìnzhǐ",
+      "meaning": "v. to prohibit, to forbid"
+    },
+    {
+      "word": "座位",
+      "pinyin": "zuòwèi",
+      "meaning": "n. seat"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "疑问代词活用表示任指",
+      "formal": "Interrogative pronouns used to refer to everybody or everything",
+      "colloquial": "什么都 / 谁都 / 怎么都",
+      "explanation": "Interrogative pronouns such as “什么”, “谁”, “哪”, “哪儿”, “哪里”, and “怎么” can be used non-interrogatively to refer to anybody or anything. For example, “什么” can refer to anything, and “谁” can refer to anybody. In this use, they are often paired with “都” or “也” to express an unrestricted, all-inclusive meaning.",
+      "nuance": "This pattern is standard and common in both written and spoken Chinese. “都” emphasizes that the statement applies to every possible person or thing, while “也” is often used in negative or concessive contexts to mean that even any possible option does not change the result.",
+      "formal_examples": [
+        {
+          "zh": "没关系，不用道歉，谁都有粗心填错的时候。",
+          "pinyin": "Méi guānxi, bú yòng dàoqiàn, shéi dōu yǒu cūxīn tián cuò de shíhou.",
+          "translation": "It's all right. You don't need to apologize; everybody has times when they are careless and fill something in incorrectly."
+        },
+        {
+          "zh": "昨天我做了一个奇怪的梦，但是早上起来怎么想都想不起来。",
+          "pinyin": "Zuótiān wǒ zuò le yí ge qíguài de mèng, dànshì zǎoshang qǐlai zěnme xiǎng dōu xiǎng bu qǐlai.",
+          "translation": "Yesterday I had a strange dream, but when I got up in the morning, no matter how hard I tried, I couldn't remember it."
+        },
+        {
+          "zh": "“世界上没有免费的午餐”这句话是说，什么东西都要通过努力才能得到。",
+          "pinyin": "“Shìjiè shang méiyǒu miǎnfèi de wǔcān” zhè jù huà shì shuō, shénme dōngxi dōu yào tōngguò nǔlì cái néng dédào.",
+          "translation": "The saying “There is no free lunch in the world” means that everything can only be obtained through effort."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "别道歉了，谁都会填错。",
+          "pinyin": "Bié dàoqiàn le, shéi dōu huì tián cuò.",
+          "translation": "Don't apologize; anyone can fill it in wrong."
+        },
+        {
+          "zh": "那个梦我怎么想也想不起来。",
+          "pinyin": "Nà ge mèng wǒ zěnme xiǎng yě xiǎng bu qǐlai.",
+          "translation": "No matter how I try, I can't remember that dream."
+        },
+        {
+          "zh": "什么东西都得靠努力才能得到。",
+          "pinyin": "Shénme dōngxi dōu děi kào nǔlì cái néng dédào.",
+          "translation": "You have to work hard to get anything."
+        }
+      ]
+    },
+    {
+      "point": "上",
+      "formal": "The verb “上” used as a complement of direction or possibility",
+      "colloquial": "吃不上 / 坐不上 / 考上",
+      "explanation": "The verb “上” can be used after another verb as a complement of direction, indicating that the purpose of an action or behavior has been achieved. It can also be used as a complement of possibility, showing whether or not the purpose of an action or behavior can be achieved.",
+      "nuance": "When “上” follows a verb, it often focuses on successfully reaching a goal, getting access to something, or managing to do something. Negative forms such as “吃不上” and “坐不上” mean that the intended result cannot be reached, while affirmative forms such as “考上” mean the goal has been achieved.",
+      "formal_examples": [
+        {
+          "zh": "看来今天吃不上羊肉饺子了。",
+          "pinyin": "Kàn lái jīntiān chī bu shàng yángròu jiǎozi le.",
+          "translation": "Looks like we won't be able to eat lamb dumplings today."
+        },
+        {
+          "zh": "现在堵车这么厉害，看来今天坐不上8点那趟去上海的飞机了。",
+          "pinyin": "Xiànzài dǔchē zhème lìhai, kàn lái jīntiān zuò bu shàng bā diǎn nà tàng qù Shànghǎi de fēijī le.",
+          "translation": "The traffic jam is so bad now; it looks like we won't be able to catch the eight o'clock flight to Shanghai today."
+        },
+        {
+          "zh": "一听到哥哥考上了经济专业的博士，我们全家都特别高兴。",
+          "pinyin": "Yì tīng dào gēge kǎo shàng le jīngjì zhuānyè de bóshì, wǒmen quán jiā dōu tèbié gāoxìng.",
+          "translation": "As soon as we heard that my older brother had been admitted to a doctoral program in economics, our whole family was very happy."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "今天估计吃不上羊肉饺子了。",
+          "pinyin": "Jīntiān gūjì chī bu shàng yángròu jiǎozi le.",
+          "translation": "We probably won't get to eat lamb dumplings today."
+        },
+        {
+          "zh": "这么堵，八点的飞机肯定赶不上了。",
+          "pinyin": "Zhème dǔ, bā diǎn de fēijī kěndìng gǎn bu shàng le.",
+          "translation": "With traffic this bad, we definitely won't make the eight o'clock flight."
+        },
+        {
+          "zh": "我哥考上经济学博士了，全家都高兴坏了。",
+          "pinyin": "Wǒ gē kǎo shàng jīngjìxué bóshì le, quán jiā dōu gāoxìng huài le.",
+          "translation": "My brother got into a PhD program in economics, and the whole family was thrilled."
+        }
+      ]
+    },
+    {
+      "point": "出来",
+      "formal": "The verb “出来” used as a complement of direction",
+      "colloquial": "说出来 / 翻译出来 / 看出来",
+      "explanation": "The verb “出来” can be used after another verb as a complement of direction. It indicates that an action or behavior makes the state of something change from nonexistence to existence, or from being hidden to being obvious.",
+      "nuance": "“出来” after a verb often focuses on a result becoming visible, expressed, produced, or recognized. In everyday speech, it is common with verbs such as “说”, “写”, “翻译”, “看”, and “听” to show that something has been brought out or noticed.",
+      "formal_examples": [
+        {
+          "zh": "有的人心里有什么看法或意见，嘴上就会直接说出来。",
+          "pinyin": "Yǒu de rén xīnli yǒu shénme kànfǎ huò yìjiàn, zuǐ shang jiù huì zhíjiē shuō chūlai.",
+          "translation": "Some people will directly say whatever views or opinions they have in mind."
+        },
+        {
+          "zh": "你要的那篇文章我已经翻译出来了，你方便的时候就来取吧。",
+          "pinyin": "Nǐ yào de nà piān wénzhāng wǒ yǐjīng fānyì chūlai le, nǐ fāngbiàn de shíhou jiù lái qǔ ba.",
+          "translation": "I have already translated the article you wanted. Come pick it up when it is convenient for you."
+        },
+        {
+          "zh": "刚才我在旁边看到你跳中国舞了，没看出来你跳得这么好！",
+          "pinyin": "Gāngcái wǒ zài pángbiān kàn dào nǐ tiào Zhōngguó wǔ le, méi kàn chūlai nǐ tiào de zhème hǎo!",
+          "translation": "Just now I saw you dancing Chinese dance from the side. I couldn't tell before that you danced so well!"
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "心里怎么想，就直接说出来吧。",
+          "pinyin": "Xīnli zěnme xiǎng, jiù zhíjiē shuō chūlai ba.",
+          "translation": "Just say directly what you are thinking."
+        },
+        {
+          "zh": "那篇文章我翻译好了，你有空来拿吧。",
+          "pinyin": "Nà piān wénzhāng wǒ fānyì hǎo le, nǐ yǒu kòng lái ná ba.",
+          "translation": "I've finished translating that article. Come get it when you have time."
+        },
+        {
+          "zh": "真没看出来，你跳舞这么厉害！",
+          "pinyin": "Zhēn méi kàn chūlai, nǐ tiàowǔ zhème lìhai!",
+          "translation": "I really couldn't tell. You're so good at dancing!"
+        }
+      ]
+    },
+    {
+      "point": "出来 / 起来",
+      "formal": "Compare “出来” and “起来”",
+      "colloquial": "拿出来 vs 坐起来 / 想出来 vs 想起来",
+      "explanation": "Both “出来” and “起来” can be used after verbs as complements of direction or possibility, but they express different meanings. “出来” indicates movement from inside to outside, or an extended meaning in which something comes into existence or becomes visible. “起来” indicates upward movement, or an extended meaning in which an action begins and continues. In the fixed expressions “想出来” and “想起来”, “想出来” means new information is produced after thinking, while “想起来” means forgotten information has been retrieved from memory.",
+      "nuance": "Use “出来” when something is taken out, spoken out, worked out, or recognized. Use “起来” when something moves upward, starts to happen, continues developing, or is remembered again. In speech, the contrast is especially clear in pairs like “拿出来/坐起来”, “算出来/热起来”, and “想出来/想起来”.",
+      "formal_examples": [
+        {
+          "zh": "我的日记本掉到沙发后面了，拿不出来了，你来帮我抬一下沙发吧。",
+          "pinyin": "Wǒ de rìjìběn diào dào shāfā hòumian le, ná bu chūlai le, nǐ lái bāng wǒ tái yíxià shāfā ba.",
+          "translation": "My diary fell behind the sofa and I cannot get it out. Please come help me lift the sofa."
+        },
+        {
+          "zh": "早上六点，他还睡着，电话突然响了，他连忙坐起来接电话。",
+          "pinyin": "Zǎoshang liù diǎn, tā hái shuìzhe, diànhuà tūrán xiǎng le, tā liánmáng zuò qǐlai jiē diànhuà.",
+          "translation": "At six in the morning, he was still asleep when the phone suddenly rang, and he hurriedly sat up to answer it."
+        },
+        {
+          "zh": "你能算出来这两个地方之间的距离是多少公里吗？",
+          "pinyin": "Nǐ néng suàn chūlai zhè liǎng ge dìfang zhī jiān de jùlí shì duōshao gōnglǐ ma?",
+          "translation": "Can you calculate how many kilometers the distance between these two places is?"
+        },
+        {
+          "zh": "尽管现在才4月，天气已经开始慢慢热起来。",
+          "pinyin": "Jǐnguǎn xiànzài cái sì yuè, tiānqì yǐjīng kāishǐ mànmàn rè qǐlai.",
+          "translation": "Although it is only April now, the weather has already started to gradually get warmer."
+        },
+        {
+          "zh": "有几个选择题，实在想不出来该选哪个，只好随便选一个。",
+          "pinyin": "Yǒu jǐ ge xuǎnzétí, shízài xiǎng bu chūlai gāi xuǎn nǎ ge, zhǐhǎo suíbiàn xuǎn yí ge.",
+          "translation": "There were several multiple-choice questions, and I really could not figure out which one to choose, so I had to pick one at random."
+        },
+        {
+          "zh": "我想起来了，那个唱歌的男孩子是高老师的孙子。",
+          "pinyin": "Wǒ xiǎng qǐlai le, nà ge chàng gē de nánháizi shì Gāo Lǎoshī de sūnzi.",
+          "translation": "I remember now. The boy who was singing is Teacher Gao’s grandson."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "本子掉到沙发后面了，拿不出来。",
+          "pinyin": "Běnzi diào dào shāfā hòumian le, ná bu chūlai.",
+          "translation": "The notebook fell behind the sofa, and I cannot get it out."
+        },
+        {
+          "zh": "电话一响，他马上坐起来接。",
+          "pinyin": "Diànhuà yì xiǎng, tā mǎshàng zuò qǐlai jiē.",
+          "translation": "As soon as the phone rang, he sat up and answered it."
+        },
+        {
+          "zh": "这道题我算出来了。",
+          "pinyin": "Zhè dào tí wǒ suàn chūlai le.",
+          "translation": "I worked out this problem."
+        },
+        {
+          "zh": "天气慢慢热起来了。",
+          "pinyin": "Tiānqì mànmàn rè qǐlai le.",
+          "translation": "The weather is slowly getting warmer."
+        },
+        {
+          "zh": "我想不出来选哪个。",
+          "pinyin": "Wǒ xiǎng bu chūlai xuǎn nǎ ge.",
+          "translation": "I cannot figure out which one to choose."
+        },
+        {
+          "zh": "我想起来了，他是高老师的孙子。",
+          "pinyin": "Wǒ xiǎng qǐlai le, tā shì Gāo Lǎoshī de sūnzi.",
+          "translation": "I remember now. He is Teacher Gao’s grandson."
+        }
+      ]
+    },
+    {
+      "point": "总的来说",
+      "formal": "The parenthetical phrase “总的来说”",
+      "colloquial": "总的来说 / 总体来说 / 总之",
+      "explanation": "“总的来说” is usually used as a parenthetical expression meaning “on the whole” or “generally speaking”. It is used to comment on something from an overall perspective or based on the main situation rather than every small detail.",
+      "nuance": "“总的来说” sounds balanced and summary-like. In everyday speech, people also say “总体来说” or “总之” when giving a general evaluation, but “总之” is often more concise and concluding.",
+      "formal_examples": [
+        {
+          "zh": "广告上说房子交通方便，周围很安静，厨房很大。总的来说，这套房子他很满意，于是他就记下了房东的手机号码。",
+          "pinyin": "Guǎnggào shang shuō fángzi jiāotōng fāngbiàn, zhōuwéi hěn ānjìng, chúfáng hěn dà. Zǒng de lái shuō, zhè tào fángzi tā hěn mǎnyì, yúshì tā jiù jìxià le fángdōng de shǒujī hàomǎ.",
+          "translation": "The advertisement said the apartment had convenient transportation, quiet surroundings, and a large kitchen. Overall, he was very satisfied with the apartment, so he wrote down the landlord’s mobile phone number."
+        },
+        {
+          "zh": "这个公司的工资虽然不算很高，但是奖金很多，所以总的来说收入还不错。",
+          "pinyin": "Zhè ge gōngsī de gōngzī suīrán bú suàn hěn gāo, dànshì jiǎngjīn hěn duō, suǒyǐ zǒng de lái shuō shōurù hái búcuò.",
+          "translation": "Although this company’s salary is not very high, the bonuses are generous, so overall the income is still pretty good."
+        },
+        {
+          "zh": "很多人问去丽江旅游怎么样，总的来说，丽江景色不错，那里的人也很热情，去那里旅游是个不错的选择。",
+          "pinyin": "Hěn duō rén wèn qù Lìjiāng lǚyóu zěnmeyàng, zǒng de lái shuō, Lìjiāng jǐngsè búcuò, nàli de rén yě hěn rèqíng, qù nàli lǚyóu shì ge búcuò de xuǎnzé.",
+          "translation": "Many people ask what it is like to travel to Lijiang. Generally speaking, Lijiang has nice scenery, the people there are also very warm, and traveling there is a good choice."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "总的来说，这套房子他挺满意的。",
+          "pinyin": "Zǒng de lái shuō, zhè tào fángzi tā tǐng mǎnyì de.",
+          "translation": "Overall, he is pretty satisfied with this apartment."
+        },
+        {
+          "zh": "工资不算高，但奖金多，总体来说收入还可以。",
+          "pinyin": "Gōngzī bú suàn gāo, dàn jiǎngjīn duō, zǒngtǐ lái shuō shōurù hái kěyǐ.",
+          "translation": "The salary is not high, but there are lots of bonuses, so overall the income is okay."
+        },
+        {
+          "zh": "总的来说，丽江挺值得去的。",
+          "pinyin": "Zǒng de lái shuō, Lìjiāng tǐng zhíde qù de.",
+          "translation": "Generally speaking, Lijiang is quite worth visiting."
+        }
+      ]
+    },
+    {
+      "point": "在于",
+      "formal": "The written verb “在于”",
+      "colloquial": "关键是 / 重点是 / 问题是",
+      "explanation": "The verb “在于” is often used in written Chinese to point out the essence of something, meaning “to be exactly” or “to lie in”. Its subject is usually a noun phrase, and it must take a noun, verb, or clause as its object.",
+      "nuance": "“在于” is concise and formal, often used to identify the key reason, essence, or decisive factor. In everyday speech, people more often say “关键是”, “重点是”, or “问题是” to express a similar idea more naturally.",
+      "formal_examples": [
+        {
+          "zh": "人们常说“生命在于运动”，所以很多人一到周末就会到体育馆打几场球。",
+          "pinyin": "Rénmen cháng shuō “shēngmìng zàiyú yùndòng”, suǒyǐ hěn duō rén yí dào zhōumò jiù huì dào tǐyùguǎn dǎ jǐ chǎng qiú.",
+          "translation": "People often say “life lies in movement,” so many people go to the gym to play a few games as soon as the weekend comes."
+        },
+        {
+          "zh": "选择职业的关键在于兴趣，当你喜欢做一件事情的时候，你会带着热情去工作，就不会感到累，更不会觉得有太大的压力。",
+          "pinyin": "Xuǎnzé zhíyè de guānjiàn zàiyú xìngqù, dāng nǐ xǐhuan zuò yí jiàn shìqing de shíhou, nǐ huì dàizhe rèqíng qù gōngzuò, jiù bú huì gǎndào lèi, gèng bú huì juéde yǒu tài dà de yālì.",
+          "translation": "The key to choosing a career lies in interest. When you like doing something, you will work with enthusiasm, will not feel tired, and will not feel too much pressure."
+        },
+        {
+          "zh": "没有人能一生都顺顺利利、没有失败。区别在于有的人能接受失败，找到失败的原因并继续努力；而有的人却在失败面前停下了脚步。",
+          "pinyin": "Méiyǒu rén néng yìshēng dōu shùnshùnlìlì, méiyǒu shībài. Qūbié zàiyú yǒu de rén néng jiēshòu shībài, zhǎodào shībài de yuányīn bìng jìxù nǔlì; ér yǒu de rén què zài shībài miànqián tíngxià le jiǎobù.",
+          "translation": "No one can go through life smoothly without failure. The difference lies in the fact that some people can accept failure, find its cause, and keep working hard, while others stop in the face of failure."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "大家都说，生命就是要多运动。",
+          "pinyin": "Dàjiā dōu shuō, shēngmìng jiù shì yào duō yùndòng.",
+          "translation": "People all say that life is about moving more."
+        },
+        {
+          "zh": "选工作，关键是你有没有兴趣。",
+          "pinyin": "Xuǎn gōngzuò, guānjiàn shì nǐ yǒu méiyǒu xìngqù.",
+          "translation": "When choosing a job, the key is whether you are interested in it."
+        },
+        {
+          "zh": "失败不可怕，关键是你能不能继续努力。",
+          "pinyin": "Shībài bù kěpà, guānjiàn shì nǐ néng bu néng jìxù nǔlì.",
+          "translation": "Failure is not scary. The key is whether you can keep working hard."
+        }
+      ]
+    },
+    {
+      "point": "同字词：发",
+      "explanation": "Words with the same character “发”: 沙发, 发生, 发展, 理发.",
+      "formal_examples": [
+        {
+          "chinese": "你回到家就把衣服、书包什么的扔在<b>沙发</b>上，房间太乱了，你抽时间收拾一下吧。",
+          "pinyin": "Nǐ huí dào jiā jiù bǎ yīfu, shūbāo shénme de rēng zài shāfā shang, fángjiān tài luàn le, nǐ chōu shíjiān shōushi yíxià ba.",
+          "translation": "When you get home, you throw your clothes, schoolbag, and everything else onto the sofa. The room is too messy; find some time to tidy it up."
+        },
+        {
+          "chinese": "随着年龄的增长，人们对很多事情的看法是会<b>发生</b>变化的，有可能和以前的看法完全不同。",
+          "pinyin": "Suízhe niánlíng de zēngzhǎng, rénmen duì hěn duō shìqing de kànfǎ shì huì fāshēng biànhuà de, yǒu kěnéng hé yǐqián de kànfǎ wánquán bù tóng.",
+          "translation": "As people grow older, their views on many things can change, and they may become completely different from their previous views."
+        },
+        {
+          "chinese": "我本以为任务能顺利完成，没想到事情的<b>发展</b>情况跟我想的正好相反。",
+          "pinyin": "Wǒ běn yǐwéi rènwu néng shùnlì wánchéng, méi xiǎng dào shìqing de fāzhǎn qíngkuàng gēn wǒ xiǎng de zhènghǎo xiāngfǎn.",
+          "translation": "I originally thought the task could be completed smoothly, but I did not expect the way things developed to be exactly the opposite of what I had imagined."
+        },
+        {
+          "chinese": "对面那条街上新开了一家<b>理发</b>店，听说那个店的理发师技术不错。",
+          "pinyin": "Duìmiàn nà tiáo jiē shang xīn kāi le yì jiā lǐfà diàn, tīngshuō nà ge diàn de lǐfàshī jìshù búcuò.",
+          "translation": "A new barbershop opened on the street across from here. I heard the barber there is pretty skilled."
+        }
+      ],
+      "colloquial_pattern": "沙发 / 发生 / 发展 / 理发",
+      "colloquial_examples": [
+        {
+          "chinese": "别把书包扔<b>沙发</b>上，房间都乱了。",
+          "pinyin": "Bié bǎ shūbāo rēng shāfā shang, fángjiān dōu luàn le.",
+          "translation": "Don’t throw your schoolbag on the sofa; the room is getting messy."
+        },
+        {
+          "chinese": "人的想法会慢慢<b>发生</b>变化。",
+          "pinyin": "Rén de xiǎngfǎ huì mànmàn fāshēng biànhuà.",
+          "translation": "People’s ideas can slowly change."
+        },
+        {
+          "chinese": "事情的<b>发展</b>跟我想的不一样。",
+          "pinyin": "Shìqing de fāzhǎn gēn wǒ xiǎng de bù yíyàng.",
+          "translation": "Things developed differently from what I expected."
+        },
+        {
+          "chinese": "我想去新开的那家店<b>理发</b>。",
+          "pinyin": "Wǒ xiǎng qù xīn kāi de nà jiā diàn lǐfà.",
+          "translation": "I want to get a haircut at that new shop."
+        }
+      ],
+      "nuance": "This is an expansion note for words sharing the character “发”, not a single grammar pattern. The formal examples preserve the textbook word-family usage."
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "马克申请下个学期继续在学校学习 (Mark applies to continue studying at school next semester)",
+      "audio": "audio/19-1.mp3",
+      "content": [
+        {
+          "speaker": "马克",
+          "text": "老师，您好！我希望下个学期在这里继续学习，请问还需要重新申请吗？",
+          "pinyin": "Lǎoshī, nín hǎo! Wǒ xīwàng xià ge xuéqī zài zhèlǐ jìxù xuéxí, qǐngwèn hái xūyào chóngxīn shēnqǐng ma?",
+          "translation": "Hello, teacher. I hope to continue studying here next semester. May I ask whether I need to apply again?"
+        },
+        {
+          "speaker": "高老师",
+          "text": "是的。给你表格，出生年月、性别、护照号码都要填，还有联系地址、联系电话。",
+          "pinyin": "Shì de. Gěi nǐ biǎogé, chūshēng nián yuè, xìngbié, hùzhào hàomǎ dōu yào tián, hái yǒu liánxì dìzhǐ, liánxì diànhuà.",
+          "translation": "Yes. Here is the form. You need to fill in your date of birth, gender, and passport number, as well as your contact address and phone number."
+        },
+        {
+          "speaker": "马克",
+          "text": "真抱歉，我不小心把护照号码填错了，您能再给我一份新的申请表吗？",
+          "pinyin": "Zhēn bàoqiàn, wǒ bù xiǎoxīn bǎ hùzhào hàomǎ tián cuò le, nín néng zài gěi wǒ yí fèn xīn de shēnqǐng biǎo ma?",
+          "translation": "I'm really sorry. I accidentally filled in the wrong passport number. Could you give me another new application form?"
+        },
+        {
+          "speaker": "高老师",
+          "text": "没关系，不用道歉，谁都有粗心填错的时候。申请表都被别人拿走了，我给你重新打印一份，你等一下。",
+          "pinyin": "Méi guānxi, bú yòng dào qiàn, shéi dōu yǒu cūxīn tián cuò de shíhou. Shēnqǐng biǎo dōu bèi biéren ná zǒu le, wǒ gěi nǐ chóngxīn dǎyìn yí fèn, nǐ děng yíxià.",
+          "translation": "It's all right. No need to apologize. Everyone has times when they are careless and fill something in incorrectly. The application forms have all been taken by other people, so I'll print another copy for you. Please wait a moment."
+        },
+        {
+          "speaker": "旁白",
+          "text": "高老师打印，马克填表。",
+          "pinyin": "Gāo Lǎoshī dǎyìn, Mǎkè tián biǎo.",
+          "translation": "Teacher Gao prints the form, and Mark fills it out."
+        },
+        {
+          "speaker": "马克",
+          "text": "这次我按照要求都填写完了，请问还需要做别的事情吗？",
+          "pinyin": "Zhè cì wǒ ànzhào yāoqiú dōu tiánxiě wán le, qǐngwèn hái xūyào zuò bié de shìqing ma?",
+          "translation": "This time I've filled everything out according to the requirements. May I ask whether I still need to do anything else?"
+        },
+        {
+          "speaker": "高老师",
+          "text": "请把你的护照给我，我们要把护照复印一下。",
+          "pinyin": "Qǐng bǎ nǐ de hùzhào gěi wǒ, wǒmen yào bǎ hùzhào fùyìn yíxià.",
+          "translation": "Please give me your passport. We need to photocopy it."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "Mark, a personal name"
+        },
+        {
+          "word": "高老师",
+          "pinyin": "Gāo Lǎoshī",
+          "meaning": "Teacher Gao"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "学期",
+          "pinyin": "xuéqī",
+          "meaning": "n. term, semester"
+        },
+        {
+          "word": "出生",
+          "pinyin": "chūshēng",
+          "meaning": "v. to be born"
+        },
+        {
+          "word": "性别",
+          "pinyin": "xìngbié",
+          "meaning": "n. sex, gender"
+        },
+        {
+          "word": "道歉",
+          "pinyin": "dào qiàn",
+          "meaning": "v. to apologize"
+        },
+        {
+          "word": "打印",
+          "pinyin": "dǎyìn",
+          "meaning": "v. to print out"
+        },
+        {
+          "word": "复印",
+          "pinyin": "fùyìn",
+          "meaning": "v. to photocopy, to xerox"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "王静做饺子时手受伤了 (Wang Jing hurts her hand while making dumplings)",
+      "audio": "audio/19-2.mp3",
+      "content": [
+        {
+          "speaker": "李进",
+          "text": "呀，你的手怎么流血了？等一下，我给你包起来。",
+          "pinyin": "Ya, nǐ de shǒu zěnme liú xiě le? Děng yíxià, wǒ gěi nǐ bāo qǐlai.",
+          "translation": "Oh no, why is your hand bleeding? Wait a moment. I'll bandage it for you."
+        },
+        {
+          "speaker": "王静",
+          "text": "没关系，我想给你做点儿羊肉饺子，刚才用刀切肉的时候把手弄破了。",
+          "pinyin": "Méi guānxi, wǒ xiǎng gěi nǐ zuò diǎnr yángròu jiǎozi, gāngcái yòng dāo qiē ròu de shíhou bǎ shǒu nòng pò le.",
+          "translation": "It's okay. I wanted to make you some lamb dumplings, but just now when I was cutting the meat with a knife, I cut my hand."
+        },
+        {
+          "speaker": "李进",
+          "text": "你也太不小心了，不过好像不太严重，过几天就好了。衣服上也有一点儿血，你把衣服脱下来，我给你洗洗。",
+          "pinyin": "Nǐ yě tài bù xiǎoxīn le, búguò hǎoxiàng bú tài yánzhòng, guò jǐ tiān jiù hǎo le. Yīfu shang yě yǒu yì diǎnr xiě, nǐ bǎ yīfu tuō xiàlai, wǒ gěi nǐ xǐxi.",
+          "translation": "You were really too careless, but it doesn't seem too serious. It should be fine in a few days. There's also a little blood on your clothes. Take them off, and I'll wash them for you."
+        },
+        {
+          "speaker": "王静",
+          "text": "看来今天吃不上羊肉饺子了。",
+          "pinyin": "Kàn lái jīntiān chī bu shàng yángròu jiǎozi le.",
+          "translation": "Looks like we won't be able to eat lamb dumplings today."
+        },
+        {
+          "speaker": "李进",
+          "text": "那我们就吃点儿别的。我常去的那家理发店附近有个餐厅，那里的包子很好吃，我一会儿去买一点儿。",
+          "pinyin": "Nà wǒmen jiù chī diǎnr bié de. Wǒ cháng qù de nà jiā lǐfàdiàn fùjìn yǒu ge cāntīng, nàli de bāozi hěn hǎo chī, wǒ yíhuìr qù mǎi yì diǎnr.",
+          "translation": "Then we'll eat something else. Near the barbershop I often go to, there's a restaurant, and the buns there are really good. I'll go buy some in a little while."
+        },
+        {
+          "speaker": "王静",
+          "text": "好吧，我衣服口袋里有十几块零钱，买包子应该够。",
+          "pinyin": "Hǎo ba, wǒ yīfu kǒudài lǐ yǒu shí jǐ kuài língqián, mǎi bāozi yīnggāi gòu.",
+          "translation": "All right. I have a little over ten yuan in change in my clothing pocket. That should be enough to buy buns."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "李进",
+          "pinyin": "Lǐ Jìn",
+          "meaning": "Li Jin, a personal name"
+        },
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, a personal name"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "饺子",
+          "pinyin": "jiǎozi",
+          "meaning": "n. jiaozi, dumpling"
+        },
+        {
+          "word": "刀",
+          "pinyin": "dāo",
+          "meaning": "n. knife"
+        },
+        {
+          "word": "破",
+          "pinyin": "pò",
+          "meaning": "adj. broken, torn"
+        },
+        {
+          "word": "脱",
+          "pinyin": "tuō",
+          "meaning": "v. to take off"
+        },
+        {
+          "word": "理发",
+          "pinyin": "lǐfà",
+          "meaning": "v. to get a haircut"
+        },
+        {
+          "word": "包子",
+          "pinyin": "bāozi",
+          "meaning": "n. steamed stuffed bun"
+        },
+        {
+          "word": "零钱",
+          "pinyin": "língqián",
+          "meaning": "n. small change"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "安娜帮助马克练习舞蹈动作 (Anna helps Mark practice dance movements)",
+      "audio": "audio/19-3.mp3",
+      "content": [
+        {
+          "speaker": "马克",
+          "text": "我早上跟你打招呼，你没有看见。想不到又在这儿碰见你了。",
+          "pinyin": "Wǒ zǎoshang gēn nǐ dǎ zhāohu, nǐ méiyǒu kànjiàn. Xiǎng bu dào yòu zài zhèr pèngjiàn nǐ le.",
+          "translation": "I greeted you this morning, but you didn't see me. I didn't expect to run into you here again."
+        },
+        {
+          "speaker": "安娜",
+          "text": "真是对不起，我不是故意的，今天早上我忘戴眼镜了，看不清楚。",
+          "pinyin": "Zhēn shì duìbuqǐ, wǒ bú shì gùyì de, jīntiān zǎoshang wǒ wàng dài yǎnjìng le, kàn bù qīngchu.",
+          "translation": "I'm really sorry. I didn't do it on purpose. I forgot to wear my glasses this morning, so I couldn't see clearly."
+        },
+        {
+          "speaker": "马克",
+          "text": "刚才我在旁边看到你跳中国舞了，没看出来你跳得这么好！难道你以前在你们国家就学过中国舞蹈吗？",
+          "pinyin": "Gāngcái wǒ zài pángbiān kàn dào nǐ tiào Zhōngguó wǔ le, méi kàn chūlai nǐ tiào de zhème hǎo! Nándào nǐ yǐqián zài nǐmen guójiā jiù xué guo Zhōngguó wǔdǎo ma?",
+          "translation": "Just now I saw you dancing Chinese dance from the side. I couldn't tell before that you danced so well! Did you study Chinese dance back in your country before?"
+        },
+        {
+          "speaker": "安娜",
+          "text": "我小时候妈妈教我跳过两年舞，所以稍微有点儿基础。再说，舞蹈不仅是一门艺术，也是一种“语言”，这种语言与国籍无关，无论哪个国家的人都能看懂。",
+          "pinyin": "Wǒ xiǎoshíhou māma jiāo wǒ tiào guo liǎng nián wǔ, suǒyǐ shāowēi yǒu diǎnr jīchǔ. Zài shuō, wǔdǎo bùjǐn shì yì mén yìshù, yě shì yì zhǒng “yǔyán”, zhè zhǒng yǔyán yǔ guójí wúguān, wúlùn nǎ ge guójiā de rén dōu néng kàn dǒng.",
+          "translation": "When I was little, my mother taught me dance for two years, so I have a little foundation. Besides, dance is not only an art, but also a kind of “language.” This language has nothing to do with nationality; people from any country can understand it."
+        },
+        {
+          "speaker": "马克",
+          "text": "太好了！我刚学习跳这种舞没多久，你帮我看看，我的这个动作对不对。",
+          "pinyin": "Tài hǎo le! Wǒ gāng xuéxí tiào zhè zhǒng wǔ méi duō jiǔ, nǐ bāng wǒ kànkan, wǒ de zhè ge dòngzuò duì bu duì.",
+          "translation": "That's great! I haven't been learning this dance for very long. Please take a look and see whether this movement of mine is right."
+        },
+        {
+          "speaker": "安娜",
+          "text": "你这个动作做得还是不太标准，我给你跳一遍。你仔细看看，应该像我这样：先抬胳膊，然后抬腿，最后头再向右转一下。",
+          "pinyin": "Nǐ zhè ge dòngzuò zuò de hái shì bú tài biāozhǔn, wǒ gěi nǐ tiào yí biàn. Nǐ zǐxì kànkan, yīnggāi xiàng wǒ zhèyàng: xiān tái gēbo, ránhòu tái tuǐ, zuìhòu tóu zài xiàng yòu zhuǎn yíxià.",
+          "translation": "This movement of yours is still not very standard. I'll do it once for you. Watch carefully. It should be like this: first raise your arms, then lift your leg, and finally turn your head to the right."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "Mark, a personal name"
+        },
+        {
+          "word": "安娜",
+          "pinyin": "Ānnà",
+          "meaning": "Anna, a personal name"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "打招呼",
+          "pinyin": "dǎ zhāohu",
+          "meaning": "to greet, to say hello"
+        },
+        {
+          "word": "戴",
+          "pinyin": "dài",
+          "meaning": "v. to wear (accessories)"
+        },
+        {
+          "word": "眼镜",
+          "pinyin": "yǎnjìng",
+          "meaning": "n. glasses, spectacles"
+        },
+        {
+          "word": "舞蹈",
+          "pinyin": "wǔdǎo",
+          "meaning": "n. dance"
+        },
+        {
+          "word": "国籍",
+          "pinyin": "guójí",
+          "meaning": "n. nationality, citizenship"
+        },
+        {
+          "word": "抬",
+          "pinyin": "tái",
+          "meaning": "v. to lift, to raise"
+        },
+        {
+          "word": "胳膊",
+          "pinyin": "gēbo",
+          "meaning": "n. arm"
+        },
+        {
+          "word": "转",
+          "pinyin": "zhuǎn",
+          "meaning": "v. to turn, to shift"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "马克找新房子 (Mark looks for a new apartment)",
+      "audio": "audio/19-4.mp3",
+      "content": [
+        {
+          "speaker": "课文",
+          "text": "马克去年租的房子离马路很近，对面有大大小小的商店，周围环境非常吵。所以，房子还没到期，马克就开始着急换房子了。有一天，他在小区门口看到一个租房子的广告。广告上说房子交通方便，周围很安静，厨房很大。总的来说，这套房子他很满意，于是他就记下了房东的手机号码。可回家后打电话，电话总是占线。第二天，他路过小区门口时，又仔细看了一下广告，原来在记号码的时候写错了一个数字。",
+          "pinyin": "Mǎkè qùnián zū de fángzi lí mǎlù hěn jìn, duìmiàn yǒu dà dà xiǎo xiǎo de shāngdiàn, zhōuwéi huánjìng fēicháng chǎo. Suǒyǐ, fángzi hái méi dào qī, Mǎkè jiù kāishǐ zháojí huàn fángzi le. Yǒu yì tiān, tā zài xiǎoqū ménkǒu kàn dào yí ge zū fángzi de guǎnggào. Guǎnggào shang shuō fángzi jiāotōng fāngbiàn, zhōuwéi hěn ānjìng, chúfáng hěn dà. Zǒng de lái shuō, zhè tào fángzi tā hěn mǎnyì, yúshì tā jiù jì xià le fángdōng de shǒujī hàomǎ. Kě huí jiā hòu dǎ diànhuà, diànhuà zǒng shì zhànxiàn. Dì èr tiān, tā lùguò xiǎoqū ménkǒu shí, yòu zǐxì kàn le yíxià guǎnggào, yuánlái zài jì hàomǎ de shíhou xiě cuò le yí ge shùzì.",
+          "translation": "The apartment Mark rented last year was very close to the road. There were shops of all sizes across from it, and the surrounding environment was very noisy. So even before the lease was up, Mark started anxiously looking for a new place. One day, he saw an apartment rental advertisement at the entrance to his residential community. The ad said the apartment had convenient transportation, quiet surroundings, and a large kitchen. Overall, he was very satisfied with the apartment, so he wrote down the landlord's mobile number. But after he got home and called, the line was always busy. The next day, when he passed by the community entrance, he looked carefully at the advertisement again and realized that he had written down one digit incorrectly when copying the number."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "Mark, a personal name"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "租",
+          "pinyin": "zū",
+          "meaning": "v. to rent, to lease"
+        },
+        {
+          "word": "吵",
+          "pinyin": "chǎo",
+          "meaning": "adj. noisy"
+        },
+        {
+          "word": "厨房",
+          "pinyin": "chúfáng",
+          "meaning": "n. kitchen"
+        },
+        {
+          "word": "房东",
+          "pinyin": "fángdōng",
+          "meaning": "n. landlord/landlady"
+        },
+        {
+          "word": "占线",
+          "pinyin": "zhànxiàn",
+          "meaning": "v. (of a telephone line) to be busy, to be engaged"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "中国人喜欢打乒乓球 (Chinese people like playing table tennis)",
+      "audio": "audio/19-5.mp3",
+      "content": [
+        {
+          "speaker": "课文",
+          "text": "很多外国人认为所有中国人都会功夫和乒乓球，其实只是喜爱这两种运动的中国人比较多。中国人特别喜欢打乒乓球，在中国你会发现到处都有乒乓球桌。像乒乓球、羽毛球、跑步等运动对条件要求不高，所以它们都成为人们运动不错的选择。人们常说“生命在于运动”，所以很多人一到周末就会到体育馆打几场球。“乒乓球”这个名字也很有意思，“乒”和“乓”就是打球时发出的声音。在看乒乓球比赛时，尤其是在运动员发球的时候，观众要安静，禁止大声讲话或者离开座位随便走动。",
+          "pinyin": "Hěn duō wàiguó rén rènwéi suǒyǒu Zhōngguó rén dōu huì gōngfu hé pīngpāngqiú, qíshí zhǐ shì xǐ'ài zhè liǎng zhǒng yùndòng de Zhōngguó rén bǐjiào duō. Zhōngguó rén tèbié xǐhuan dǎ pīngpāngqiú, zài Zhōngguó nǐ huì fāxiàn dào chù dōu yǒu pīngpāngqiú zhuō. Xiàng pīngpāngqiú, yǔmáoqiú, pǎobù děng yùndòng duì tiáojiàn yāoqiú bù gāo, suǒyǐ tāmen dōu chéngwéi rénmen yùndòng búcuò de xuǎnzé. Rénmen cháng shuō “shēngmìng zài yú yùndòng”, suǒyǐ hěn duō rén yí dào zhōumò jiù huì dào tǐyùguǎn dǎ jǐ chǎng qiú. “Pīngpāngqiú” zhè ge míngzi yě hěn yǒu yìsi, “pīng” hé “pāng” jiù shì dǎ qiú shí fāchū de shēngyīn. Zài kàn pīngpāngqiú bǐsài shí, yóuqí shì zài yùndòngyuán fā qiú de shíhou, guānzhòng yào ānjìng, jìnzhǐ dà shēng jiǎnghuà huòzhě líkāi zuòwèi suíbiàn zǒudòng.",
+          "translation": "Many foreigners think all Chinese people know kung fu and table tennis, but actually there are simply many Chinese people who like these two sports. Chinese people especially like playing table tennis; in China, you will find table tennis tables everywhere. Sports such as table tennis, badminton, and running do not require many special conditions, so they have all become good exercise choices for people. People often say, “Life lies in movement,” so many people go to the gym on weekends to play a few games. The name “ping-pong ball” is also interesting: “ping” and “pong” are the sounds made when playing. When watching a table tennis match, especially when an athlete is serving, the audience should be quiet, and loud talking or casually leaving one's seat and walking around is prohibited."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "功夫",
+          "pinyin": "gōngfu",
+          "meaning": "n. kung fu"
+        },
+        {
+          "word": "乒乓球",
+          "pinyin": "pīngpāngqiú",
+          "meaning": "n. table tennis, ping-pong"
+        },
+        {
+          "word": "羽毛球",
+          "pinyin": "yǔmáoqiú",
+          "meaning": "n. badminton"
+        },
+        {
+          "word": "场",
+          "pinyin": "chǎng",
+          "meaning": "m. used for sports or recreational events, etc."
+        },
+        {
+          "word": "禁止",
+          "pinyin": "jìnzhǐ",
+          "meaning": "v. to prohibit, to forbid"
+        },
+        {
+          "word": "座位",
+          "pinyin": "zuòwèi",
+          "meaning": "n. seat"
+        }
+      ]
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "刚才用刀切肉的时候把手<b>弄破</b>了。",
+      "pinyin": "Gāngcái yòng dāo qiē ròu de shíhou bǎ shǒu <b>nòng pò</b> le.",
+      "translation": "Just now when I was cutting the meat with a knife, I cut my hand.",
+      "context": "Talking about an accidental change of state",
+      "colloquial_equivalent": "刚才切肉的时候，手不小心被<b>割破</b>了。",
+      "colloquial_pinyin": "Gāngcái qiē ròu de shíhou, shǒu bù xiǎoxīn bèi <b>gē pò</b> le."
+    },
+    {
+      "sentence": "看来今天<b>吃不上</b>羊肉饺子了。",
+      "pinyin": "Kàn lái jīntiān <b>chī bu shàng</b> yángròu jiǎozi le.",
+      "translation": "Looks like we won't be able to eat lamb dumplings today.",
+      "context": "Talking about being unable to achieve a goal",
+      "colloquial_equivalent": "今天羊肉饺子估计<b>吃不上</b>了。",
+      "colloquial_pinyin": "Jīntiān yángròu jiǎozi gūjì <b>chī bu shàng</b> le."
+    },
+    {
+      "sentence": "没<b>看出来</b>你跳得这么好！",
+      "pinyin": "Méi <b>kàn chūlai</b> nǐ tiào de zhème hǎo!",
+      "translation": "I couldn't tell before that you danced so well!",
+      "context": "Noticing something that was not obvious before",
+      "colloquial_equivalent": "真没<b>看出来</b>，你跳舞这么厉害！",
+      "colloquial_pinyin": "Zhēn méi <b>kàn chūlai</b>, nǐ tiàowǔ zhème lìhai!"
+    },
+    {
+      "sentence": "舞蹈<b>不仅</b>是一门艺术，<b>也</b>是一种“语言”。",
+      "pinyin": "Wǔdǎo <b>bùjǐn</b> shì yì mén yìshù, <b>yě</b> shì yì zhǒng “yǔyán”.",
+      "translation": "Dance is not only an art, but also a kind of language.",
+      "context": "Saying that one thing has two qualities",
+      "colloquial_equivalent": "舞蹈<b>不光</b>是艺术，<b>也是</b>一种表达方式。",
+      "colloquial_pinyin": "Wǔdǎo <b>bùguāng</b> shì yìshù, <b>yě shì</b> yì zhǒng biǎodá fāngshì."
+    },
+    {
+      "sentence": "<b>总的来说</b>，这套房子他很满意。",
+      "pinyin": "<b>Zǒng de lái shuō</b>, zhè tào fángzi tā hěn mǎnyì.",
+      "translation": "Overall, he was very satisfied with this apartment.",
+      "context": "Giving an overall evaluation",
+      "colloquial_equivalent": "<b>总体来说</b>，他对这套房子挺满意的。",
+      "colloquial_pinyin": "<b>Zǒngtǐ lái shuō</b>, tā duì zhè tào fángzi tǐng mǎnyì de."
+    }
+  ],
+  "translations": {
+    "grammar": {
+      "疑问代词活用表示任指": {
+        "formal_translation": {
+          "ko": "“什么”, “谁”, “哪”, “哪儿”, “哪里”, “怎么” 같은 의문대명사는 의문문이 아니어도 아무 사람이나 모든 사물을 가리키는 임의 지시 용법으로 쓰일 수 있습니다. 예를 들어 “什么”은 어떤 것이든, “谁”는 누구든을 뜻할 수 있습니다. 이때 문장 안에서 보통 “都”나 “也”와 함께 쓰여 제한 없이 모두 포함된다는 뜻을 나타냅니다.",
+          "ja": "「什么」「谁」「哪」「哪儿」「哪里」「怎么」などの疑問代名詞は、疑問文でなくても、任意の人やすべての物事を指す用法で使うことができます。たとえば「什么」は何でも、「谁」は誰でもを表せます。この用法では、文中でよく「都」や「也」と一緒に使われ、制限なくすべてを含む意味を表します。",
+          "en": "Interrogative pronouns such as “什么”, “谁”, “哪”, “哪儿”, “哪里”, and “怎么” can be used non-interrogatively to refer to anybody or anything. For example, “什么” can refer to anything, and “谁” can refer to anybody. In this use, they are often paired with “都” or “也” to express an unrestricted, all-inclusive meaning."
+        },
+        "colloquial_translation": {
+          "ko": "이 패턴은 문어와 구어 모두에서 자연스럽게 쓰입니다. “都”는 가능한 모든 사람이나 사물에 적용된다는 점을 강조하고, “也”는 부정문이나 양보적인 맥락에서 어떤 방법이나 선택을 해도 결과가 달라지지 않는다는 뜻으로 자주 쓰입니다.",
+          "ja": "このパターンは書き言葉でも話し言葉でも自然に使われます。「都」は可能なすべての人や物事に当てはまることを強調し、「也」は否定文や譲歩的な文脈で、どの方法や選択でも結果が変わらないことを表すときによく使われます。",
+          "en": "This pattern is standard and common in both written and spoken Chinese. “都” emphasizes that the statement applies to every possible person or thing, while “也” is often used in negative or concessive contexts to mean that even any possible option does not change the result."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "괜찮아요. 사과할 필요 없어요. 누구나 부주의해서 잘못 적을 때가 있어요.",
+              "ja": "大丈夫です。謝る必要はありません。誰にでも、うっかりして書き間違えるときがあります。",
+              "en": "It's all right. You don't need to apologize; everybody has times when they are careless and fill something in incorrectly."
+            }
+          },
+          {
+            "translation": {
+              "ko": "어제 이상한 꿈을 꾸었는데, 아침에 일어나서 아무리 생각해도 떠오르지 않았어요.",
+              "ja": "昨日変な夢を見ましたが、朝起きてからどれだけ考えても思い出せませんでした。",
+              "en": "Yesterday I had a strange dream, but when I got up in the morning, no matter how hard I tried, I couldn't remember it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "“세상에 공짜 점심은 없다”라는 말은 어떤 것이든 노력해야 얻을 수 있다는 뜻입니다.",
+              "ja": "「世界に無料の昼食はない」という言葉は、どんなものでも努力を通してこそ手に入れられるという意味です。",
+              "en": "The saying “There is no free lunch in the world” means that everything can only be obtained through effort."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "사과하지 마세요. 누구나 잘못 적을 수 있어요.",
+              "ja": "謝らなくていいですよ。誰でも書き間違えることがあります。",
+              "en": "Don't apologize; anyone can fill it in wrong."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 꿈은 아무리 생각해도 떠오르지 않아요.",
+              "ja": "その夢は、どれだけ考えても思い出せません。",
+              "en": "No matter how I try, I can't remember that dream."
+            }
+          },
+          {
+            "translation": {
+              "ko": "무엇이든 노력해야 얻을 수 있어요.",
+              "ja": "何でも努力しなければ手に入りません。",
+              "en": "You have to work hard to get anything."
+            }
+          }
+        ]
+      },
+      "上": {
+        "formal_translation": {
+          "ko": "동사 “上”은 다른 동사 뒤에 쓰여 방향보어가 될 수 있으며, 동작이나 행위의 목적이 달성되었음을 나타냅니다. 또한 가능보어로도 쓰여 어떤 동작이나 행위의 목적을 달성할 수 있는지 없는지를 나타낼 수 있습니다.",
+          "ja": "動詞「上」はほかの動詞の後ろに置かれて方向補語となり、動作や行為の目的が達成されたことを表します。また、可能補語としても使われ、動作や行為の目的を達成できるかどうかを示すことができます。",
+          "en": "The verb “上” can be used after another verb as a complement of direction, indicating that the purpose of an action or behavior has been achieved. It can also be used as a complement of possibility, showing whether or not the purpose of an action or behavior can be achieved."
+        },
+        "colloquial_translation": {
+          "ko": "“上”이 동사 뒤에 오면 목표에 도달하거나, 어떤 것을 얻거나 이용하게 되거나, 어떤 일을 해내는 데 초점이 있습니다. “吃不上”, “坐不上” 같은 부정형은 의도한 결과에 도달하지 못한다는 뜻이고, “考上” 같은 긍정형은 목표를 달성했다는 뜻입니다.",
+          "ja": "「上」が動詞の後ろに来ると、目標に到達すること、何かを得たり利用できたりすること、または何かを成し遂げることに焦点があります。「吃不上」「坐不上」のような否定形は意図した結果に到達できないことを表し、「考上」のような肯定形は目標を達成したことを表します。",
+          "en": "When “上” follows a verb, it often focuses on successfully reaching a goal, getting access to something, or managing to do something. Negative forms such as “吃不上” and “坐不上” mean that the intended result cannot be reached, while affirmative forms such as “考上” mean the goal has been achieved."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "보아하니 오늘은 양고기 만두를 못 먹겠네요.",
+              "ja": "どうやら今日は羊肉の餃子は食べられなさそうですね。",
+              "en": "Looks like we won't be able to eat lamb dumplings today."
+            }
+          },
+          {
+            "translation": {
+              "ko": "지금 교통 체증이 이렇게 심하니, 오늘 8시에 상하이로 가는 비행기를 못 탈 것 같아요.",
+              "ja": "今は渋滞がこんなにひどいので、今日は8時の上海行きの飛行機に乗れなさそうです。",
+              "en": "The traffic jam is so bad now; it looks like we won't be able to catch the eight o'clock flight to Shanghai today."
+            }
+          },
+          {
+            "translation": {
+              "ko": "형이 경제 전공 박사 과정에 합격했다는 말을 듣자마자 우리 온 가족이 매우 기뻐했습니다.",
+              "ja": "兄が経済専攻の博士課程に合格したと聞いて、私たち家族全員がとても喜びました。",
+              "en": "As soon as we heard that my older brother had been admitted to a doctoral program in economics, our whole family was very happy."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "오늘은 아마 양고기 만두를 못 먹을 것 같아요.",
+              "ja": "今日はたぶん羊肉の餃子は食べられなさそうです。",
+              "en": "We probably won't get to eat lamb dumplings today."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이렇게 막히면 8시 비행기는 분명 못 탈 거예요.",
+              "ja": "こんなに渋滞していたら、8時の飛行機には絶対に間に合いません。",
+              "en": "With traffic this bad, we definitely won't make the eight o'clock flight."
+            }
+          },
+          {
+            "translation": {
+              "ko": "우리 형이 경제학 박사 과정에 붙어서 온 가족이 정말 기뻐했어요.",
+              "ja": "兄が経済学の博士課程に受かって、家族全員が大喜びしました。",
+              "en": "My brother got into a PhD program in economics, and the whole family was thrilled."
+            }
+          }
+        ]
+      },
+      "出来": {
+        "formal_translation": {
+          "ko": "동사 “出来”는 다른 동사 뒤에 쓰여 방향보어가 될 수 있습니다. 어떤 동작이나 행위가 사물의 상태를 없던 것에서 있는 것으로, 또는 숨겨져 있던 것에서 드러난 것으로 바꾸는 것을 나타냅니다.",
+          "ja": "動詞「出来」はほかの動詞の後ろに置かれて方向補語となることができます。ある動作や行為によって、物事の状態が存在しない状態から存在する状態へ、または隠れている状態から明らかな状態へ変わることを表します。",
+          "en": "The verb “出来” can be used after another verb as a complement of direction. It indicates that an action or behavior makes the state of something change from nonexistence to existence, or from being hidden to being obvious."
+        },
+        "colloquial_translation": {
+          "ko": "동사 뒤의 “出来”는 결과가 보이거나, 표현되거나, 만들어지거나, 알아차려지는 데 초점이 있습니다. 일상 회화에서는 “说”, “写”, “翻译”, “看”, “听” 같은 동사와 자주 쓰여 어떤 것이 밖으로 드러나거나 인식되었음을 나타냅니다.",
+          "ja": "動詞の後ろの「出来」は、結果が見えるようになる、表現される、作り出される、または認識されることに焦点があります。日常会話では「说」「写」「翻译」「看」「听」などの動詞とよく使われ、何かが外に出されたり気づかれたりしたことを表します。",
+          "en": "“出来” after a verb often focuses on a result becoming visible, expressed, produced, or recognized. In everyday speech, it is common with verbs such as “说”, “写”, “翻译”, “看”, and “听” to show that something has been brought out or noticed."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "어떤 사람들은 마음속에 어떤 생각이나 의견이 있으면 입으로 바로 말해 버립니다.",
+              "ja": "心の中に何か考えや意見があると、すぐに口に出して直接言う人もいます。",
+              "en": "Some people will directly say whatever views or opinions they have in mind."
+            }
+          },
+          {
+            "translation": {
+              "ko": "당신이 원한 그 글은 제가 이미 번역해 놓았습니다. 편할 때 와서 가져가세요.",
+              "ja": "あなたが必要としていたあの記事は、もう翻訳しておきました。都合のよいときに取りに来てください。",
+              "en": "I have already translated the article you wanted. Come pick it up when it is convenient for you."
+            }
+          },
+          {
+            "translation": {
+              "ko": "방금 옆에서 당신이 중국 춤을 추는 것을 봤어요. 이렇게 잘 추는 줄 몰랐어요!",
+              "ja": "さっき横であなたが中国舞踊を踊っているのを見ました。こんなに上手だとは思いませんでした。",
+              "en": "Just now I saw you dancing Chinese dance from the side. I couldn't tell before that you danced so well!"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "마음속으로 어떻게 생각하는지 그냥 바로 말하세요.",
+              "ja": "心の中でどう思っているのか、そのまま言ってください。",
+              "en": "Just say directly what you are thinking."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 글은 번역해 뒀어요. 시간 있을 때 와서 가져가세요.",
+              "ja": "その文章は翻訳しておきました。時間があるときに取りに来てください。",
+              "en": "I've finished translating that article. Come get it when you have time."
+            }
+          },
+          {
+            "translation": {
+              "ko": "정말 몰랐네요. 춤을 이렇게 잘 추다니요!",
+              "ja": "本当に気づきませんでした。こんなにダンスが上手なんですね！",
+              "en": "I really couldn't tell. You're so good at dancing!"
+            }
+          }
+        ]
+      },
+      "出来 / 起来": {
+        "formal_translation": {
+          "ko": "“出来”와 “起来”는 둘 다 동사 뒤에 쓰여 방향보어나 가능보어가 될 수 있지만 의미가 다릅니다. “出来”는 안에서 밖으로 나오는 방향을 나타내거나, 확장 의미로 어떤 것이 생겨나거나 드러나는 것을 나타냅니다. “起来”는 아래에서 위로 올라가는 방향을 나타내거나, 확장 의미로 동작이 시작되어 계속되는 것을 나타냅니다. 고정 표현 “想出来”와 “想起来”에서 “想出来”는 생각한 끝에 새 정보가 생겨난다는 뜻이고, “想起来”는 잊었던 정보를 기억해 냈다는 뜻입니다.",
+          "ja": "「出来」と「起来」はどちらも動詞の後ろに置かれて方向補語または可能補語になりますが、意味は異なります。「出来」は内側から外側への動きを表し、拡張義では何かが生じたり明らかになったりすることを表します。「起来」は下から上への動きを表し、拡張義では動作が始まり継続することを表します。固定表現「想出来」と「想起来」では、「想出来」は考えた結果新しい情報が生まれることを意味し、「想起来」は忘れていた情報を思い出すことを意味します。",
+          "en": "Both “出来” and “起来” can be used after verbs as complements of direction or possibility, but they express different meanings. “出来” indicates movement from inside to outside, or an extended meaning in which something comes into existence or becomes visible. “起来” indicates upward movement, or an extended meaning in which an action begins and continues. In the fixed expressions “想出来” and “想起来”, “想出来” means new information is produced after thinking, while “想起来” means forgotten information has been retrieved from memory."
+        },
+        "colloquial_translation": {
+          "ko": "무언가를 꺼내거나, 말로 드러내거나, 생각해 내거나, 알아차릴 때는 “出来”를 씁니다. 위로 움직이거나, 어떤 일이 시작되어 계속되거나, 다시 기억날 때는 “起来”를 씁니다. 회화에서는 “拿出来/坐起来”, “算出来/热起来”, “想出来/想起来” 같은 쌍에서 차이가 특히 분명합니다.",
+          "ja": "何かを取り出す、言葉に出す、考え出す、気づくときは「出来」を使います。上に動く、何かが始まって続く、または再び思い出すときは「起来」を使います。会話では「拿出来/坐起来」「算出来/热起来」「想出来/想起来」のような対で違いが特にはっきりします。",
+          "en": "Use “出来” when something is taken out, spoken out, worked out, or recognized. Use “起来” when something moves upward, starts to happen, continues developing, or is remembered again. In speech, the contrast is especially clear in pairs like “拿出来/坐起来”, “算出来/热起来”, and “想出来/想起来”."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "제 일기장이 소파 뒤로 떨어져서 꺼낼 수가 없어요. 와서 소파를 좀 들어 주세요.",
+              "ja": "私の日記帳がソファの後ろに落ちてしまって、取り出せません。ソファを少し持ち上げるのを手伝ってください。",
+              "en": "My diary fell behind the sofa and I cannot get it out. Please come help me lift the sofa."
+            }
+          },
+          {
+            "translation": {
+              "ko": "아침 여섯 시에 그는 아직 자고 있었는데, 전화가 갑자기 울리자 급히 일어나 앉아 전화를 받았습니다.",
+              "ja": "朝6時、彼はまだ寝ていましたが、電話が突然鳴ったので、急いで起き上がって電話に出ました。",
+              "en": "At six in the morning, he was still asleep when the phone suddenly rang, and he hurriedly sat up to answer it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 두 장소 사이의 거리가 몇 킬로미터인지 계산해 낼 수 있나요?",
+              "ja": "この二つの場所の間の距離が何キロメートルか計算できますか。",
+              "en": "Can you calculate how many kilometers the distance between these two places is?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "지금은 겨우 4월이지만, 날씨가 이미 서서히 더워지기 시작했습니다.",
+              "ja": "今はまだ4月ですが、天気はもう少しずつ暑くなり始めています。",
+              "en": "Although it is only April now, the weather has already started to gradually get warmer."
+            }
+          },
+          {
+            "translation": {
+              "ko": "몇 개의 객관식 문제가 있었는데, 정말 어느 것을 골라야 할지 생각해 낼 수 없어서 아무거나 하나 골랐습니다.",
+              "ja": "いくつか選択問題があり、どれを選ぶべきかどうしても思いつかなかったので、仕方なく適当に一つ選びました。",
+              "en": "There were several multiple-choice questions, and I really could not figure out which one to choose, so I had to pick one at random."
+            }
+          },
+          {
+            "translation": {
+              "ko": "생각났어요. 그 노래하던 남자아이는 Gao 선생님의 손자예요.",
+              "ja": "思い出しました。あの歌っていた男の子はGao先生のお孫さんです。",
+              "en": "I remember now. The boy who was singing is Teacher Gao’s grandson."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "공책이 소파 뒤로 떨어져서 꺼낼 수가 없어요.",
+              "ja": "ノートがソファの後ろに落ちて、取り出せません。",
+              "en": "The notebook fell behind the sofa, and I cannot get it out."
+            }
+          },
+          {
+            "translation": {
+              "ko": "전화가 울리자 그는 바로 일어나 앉아 받았어요.",
+              "ja": "電話が鳴ると、彼はすぐ起き上がって出ました。",
+              "en": "As soon as the phone rang, he sat up and answered it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 문제는 제가 풀어냈어요.",
+              "ja": "この問題は解けました。",
+              "en": "I worked out this problem."
+            }
+          },
+          {
+            "translation": {
+              "ko": "날씨가 서서히 더워지고 있어요.",
+              "ja": "天気がだんだん暑くなってきました。",
+              "en": "The weather is slowly getting warmer."
+            }
+          },
+          {
+            "translation": {
+              "ko": "어느 걸 골라야 할지 생각이 안 나요.",
+              "ja": "どれを選べばいいか思いつきません。",
+              "en": "I cannot figure out which one to choose."
+            }
+          },
+          {
+            "translation": {
+              "ko": "생각났어요. 그는 Gao 선생님의 손자예요.",
+              "ja": "思い出しました。彼はGao先生のお孫さんです。",
+              "en": "I remember now. He is Teacher Gao’s grandson."
+            }
+          }
+        ]
+      },
+      "总的来说": {
+        "formal_translation": {
+          "ko": "“总的来说”는 보통 삽입어로 쓰이며 “전체적으로 보면”, “대체로 말하면”이라는 뜻입니다. 세부 사항 하나하나가 아니라 전체적인 관점이나 주요 상황을 바탕으로 평가할 때 씁니다.",
+          "ja": "「总的来说」は普通、挿入句として使われ、「全体的に言えば」「概して言えば」という意味です。細かい一つ一つではなく、全体的な観点や主な状況に基づいて評価するときに使います。",
+          "en": "“总的来说” is usually used as a parenthetical expression meaning “on the whole” or “generally speaking”. It is used to comment on something from an overall perspective or based on the main situation rather than every small detail."
+        },
+        "colloquial_translation": {
+          "ko": "“总的来说”는 균형 잡힌 요약 평가처럼 들립니다. 일상 회화에서는 전체적인 평가를 할 때 “总体来说”나 “总之”도 쓰지만, “总之”는 더 간결하게 결론을 내리는 느낌이 강합니다.",
+          "ja": "「总的来说」は、バランスの取れたまとめの評価のように聞こえます。日常会話では全体的な評価をするときに「总体来说」や「总之」も使いますが、「总之」はより簡潔に結論づける感じが強いです。",
+          "en": "“总的来说” sounds balanced and summary-like. In everyday speech, people also say “总体来说” or “总之” when giving a general evaluation, but “总之” is often more concise and concluding."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "광고에는 집의 교통이 편리하고, 주변이 조용하며, 주방이 크다고 쓰여 있었습니다. 전체적으로 그는 이 집에 매우 만족해서 집주인의 휴대전화 번호를 적어 두었습니다.",
+              "ja": "広告には、部屋は交通が便利で、周囲は静かで、台所が広いと書いてありました。全体的に見て、彼はこの部屋にとても満足したので、大家の携帯電話番号をメモしました。",
+              "en": "The advertisement said the apartment had convenient transportation, quiet surroundings, and a large kitchen. Overall, he was very satisfied with the apartment, so he wrote down the landlord’s mobile phone number."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 회사의 월급은 그다지 높다고 할 수는 없지만, 보너스가 많아서 전체적으로 수입은 꽤 괜찮습니다.",
+              "ja": "この会社の給料はそれほど高いとは言えませんが、ボーナスが多いので、全体的に収入はまあまあです。",
+              "en": "Although this company’s salary is not very high, the bonuses are generous, so overall the income is still pretty good."
+            }
+          },
+          {
+            "translation": {
+              "ko": "많은 사람들이 리장 여행이 어떤지 묻습니다. 대체로 말하면, 리장은 경치가 좋고 그곳 사람들도 친절해서 여행하기에 괜찮은 선택입니다.",
+              "ja": "多くの人が麗江旅行はどうかと尋ねます。全体的に言えば、麗江は景色がよく、そこの人々も親切で、旅行先としてよい選択です。",
+              "en": "Many people ask what it is like to travel to Lijiang. Generally speaking, Lijiang has nice scenery, the people there are also very warm, and traveling there is a good choice."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "전체적으로 그는 이 집에 꽤 만족해요.",
+              "ja": "全体的に、彼はこの部屋にかなり満足しています。",
+              "en": "Overall, he is pretty satisfied with this apartment."
+            }
+          },
+          {
+            "translation": {
+              "ko": "월급은 높지 않지만 보너스가 많아서 전체적으로 수입은 괜찮아요.",
+              "ja": "給料は高くありませんが、ボーナスが多いので、全体的に収入は悪くありません。",
+              "en": "The salary is not high, but there are lots of bonuses, so overall the income is okay."
+            }
+          },
+          {
+            "translation": {
+              "ko": "대체로 리장은 꽤 가 볼 만해요.",
+              "ja": "全体的に、麗江はかなり行く価値があります。",
+              "en": "Generally speaking, Lijiang is quite worth visiting."
+            }
+          }
+        ]
+      },
+      "在于": {
+        "formal_translation": {
+          "ko": "동사 “在于”는 주로 문어체에서 쓰이며 사물의 본질을 지적할 때 사용합니다. “바로 ...에 있다”, “...에 달려 있다”라는 뜻입니다. “在于”의 주어는 보통 명사성 구이고, 뒤에는 반드시 명사, 동사, 또는 절이 목적어로 와야 합니다.",
+          "ja": "動詞「在于」は主に書き言葉で使われ、物事の本質を指摘するときに用います。「まさに…にある」「…にかかっている」という意味です。「在于」の主語は普通名詞句で、後ろには必ず名詞、動詞、または節を目的語として伴います。",
+          "en": "The verb “在于” is often used in written Chinese to point out the essence of something, meaning “to be exactly” or “to lie in”. Its subject is usually a noun phrase, and it must take a noun, verb, or clause as its object."
+        },
+        "colloquial_translation": {
+          "ko": "“在于”는 간결하고 격식 있는 표현으로, 핵심 이유나 본질, 결정적인 요소를 밝힐 때 자주 씁니다. 일상 회화에서는 비슷한 뜻을 더 자연스럽게 말하기 위해 “关键是”, “重点是”, “问题是”를 더 자주 씁니다.",
+          "ja": "「在于」は簡潔で改まった表現で、核心となる理由、本質、決定的な要素を示すときによく使います。日常会話では、似た意味をより自然に表すために「关键是」「重点是」「问题是」を使うことが多いです。",
+          "en": "“在于” is concise and formal, often used to identify the key reason, essence, or decisive factor. In everyday speech, people more often say “关键是”, “重点是”, or “问题是” to express a similar idea more naturally."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "사람들은 흔히 “생명은 운동에 달려 있다”고 말하기 때문에, 많은 사람들은 주말이 되면 체육관에 가서 몇 경기 공을 칩니다.",
+              "ja": "人々はよく「生命は運動にある」と言うので、多くの人は週末になると体育館へ行って何試合か球技をします。",
+              "en": "People often say “life lies in movement,” so many people go to the gym to play a few games as soon as the weekend comes."
+            }
+          },
+          {
+            "translation": {
+              "ko": "직업 선택의 핵심은 흥미에 있습니다. 어떤 일을 좋아할 때는 열정을 가지고 일하게 되어 피곤함을 느끼지 않고, 큰 압박감도 느끼지 않게 됩니다.",
+              "ja": "職業を選ぶ鍵は興味にあります。あることをするのが好きなとき、人は情熱を持って働くので、疲れを感じず、大きなプレッシャーも感じません。",
+              "en": "The key to choosing a career lies in interest. When you like doing something, you will work with enthusiasm, will not feel tired, and will not feel too much pressure."
+            }
+          },
+          {
+            "translation": {
+              "ko": "누구도 평생 순조롭기만 하고 실패가 없을 수는 없습니다. 차이는 어떤 사람은 실패를 받아들이고 실패의 원인을 찾아 계속 노력할 수 있는 반면, 어떤 사람은 실패 앞에서 발걸음을 멈춘다는 데 있습니다.",
+              "ja": "誰も一生ずっと順調で失敗がないということはできません。違いは、失敗を受け入れ、その原因を見つけて努力を続けられる人もいれば、失敗を前にして歩みを止めてしまう人もいるという点にあります。",
+              "en": "No one can go through life smoothly without failure. The difference lies in the fact that some people can accept failure, find its cause, and keep working hard, while others stop in the face of failure."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "다들 생명은 많이 움직이는 데 있다고 말해요.",
+              "ja": "みんな、生命とはたくさん体を動かすことだと言います。",
+              "en": "People all say that life is about moving more."
+            }
+          },
+          {
+            "translation": {
+              "ko": "일을 고를 때 핵심은 흥미가 있느냐예요.",
+              "ja": "仕事を選ぶとき、大事なのは興味があるかどうかです。",
+              "en": "When choosing a job, the key is whether you are interested in it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "실패는 무섭지 않아요. 핵심은 계속 노력할 수 있느냐예요.",
+              "ja": "失敗は怖くありません。大事なのは努力を続けられるかどうかです。",
+              "en": "Failure is not scary. The key is whether you can keep working hard."
+            }
+          }
+        ]
+      },
+      "同字词：发": {
+        "formal_translation": {
+          "ko": "같은 글자 “发”를 포함한 단어: 沙发, 发生, 发展, 理发.",
+          "ja": "同じ字「发」を含む語: 沙发、发生、发展、理发。",
+          "en": "Words with the same character “发”: 沙发, 发生, 发展, 理发."
+        },
+        "colloquial_translation": {
+          "ko": "이 항목은 하나의 문법 패턴이 아니라 “发”가 들어간 단어군 확장 노트입니다. 교재 예문은 같은 글자가 서로 다른 단어에서 어떻게 쓰이는지 보여 줍니다.",
+          "ja": "これは一つの文法パターンではなく、「发」を含む語群の拡張ノートです。教科書の例文は、同じ字が異なる語の中でどのように使われるかを示しています。",
+          "en": "This is an expansion note for words sharing the character “发”, not a single grammar pattern. The formal examples preserve the textbook word-family usage."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "집에 돌아오자마자 옷이나 책가방 같은 것을 소파 위에 던져 놓네요. 방이 너무 어질러졌으니 시간을 내서 좀 정리하세요.",
+              "ja": "家に帰るとすぐ服やかばんなどをソファの上に投げています。部屋が散らかりすぎているので、時間を作って片づけてください。",
+              "en": "When you get home, you throw your clothes, schoolbag, and everything else onto the sofa. The room is too messy; find some time to tidy it up."
+            }
+          },
+          {
+            "translation": {
+              "ko": "나이가 들면서 사람들의 많은 일에 대한 생각은 변할 수 있고, 예전 생각과 완전히 달라질 수도 있습니다.",
+              "ja": "年齢が上がるにつれて、人々の多くのことに対する考え方は変化することがあり、以前の考え方とまったく違う可能性もあります。",
+              "en": "As people grow older, their views on many things can change, and they may become completely different from their previous views."
+            }
+          },
+          {
+            "translation": {
+              "ko": "저는 원래 임무가 순조롭게 완성될 수 있다고 생각했는데, 일의 진행 상황이 제가 생각한 것과 정반대일 줄은 몰랐습니다.",
+              "ja": "私は任務が順調に完了できると思っていましたが、物事の展開が自分の考えと正反対になるとは思いませんでした。",
+              "en": "I originally thought the task could be completed smoothly, but I did not expect the way things developed to be exactly the opposite of what I had imagined."
+            }
+          },
+          {
+            "translation": {
+              "ko": "맞은편 거리에는 새 이발소가 하나 생겼는데, 그 가게 이발사의 기술이 괜찮다고 들었습니다.",
+              "ja": "向かいの通りに新しい理髪店が一軒開きました。その店の理髪師の腕は悪くないそうです。",
+              "en": "A new barbershop opened on the street across from here. I heard the barber there is pretty skilled."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "책가방을 소파 위에 던져 놓지 마세요. 방이 다 어질러졌어요.",
+              "ja": "かばんをソファの上に投げないでください。部屋が散らかっています。",
+              "en": "Don’t throw your schoolbag on the sofa; the room is getting messy."
+            }
+          },
+          {
+            "translation": {
+              "ko": "사람의 생각은 서서히 변할 수 있어요.",
+              "ja": "人の考えは少しずつ変わることがあります。",
+              "en": "People’s ideas can slowly change."
+            }
+          },
+          {
+            "translation": {
+              "ko": "일의 진행이 제가 생각한 것과 달랐어요.",
+              "ja": "物事の展開は私が思っていたのと違いました。",
+              "en": "Things developed differently from what I expected."
+            }
+          },
+          {
+            "translation": {
+              "ko": "새로 생긴 그 가게에 가서 머리를 자르고 싶어요.",
+              "ja": "新しくできたあの店に散髪に行きたいです。",
+              "en": "I want to get a haircut at that new shop."
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "刚才用刀切肉的时候把手<b>弄破</b>了。": {
+        "translation": {
+          "ko": "방금 칼로 고기를 자르다가 손을 베었어요.",
+          "ja": "さっき包丁で肉を切っているときに手を切ってしまいました。",
+          "en": "Just now when I was cutting the meat with a knife, I cut my hand."
+        },
+        "colloquial_translation": {
+          "ko": "고기 자르다가 손을 좀 베었어요.",
+          "ja": "肉を切っていたら、手を少し切ってしまいました。",
+          "en": "I cut my hand while slicing the meat."
+        },
+        "context": {
+          "ko": "실수로 상태가 변한 일을 말할 때",
+          "ja": "うっかり状態が変わったことを言うとき",
+          "en": "Talking about an accidental change of state"
+        }
+      },
+      "看来今天<b>吃不上</b>羊肉饺子了。": {
+        "translation": {
+          "ko": "보아하니 오늘은 양고기 만두를 못 먹겠네요.",
+          "ja": "どうやら今日は羊肉の餃子は食べられなさそうですね。",
+          "en": "Looks like we won't be able to eat lamb dumplings today."
+        },
+        "colloquial_translation": {
+          "ko": "오늘 양고기 만두는 못 먹겠네요.",
+          "ja": "今日は羊肉の餃子は無理そうですね。",
+          "en": "Guess lamb dumplings are off the table today."
+        },
+        "context": {
+          "ko": "목적을 달성하지 못함을 말할 때",
+          "ja": "目的を達成できないことを言うとき",
+          "en": "Talking about being unable to achieve a goal"
+        }
+      },
+      "没<b>看出来</b>你跳得这么好！": {
+        "translation": {
+          "ko": "당신이 이렇게 춤을 잘 추는 줄 몰랐어요!",
+          "ja": "こんなに上手に踊れるとは思いませんでした。",
+          "en": "I couldn't tell before that you danced so well!"
+        },
+        "colloquial_translation": {
+          "ko": "와, 이렇게 잘 추는 줄 몰랐어요!",
+          "ja": "わあ、こんなに上手だとは思いませんでした。",
+          "en": "Wow, I had no idea you danced this well!"
+        },
+        "context": {
+          "ko": "숨겨진 점을 알아차렸을 때",
+          "ja": "隠れていたことに気づいたとき",
+          "en": "Noticing something that was not obvious before"
+        }
+      },
+      "舞蹈<b>不仅</b>是一门艺术，<b>也</b>是一种“语言”。": {
+        "translation": {
+          "ko": "무용은 예술일 뿐만 아니라 하나의 “언어”이기도 해요.",
+          "ja": "ダンスは一つの芸術であるだけでなく、一種の「言語」でもあります。",
+          "en": "Dance is not only an art, but also a kind of language."
+        },
+        "colloquial_translation": {
+          "ko": "춤은 예술이기도 하고, 말처럼 통하는 표현이기도 해요.",
+          "ja": "ダンスは芸術でもあり、言葉のように伝わる表現でもあります。",
+          "en": "Dance is art, but it also works like a language."
+        },
+        "context": {
+          "ko": "두 가지 성격을 함께 말할 때",
+          "ja": "二つの性質を一緒に言うとき",
+          "en": "Linking two qualities"
+        }
+      },
+      "<b>总的来说</b>，这套房子他很满意。": {
+        "translation": {
+          "ko": "전체적으로 그는 이 집이 매우 마음에 들었습니다.",
+          "ja": "全体的に、この部屋に彼はとても満足しました。",
+          "en": "Overall, he was very satisfied with this apartment."
+        },
+        "colloquial_translation": {
+          "ko": "전체적으로 보면 이 집이 꽤 마음에 들었어요.",
+          "ja": "全体的に見ると、この部屋はかなり気に入りました。",
+          "en": "Overall, he really liked the place."
+        },
+        "context": {
+          "ko": "전체적으로 평가할 때",
+          "ja": "全体的に評価するとき",
+          "en": "Giving an overall evaluation"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "title": {
+          "ko": "마크가 다음 학기에 학교에서 계속 공부하기를 신청하다",
+          "ja": "マークが次の学期も学校で勉強を続ける申請をする",
+          "en": "Mark applies to continue studying at school next semester"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "선생님, 안녕하세요! 다음 학기에도 여기에서 계속 공부하고 싶은데, 다시 신청해야 하나요?",
+              "ja": "先生、こんにちは。次の学期もここで勉強を続けたいのですが、もう一度申請する必要がありますか。",
+              "en": "Hello, teacher. I hope to continue studying here next semester. May I ask whether I need to apply again?"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "네. 여기 양식이 있어요. 생년월일, 성별, 여권 번호를 모두 적어야 하고, 연락 주소와 연락 전화번호도 적어야 합니다.",
+              "ja": "はい。用紙を渡します。生年月、性別、パスポート番号をすべて記入し、連絡先住所と連絡先電話番号も書く必要があります。",
+              "en": "Yes. Here is the form. You need to fill in your date of birth, gender, and passport number, as well as your contact address and phone number."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "정말 죄송합니다. 제가 부주의해서 여권 번호를 잘못 적었어요. 새 신청서를 한 장 더 주실 수 있을까요?",
+              "ja": "本当にすみません。不注意でパスポート番号を書き間違えてしまいました。新しい申請書をもう一枚いただけますか。",
+              "en": "I'm really sorry. I accidentally filled in the wrong passport number. Could you give me another new application form?"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "괜찮아요. 사과하지 않아도 됩니다. 누구나 부주의해서 잘못 적을 때가 있죠. 신청서는 모두 다른 사람들이 가져갔으니, 제가 다시 한 장 출력해 드릴게요. 잠깐 기다리세요.",
+              "ja": "大丈夫です。謝らなくてもいいですよ。誰にでもうっかり書き間違えるときがあります。申請書は全部ほかの人に持って行かれたので、もう一枚印刷してあげます。少し待ってください。",
+              "en": "It's all right. No need to apologize. Everyone has times when they are careless and fill something in incorrectly. The application forms have all been taken by other people, so I'll print another copy for you. Please wait a moment."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "가오 선생님이 출력하고, 마크가 양식을 작성한다.",
+              "ja": "高先生が印刷し、マークが用紙に記入する。",
+              "en": "Teacher Gao prints the form, and Mark fills it out."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "이번에는 요구 사항에 따라 모두 작성했습니다. 또 다른 일을 해야 하나요?",
+              "ja": "今回は要求どおりすべて記入しました。ほかにまだ何かする必要がありますか。",
+              "en": "This time I've filled everything out according to the requirements. May I ask whether I still need to do anything else?"
+            }
+          },
+          "6": {
+            "translation": {
+              "ko": "여권을 저에게 주세요. 저희가 여권을 복사해야 합니다.",
+              "ja": "パスポートを私に渡してください。私たちはパスポートをコピーする必要があります。",
+              "en": "Please give me your passport. We need to photocopy it."
+            }
+          }
+        }
+      },
+      "2": {
+        "title": {
+          "ko": "왕징이 만두를 만들다가 손을 다치다",
+          "ja": "王静が餃子を作るときに手をけがする",
+          "en": "Wang Jing hurts her hand while making dumplings"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "어, 손에서 왜 피가 나요? 잠깐만요, 제가 감싸 드릴게요.",
+              "ja": "あっ、手からどうして血が出ているんですか。ちょっと待ってください、包んであげます。",
+              "en": "Oh no, why is your hand bleeding? Wait a moment. I'll bandage it for you."
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "괜찮아요. 당신에게 양고기 만두를 좀 만들어 주려고 했는데, 방금 칼로 고기를 자르다가 손을 베었어요.",
+              "ja": "大丈夫です。あなたに羊肉の餃子を少し作ってあげようと思ったのですが、さっき包丁で肉を切っているときに手を切ってしまいました。",
+              "en": "It's okay. I wanted to make you some lamb dumplings, but just now when I was cutting the meat with a knife, I cut my hand."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "정말 너무 조심하지 않았네요. 그래도 별로 심각해 보이지는 않으니 며칠 지나면 나을 거예요. 옷에도 피가 조금 묻었어요. 옷을 벗어 주세요, 제가 빨아 드릴게요.",
+              "ja": "本当に不注意でしたね。でも、あまりひどくはなさそうなので、数日でよくなるでしょう。服にも少し血がついています。服を脱いでください、洗ってあげます。",
+              "en": "You were really too careless, but it doesn't seem too serious. It should be fine in a few days. There's also a little blood on your clothes. Take them off, and I'll wash them for you."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "보아하니 오늘은 양고기 만두를 못 먹겠네요.",
+              "ja": "どうやら今日は羊肉の餃子は食べられなさそうですね。",
+              "en": "Looks like we won't be able to eat lamb dumplings today."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "그럼 다른 걸 좀 먹죠. 제가 자주 가는 그 이발소 근처에 식당이 하나 있는데, 거기 만두가 아주 맛있어요. 조금 있다가 가서 좀 사 올게요.",
+              "ja": "では、別のものを少し食べましょう。私がよく行くあの理髪店の近くにレストランがあって、そこの包子はとてもおいしいです。あとで少し買いに行きます。",
+              "en": "Then we'll eat something else. Near the barbershop I often go to, there's a restaurant, and the buns there are really good. I'll go buy some in a little while."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "좋아요. 제 옷 주머니에 십몇 위안 잔돈이 있으니, 만두를 사기에는 충분할 거예요.",
+              "ja": "わかりました。私の服のポケットに十数元の小銭があるので、包子を買うには足りるはずです。",
+              "en": "All right. I have a little over ten yuan in change in my clothing pocket. That should be enough to buy buns."
+            }
+          }
+        }
+      },
+      "3": {
+        "title": {
+          "ko": "안나가 마크의 춤 동작 연습을 도와주다",
+          "ja": "アンナがマークのダンス動作の練習を手伝う",
+          "en": "Anna helps Mark practice dance movements"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "아침에 당신에게 인사했는데 못 봤더군요. 여기서 또 만나게 될 줄은 몰랐어요.",
+              "ja": "朝あなたに挨拶したのですが、見えていませんでしたね。まさかまたここで会うとは思いませんでした。",
+              "en": "I greeted you this morning, but you didn't see me. I didn't expect to run into you here again."
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "정말 미안해요. 일부러 그런 게 아니에요. 오늘 아침에 안경 쓰는 걸 깜빡해서 잘 보이지 않았어요.",
+              "ja": "本当にすみません。わざとではありません。今朝、眼鏡をかけるのを忘れて、よく見えませんでした。",
+              "en": "I'm really sorry. I didn't do it on purpose. I forgot to wear my glasses this morning, so I couldn't see clearly."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "방금 옆에서 당신이 중국 춤을 추는 걸 봤어요. 이렇게 잘 추는 줄 몰랐네요! 혹시 예전에 당신 나라에서 중국 무용을 배운 적이 있나요?",
+              "ja": "さっき横であなたが中国舞踊を踊っているのを見ました。こんなに上手だとは思いませんでした。もしかして以前、あなたの国で中国舞踊を習ったことがあるんですか。",
+              "en": "Just now I saw you dancing Chinese dance from the side. I couldn't tell before that you danced so well! Did you study Chinese dance back in your country before?"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "어릴 때 엄마가 2년 동안 춤을 가르쳐 주셔서 조금 기초가 있어요. 게다가 무용은 예술일 뿐만 아니라 하나의 “언어”이기도 해요. 이 언어는 국적과 상관없어서 어느 나라 사람이든 이해할 수 있어요.",
+              "ja": "子どものころ、母が二年間ダンスを教えてくれたので、少し基礎があります。それに、ダンスは一つの芸術であるだけでなく、一種の「言語」でもあります。この言語は国籍とは関係がなく、どの国の人でも理解できます。",
+              "en": "When I was little, my mother taught me dance for two years, so I have a little foundation. Besides, dance is not only an art, but also a kind of “language.” This language has nothing to do with nationality; people from any country can understand it."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "좋네요! 저는 이런 춤을 배운 지 얼마 안 됐어요. 제 이 동작이 맞는지 좀 봐 주세요.",
+              "ja": "いいですね。私はこのダンスを習い始めてまだあまり経っていません。私のこの動作が正しいか見てください。",
+              "en": "That's great! I haven't been learning this dance for very long. Please take a look and see whether this movement of mine is right."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "당신의 이 동작은 아직 그다지 표준적이지 않아요. 제가 한 번 춰 볼게요. 자세히 보세요. 저처럼 해야 해요. 먼저 팔을 들고, 그다음 다리를 들고, 마지막으로 머리를 오른쪽으로 한 번 돌리세요.",
+              "ja": "あなたのこの動作はまだあまり標準的ではありません。私が一度踊って見せます。よく見てください。私のようにするべきです。まず腕を上げ、それから脚を上げ、最後に頭を右に少し向けます。",
+              "en": "This movement of yours is still not very standard. I'll do it once for you. Watch carefully. It should be like this: first raise your arms, then lift your leg, and finally turn your head to the right."
+            }
+          }
+        }
+      },
+      "4": {
+        "title": {
+          "ko": "마크가 새 집을 찾다",
+          "ja": "マークが新しい部屋を探す",
+          "en": "Mark looks for a new apartment"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "마크가 작년에 빌린 집은 도로와 매우 가까웠고, 맞은편에는 크고 작은 가게들이 있어 주변 환경이 매우 시끄러웠습니다. 그래서 집 계약 기간이 아직 끝나지 않았는데도 마크는 서둘러 집을 바꾸기 시작했습니다. 어느 날 그는 아파트 단지 입구에서 집을 임대한다는 광고를 보았습니다. 광고에는 집의 교통이 편리하고, 주변이 조용하며, 주방이 크다고 쓰여 있었습니다. 전체적으로 그는 이 집이 매우 마음에 들어 집주인의 휴대전화 번호를 적어 두었습니다. 그런데 집에 돌아가 전화를 걸어 보니 전화가 계속 통화 중이었습니다. 다음 날 그가 단지 입구를 지나가다가 광고를 다시 자세히 보니, 번호를 적을 때 숫자 하나를 잘못 쓴 것이었습니다.",
+              "ja": "マークが去年借りた部屋は道路にとても近く、向かいには大小さまざまな店があり、周囲の環境はとても騒がしかったです。そのため、部屋の契約期限がまだ来ていないのに、マークは急いで部屋を替え始めました。ある日、彼は団地の入口で部屋を貸す広告を見かけました。広告には、交通が便利で、周囲は静かで、台所が広いと書いてありました。全体的に、この部屋に彼はとても満足したので、大家の携帯電話番号をメモしました。しかし家に帰って電話をかけると、電話はいつも話し中でした。翌日、彼が団地の入口を通りかかったとき、もう一度広告をよく見てみると、番号を控えたときに数字を一つ書き間違えていたことがわかりました。",
+              "en": "The apartment Mark rented last year was very close to the road. There were shops of all sizes across from it, and the surrounding environment was very noisy. So even before the lease was up, Mark started anxiously looking for a new place. One day, he saw an apartment rental advertisement at the entrance to his residential community. The ad said the apartment had convenient transportation, quiet surroundings, and a large kitchen. Overall, he was very satisfied with the apartment, so he wrote down the landlord's mobile number. But after he got home and called, the line was always busy. The next day, when he passed by the community entrance, he looked carefully at the advertisement again and realized that he had written down one digit incorrectly when copying the number."
+            }
+          }
+        }
+      },
+      "5": {
+        "title": {
+          "ko": "중국 사람들은 탁구 치는 것을 좋아하다",
+          "ja": "中国人は卓球をするのが好きだ",
+          "en": "Chinese people like playing table tennis"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "많은 외국인들은 모든 중국인이 쿵푸와 탁구를 할 줄 안다고 생각하지만, 사실 이 두 가지 운동을 좋아하는 중국인이 비교적 많을 뿐입니다. 중국 사람들은 특히 탁구 치는 것을 좋아해서, 중국에서는 어디에서나 탁구대를 발견할 수 있습니다. 탁구, 배드민턴, 달리기 같은 운동은 조건에 대한 요구가 높지 않기 때문에 모두 사람들이 운동하기에 좋은 선택이 되었습니다. 사람들은 흔히 “생명은 운동에 달려 있다”고 말하기 때문에, 많은 사람들은 주말이 되면 체육관에 가서 몇 경기 공을 칩니다. “핑퐁추”라는 이름도 매우 재미있습니다. “핑”과 “퐁”은 공을 칠 때 나는 소리입니다. 탁구 경기를 볼 때, 특히 선수가 서브할 때 관중은 조용해야 하며, 큰 소리로 말하거나 자리를 떠나 마음대로 돌아다니는 것은 금지됩니다.",
+              "ja": "多くの外国人は、すべての中国人がカンフーと卓球をできると思っていますが、実際にはこの二つのスポーツを好む中国人が比較的多いだけです。中国人は特に卓球をするのが好きで、中国ではどこにでも卓球台があることに気づくでしょう。卓球、バドミントン、ランニングなどのスポーツは条件への要求が高くないので、人々にとってよい運動の選択肢になっています。人々はよく「生命は運動にある」と言うので、多くの人は週末になると体育館へ行って何試合か球技をします。「乒乓球」という名前もとても面白く、「乒」と「乓」は球を打つときに出る音です。卓球の試合を見るとき、特に選手がサーブするとき、観客は静かにしなければならず、大声で話したり席を離れて勝手に歩き回ったりすることは禁止されています。",
+              "en": "Many foreigners think all Chinese people know kung fu and table tennis, but actually there are simply many Chinese people who like these two sports. Chinese people especially like playing table tennis; in China, you will find table tennis tables everywhere. Sports such as table tennis, badminton, and running do not require many special conditions, so they have all become good exercise choices for people. People often say, “Life lies in movement,” so many people go to the gym on weekends to play a few games. The name “ping-pong ball” is also interesting: “ping” and “pong” are the sounds made when playing. When watching a table tennis match, especially when an athlete is serving, the audience should be quiet, and loud talking or casually leaving one's seat and walking around is prohibited."
+            }
+          }
+        }
+      }
+    },
+    "vocabulary": {
+      "学期": {
+        "ko": "학기",
+        "ja": "学期",
+        "en": "n. term, semester"
+      },
+      "出生": {
+        "ko": "태어나다",
+        "ja": "生まれる",
+        "en": "v. to be born"
+      },
+      "性别": {
+        "ko": "성별",
+        "ja": "性別",
+        "en": "n. sex, gender"
+      },
+      "道歉": {
+        "ko": "사과하다",
+        "ja": "謝る",
+        "en": "v. to apologize"
+      },
+      "打印": {
+        "ko": "인쇄하다",
+        "ja": "印刷する",
+        "en": "v. to print out"
+      },
+      "复印": {
+        "ko": "복사하다",
+        "ja": "コピーする",
+        "en": "v. to photocopy, to xerox"
+      },
+      "饺子": {
+        "ko": "만두",
+        "ja": "餃子",
+        "en": "n. jiaozi, dumpling"
+      },
+      "刀": {
+        "ko": "칼",
+        "ja": "ナイフ、包丁",
+        "en": "n. knife"
+      },
+      "破": {
+        "ko": "찢어진, 깨진",
+        "ja": "破れた、壊れた",
+        "en": "adj. broken, torn"
+      },
+      "脱": {
+        "ko": "벗다",
+        "ja": "脱ぐ",
+        "en": "v. to take off"
+      },
+      "理发": {
+        "ko": "이발하다",
+        "ja": "散髪する",
+        "en": "v. to get a haircut"
+      },
+      "包子": {
+        "ko": "찐빵, 바오쯔",
+        "ja": "肉まん、包子",
+        "en": "n. steamed stuffed bun"
+      },
+      "零钱": {
+        "ko": "잔돈",
+        "ja": "小銭",
+        "en": "n. small change"
+      },
+      "打招呼": {
+        "ko": "인사하다",
+        "ja": "挨拶する",
+        "en": "to greet, to say hello"
+      },
+      "戴": {
+        "ko": "착용하다",
+        "ja": "身につける",
+        "en": "v. to wear (accessories)"
+      },
+      "眼镜": {
+        "ko": "안경",
+        "ja": "眼鏡",
+        "en": "n. glasses, spectacles"
+      },
+      "舞蹈": {
+        "ko": "춤, 무용",
+        "ja": "舞踊、ダンス",
+        "en": "n. dance"
+      },
+      "国籍": {
+        "ko": "국적",
+        "ja": "国籍",
+        "en": "n. nationality, citizenship"
+      },
+      "抬": {
+        "ko": "들다, 올리다",
+        "ja": "持ち上げる",
+        "en": "v. to lift, to raise"
+      },
+      "胳膊": {
+        "ko": "팔",
+        "ja": "腕",
+        "en": "n. arm"
+      },
+      "转": {
+        "ko": "돌리다, 바꾸다",
+        "ja": "回す、移す",
+        "en": "v. to turn, to shift"
+      },
+      "租": {
+        "ko": "빌리다, 임대하다",
+        "ja": "借りる、賃貸する",
+        "en": "v. to rent, to lease"
+      },
+      "吵": {
+        "ko": "시끄럽다",
+        "ja": "うるさい",
+        "en": "adj. noisy"
+      },
+      "厨房": {
+        "ko": "부엌",
+        "ja": "台所",
+        "en": "n. kitchen"
+      },
+      "房东": {
+        "ko": "집주인",
+        "ja": "大家、家主",
+        "en": "n. landlord/landlady"
+      },
+      "占线": {
+        "ko": "통화 중이다",
+        "ja": "話し中である",
+        "en": "v. (of a telephone line) to be busy, to be engaged"
+      },
+      "功夫": {
+        "ko": "쿵푸",
+        "ja": "カンフー",
+        "en": "n. kung fu"
+      },
+      "乒乓球": {
+        "ko": "탁구",
+        "ja": "卓球",
+        "en": "n. table tennis, ping-pong"
+      },
+      "羽毛球": {
+        "ko": "배드민턴",
+        "ja": "バドミントン",
+        "en": "n. badminton"
+      },
+      "场": {
+        "ko": "경기/행사 등에 쓰는 양사",
+        "ja": "試合・催しなどに使う量詞",
+        "en": "m. used for sports or recreational events, etc."
+      },
+      "禁止": {
+        "ko": "금지하다",
+        "ja": "禁止する",
+        "en": "v. to prohibit, to forbid"
+      },
+      "座位": {
+        "ko": "좌석",
+        "ja": "座席",
+        "en": "n. seat"
+      }
+    },
+    "properNouns": {
+      "马克": {
+        "ko": "마크, 인명",
+        "ja": "マーク、人名",
+        "en": "Mark, a personal name"
+      },
+      "高老师": {
+        "ko": "가오 선생님",
+        "ja": "高先生",
+        "en": "Teacher Gao"
+      },
+      "李进": {
+        "ko": "리진, 인명",
+        "ja": "李進、人名",
+        "en": "Li Jin, a personal name"
+      },
+      "王静": {
+        "ko": "왕징, 인명",
+        "ja": "王静、人名",
+        "en": "Wang Jing, a personal name"
+      },
+      "安娜": {
+        "ko": "안나, 인명",
+        "ja": "アンナ、人名",
+        "en": "Anna, a personal name"
+      }
+    },
+    "textTitles": {
+      "1": {
+        "ko": "마크가 다음 학기에 학교에서 계속 공부하기를 신청하다",
+        "ja": "マークが来学期も学校で勉強を続ける申請をする",
+        "en": "Mark applies to continue studying at school next semester"
+      },
+      "2": {
+        "ko": "왕징이 만두를 만들다가 손을 다치다",
+        "ja": "王静が餃子を作っているときに手をけがする",
+        "en": "Wang Jing hurts her hand while making dumplings"
+      },
+      "3": {
+        "ko": "안나가 마크의 춤 동작 연습을 돕다",
+        "ja": "アンナがマークのダンス動作の練習を手伝う",
+        "en": "Anna helps Mark practice dance movements"
+      },
+      "4": {
+        "ko": "마크가 새 집을 찾다",
+        "ja": "マークが新しい部屋を探す",
+        "en": "Mark looks for a new apartment"
+      },
+      "5": {
+        "ko": "중국인은 탁구 치는 것을 좋아한다",
+        "ja": "中国人は卓球をするのが好きだ",
+        "en": "Chinese people like playing table tennis"
+      }
+    },
+    "lessonTitle": {
+      "ko": "마크가 다음 학기에 학교에서 계속 공부하기를 신청하다",
+      "ja": "マークが来学期も学校で勉強を続ける申請をする",
+      "en": "Mark applies to continue studying at school next semester"
+    }
+  }
+}

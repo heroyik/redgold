@@ -333,54 +333,68 @@
       "sentence": "有些年轻人申请了信用卡，但在购物时却没有考虑自己的经济能力，最后不能按时还银行的钱。",
       "pinyin": "Yǒuxiē niánqīng rén shēnqǐng le xìnyòngkǎ, dàn zài gòuwù shí què méiyǒu kǎolǜ zìjǐ de jīngjì nénglì, zuìhòu bù néng ànshí hái yínháng de qián.",
       "translation": "Some young people applied for credit cards, but when shopping they did not consider their own financial ability, and in the end they could not repay the bank on time.",
-      "context": "同字词：用（信用卡）"
+      "context": "과소비를 경고할 때",
+      "colloquial_equivalent": "有些年轻人刷信用卡的时候没想清楚自己还不还得起，最后钱还不上。",
+      "colloquial_pinyin": "Yǒuxiē niánqīng rén shuā xìnyòngkǎ de shíhou méi xiǎng qīngchu zìjǐ hái bu hái de qǐ, zuìhòu qián hái bu shàng.",
+      "colloquial_translation": "Some young people swipe credit cards without thinking whether they can pay it back, and end up unable to repay the money."
     },
     {
       "sentence": "有些故事不仅能给人带来快乐，还有教育的作用，能使人们重新认识到一些问题。",
       "pinyin": "Yǒuxiē gùshi bùjǐn néng gěi rén dài lái kuàilè, hái yǒu jiàoyù de zuòyòng, néng shǐ rénmen chóngxīn rènshi dào yìxiē wèntí.",
       "translation": "Some stories can not only bring people happiness, but also have an educational function, helping people recognize some issues anew.",
-      "context": "同字词：用（作用）"
+      "context": "이야기의 가치를 설명할 때",
+      "colloquial_equivalent": "有些故事不光好玩，还能让人学到东西，重新想想一些问题。",
+      "colloquial_pinyin": "Yǒuxiē gùshi bùguāng hǎowán, hái néng ràng rén xué dào dōngxi, chóngxīn xiǎngxiang yìxiē wèntí.",
+      "colloquial_translation": "Some stories are not just fun; they also teach people things and make them rethink certain issues."
     },
     {
       "sentence": "医生提醒人们，在使用感冒药之前，一定要仔细阅读说明书。",
       "pinyin": "Yīshēng tíxǐng rénmen, zài shǐyòng gǎnmào yào zhīqián, yídìng yào zǐxì yuèdú shuōmíngshū.",
       "translation": "Doctors remind people that before using cold medicine, they must carefully read the instructions.",
-      "context": "同字词：用（使用）"
+      "context": "안전 주의를 줄 때",
+      "colloquial_equivalent": "医生提醒大家，吃感冒药前一定要先看清楚说明书。",
+      "colloquial_pinyin": "Yīshēng tíxǐng dàjiā, chī gǎnmào yào qián yídìng yào xiān kàn qīngchu shuōmíngshū.",
+      "colloquial_translation": "Doctors remind everyone to read the instructions carefully before taking cold medicine."
     },
     {
       "sentence": "遇到不能解决的问题时，我们应该试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。",
       "pinyin": "Yùdào bù néng jiějué de wèntí shí, wǒmen yīnggāi shìzhe zǒu zou yǐqián cónglái méi zǒu guo de lù, yěxǔ zhèyàng jiù néng zhǎodào jiějué wèntí de fāngfǎ le.",
       "translation": "When we encounter problems we cannot solve, we should try taking paths we have never taken before; perhaps this way we can find a solution.",
       "colloquial_equivalent": "碰到搞不定的问题，别老按老办法来，换条路试试，说不定就有答案了。",
-      "context": "해결책을 찾을 때"
+      "context": "해결책을 찾을 때",
+      "colloquial_pinyin": "Pèngdào gǎo bu dìng de wèntí, bié lǎo àn lǎo bànfǎ lái, huàn tiáo lù shìshi, shuōbudìng jiù yǒu dá’àn le."
     },
     {
       "sentence": "我发现您对学生特别了解，而且总是能用最简单的方法把复杂的问题解释清楚，让每个学生都能听懂。",
       "pinyin": "Wǒ fāxiàn nín duì xuésheng tèbié liǎojiě, érqiě zǒng shì néng yòng zuì jiǎndān de fāngfǎ bǎ fùzá de wèntí jiěshì qīngchu, ràng měi ge xuésheng dōu néng tīng dǒng.",
       "translation": "I found that you understand students especially well, and you can always explain complex problems clearly using the simplest methods so every student can understand.",
       "colloquial_equivalent": "您真的很懂学生，而且特别会把复杂的事讲简单，大家一听就明白。",
-      "context": "칭찬할 때"
+      "context": "칭찬할 때",
+      "colloquial_pinyin": "Nín zhēn de hěn dǒng xuésheng, érqiě tèbié huì bǎ fùzá de shì jiǎng jiǎndān, dàjiā yì tīng jiù míngbai."
     },
     {
       "sentence": "对于老师来说，最难做到的是根据学生的特点选择不同的方法。",
       "pinyin": "Duìyú lǎoshī lái shuō, zuì nán zuò dào de shì gēnjù xuésheng de tèdiǎn xuǎnzé bùtóng de fāngfǎ.",
       "translation": "For teachers, the hardest thing to achieve is choosing different methods according to students’ characteristics.",
       "colloquial_equivalent": "对老师来说，最难的就是因材施教，不能一套方法用到底。",
-      "context": "교육 방법을 말할 때"
+      "context": "교육 방법을 말할 때",
+      "colloquial_pinyin": "Duì lǎoshī lái shuō, zuì nán de jiù shì yīncái shījiào, bù néng yí tào fāngfǎ yòng dào dǐ."
     },
     {
       "sentence": "有的人虽然也看到了别人的缺点，但却不会直接指出来，而是通过别的方法来提醒。",
       "pinyin": "Yǒu de rén suīrán yě kàn dào le biérén de quēdiǎn, dàn què bù huì zhíjiē zhǐ chūlai, ér shì tōngguò bié de fāngfǎ lái tíxǐng.",
       "translation": "Some people also notice others’ shortcomings, but they do not point them out directly; instead, they remind them through other methods.",
       "colloquial_equivalent": "有些话别太直说，换个方式提醒，对方更容易接受。",
-      "context": "조언할 때"
+      "context": "조언할 때",
+      "colloquial_pinyin": "Yǒuxiē huà bié tài zhí shuō, huàn ge fāngshì tíxǐng, duìfāng gèng róngyì jiēshòu."
     },
     {
       "sentence": "我们应该在听取别人意见的同时，仔细考虑一下，再根据不同的情况选择不同的方法，这样才能达到最好的效果。",
       "pinyin": "Wǒmen yīnggāi zài tīngqǔ biérén yìjiàn de tóngshí, zǐxì kǎolǜ yíxià, zài gēnjù bùtóng de qíngkuàng xuǎnzé bùtóng de fāngfǎ, zhèyàng cái néng dádào zuì hǎo de xiàoguǒ.",
       "translation": "While listening to others’ suggestions, we should think carefully and then choose different methods according to different situations; only this way can we achieve the best results.",
       "colloquial_equivalent": "别人的建议可以听，但要先想清楚，再按自己的情况选方法，这样效果才最好。",
-      "context": "방법 선택을 조언할 때"
+      "context": "방법 선택을 조언할 때",
+      "colloquial_pinyin": "Biérén de jiànyì kěyǐ tīng, dàn yào xiān xiǎng qīngchu, zài àn zìjǐ de qíngkuàng xuǎn fāngfǎ, zhèyàng xiàoguǒ cái zuì hǎo."
     }
   ],
   "texts": [
@@ -1224,14 +1238,14 @@
           "ja": "一部の若者はクレジットカードを申請しましたが、買い物の際に自分の経済能力を考えず、最後には銀行のお金を期限どおりに返せませんでした。"
         },
         "colloquial_translation": {
-          "en": "Some young people applied for credit cards, but when shopping they did not consider their own financial ability, and in the end they could not repay the bank on time.",
-          "ko": "어떤 젊은이들은 신용카드를 신청했지만, 쇼핑할 때 자신의 경제 능력을 고려하지 않아 결국 은행 돈을 제때 갚지 못했습니다.",
-          "ja": "一部の若者はクレジットカードを申請しましたが、買い物の際に自分の経済能力を考えず、最後には銀行のお金を期限どおりに返せませんでした。"
+          "ko": "어떤 젊은이들은 갚을 수 있을지 생각하지 않고 신용카드를 긁다가 결국 돈을 못 갚게 됩니다.",
+          "ja": "一部の若者は返せるかどうか考えずにクレジットカードを使い、最後には返済できなくなります。",
+          "en": "Some young people swipe credit cards without thinking whether they can pay it back, and end up unable to repay the money."
         },
         "context": {
-          "en": "同字词：用（信用卡）",
-          "ko": "같은 글자 단어: 用（信用卡）",
-          "ja": "同じ字を含む語：用（信用卡）"
+          "ko": "과소비를 경고할 때",
+          "ja": "使いすぎを注意するとき",
+          "en": "Warning about overspending"
         }
       },
       "有些故事不仅能给人带来快乐，还有教育的作用，能使人们重新认识到一些问题。": {
@@ -1241,14 +1255,14 @@
           "ja": "ある物語は人に楽しさをもたらすだけでなく、教育の作用もあり、人々にいくつかの問題を改めて認識させることができます。"
         },
         "colloquial_translation": {
-          "en": "Some stories can not only bring people happiness, but also have an educational function, helping people recognize some issues anew.",
-          "ko": "어떤 이야기는 사람들에게 즐거움을 가져다줄 뿐만 아니라 교육적인 작용도 있어, 사람들이 몇몇 문제를 새롭게 인식하게 할 수 있습니다.",
-          "ja": "ある物語は人に楽しさをもたらすだけでなく、教育の作用もあり、人々にいくつかの問題を改めて認識させることができます。"
+          "ko": "어떤 이야기는 재미있을 뿐 아니라 배울 점도 있고, 몇몇 문제를 다시 생각하게 합니다.",
+          "ja": "ある物語は面白いだけでなく、学びもあり、いくつかの問題を考え直させてくれます。",
+          "en": "Some stories are not just fun; they also teach people things and make them rethink certain issues."
         },
         "context": {
-          "en": "同字词：用（作用）",
-          "ko": "같은 글자 단어: 用（作用）",
-          "ja": "同じ字を含む語：用（作用）"
+          "ko": "이야기의 가치를 설명할 때",
+          "ja": "物語の価値を説明するとき",
+          "en": "Explaining a story’s value"
         }
       },
       "医生提醒人们，在使用感冒药之前，一定要仔细阅读说明书。": {
@@ -1258,14 +1272,14 @@
           "ja": "医者は人々に、風邪薬を使用する前に必ず説明書を注意深く読むよう注意しています。"
         },
         "colloquial_translation": {
-          "en": "Doctors remind people that before using cold medicine, they must carefully read the instructions.",
-          "ko": "의사는 사람들에게 감기약을 사용하기 전에 반드시 설명서를 꼼꼼히 읽으라고 일깨워 줍니다.",
-          "ja": "医者は人々に、風邪薬を使用する前に必ず説明書を注意深く読むよう注意しています。"
+          "ko": "의사는 감기약을 먹기 전에 반드시 설명서를 먼저 잘 읽으라고 알려 줍니다.",
+          "ja": "医者は、風邪薬を飲む前に必ず説明書をよく読むよう注意しています。",
+          "en": "Doctors remind everyone to read the instructions carefully before taking cold medicine."
         },
         "context": {
-          "en": "同字词：用（使用）",
-          "ko": "같은 글자 단어: 用（使用）",
-          "ja": "同じ字を含む語：用（使用）"
+          "ko": "안전 주의를 줄 때",
+          "ja": "安全上の注意を促すとき",
+          "en": "Giving a safety reminder"
         }
       },
       "遇到不能解决的问题时，我们应该试着走走以前从来没走过的路，也许这样就能找到解决问题的方法了。": {

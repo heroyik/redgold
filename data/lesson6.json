@@ -1,0 +1,1746 @@
+{
+  "lessonId": 6,
+  "title": "Lesson 6: 一分钱一分货 (yī fēn qián yī fēn huò) (You get what you pay for)",
+  "vocabulary": [
+    {
+      "word": "果汁",
+      "pinyin": "guǒzhī",
+      "meaning": "n. fruit juice"
+    },
+    {
+      "word": "售货员",
+      "pinyin": "shòuhuòyuán",
+      "meaning": "n. salesperson"
+    },
+    {
+      "word": "袜子",
+      "pinyin": "wàzi",
+      "meaning": "n. socks"
+    },
+    {
+      "word": "打扰",
+      "pinyin": "dǎrǎo",
+      "meaning": "v. to disturb, to bother"
+    },
+    {
+      "word": "竟然",
+      "pinyin": "jìngrán",
+      "meaning": "adv. indicating unexpectedness"
+    },
+    {
+      "word": "西红柿",
+      "pinyin": "xīhóngshì",
+      "meaning": "n. tomato"
+    },
+    {
+      "word": "百分之",
+      "pinyin": "bǎi fēn zhī",
+      "meaning": "percent"
+    },
+    {
+      "word": "倍",
+      "pinyin": "bèi",
+      "meaning": "m. times, -fold"
+    },
+    {
+      "word": "皮肤",
+      "pinyin": "pífū",
+      "meaning": "n. skin"
+    },
+    {
+      "word": "好处",
+      "pinyin": "hǎochù",
+      "meaning": "n. benefit, advantage"
+    },
+    {
+      "word": "尝",
+      "pinyin": "cháng",
+      "meaning": "v. to taste"
+    },
+    {
+      "word": "轻",
+      "pinyin": "qīng",
+      "meaning": "adj. light, of little weight"
+    },
+    {
+      "word": "方面",
+      "pinyin": "fāngmiàn",
+      "meaning": "n. aspect"
+    },
+    {
+      "word": "值得",
+      "pinyin": "zhídé",
+      "meaning": "v. to be worth"
+    },
+    {
+      "word": "活动",
+      "pinyin": "huódòng",
+      "meaning": "n. activity, event"
+    },
+    {
+      "word": "内",
+      "pinyin": "nèi",
+      "meaning": "n. in, within"
+    },
+    {
+      "word": "免费",
+      "pinyin": "miǎnfèi",
+      "meaning": "v. to be free of charge"
+    },
+    {
+      "word": "修理",
+      "pinyin": "xiūlǐ",
+      "meaning": "v. to repair, to mend"
+    },
+    {
+      "word": "支持",
+      "pinyin": "zhīchí",
+      "meaning": "v. to support"
+    },
+    {
+      "word": "举行",
+      "pinyin": "jǔxíng",
+      "meaning": "v. to hold (a meeting, event, etc.)"
+    },
+    {
+      "word": "满",
+      "pinyin": "mǎn",
+      "meaning": "v. to reach a quota or limit"
+    },
+    {
+      "word": "其中",
+      "pinyin": "qízhōng",
+      "meaning": "n. among (which, them, etc.)"
+    },
+    {
+      "word": "小说",
+      "pinyin": "xiǎoshuō",
+      "meaning": "n. novel, fiction"
+    },
+    {
+      "word": "会员卡",
+      "pinyin": "huìyuánkǎ",
+      "meaning": "n. membership card"
+    },
+    {
+      "word": "所有",
+      "pinyin": "suǒyǒu",
+      "meaning": "adj. all"
+    },
+    {
+      "word": "获得",
+      "pinyin": "huòdé",
+      "meaning": "v. to get, to obtain"
+    },
+    {
+      "word": "情况",
+      "pinyin": "qíngkuàng",
+      "meaning": "n. situation, circumstances"
+    },
+    {
+      "word": "例如",
+      "pinyin": "lìrú",
+      "meaning": "v. for example"
+    },
+    {
+      "word": "举办",
+      "pinyin": "jǔbàn",
+      "meaning": "v. to hold, to conduct"
+    },
+    {
+      "word": "各",
+      "pinyin": "gè",
+      "meaning": "pron. various, different"
+    },
+    {
+      "word": "降低",
+      "pinyin": "jiàngdī",
+      "meaning": "v. to lower, to reduce"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "竟然",
+      "explanation": "The adverb “竟然” is used before a verb or an adjective to indicate unexpectedness or surprise. It marks that the speaker did not expect the situation to happen or did not expect it to be true.",
+      "formal_examples": [
+        {
+          "chinese": "这个歌特别好听，最近很流行，你<b>竟然</b>没听过？",
+          "pinyin": "Zhège gē tèbié hǎotīng, zuìjìn hěn liúxíng, nǐ jìngrán méi tīng guo?",
+          "translation": "This song is especially good and has been very popular recently. You actually haven’t heard it?"
+        },
+        {
+          "chinese": "来这家饭馆吃饭的人<b>竟然</b>这么多，排队都排到门口外边去了！",
+          "pinyin": "Lái zhè jiā fànguǎn chīfàn de rén jìngrán zhème duō, páiduì dōu pái dào ménkǒu wàibian qù le!",
+          "translation": "There are unexpectedly so many people eating at this restaurant that the line has reached outside the entrance!"
+        },
+        {
+          "chinese": "回家以后，我才发现，<b>竟然</b>忘了去商场的超市买果汁！",
+          "pinyin": "Huí jiā yǐhòu, wǒ cái fāxiàn, jìngrán wàng le qù shāngchǎng de chāoshì mǎi guǒzhī!",
+          "translation": "After I got home, I realized that I had actually forgotten to go to the mall’s supermarket to buy fruit juice!"
+        }
+      ],
+      "colloquial_pattern": "居然 / 没想到 / 竟然",
+      "colloquial_examples": [
+        {
+          "chinese": "这首歌都火成这样了，你<b>居然</b>还没听过？",
+          "pinyin": "Zhè shǒu gē dōu huǒ chéng zhèyàng le, nǐ jūrán hái méi tīng guo?",
+          "translation": "This song is already this viral, and you still haven’t heard it?"
+        },
+        {
+          "chinese": "这家店人也太多了吧，队<b>居然</b>排到外面去了！",
+          "pinyin": "Zhè jiā diàn rén yě tài duō le ba, duì jūrán pái dào wàimian qù le!",
+          "translation": "There are way too many people at this place. The line actually goes outside!"
+        },
+        {
+          "chinese": "到家一看，我才发现自己<b>居然</b>把最该买的果汁忘了。",
+          "pinyin": "Dào jiā yí kàn, wǒ cái fāxiàn zìjǐ jūrán bǎ zuì gāi mǎi de guǒzhī wàng le.",
+          "translation": "When I got home and checked, I realized I had actually forgotten the fruit juice, the main thing I was supposed to buy."
+        }
+      ],
+      "nuance": "“竟然” is a standard written and spoken adverb for surprise. In everyday speech, “居然” is often used in the same position and feels slightly more conversational; “没想到” can be used when the speaker wants to explicitly say “I didn’t expect it.”"
+    },
+    {
+      "point": "倍",
+      "explanation": "The measure word “倍” indicates the quotient of one number divided by another. It is an unbound measure word and is usually not followed by any noun.",
+      "formal_examples": [
+        {
+          "chinese": "二的<b>五倍</b>是十。",
+          "pinyin": "Èr de wǔ bèi shì shí.",
+          "translation": "Five times two is ten."
+        },
+        {
+          "chinese": "我的工资是每月5000块，他的工资是我的<b>两倍</b>。",
+          "pinyin": "Wǒ de gōngzī shì měi yuè wǔ qiān kuài, tā de gōngzī shì wǒ de liǎng bèi.",
+          "translation": "My salary is 5,000 yuan per month, and his salary is twice mine."
+        },
+        {
+          "chinese": "我记得昨天才三块五一斤，今天的价格是昨天的<b>两倍</b>。",
+          "pinyin": "Wǒ jìde zuótiān cái sān kuài wǔ yì jīn, jīntiān de jiàgé shì zuótiān de liǎng bèi.",
+          "translation": "I remember yesterday it was only three yuan fifty per jin; today’s price is twice yesterday’s."
+        }
+      ],
+      "colloquial_pattern": "两倍 / 翻倍 / X 倍",
+      "colloquial_examples": [
+        {
+          "chinese": "这价格一晚上就<b>翻倍</b>了，也太离谱了吧。",
+          "pinyin": "Zhè jiàgé yì wǎnshang jiù fān bèi le, yě tài lípǔ le ba.",
+          "translation": "The price doubled overnight. That is way too ridiculous."
+        },
+        {
+          "chinese": "他工资差不多是我的<b>两倍</b>，难怪花钱那么爽快。",
+          "pinyin": "Tā gōngzī chàbuduō shì wǒ de liǎng bèi, nánguài huā qián nàme shuǎngkuài.",
+          "translation": "His salary is almost twice mine, no wonder he spends money so freely."
+        },
+        {
+          "chinese": "这个活动太火了，今天的人流量是平时的<b>三倍</b>。",
+          "pinyin": "Zhège huódòng tài huǒ le, jīntiān de rénliúliàng shì píngshí de sān bèi.",
+          "translation": "This event is so popular that today’s foot traffic is three times the usual amount."
+        }
+      ],
+      "nuance": "“倍” is the standard measure word for multiples and is often used after a number, as in “两倍” or “三倍.” In casual speech, “翻倍” is common when something doubles or multiplies sharply, especially prices, traffic, or workload."
+    },
+    {
+      "point": "值得",
+      "explanation": "The verb “值得” indicates that something is worth doing and will bring good results. It is commonly followed by a verb or verb phrase, as in “值得考虑” or “值得学习.” Its negative form is “不值得.”",
+      "formal_examples": [
+        {
+          "chinese": "您看看这个，不管从价格方面看，还是从质量上看，都是<b>值得</b>考虑的。",
+          "pinyin": "Nín kànkan zhège, bùguǎn cóng jiàgé fāngmiàn kàn, háishi cóng zhìliàng shang kàn, dōu shì zhídé kǎolǜ de.",
+          "translation": "Take a look at this one. Whether you consider the price or the quality, it is worth considering."
+        },
+        {
+          "chinese": "你应该改改自己的脾气，别总是为一点儿小事生气，<b>不值得</b>。",
+          "pinyin": "Nǐ yīnggāi gǎigai zìjǐ de píqi, bié zǒngshì wèi yìdiǎnr xiǎoshì shēngqì, bù zhídé.",
+          "translation": "You should change your temper. Don’t always get angry over little things; it isn’t worth it."
+        },
+        {
+          "chinese": "我们总是很容易看到一个人的缺点，但是别忘了，他身上的优点更<b>值得</b>我们去发现、去学习。",
+          "pinyin": "Wǒmen zǒngshì hěn róngyì kàn dào yí ge rén de quēdiǎn, dànshì bié wàng le, tā shēn shang de yōudiǎn gèng zhídé wǒmen qù fāxiàn, qù xuéxí.",
+          "translation": "We always find it easy to see a person’s shortcomings, but don’t forget that their strengths are even more worth discovering and learning from."
+        }
+      ],
+      "colloquial_pattern": "值得 / 值 / 不值 / 没必要",
+      "colloquial_examples": [
+        {
+          "chinese": "这个箱子质量和价格都挺香的，确实<b>值得</b>入手。",
+          "pinyin": "Zhège xiāngzi zhìliàng hé jiàgé dōu tǐng xiāng de, quèshí zhídé rùshǒu.",
+          "translation": "This suitcase is great in both quality and price; it is definitely worth getting."
+        },
+        {
+          "chinese": "为这点小事生气真<b>不值</b>，别往心里去。",
+          "pinyin": "Wèi zhè diǎn xiǎoshì shēngqì zhēn bù zhí, bié wǎng xīnli qù.",
+          "translation": "Getting angry over such a small thing really isn’t worth it. Don’t take it to heart."
+        },
+        {
+          "chinese": "他身上的优点其实很多，挺<b>值得</b>我们好好学学的。",
+          "pinyin": "Tā shēn shang de yōudiǎn qíshí hěn duō, tǐng zhídé wǒmen hǎohāo xuéxue de.",
+          "translation": "He actually has a lot of strengths, and they are really worth learning from."
+        }
+      ],
+      "nuance": "“值得” is the standard expression for “to be worth doing.” In casual speech, “值” and “不值” are shorter and more conversational, while “没必要” is often used when something is not worth the effort or emotional cost."
+    },
+    {
+      "point": "值得 vs 值",
+      "explanation": "Compare “值得” and “值”. Similarity: Both can mean it is meaningful to do something or something is worth doing. Example: “这个调查对今后的工作很有用，花再多时间也值得/值。” Differences: 1. In this meaning, “值得” is a verb that can be followed by another verb or a clause, while “值” is an adjective and is usually not followed by any other element. 2. Both can also be used as verbs, but with different meanings: “值得” means the price is fair or something is worth doing and is followed by a verb or verb phrase; “值” means the commodity is worth the price and is followed by an amount of money.",
+      "formal_examples": [
+        {
+          "chinese": "这个调查对今后的工作很有用，花再多时间也<b>值得</b>/<b>值</b>。",
+          "pinyin": "Zhège diàochá duì jīnhòu de gōngzuò hěn yǒuyòng, huā zài duō shíjiān yě zhídé / zhí.",
+          "translation": "This survey is very useful for future work, so it is worth it no matter how much more time is spent."
+        },
+        {
+          "chinese": "别生气了，咱们<b>不值得</b>为这么点儿小事生气。",
+          "pinyin": "Bié shēngqì le, zánmen bù zhídé wèi zhème diǎnr xiǎoshì shēngqì.",
+          "translation": "Don’t be angry. It is not worth getting angry over such a small matter."
+        },
+        {
+          "chinese": "为这么点儿小事生气，一点儿也<b>不值</b>。",
+          "pinyin": "Wèi zhème diǎnr xiǎoshì shēngqì, yìdiǎnr yě bù zhí.",
+          "translation": "Getting angry over such a small matter is not worth it at all."
+        },
+        {
+          "chinese": "这个沙发价钱不贵，质量又好，<b>值得</b>买。",
+          "pinyin": "Zhège shāfā jiàqián bú guì, zhìliàng yòu hǎo, zhídé mǎi.",
+          "translation": "This sofa is not expensive and the quality is good, so it is worth buying."
+        },
+        {
+          "chinese": "这个手机<b>值</b>五千块。",
+          "pinyin": "Zhège shǒujī zhí wǔ qiān kuài.",
+          "translation": "This phone is worth five thousand yuan."
+        }
+      ],
+      "colloquial_pattern": "值得 + V / 值 + amount / 值了",
+      "colloquial_examples": [
+        {
+          "chinese": "这趟跑下来虽然累，但结果不错，挺<b>值</b>的。",
+          "pinyin": "Zhè tàng pǎo xiàlai suīrán lèi, dàn jiéguǒ búcuò, tǐng zhí de.",
+          "translation": "This trip was tiring, but the result was good, so it was pretty worth it."
+        },
+        {
+          "chinese": "这课不便宜，但内容很扎实，还是<b>值得</b>报。",
+          "pinyin": "Zhè kè bù piányi, dàn nèiróng hěn zhāshi, háishi zhídé bào.",
+          "translation": "This course is not cheap, but the content is solid, so it is still worth signing up for."
+        },
+        {
+          "chinese": "这二手手机最多<b>值</b>两千，别被坑了。",
+          "pinyin": "Zhè èrshǒu shǒujī zuìduō zhí liǎng qiān, bié bèi kēng le.",
+          "translation": "This secondhand phone is worth at most two thousand; don’t get ripped off."
+        }
+      ],
+      "nuance": "This comparison is about structure and meaning. Use “值得 + verb/verb phrase/clause” when saying something is worth doing. Use “值” by itself as an adjective meaning “worth it,” or as a verb before an amount of money when stating how much something is worth."
+    },
+    {
+      "point": "其中",
+      "explanation": "The noun “其中” means “within that” or “among those,” indicating a scope or location. It is used to refer to one part or some members inside a previously mentioned group, range, or place.",
+      "formal_examples": [
+        {
+          "chinese": "我们不仅要会读书，还要会选择<b>其中</b>的好书来读。",
+          "pinyin": "Wǒmen bùjǐn yào huì dúshū, hái yào huì xuǎnzé qízhōng de hǎo shū lái dú.",
+          "translation": "We should not only know how to read books, but also know how to choose the good books among them to read."
+        },
+        {
+          "chinese": "虽然妻子工作很忙，但是她忙在<b>其中</b>也乐在<b>其中</b>。",
+          "pinyin": "Suīrán qīzi gōngzuò hěn máng, dànshì tā máng zài qízhōng yě lè zài qízhōng.",
+          "translation": "Although my wife is very busy with work, she is busy in it and also finds joy in it."
+        },
+        {
+          "chinese": "一些图书还有打折活动，<b>其中</b>，小说7.5折，地图8折，留学考试用书6折。",
+          "pinyin": "Yìxiē túshū hái yǒu dǎzhé huódòng, qízhōng, xiǎoshuō qī diǎn wǔ zhé, dìtú bā zhé, liúxué kǎoshì yòngshū liù zhé.",
+          "translation": "Some books also have discounts; among them, novels are 25% off, maps are 20% off, and study-abroad exam books are 40% off."
+        }
+      ],
+      "colloquial_pattern": "其中 / 里面 / 当中",
+      "colloquial_examples": [
+        {
+          "chinese": "这几本书我都翻了翻，<b>其中</b>两本特别适合你。",
+          "pinyin": "Zhè jǐ běn shū wǒ dōu fān le fan, qízhōng liǎng běn tèbié shìhé nǐ.",
+          "translation": "I skimmed through these books, and two of them are especially suitable for you."
+        },
+        {
+          "chinese": "这次活动来了很多人，<b>里面</b>还有不少老顾客。",
+          "pinyin": "Zhè cì huódòng lái le hěn duō rén, lǐmiàn hái yǒu bù shǎo lǎo gùkè.",
+          "translation": "A lot of people came to this event, including quite a few regular customers."
+        },
+        {
+          "chinese": "这些打折商品<b>当中</b>，这个行李箱最划算。",
+          "pinyin": "Zhèxiē dǎzhé shāngpǐn dāngzhōng, zhège xínglǐxiāng zuì huásuàn.",
+          "translation": "Among these discounted items, this suitcase is the best deal."
+        }
+      ],
+      "nuance": "“其中” is slightly more formal and is useful after a group has already been mentioned. In everyday speech, “里面” and “当中” can often express the same idea more conversationally, depending on whether the speaker imagines a physical space or a group."
+    },
+    {
+      "point": "（在）……下",
+      "explanation": "In the structure “（在）……下”, the ellipsis part is usually a disyllabic noun or verb with a modifier before it. The whole structure indicates a condition or situation under which something happens.",
+      "formal_examples": [
+        {
+          "chinese": "<b>一般情况下</b>，你花的钱越多，买的东西也就越好。",
+          "pinyin": "Yìbān qíngkuàng xià, nǐ huā de qián yuè duō, mǎi de dōngxi yě jiù yuè hǎo.",
+          "translation": "In general, the more money you spend, the better the things you buy."
+        },
+        {
+          "chinese": "<b>在冬天比较冷的情况下</b>，吃碗热面条会让人觉得很舒服。",
+          "pinyin": "Zài dōngtiān bǐjiào lěng de qíngkuàng xià, chī wǎn rè miàntiáo huì ràng rén juéde hěn shūfu.",
+          "translation": "When it is relatively cold in winter, eating a bowl of hot noodles makes people feel very comfortable."
+        },
+        {
+          "chinese": "<b>在老师和同学们的帮助下</b>，他的汉语提高得非常快。",
+          "pinyin": "Zài lǎoshī hé tóngxuémen de bāngzhù xià, tā de Hànyǔ tígāo de fēicháng kuài.",
+          "translation": "With the help of his teacher and classmates, his Chinese improved very quickly."
+        }
+      ],
+      "colloquial_pattern": "在……情况下 / 在……帮助下 / 一般来说",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>一般来说</b>，预算越高，能选的东西就越好。",
+          "pinyin": "Yìbān lái shuō, yùsuàn yuè gāo, néng xuǎn de dōngxi jiù yuè hǎo.",
+          "translation": "Generally speaking, the higher your budget, the better the things you can choose."
+        },
+        {
+          "chinese": "<b>天气这么冷的情况下</b>，来碗热汤面真的很舒服。",
+          "pinyin": "Tiānqì zhème lěng de qíngkuàng xià, lái wǎn rè tāngmiàn zhēn de hěn shūfu.",
+          "translation": "When the weather is this cold, having a bowl of hot noodle soup feels really good."
+        },
+        {
+          "chinese": "<b>在大家的帮忙下</b>，他中文进步得特别快。",
+          "pinyin": "Zài dàjiā de bāngmáng xià, tā Zhōngwén jìnbù de tèbié kuài.",
+          "translation": "With everyone’s help, his Chinese improved especially quickly."
+        }
+      ],
+      "nuance": "“（在）……下” is a formal and clear way to state the condition, background, or assistance under which something happens. In casual speech, people often say “一般来说” for “一般情况下,” or use shorter phrases like “在大家的帮忙下.”"
+    },
+    {
+      "point": "同字词：其",
+      "explanation": "Words with the same character “其”: 其次, 其中, 其实, 其他, 尤其. This expansion note groups common words containing “其” and shows how they are used in context: “其次” means “next/secondly,” “其中” means “among them,” “其实” means “actually,” “其他” means “other,” and “尤其” means “especially.”",
+      "formal_examples": [
+        {
+          "chinese": "A: 能谈谈你为什么会选择这份工作吗？<br/>B: 首先，我对这份工作很感兴趣，<b>其次</b>，我学的也是这个专业，比较熟悉。",
+          "pinyin": "A: Néng tán tan nǐ wèishénme huì xuǎnzé zhè fèn gōngzuò ma?<br/>B: Shǒuxiān, wǒ duì zhè fèn gōngzuò hěn gǎn xìngqù, qícì, wǒ xué de yě shì zhège zhuānyè, bǐjiào shúxī.",
+          "translation": "A: Can you talk about why you chose this job?<br/>B: First, I am very interested in this job. Second, I also studied this major, so I am quite familiar with it."
+        },
+        {
+          "chinese": "这个电影讲的是一个浪漫的爱情故事，但是我觉得<b>其中</b>人与动物之间的友谊更感人，给我的印象更深。",
+          "pinyin": "Zhège diànyǐng jiǎng de shì yí ge làngmàn de àiqíng gùshi, dànshì wǒ juéde qízhōng rén yǔ dòngwù zhījiān de yǒuyì gèng gǎnrén, gěi wǒ de yìnxiàng gèng shēn.",
+          "translation": "This movie tells a romantic love story, but I think the friendship between the people and animals in it is more moving and left a deeper impression on me."
+        },
+        {
+          "chinese": "生活中有这样两种人：一种总是看别人怎么生活，另一种喜欢生活给别人看。<b>其实</b>，各人有各人的生活，不用羡慕别人。",
+          "pinyin": "Shēnghuó zhōng yǒu zhèyàng liǎng zhǒng rén: yì zhǒng zǒngshì kàn biéren zěnme shēnghuó, lìng yì zhǒng xǐhuan shēnghuó gěi biéren kàn. Qíshí, gè rén yǒu gè rén de shēnghuó, bú yòng xiànmù biéren.",
+          "translation": "There are two kinds of people in life: one kind always watches how others live, and the other likes to live for others to see. Actually, everyone has their own life, and there is no need to envy others."
+        },
+        {
+          "chinese": "A: 饭店的工作，我想请你来负责，你看有问题没？<br/>B: 对不起，我最近在忙另一件事，您还是考虑<b>其他</b>人吧。",
+          "pinyin": "A: Fàndiàn de gōngzuò, wǒ xiǎng qǐng nǐ lái fùzé, nǐ kàn yǒu wèntí méi?<br/>B: Duìbuqǐ, wǒ zuìjìn zài máng lìng yí jiàn shì, nín háishi kǎolǜ qítā rén ba.",
+          "translation": "A: I would like to ask you to take charge of the restaurant work. Do you think there is any problem?<br/>B: Sorry, I have been busy with another matter recently. You should consider someone else."
+        },
+        {
+          "chinese": "不管做什么事情，都要注意方法，学习<b>尤其</b>是这样。如果方法对了，就会取得很好的效果；如果方法错了，不管你怎么努力，也很难取得成功。",
+          "pinyin": "Bùguǎn zuò shénme shìqing, dōu yào zhùyì fāngfǎ, xuéxí yóuqí shì zhèyàng. Rúguǒ fāngfǎ duì le, jiù huì qǔdé hěn hǎo de xiàoguǒ; rúguǒ fāngfǎ cuò le, bùguǎn nǐ zěnme nǔlì, yě hěn nán qǔdé chénggōng.",
+          "translation": "No matter what you do, you must pay attention to method, and learning is especially like this. If the method is right, you will achieve very good results; if the method is wrong, no matter how hard you try, it will be difficult to succeed."
+        }
+      ],
+      "colloquial_pattern": "其次 / 其中 / 其实 / 其他 / 尤其",
+      "colloquial_examples": [
+        {
+          "chinese": "我选这份工作，第一是感兴趣，<b>其次</b>是专业也对口。",
+          "pinyin": "Wǒ xuǎn zhè fèn gōngzuò, dì yī shì gǎn xìngqù, qícì shì zhuānyè yě duìkǒu.",
+          "translation": "I chose this job first because I’m interested, and second because it matches my major."
+        },
+        {
+          "chinese": "这些优惠里，<b>其中</b>买书送礼最划算。",
+          "pinyin": "Zhèxiē yōuhuì li, qízhōng mǎi shū sòng lǐ zuì huásuàn.",
+          "translation": "Among these discounts, the buy-books-get-gifts deal is the best value."
+        },
+        {
+          "chinese": "<b>其实</b>不用太羡慕别人，过好自己的日子就行。",
+          "pinyin": "Qíshí bú yòng tài xiànmù biéren, guò hǎo zìjǐ de rìzi jiù xíng.",
+          "translation": "Actually, there’s no need to envy others too much; just live your own life well."
+        }
+      ],
+      "nuance": "This is a same-character expansion note rather than a single grammar pattern. The formal examples preserve the textbook usage of several words built with “其”; the colloquial examples show shorter everyday sentences using the same words."
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "回家以后，我才发现，<b>竟然</b>忘了去商场的超市买果汁！",
+      "pinyin": "Huí jiā yǐhòu, wǒ cái fāxiàn, jìngrán wàng le qù shāngchǎng de chāoshì mǎi guǒzhī!",
+      "translation": "After I got home, I realized that I had actually forgotten to go to the mall’s supermarket to buy fruit juice!",
+      "colloquial_equivalent": "到家才发现，我<b>居然</b>把最该买的果汁给忘了！",
+      "colloquial_pinyin": "Dào jiā cái fāxiàn, wǒ jūrán bǎ zuì gāi mǎi de guǒzhī gěi wàng le!",
+      "context": "Expressing surprise about an unexpected mistake"
+    },
+    {
+      "sentence": "我记得昨天才三块五一斤，今天的价格是昨天的<b>两倍</b>。",
+      "pinyin": "Wǒ jìde zuótiān cái sān kuài wǔ yì jīn, jīntiān de jiàgé shì zuótiān de liǎng bèi.",
+      "translation": "I remember yesterday they were only three yuan fifty per jin. Today’s price is twice yesterday’s.",
+      "colloquial_equivalent": "我记得昨天才三块五一斤，今天价格直接<b>翻倍</b>了。",
+      "colloquial_pinyin": "Wǒ jìde zuótiān cái sān kuài wǔ yì jīn, jīntiān jiàgé zhíjiē fān bèi le.",
+      "context": "Complaining that a price has doubled"
+    },
+    {
+      "sentence": "您看看这个，不管从价格方面看，还是从质量上看，都是<b>值得</b>考虑的。",
+      "pinyin": "Nín kànkan zhège, bùguǎn cóng jiàgé fāngmiàn kàn, háishi cóng zhìliàng shang kàn, dōu shì zhídé kǎolǜ de.",
+      "translation": "Take a look at this one. Whether you consider the price or the quality, it is worth thinking about.",
+      "colloquial_equivalent": "您看看这个，价格和质量都挺靠谱，确实<b>值得</b>考虑。",
+      "colloquial_pinyin": "Nín kànkan zhège, jiàgé hé zhìliàng dōu tǐng kàopǔ, quèshí zhídé kǎolǜ.",
+      "context": "Recommending a product as worth considering"
+    },
+    {
+      "sentence": "一些图书还有打折活动，<b>其中</b>，小说7.5折，地图8折，留学考试用书6折。",
+      "pinyin": "Yìxiē túshū hái yǒu dǎzhé huódòng, qízhōng, xiǎoshuō qī diǎn wǔ zhé, dìtú bā zhé, liúxué kǎoshì yòngshū liù zhé.",
+      "translation": "Some books also have discounts; among them, novels are 25% off, maps are 20% off, and study-abroad exam books are 40% off.",
+      "colloquial_equivalent": "有些书也在打折，<b>其中</b>小说七五折，地图八折，考试书六折。",
+      "colloquial_pinyin": "Yǒuxiē shū yě zài dǎzhé, qízhōng xiǎoshuō qī wǔ zhé, dìtú bā zhé, kǎoshì shū liù zhé.",
+      "context": "Listing examples within a larger group"
+    },
+    {
+      "sentence": "<b>一般情况下</b>，你花的钱越多，买的东西也就越好。",
+      "pinyin": "Yìbān qíngkuàng xià, nǐ huā de qián yuè duō, mǎi de dōngxi yě jiù yuè hǎo.",
+      "translation": "In general, the more money you spend, the better the things you buy.",
+      "colloquial_equivalent": "<b>一般来说</b>，钱花得越多，买到的东西也越好。",
+      "colloquial_pinyin": "Yìbān lái shuō, qián huā de yuè duō, mǎi dào de dōngxi yě yuè hǎo.",
+      "context": "Stating a general condition or rule of thumb"
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "张远和李进聊李进昨晚的购物经历 (zhāng yuǎn hé lǐ jìn liáo lǐ jìn zuó wǎn de gòu wù jīng lì) (Zhang Yuan and Li Jin talk about Li Jin's shopping experience last night)",
+      "content": [
+        {
+          "speaker": "张远",
+          "text": "昨天晚上我给你打电话一直没人接，你忙什么呢？",
+          "pinyin": "Zuótiān wǎnshang wǒ gěi nǐ dǎ diànhuà yìzhí méi rén jiē, nǐ máng shénme ne?",
+          "translation": "I called you last night, but no one answered. What were you busy with?"
+        },
+        {
+          "speaker": "李进",
+          "text": "昨天妻子让我陪她去超市买果汁。我把手机忘在家里了。",
+          "pinyin": "Zuótiān qīzi ràng wǒ péi tā qù chāoshì mǎi guǒzhī. Wǒ bǎ shǒujī wàng zài jiālǐ le.",
+          "translation": "Yesterday my wife asked me to go with her to the supermarket to buy fruit juice. I left my phone at home."
+        },
+        {
+          "speaker": "张远",
+          "text": "买这么点儿东西也用不了那么长时间啊！",
+          "pinyin": "Mǎi zhème diǎnr dōngxi yě yòng bùliǎo nàme cháng shíjiān a!",
+          "translation": "Buying just that little bit of stuff shouldn't take that long!"
+        },
+        {
+          "speaker": "李进",
+          "text": "我们先去逛了会儿商场。一进门，售货员就热情地为我们介绍这、介绍那，她买了一条裤子、一件衬衫、两双袜子，然后我们就高高兴兴地回家了。",
+          "pinyin": "Wǒmen xiān qù guàng le huìr shāngchǎng. Yí jìnmén, shòuhuòyuán jiù rèqíng de wèi wǒmen jièshào zhè, jièshào nà, tā mǎi le yì tiáo kùzi, yí jiàn chènshān, liǎng shuāng wàzi, ránhòu wǒmen jiù gāogāoxìngxìng de huí jiā le.",
+          "translation": "We first spent a while browsing around the mall. As soon as we walked in, the salesperson enthusiastically showed us this and that. She bought a pair of pants, a shirt, and two pairs of socks, and then we went home happily."
+        },
+        {
+          "speaker": "张远",
+          "text": "买东西时我只看自己想买的，而且喜欢自己看、自己选，不希望被别人打扰。",
+          "pinyin": "Mǎi dōngxi shí wǒ zhǐ kàn zìjǐ xiǎng mǎi de, érqiě xǐhuan zìjǐ kàn, zìjǐ xuǎn, bù xīwàng bèi biéren dǎrǎo.",
+          "translation": "When I shop, I only look at what I want to buy. I also like looking and choosing by myself, and I don't want other people bothering me."
+        },
+        {
+          "speaker": "李进",
+          "text": "是啊！回家以后，我才发现，<b>竟然</b>忘了去商场的超市买果汁！",
+          "pinyin": "Shì a! Huí jiā yǐhòu, wǒ cái fāxiàn, jìngrán wàng le qù shāngchǎng de chāoshì mǎi guǒzhī!",
+          "translation": "Exactly! After we got home, I realized that we had actually forgotten to go to the mall's supermarket to buy the fruit juice!"
+        }
+      ],
+      "audio": "audio/06-1.mp3",
+      "proper_nouns": [
+        {
+          "word": "张远",
+          "pinyin": "Zhāng Yuǎn",
+          "meaning": "name of a person"
+        },
+        {
+          "word": "李进",
+          "pinyin": "Lǐ Jìn",
+          "meaning": "name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "果汁",
+          "pinyin": "guǒzhī",
+          "meaning": "n. fruit juice"
+        },
+        {
+          "word": "售货员",
+          "pinyin": "shòuhuòyuán",
+          "meaning": "n. salesperson"
+        },
+        {
+          "word": "袜子",
+          "pinyin": "wàzi",
+          "meaning": "n. socks"
+        },
+        {
+          "word": "打扰",
+          "pinyin": "dǎrǎo",
+          "meaning": "v. to disturb, to bother"
+        },
+        {
+          "word": "竟然",
+          "pinyin": "jìngrán",
+          "meaning": "adv. indicating unexpectedness"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "王静在商店买西红柿 (wáng jìng zài shāngdiàn mǎi xīhóngshì) (Wang Jing buys tomatoes at a shop)",
+      "content": [
+        {
+          "speaker": "王静",
+          "text": "西红柿新鲜吗？怎么卖？",
+          "pinyin": "Xīhóngshì xīnxiān ma? Zěnme mài?",
+          "translation": "Are the tomatoes fresh? How much are they?"
+        },
+        {
+          "speaker": "售货员",
+          "text": "七块钱一斤，您放心，保证百分之百新鲜。",
+          "pinyin": "Qī kuài qián yì jīn, nín fàngxīn, bǎozhèng bǎi fēn zhī bǎi xīnxiān.",
+          "translation": "Seven yuan per jin. Don't worry, I guarantee they are one hundred percent fresh."
+        },
+        {
+          "speaker": "王静",
+          "text": "怎么这么贵啊！我记得昨天才三块五一斤，今天的价格是昨天的两倍。",
+          "pinyin": "Zěnme zhème guì a! Wǒ jìde zuótiān cái sān kuài wǔ yì jīn, jīntiān de jiàgé shì zuótiān de liǎng bèi.",
+          "translation": "Why are they so expensive! I remember yesterday they were only three yuan fifty per jin. Today's price is twice yesterday's."
+        },
+        {
+          "speaker": "售货员",
+          "text": "您问的这种是“绿色”的。一分钱一分货。每天吃一两个这种新鲜的西红柿，对皮肤有好处。",
+          "pinyin": "Nín wèn de zhè zhǒng shì \"lǜsè\" de. Yì fēn qián yì fēn huò. Měitiān chī yì liǎng ge zhè zhǒng xīnxiān de xīhóngshì, duì pífū yǒu hǎochù.",
+          "translation": "The kind you're asking about is “green” produce. You get what you pay for. Eating one or two of these fresh tomatoes every day is good for your skin."
+        },
+        {
+          "speaker": "王静",
+          "text": "好，那我先买几个尝尝。",
+          "pinyin": "Hǎo, nà wǒ xiān mǎi jǐ ge chángchang.",
+          "translation": "All right, then I'll buy a few first and try them."
+        },
+        {
+          "speaker": "售货员",
+          "text": "好的，给您西红柿，一共两斤，十四块。",
+          "pinyin": "Hǎo de, gěi nín xīhóngshì, yígòng liǎng jīn, shísì kuài.",
+          "translation": "Sure. Here are your tomatoes. Two jin altogether, fourteen yuan."
+        }
+      ],
+      "audio": "audio/06-2.mp3",
+      "proper_nouns": [
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "西红柿",
+          "pinyin": "xīhóngshì",
+          "meaning": "n. tomato"
+        },
+        {
+          "word": "百分之",
+          "pinyin": "bǎi fēn zhī",
+          "meaning": "percent"
+        },
+        {
+          "word": "倍",
+          "pinyin": "bèi",
+          "meaning": "m. times, -fold"
+        },
+        {
+          "word": "皮肤",
+          "pinyin": "pífū",
+          "meaning": "n. skin"
+        },
+        {
+          "word": "好处",
+          "pinyin": "hǎochù",
+          "meaning": "n. benefit, advantage"
+        },
+        {
+          "word": "尝",
+          "pinyin": "cháng",
+          "meaning": "v. to taste"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "李进在商场买行李箱 (lǐ jìn zài shāngchǎng mǎi xínglǐxiāng) (Li Jin buys a suitcase at the mall)",
+      "content": [
+        {
+          "speaker": "售货员",
+          "text": "先生，我们店的行李箱都在这里，请问您要什么样的？",
+          "pinyin": "Xiānsheng, wǒmen diàn de xínglǐxiāng dōu zài zhèlǐ, qǐngwèn nín yào shénme yàng de?",
+          "translation": "Sir, all the suitcases in our shop are here. What kind would you like?"
+        },
+        {
+          "speaker": "李进",
+          "text": "我想买一个轻一点儿的。",
+          "pinyin": "Wǒ xiǎng mǎi yí ge qīng yìdiǎnr de.",
+          "translation": "I want to buy one that is a little lighter."
+        },
+        {
+          "speaker": "售货员",
+          "text": "您看看这个，不管从价格方面看，还是从质量上看，都是值得考虑的。",
+          "pinyin": "Nín kànkan zhège, bùguǎn cóng jiàgé fāngmiàn kàn, háishi cóng zhìliàng shang kàn, dōu shì zhídé kǎolǜ de.",
+          "translation": "Take a look at this one. Whether you consider the price or the quality, it is worth thinking about."
+        },
+        {
+          "speaker": "李进",
+          "text": "质量是不错。请问这个多少钱？",
+          "pinyin": "Zhìliàng shì búcuò. Qǐngwèn zhège duōshao qián?",
+          "translation": "The quality is pretty good. How much is this one?"
+        },
+        {
+          "speaker": "售货员",
+          "text": "现在我们商场正好有打折活动，打完折是999。另外，一年内我们都负责免费修理。",
+          "pinyin": "Xiànzài wǒmen shāngchǎng zhènghǎo yǒu dǎzhé huódòng, dǎ wán zhé shì jiǔ bǎi jiǔ shí jiǔ. Lìngwài, yì nián nèi wǒmen dōu fùzé miǎnfèi xiūlǐ.",
+          "translation": "Our mall happens to be having a discount event now. After the discount, it is 999. Also, we handle repairs free of charge within one year."
+        },
+        {
+          "speaker": "李进",
+          "text": "你们的服务不错，价格也可以，就买这个吧。",
+          "pinyin": "Nǐmen de fúwù búcuò, jiàgé yě kěyǐ, jiù mǎi zhège ba.",
+          "translation": "Your service is good, and the price is acceptable. I will buy this one."
+        }
+      ],
+      "audio": "audio/06-3.mp3",
+      "proper_nouns": [
+        {
+          "word": "李进",
+          "pinyin": "Lǐ Jìn",
+          "meaning": "name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "轻",
+          "pinyin": "qīng",
+          "meaning": "adj. light, of little weight"
+        },
+        {
+          "word": "方面",
+          "pinyin": "fāngmiàn",
+          "meaning": "n. aspect"
+        },
+        {
+          "word": "值得",
+          "pinyin": "zhídé",
+          "meaning": "v. to be worth"
+        },
+        {
+          "word": "活动",
+          "pinyin": "huódòng",
+          "meaning": "n. activity, event"
+        },
+        {
+          "word": "内",
+          "pinyin": "nèi",
+          "meaning": "n. in, within"
+        },
+        {
+          "word": "免费",
+          "pinyin": "miǎnfèi",
+          "meaning": "v. to be free of charge"
+        },
+        {
+          "word": "修理",
+          "pinyin": "xiūlǐ",
+          "meaning": "v. to repair, to mend"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "书店购书送礼活动 (shūdiàn gòu shū sòng lǐ huódòng) (Bookstore gift-with-purchase event)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "顾客朋友们，为了感谢大家的支持，我们书店今天举行“购书送好礼”活动，购书满100元送一个笔记本，满200元送一本词典。另外，一些图书还有打折活动，其中，小说7.5折，地图8折，留学考试用书6折。如果购书满500元可免费办会员卡，以后购书可打8折。今天过生日的朋友和所有的小朋友还可以获得一份小礼物。欢迎大家选购！",
+          "pinyin": "Gùkè péngyoumen, wèile gǎnxiè dàjiā de zhīchí, wǒmen shūdiàn jīntiān jǔxíng “gòu shū sòng hǎolǐ” huódòng, gòu shū mǎn yì bǎi yuán sòng yí ge bǐjìběn, mǎn èr bǎi yuán sòng yì běn cídiǎn. Lìngwài, yìxiē túshū hái yǒu dǎzhé huódòng, qízhōng, xiǎoshuō qī diǎn wǔ zhé, dìtú bā zhé, liúxué kǎoshì yòngshū liù zhé. Rúguǒ gòu shū mǎn wǔ bǎi yuán kě miǎnfèi bàn huìyuánkǎ, yǐhòu gòu shū kě dǎ bā zhé. Jīntiān guò shēngrì de péngyou hé suǒyǒu de xiǎo péngyou hái kěyǐ huòdé yí fèn xiǎo lǐwù. Huānyíng dàjiā xuǎngòu!",
+          "translation": "Dear customers and friends, to thank everyone for your support, our bookstore is holding a “buy books, receive gifts” event today. Spend 100 yuan on books and receive a notebook; spend 200 yuan and receive a dictionary. In addition, some books are also discounted: novels are 25% off, maps are 20% off, and study-abroad exam books are 40% off. If you spend 500 yuan on books, you can get a membership card for free and receive 20% off future book purchases. Friends celebrating a birthday today and all children can also receive a small gift. Everyone is welcome to shop!"
+        }
+      ],
+      "audio": "audio/06-4.mp3",
+      "vocabulary": [
+        {
+          "word": "支持",
+          "pinyin": "zhīchí",
+          "meaning": "v. to support"
+        },
+        {
+          "word": "举行",
+          "pinyin": "jǔxíng",
+          "meaning": "v. to hold (a meeting, event, etc.)"
+        },
+        {
+          "word": "满",
+          "pinyin": "mǎn",
+          "meaning": "v. to reach a quota or limit"
+        },
+        {
+          "word": "其中",
+          "pinyin": "qízhōng",
+          "meaning": "n. among (which, them, etc.)"
+        },
+        {
+          "word": "小说",
+          "pinyin": "xiǎoshuō",
+          "meaning": "n. novel, fiction"
+        },
+        {
+          "word": "会员卡",
+          "pinyin": "huìyuánkǎ",
+          "meaning": "n. membership card"
+        },
+        {
+          "word": "所有",
+          "pinyin": "suǒyǒu",
+          "meaning": "adj. all"
+        },
+        {
+          "word": "获得",
+          "pinyin": "huòdé",
+          "meaning": "v. to get, to obtain"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "一分钱一分货 (yì fēn qián yì fēn huò) (You get what you pay for)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "人们常说“一分钱一分货”，意思是东西的质量和价格有很大的关系，也可以说“便宜没好货，好货不便宜”，一般情况下，你花的钱越多，买的东西也就越好。其实也不一定都是这样的。有的时候，质量很好的东西也会很便宜。例如，春天来了，冬天的衣服就会打折，质量很好，还很便宜，花很少的钱就可以买到。一到节日，商场也会举办各种各样的活动，降低价格，这个时候我们也可以买到又便宜又好的东西。",
+          "pinyin": "Rénmen cháng shuō “yì fēn qián yì fēn huò”, yìsi shì dōngxi de zhìliàng hé jiàgé yǒu hěn dà de guānxi, yě kěyǐ shuō “piányi méi hǎo huò, hǎo huò bù piányi”, yìbān qíngkuàng xià, nǐ huā de qián yuè duō, mǎi de dōngxi yě jiù yuè hǎo. Qíshí yě bù yídìng dōu shì zhèyàng de. Yǒu de shíhou, zhìliàng hěn hǎo de dōngxi yě huì hěn piányi. Lìrú, chūntiān lái le, dōngtiān de yīfu jiù huì dǎzhé, zhìliàng hěn hǎo, hái hěn piányi, huā hěn shǎo de qián jiù kěyǐ mǎi dào. Yí dào jiérì, shāngchǎng yě huì jǔbàn gè zhǒng gè yàng de huódòng, jiàngdī jiàgé, zhège shíhou wǒmen yě kěyǐ mǎi dào yòu piányi yòu hǎo de dōngxi.",
+          "translation": "People often say “you get what you pay for,” meaning that the quality and price of things are closely related. You can also say, “cheap goods are not good, and good goods are not cheap.” In general, the more money you spend, the better the things you buy. In fact, this is not always the case. Sometimes, things of very good quality can also be very inexpensive. For example, when spring comes, winter clothes go on sale. They are good quality and also cheap, so you can buy them with very little money. During holidays, malls also hold all kinds of events and lower prices. At those times, we can also buy things that are both cheap and good."
+        }
+      ],
+      "audio": "audio/06-5.mp3",
+      "vocabulary": [
+        {
+          "word": "情况",
+          "pinyin": "qíngkuàng",
+          "meaning": "n. situation, circumstances"
+        },
+        {
+          "word": "例如",
+          "pinyin": "lìrú",
+          "meaning": "v. for example"
+        },
+        {
+          "word": "举办",
+          "pinyin": "jǔbàn",
+          "meaning": "v. to hold, to conduct"
+        },
+        {
+          "word": "各",
+          "pinyin": "gè",
+          "meaning": "pron. various, different"
+        },
+        {
+          "word": "降低",
+          "pinyin": "jiàngdī",
+          "meaning": "v. to lower, to reduce"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "vocabulary": {
+      "果汁": {
+        "ko": "과일 주스",
+        "ja": "果汁、フルーツジュース",
+        "en": "fruit juice"
+      },
+      "售货员": {
+        "ko": "판매원",
+        "ja": "販売員",
+        "en": "salesperson"
+      },
+      "袜子": {
+        "ko": "양말",
+        "ja": "靴下",
+        "en": "socks"
+      },
+      "打扰": {
+        "ko": "방해하다, 귀찮게 하다",
+        "ja": "邪魔する、迷惑をかける",
+        "en": "to disturb, to bother"
+      },
+      "竟然": {
+        "ko": "뜻밖에도, 의외로",
+        "ja": "意外にも、なんと",
+        "en": "unexpectedly, actually"
+      },
+      "西红柿": {
+        "ko": "토마토",
+        "ja": "トマト",
+        "en": "tomato"
+      },
+      "百分之": {
+        "ko": "퍼센트",
+        "ja": "パーセント",
+        "en": "percent"
+      },
+      "倍": {
+        "ko": "배",
+        "ja": "倍",
+        "en": "times, -fold"
+      },
+      "皮肤": {
+        "ko": "피부",
+        "ja": "皮膚",
+        "en": "skin"
+      },
+      "好处": {
+        "ko": "장점, 이점",
+        "ja": "利点、メリット",
+        "en": "benefit, advantage"
+      },
+      "尝": {
+        "ko": "맛보다",
+        "ja": "味見する",
+        "en": "to taste"
+      },
+      "轻": {
+        "ko": "가볍다",
+        "ja": "軽い",
+        "en": "light, of little weight"
+      },
+      "方面": {
+        "ko": "방면, 측면",
+        "ja": "方面、側面",
+        "en": "aspect"
+      },
+      "值得": {
+        "ko": "가치가 있다",
+        "ja": "値する、価値がある",
+        "en": "to be worth"
+      },
+      "活动": {
+        "ko": "행사, 활동",
+        "ja": "活動、イベント",
+        "en": "activity, event"
+      },
+      "内": {
+        "ko": "안, 이내",
+        "ja": "内、以内",
+        "en": "in, within"
+      },
+      "免费": {
+        "ko": "무료이다",
+        "ja": "無料である",
+        "en": "to be free of charge"
+      },
+      "修理": {
+        "ko": "수리하다",
+        "ja": "修理する",
+        "en": "to repair, to mend"
+      },
+      "支持": {
+        "ko": "지지하다, 성원하다",
+        "ja": "支持する",
+        "en": "to support"
+      },
+      "举行": {
+        "ko": "개최하다, 열다",
+        "ja": "開催する、行う",
+        "en": "to hold an event"
+      },
+      "满": {
+        "ko": "차다, 일정 금액/기준에 이르다",
+        "ja": "満たす、一定額に達する",
+        "en": "to reach a quota or limit"
+      },
+      "其中": {
+        "ko": "그중, 그 가운데",
+        "ja": "その中で",
+        "en": "among them"
+      },
+      "小说": {
+        "ko": "소설",
+        "ja": "小説",
+        "en": "novel, fiction"
+      },
+      "会员卡": {
+        "ko": "회원 카드",
+        "ja": "会員カード",
+        "en": "membership card"
+      },
+      "所有": {
+        "ko": "모든",
+        "ja": "すべての",
+        "en": "all"
+      },
+      "获得": {
+        "ko": "얻다, 획득하다",
+        "ja": "得る、獲得する",
+        "en": "to get, to obtain"
+      },
+      "情况": {
+        "ko": "상황, 형편",
+        "ja": "状況、事情",
+        "en": "situation, circumstances"
+      },
+      "例如": {
+        "ko": "예를 들면",
+        "ja": "例えば",
+        "en": "for example"
+      },
+      "举办": {
+        "ko": "개최하다, 열다",
+        "ja": "開催する、行う",
+        "en": "to hold, to conduct"
+      },
+      "各": {
+        "ko": "각각의, 여러 가지의",
+        "ja": "各、さまざまな",
+        "en": "various, different"
+      },
+      "降低": {
+        "ko": "낮추다, 내리다",
+        "ja": "下げる、低下させる",
+        "en": "to lower, to reduce"
+      }
+    },
+    "properNouns": {
+      "张远": {
+        "ko": "장위안",
+        "ja": "張遠",
+        "en": "Zhang Yuan"
+      },
+      "李进": {
+        "ko": "리진",
+        "ja": "李進",
+        "en": "Li Jin"
+      },
+      "王静": {
+        "ko": "왕징",
+        "ja": "王静",
+        "en": "Wang Jing"
+      }
+    },
+    "grammar": {
+      "竟然": {
+        "formal_translation": {
+          "ko": "부사 “竟然”은 동사나 형용사 앞에 쓰여 예상하지 못했거나 뜻밖이라는 느낌을 나타낸다. 말하는 사람이 그 상황이 일어나거나 사실일 것이라고 생각하지 못했음을 드러낸다.",
+          "ja": "副詞「竟然」は動詞または形容詞の前に置かれ、予想外であることや驚きを表します。話し手がその状況を予想していなかったことを示します。",
+          "en": "The adverb “竟然” is used before a verb or an adjective to indicate unexpectedness or surprise. It marks that the speaker did not expect the situation to happen or did not expect it to be true."
+        },
+        "colloquial_translation": {
+          "ko": "“竟然”은 표준적인 표현이고, 일상 대화에서는 같은 위치에 “居然”도 자주 쓴다. “没想到”은 “생각지도 못했다”는 느낌을 더 직접적으로 드러낼 때 쓴다.",
+          "ja": "「竟然」は標準的な表現で、日常会話では同じ位置で「居然」もよく使われます。「没想到」は「思いもしなかった」という気持ちをより直接的に表します。",
+          "en": "“竟然” is a standard written and spoken adverb for surprise. In everyday speech, “居然” is often used in the same position and feels slightly more conversational; “没想到” can be used when the speaker wants to explicitly say “I didn’t expect it.”"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "이 노래 정말 듣기 좋고 요즘 유행인데, 네가 뜻밖에도 안 들어 봤다고?",
+              "ja": "この歌はとてもよくて最近流行っているのに、君はなんと聞いたことがないの？",
+              "en": "This song is especially good and has been very popular recently. You actually haven’t heard it?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 식당에 밥 먹으러 온 사람이 뜻밖에도 이렇게 많아서, 줄이 입구 밖까지 이어졌어!",
+              "ja": "このレストランに食べに来る人がこんなに多いなんて、列が入口の外まで続いています！",
+              "en": "There are unexpectedly so many people eating at this restaurant that the line has reached outside the entrance!"
+            }
+          },
+          {
+            "translation": {
+              "ko": "집에 돌아온 뒤에야 쇼핑몰 슈퍼마켓에 가서 과일 주스를 사는 걸 뜻밖에도 깜빡했다는 걸 알았어!",
+              "ja": "家に帰ってから、ショッピングモールのスーパーへ果汁を買いに行くのを忘れていたことに気づきました！",
+              "en": "After I got home, I realized that I had actually forgotten to go to the mall’s supermarket to buy fruit juice!"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "이 노래가 이렇게 떴는데, 네가 아직도 안 들어 봤다고?",
+              "ja": "この曲、こんなに流行っているのに、君はまだ聞いたことがないの？",
+              "en": "This song is already this viral, and you still haven’t heard it?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 가게 사람 진짜 많네. 줄이 밖까지 나갔어!",
+              "ja": "この店、人が多すぎるでしょう。列が外まで続いているよ！",
+              "en": "There are way too many people at this place. The line actually goes outside!"
+            }
+          },
+          {
+            "translation": {
+              "ko": "집에 와서 보니, 정작 제일 사야 했던 과일 주스를 깜빡했더라.",
+              "ja": "家に着いて見たら、一番買うべきだった果汁を忘れていたことに気づいた。",
+              "en": "When I got home and checked, I realized I had actually forgotten the fruit juice, the main thing I was supposed to buy."
+            }
+          }
+        ]
+      },
+      "倍": {
+        "formal_translation": {
+          "ko": "양사 “倍”는 한 수를 다른 수로 나눈 배수를 나타낸다. 독립적으로 쓰이는 자주량사이며, 뒤에는 보통 명사가 오지 않는다.",
+          "ja": "量詞「倍」は、ある数を別の数で割った倍率を表します。自立量詞であり、通常その後ろに名詞は続きません。",
+          "en": "The measure word “倍” indicates the quotient of one number divided by another. It is an unbound measure word and is usually not followed by any noun."
+        },
+        "colloquial_translation": {
+          "ko": "“倍”는 “两倍”, “三倍”처럼 숫자 뒤에 붙어 배수를 나타내는 표준 표현이다. 일상 대화에서는 가격, 업무량, 사람 수 등이 갑자기 두 배가 될 때 “翻倍”도 자주 쓴다.",
+          "ja": "「倍」は「两倍」「三倍」のように数字の後ろに置いて倍率を表す標準的な表現です。日常会話では、価格や仕事量、人の数などが急に二倍になる場合に「翻倍」もよく使われます。",
+          "en": "“倍” is the standard measure word for multiples and is often used after a number, as in “两倍” or “三倍.” In casual speech, “翻倍” is common when something doubles or multiplies sharply, especially prices, traffic, or workload."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "2의 다섯 배는 10이다.",
+              "ja": "二の五倍は十です。",
+              "en": "Five times two is ten."
+            }
+          },
+          {
+            "translation": {
+              "ko": "내 월급은 매달 5000위안이고, 그의 월급은 내 두 배이다.",
+              "ja": "私の給料は毎月5000元で、彼の給料は私の二倍です。",
+              "en": "My salary is 5,000 yuan per month, and his salary is twice mine."
+            }
+          },
+          {
+            "translation": {
+              "ko": "어제는 한 근에 겨우 3위안 5자오였던 걸로 기억하는데, 오늘 가격은 어제의 두 배이다.",
+              "ja": "昨日は一斤三元五角だったと覚えていますが、今日の値段は昨日の二倍です。",
+              "en": "I remember yesterday it was only three yuan fifty per jin; today’s price is twice yesterday’s."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "가격이 하룻밤 사이에 두 배가 됐어. 너무 말이 안 되잖아.",
+              "ja": "値段が一晩で倍になったよ。さすがにひどすぎるでしょう。",
+              "en": "The price doubled overnight. That is way too ridiculous."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 사람 월급이 거의 내 두 배라서 돈 쓰는 게 시원시원한 것도 당연해.",
+              "ja": "彼の給料はほぼ私の二倍だから、あんなに気前よくお金を使うのも当然だね。",
+              "en": "His salary is almost twice mine, no wonder he spends money so freely."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 행사가 너무 인기라서 오늘 유동 인구가 평소의 세 배야.",
+              "ja": "このイベントはとても人気で、今日の人出は普段の三倍です。",
+              "en": "This event is so popular that today’s foot traffic is three times the usual amount."
+            }
+          }
+        ]
+      },
+      "值得": {
+        "formal_translation": {
+          "ko": "동사 “值得”는 어떤 일을 할 가치가 있고 좋은 결과를 가져올 수 있음을 나타낸다. 보통 뒤에 동사나 동사구가 오며, “值得考虑”, “值得学习”처럼 쓴다. 부정형은 “不值得”이다.",
+          "ja": "動詞「值得」は、何かをする価値があり、よい結果をもたらすことを表します。通常、後ろに動詞または動詞句が続き、「值得考虑」「值得学习」のように使います。否定形は「不值得」です。",
+          "en": "The verb “值得” indicates that something is worth doing and will bring good results. It is commonly followed by a verb or verb phrase, as in “值得考虑” or “值得学习.” Its negative form is “不值得.”"
+        },
+        "colloquial_translation": {
+          "ko": "“值得”는 “할 만하다/가치가 있다”를 나타내는 표준 표현이다. 일상 대화에서는 “值”, “不值”가 더 짧고 자연스럽게 쓰이며, 노력이나 감정 소모를 할 가치가 없을 때는 “没必要”도 자주 쓴다.",
+          "ja": "「值得」は「する価値がある」を表す標準的な表現です。日常会話では「值」「不值」がより短く自然で、労力や感情を使う価値がない場合には「没必要」もよく使われます。",
+          "en": "“值得” is the standard expression for “to be worth doing.” In casual speech, “值” and “不值” are shorter and more conversational, while “没必要” is often used when something is not worth the effort or emotional cost."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "이것을 한번 보세요. 가격 면에서 보든 품질 면에서 보든 모두 고려할 만합니다.",
+              "ja": "こちらをご覧ください。価格の面から見ても、品質の面から見ても、検討する価値があります。",
+              "en": "Take a look at this one. Whether you consider the price or the quality, it is worth considering."
+            }
+          },
+          {
+            "translation": {
+              "ko": "너는 성격을 좀 고쳐야 해. 늘 작은 일 때문에 화내지 마, 그럴 가치가 없어.",
+              "ja": "自分の性格を少し直したほうがいいです。いつも小さなことで怒らないでください。価値がありません。",
+              "en": "You should change your temper. Don’t always get angry over little things; it isn’t worth it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "우리는 늘 한 사람의 단점을 쉽게 보지만, 그 사람의 장점이야말로 우리가 발견하고 배울 가치가 더 있다는 것을 잊지 말아야 한다.",
+              "ja": "私たちはいつも人の欠点を見つけやすいですが、その人の長所こそ、私たちが見つけて学ぶ価値がさらにあることを忘れてはいけません。",
+              "en": "We always find it easy to see a person’s shortcomings, but don’t forget that their strengths are even more worth discovering and learning from."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "이 캐리어는 품질도 가격도 괜찮아서 확실히 살 만해.",
+              "ja": "このスーツケースは品質も価格もかなりよくて、確かに買う価値があります。",
+              "en": "This suitcase is great in both quality and price; it is definitely worth getting."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이런 작은 일로 화내는 건 진짜 아까워. 마음에 담아두지 마.",
+              "ja": "こんな小さなことで怒るのは本当にもったいないよ。気にしないで。",
+              "en": "Getting angry over such a small thing really isn’t worth it. Don’t take it to heart."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 사람은 사실 장점이 많아서 우리가 제대로 배울 만해.",
+              "ja": "彼には実は長所がたくさんあって、私たちがしっかり学ぶ価値があります。",
+              "en": "He actually has a lot of strengths, and they are really worth learning from."
+            }
+          }
+        ]
+      },
+      "值得 vs 值": {
+        "formal_translation": {
+          "ko": "“值得”와 “值” 비교. 공통점: 둘 다 어떤 일을 하는 것이 의미 있거나 가치가 있음을 나타낼 수 있다. 예: “这个调查对今后的工作很有用，花再多时间也值得/值。” 차이점: 1. 이 의미를 나타낼 때 “值得”는 동사로 뒤에 동사나 절이 올 수 있지만, “值”는 형용사로 보통 뒤에 다른 성분이 오지 않는다. 2. 둘 다 동사로 쓰일 수 있지만 의미가 다르다. “值得”는 가격이 적절하거나 어떤 일을 할 가치가 있음을 나타내며 뒤에 동사나 동사구가 온다. “值”는 물건이 그 가격만큼의 가치가 있음을 나타내며 뒤에 금액이 온다.",
+          "ja": "「值得」と「值」の比較。共通点: どちらも、何かをすることに意味や価値があることを表せます。例: 「这个调查对今后的工作很有用，花再多时间也值得/值。」相違点: 1. この意味を表す場合、「值得」は動詞で、後ろに動詞や節を伴うことができますが、「值」は形容詞で、通常後ろに他の成分を伴いません。2. どちらも動詞として使えますが、意味は異なります。「值得」は価格が相応である、またはする価値があることを表し、後ろに動詞または動詞句が続きます。「值」は商品がその金額に相当することを表し、後ろに金額が続きます。",
+          "en": "Compare “值得” and “值”. Similarity: Both can mean it is meaningful to do something or something is worth doing. Example: “这个调查对今后的工作很有用，花再多时间也值得/值。” Differences: 1. In this meaning, “值得” is a verb that can be followed by another verb or a clause, while “值” is an adjective and is usually not followed by any other element. 2. Both can also be used as verbs, but with different meanings: “值得” means the price is fair or something is worth doing and is followed by a verb or verb phrase; “值” means the commodity is worth the price and is followed by an amount of money."
+        },
+        "colloquial_translation": {
+          "ko": "핵심은 구조와 의미 차이다. 어떤 일을 할 가치가 있다고 말할 때는 “值得 + 동사/동사구/절”을 쓴다. “값어치 있다/그럴 만하다”처럼 단독 형용사 느낌이면 “值”를 쓸 수 있고, 물건의 금액 가치를 말할 때는 “值 + 금액”을 쓴다.",
+          "ja": "ポイントは構造と意味の違いです。何かをする価値があると言う場合は「值得 + 動詞/動詞句/節」を使います。「価値がある」という形容詞的な意味では「值」を単独で使うことができ、物の金銭的価値を言う場合は「值 + 金額」を使います。",
+          "en": "This comparison is about structure and meaning. Use “值得 + verb/verb phrase/clause” when saying something is worth doing. Use “值” by itself as an adjective meaning “worth it,” or as a verb before an amount of money when stating how much something is worth."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "이 조사는 앞으로의 업무에 매우 유용하니, 시간을 더 많이 들여도 가치가 있다.",
+              "ja": "この調査は今後の仕事にとても役立つので、さらに多くの時間をかけても価値があります。",
+              "en": "This survey is very useful for future work, so it is worth it no matter how much more time is spent."
+            }
+          },
+          {
+            "translation": {
+              "ko": "화내지 마. 우리는 이런 작은 일 때문에 화낼 가치가 없어.",
+              "ja": "怒らないで。私たちはこんな小さなことで怒る価値はありません。",
+              "en": "Don’t be angry. It is not worth getting angry over such a small matter."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이런 작은 일 때문에 화내는 것은 조금도 가치가 없다.",
+              "ja": "こんな小さなことで怒るのは少しも価値がありません。",
+              "en": "Getting angry over such a small matter is not worth it at all."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 소파는 가격도 비싸지 않고 품질도 좋아서 살 만하다.",
+              "ja": "このソファは値段が高くなく、品質もよいので、買う価値があります。",
+              "en": "This sofa is not expensive and the quality is good, so it is worth buying."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 휴대폰은 5000위안의 가치가 있다.",
+              "ja": "この携帯電話は五千元の価値があります。",
+              "en": "This phone is worth five thousand yuan."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "이번에 다녀오느라 힘들긴 했지만 결과가 좋아서 꽤 값어치 있었어.",
+              "ja": "今回行ってくるのは疲れたけれど、結果がよかったのでかなり価値がありました。",
+              "en": "This trip was tiring, but the result was good, so it was pretty worth it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 수업은 싸진 않지만 내용이 탄탄해서 그래도 신청할 만해.",
+              "ja": "この授業は安くないけれど、内容がしっかりしているので申し込む価値があります。",
+              "en": "This course is not cheap, but the content is solid, so it is still worth signing up for."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 중고폰은 많아야 2000위안 가치야. 바가지 쓰지 마.",
+              "ja": "この中古スマホは高くても二千元の価値です。ぼったくられないで。",
+              "en": "This secondhand phone is worth at most two thousand; don’t get ripped off."
+            }
+          }
+        ]
+      },
+      "其中": {
+        "formal_translation": {
+          "ko": "명사 “其中”은 “그 안에서”, “그 가운데에서”라는 뜻으로, 범위나 처한 곳을 나타낸다. 앞에서 이미 언급한 집단, 범위, 장소 안의 일부나 구성원을 가리킬 때 쓴다.",
+          "ja": "名詞「其中」は「その中で」「それらの中で」という意味で、範囲や場所を示します。すでに述べた集団、範囲、場所の中の一部や構成員を指すときに使います。",
+          "en": "The noun “其中” means “within that” or “among those,” indicating a scope or location. It is used to refer to one part or some members inside a previously mentioned group, range, or place."
+        },
+        "colloquial_translation": {
+          "ko": "“其中”은 약간 격식 있는 표현으로, 앞에서 언급한 집단 안의 일부를 말할 때 유용하다. 일상 대화에서는 상황에 따라 “里面”, “当中”도 더 자연스럽게 같은 뜻을 나타낼 수 있다.",
+          "ja": "「其中」はやや改まった表現で、すでに述べた集団の中の一部を言うときに便利です。日常会話では、状況によって「里面」や「当中」もより自然に同じ意味を表せます。",
+          "en": "“其中” is slightly more formal and is useful after a group has already been mentioned. In everyday speech, “里面” and “当中” can often express the same idea more conversationally, depending on whether the speaker imagines a physical space or a group."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "우리는 책을 읽을 줄 아는 것뿐만 아니라, 그중 좋은 책을 골라 읽을 줄도 알아야 한다.",
+              "ja": "私たちは本を読むことができるだけでなく、その中のよい本を選んで読むこともできなければなりません。",
+              "en": "We should not only know how to read books, but also know how to choose the good books among them to read."
+            }
+          },
+          {
+            "translation": {
+              "ko": "아내는 일이 매우 바쁘지만, 그 안에서 바쁘기도 하고 그 안에서 즐거움도 느낀다.",
+              "ja": "妻は仕事がとても忙しいですが、その中で忙しくしながらも、その中に楽しみも感じています。",
+              "en": "Although my wife is very busy with work, she is busy in it and also finds joy in it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "일부 도서는 할인 행사도 진행 중이다. 그중 소설은 25% 할인, 지도는 20% 할인, 유학 시험용 도서는 40% 할인이다.",
+              "ja": "一部の図書には割引もあります。そのうち、小説は25%引き、地図は20%引き、留学試験用書籍は40%引きです。",
+              "en": "Some books also have discounts; among them, novels are 25% off, maps are 20% off, and study-abroad exam books are 40% off."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "이 몇 권의 책을 다 훑어봤는데, 그중 두 권이 특히 너에게 잘 맞아.",
+              "ja": "この数冊の本をざっと見ましたが、そのうち二冊は特にあなたに合っています。",
+              "en": "I skimmed through these books, and two of them are especially suitable for you."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이번 행사에 사람이 많이 왔는데, 그 안에는 단골손님도 꽤 있었어.",
+              "ja": "今回のイベントには多くの人が来て、その中には常連客もかなりいました。",
+              "en": "A lot of people came to this event, including quite a few regular customers."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 할인 상품들 가운데 이 여행가방이 가장 가성비가 좋아.",
+              "ja": "これらの割引商品の中では、このスーツケースが一番お得です。",
+              "en": "Among these discounted items, this suitcase is the best deal."
+            }
+          }
+        ]
+      },
+      "（在）……下": {
+        "formal_translation": {
+          "ko": "구조 “（在）……下”에서 가운데 들어가는 성분은 보통 수식어가 붙은 2음절 명사나 동사이며, 전체 구조는 어떤 일이 일어나는 조건이나 상황을 나타낸다.",
+          "ja": "構造「（在）……下」の省略部分には、通常、修飾語を伴う二音節の名詞または動詞が入り、全体として何かが起こる条件や状況を表します。",
+          "en": "In the structure “（在）……下”, the ellipsis part is usually a disyllabic noun or verb with a modifier before it. The whole structure indicates a condition or situation under which something happens."
+        },
+        "colloquial_translation": {
+          "ko": "“（在）……下”는 어떤 일이 일어나는 조건, 배경, 도움을 분명하게 말하는 비교적 격식 있는 표현이다. 일상 대화에서는 “一般情况下” 대신 “一般来说”를 자주 쓰고, “在大家的帮忙下”처럼 더 짧고 자연스럽게 말하기도 한다.",
+          "ja": "「（在）……下」は、何かが起こる条件、背景、助けをはっきり述べるやや改まった表現です。日常会話では「一般情况下」の代わりに「一般来说」をよく使い、「在大家的帮忙下」のように短く自然に言うこともあります。",
+          "en": "“（在）……下” is a formal and clear way to state the condition, background, or assistance under which something happens. In casual speech, people often say “一般来说” for “一般情况下,” or use shorter phrases like “在大家的帮忙下.”"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "일반적인 상황에서는 돈을 더 많이 쓸수록 사는 물건도 더 좋아진다.",
+              "ja": "一般的な状況では、使うお金が多いほど、買う物もよくなります。",
+              "en": "In general, the more money you spend, the better the things you buy."
+            }
+          },
+          {
+            "translation": {
+              "ko": "겨울에 비교적 추운 상황에서는 뜨거운 국수 한 그릇을 먹으면 매우 편안하게 느껴진다.",
+              "ja": "冬に比較的寒い状況では、温かい麺を一杯食べるととても心地よく感じます。",
+              "en": "When it is relatively cold in winter, eating a bowl of hot noodles makes people feel very comfortable."
+            }
+          },
+          {
+            "translation": {
+              "ko": "선생님과 친구들의 도움 아래 그의 중국어는 매우 빠르게 향상되었다.",
+              "ja": "先生とクラスメートたちの助けのもとで、彼の中国語は非常に速く上達しました。",
+              "en": "With the help of his teacher and classmates, his Chinese improved very quickly."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "일반적으로 예산이 높을수록 고를 수 있는 물건도 더 좋아진다.",
+              "ja": "一般的に、予算が高いほど選べる物もよくなります。",
+              "en": "Generally speaking, the higher your budget, the better the things you can choose."
+            }
+          },
+          {
+            "translation": {
+              "ko": "날씨가 이렇게 추울 때는 뜨거운 탕면 한 그릇이 정말 편하다.",
+              "ja": "天気がこんなに寒いときは、温かい汁麺を一杯食べると本当に心地よいです。",
+              "en": "When the weather is this cold, having a bowl of hot noodle soup feels really good."
+            }
+          },
+          {
+            "translation": {
+              "ko": "모두의 도움으로 그의 중국어는 특히 빠르게 늘었다.",
+              "ja": "みんなの助けで、彼の中国語は特に速く上達しました。",
+              "en": "With everyone’s help, his Chinese improved especially quickly."
+            }
+          }
+        ]
+      },
+      "同字词：其": {
+        "formal_translation": {
+          "ko": "같은 글자 “其”가 들어간 단어: 其次, 其中, 其实, 其他, 尤其. 이 확장 노트는 “其”를 포함한 자주 쓰는 단어들을 묶어 문맥 속 용법을 보여 준다. “其次”는 “그다음/둘째로”, “其中”은 “그중”, “其实”은 “사실은”, “其他”는 “기타/다른”, “尤其”는 “특히”를 뜻한다.",
+          "ja": "同じ字「其」を含む語: 其次、其中、其实、其他、尤其。この拡張ノートは、「其」を含むよく使う語をまとめ、文脈での使い方を示します。「其次」は「次に/第二に」、「其中」は「その中で」、「其实」は「実は」、「其他」は「その他/ほかの」、「尤其」は「特に」を意味します。",
+          "en": "Words with the same character “其”: 其次, 其中, 其实, 其他, 尤其. This expansion note groups common words containing “其” and shows how they are used in context: “其次” means “next/secondly,” “其中” means “among them,” “其实” means “actually,” “其他” means “other,” and “尤其” means “especially.”"
+        },
+        "colloquial_translation": {
+          "ko": "이 항목은 하나의 문법 패턴이 아니라 같은 글자 확장 노트다. formal 예문은 교재의 “其” 계열 단어 용법을 보존하고, colloquial 예문은 같은 단어를 더 짧은 일상 문장으로 보여 준다.",
+          "ja": "これは単一の文法パターンではなく、同じ字を含む語の拡張ノートです。formal例文は教科書の「其」系語彙の用法を保ち、colloquial例文は同じ語をより短い日常文で示します。",
+          "en": "This is a same-character expansion note rather than a single grammar pattern. The formal examples preserve the textbook usage of several words built with “其”; the colloquial examples show shorter everyday sentences using the same words."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "A: 왜 이 일을 선택했는지 이야기해 줄 수 있나요?<br/>B: 우선 저는 이 일에 매우 관심이 있고, 둘째로 제가 배운 것도 이 전공이라 비교적 익숙합니다.",
+              "ja": "A: なぜこの仕事を選んだのか話してもらえますか？<br/>B: まず、私はこの仕事にとても興味があります。次に、私が学んだのもこの専攻なので、比較的よく知っています。",
+              "en": "A: Can you talk about why you chose this job?<br/>B: First, I am very interested in this job. Second, I also studied this major, so I am quite familiar with it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 영화는 낭만적인 사랑 이야기를 다루지만, 나는 그중 사람과 동물 사이의 우정이 더 감동적이고 내게 더 깊은 인상을 남겼다고 생각한다.",
+              "ja": "この映画はロマンチックな恋愛物語を描いていますが、私はその中の人間と動物の友情のほうがより感動的で、より深い印象を残したと思います。",
+              "en": "This movie tells a romantic love story, but I think the friendship between the people and animals in it is more moving and left a deeper impression on me."
+            }
+          },
+          {
+            "translation": {
+              "ko": "생활 속에는 이런 두 종류의 사람이 있다. 한 종류는 늘 다른 사람이 어떻게 사는지 보고, 다른 한 종류는 자신의 생활을 남에게 보여 주기 좋아한다. 사실 각자에게는 각자의 삶이 있으니 다른 사람을 부러워할 필요가 없다.",
+              "ja": "生活の中にはこのような二種類の人がいます。一つはいつも他人がどのように暮らしているかを見る人、もう一つは自分の生活を他人に見せるのが好きな人です。実は、人にはそれぞれの生活があり、他人をうらやむ必要はありません。",
+              "en": "There are two kinds of people in life: one kind always watches how others live, and the other likes to live for others to see. Actually, everyone has their own life, and there is no need to envy others."
+            }
+          },
+          {
+            "translation": {
+              "ko": "A: 식당 일을 당신에게 맡기고 싶은데, 문제없겠어요?<br/>B: 죄송합니다. 저는 최근 다른 일로 바빠서, 다른 사람을 고려하시는 게 좋겠습니다.",
+              "ja": "A: レストランの仕事をあなたに担当してもらいたいのですが、問題ありませんか？<br/>B: 申し訳ありません。最近別のことで忙しいので、ほかの人を検討してください。",
+              "en": "A: I would like to ask you to take charge of the restaurant work. Do you think there is any problem?<br/>B: Sorry, I have been busy with another matter recently. You should consider someone else."
+            }
+          },
+          {
+            "translation": {
+              "ko": "무슨 일을 하든 방법에 주의해야 하며, 공부는 특히 그렇다. 방법이 맞으면 좋은 효과를 얻을 수 있고, 방법이 틀리면 아무리 노력해도 성공하기 어렵다.",
+              "ja": "何をするにも方法に注意しなければならず、学習は特にそうです。方法が正しければよい効果を得られますが、方法が間違っていれば、どれほど努力しても成功するのは難しいです。",
+              "en": "No matter what you do, you must pay attention to method, and learning is especially like this. If the method is right, you will achieve very good results; if the method is wrong, no matter how hard you try, it will be difficult to succeed."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "내가 이 일을 선택한 건 첫째로 관심이 있어서고, 둘째로 전공도 맞아서야.",
+              "ja": "私がこの仕事を選んだのは、第一に興味があり、次に専攻にも合っているからです。",
+              "en": "I chose this job first because I’m interested, and second because it matches my major."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 할인들 중에서는 책 사면 선물 주는 게 제일 가성비 좋아.",
+              "ja": "これらの割引の中では、本を買うとプレゼントがもらえるものが一番お得です。",
+              "en": "Among these discounts, the buy-books-get-gifts deal is the best value."
+            }
+          },
+          {
+            "translation": {
+              "ko": "사실 남을 너무 부러워할 필요 없어. 자기 삶을 잘 살면 돼.",
+              "ja": "実は、他人をあまりうらやむ必要はありません。自分の生活をしっかり送ればいいのです。",
+              "en": "Actually, there’s no need to envy others too much; just live your own life well."
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "回家以后，我才发现，<b>竟然</b>忘了去商场的超市买果汁！": {
+        "translation": {
+          "ko": "집에 돌아온 뒤에야 쇼핑몰 슈퍼마켓에 가서 과일 주스를 사는 걸 뜻밖에도 깜빡했다는 걸 알았어!",
+          "ja": "家に帰ってから、ショッピングモールのスーパーへ果汁を買いに行くのを忘れていたことに気づきました！",
+          "en": "After I got home, I realized that I had actually forgotten to go to the mall’s supermarket to buy fruit juice!"
+        },
+        "colloquial_translation": {
+          "ko": "집에 와서야 정작 사야 했던 과일 주스를 까먹었다는 걸 알았어!",
+          "ja": "家に着いてから、一番買うべきだった果汁を忘れていたことに気づきました！",
+          "en": "到家才发现，我<b>居然</b>把最该买的果汁给忘了！"
+        },
+        "context": {
+          "ko": "예상치 못한 실수를 말할 때",
+          "ja": "予想外のミスを言うとき",
+          "en": "Expressing surprise about an unexpected mistake"
+        }
+      },
+      "我记得昨天才三块五一斤，今天的价格是昨天的<b>两倍</b>。": {
+        "translation": {
+          "ko": "어제는 한 근에 겨우 3위안 5자오였던 걸로 기억하는데, 오늘 가격은 어제의 두 배네요.",
+          "ja": "昨日は一斤三元五角だったと覚えていますが、今日の値段は昨日の二倍です。",
+          "en": "I remember yesterday they were only three yuan fifty per jin. Today’s price is twice yesterday’s."
+        },
+        "colloquial_translation": {
+          "ko": "어제는 한 근에 3위안 5자오였는데, 오늘은 가격이 바로 두 배가 됐네요.",
+          "ja": "昨日は一斤三元五角だったのに、今日は値段が一気に倍になりました。",
+          "en": "我记得昨天才三块五一斤，今天价格直接<b>翻倍</b>了。"
+        },
+        "context": {
+          "ko": "가격이 두 배가 된 것을 불평할 때",
+          "ja": "値段が倍になったことに文句を言うとき",
+          "en": "Complaining that a price has doubled"
+        }
+      },
+      "您看看这个，不管从价格方面看，还是从质量上看，都是<b>值得</b>考虑的。": {
+        "translation": {
+          "ko": "이것을 한번 보세요. 가격 면에서 보든 품질 면에서 보든 모두 고려할 만합니다.",
+          "ja": "こちらをご覧ください。価格の面から見ても、品質の面から見ても、検討する価値があります。",
+          "en": "Take a look at this one. Whether you consider the price or the quality, it is worth thinking about."
+        },
+        "colloquial_translation": {
+          "ko": "이걸 한번 보세요. 가격도 품질도 꽤 괜찮아서 확실히 고려할 만합니다.",
+          "ja": "こちらをご覧ください。価格も品質もかなり信頼できるので、確かに検討する価値があります。",
+          "en": "您看看这个，价格和质量都挺靠谱，确实<b>值得</b>考虑。"
+        },
+        "context": {
+          "ko": "상품을 고려할 만하다고 추천할 때",
+          "ja": "商品を検討する価値があると勧めるとき",
+          "en": "Recommending a product as worth considering"
+        }
+      },
+      "一些图书还有打折活动，<b>其中</b>，小说7.5折，地图8折，留学考试用书6折。": {
+        "translation": {
+          "ko": "일부 도서는 할인 행사도 진행 중입니다. 그중 소설은 25% 할인, 지도는 20% 할인, 유학 시험용 도서는 40% 할인입니다.",
+          "ja": "一部の図書には割引もあります。そのうち、小説は25%引き、地図は20%引き、留学試験用書籍は40%引きです。",
+          "en": "Some books also have discounts; among them, novels are 25% off, maps are 20% off, and study-abroad exam books are 40% off."
+        },
+        "colloquial_translation": {
+          "ko": "어떤 책들은 할인 중인데, 그중 소설은 25% 할인, 지도는 20% 할인, 시험용 책은 40% 할인입니다.",
+          "ja": "一部の本も割引中で、そのうち小説は25%引き、地図は20%引き、試験用の本は40%引きです。",
+          "en": "有些书也在打折，<b>其中</b>小说七五折，地图八折，考试书六折。"
+        },
+        "context": {
+          "ko": "큰 범위 안의 예시를 나열할 때",
+          "ja": "大きな範囲の中の例を列挙するとき",
+          "en": "Listing examples within a larger group"
+        }
+      },
+      "<b>一般情况下</b>，你花的钱越多，买的东西也就越好。": {
+        "translation": {
+          "ko": "일반적인 상황에서는 돈을 더 많이 쓸수록 사는 물건도 더 좋아집니다.",
+          "ja": "一般的な状況では、使うお金が多いほど、買う物もよくなります。",
+          "en": "In general, the more money you spend, the better the things you buy."
+        },
+        "colloquial_translation": {
+          "ko": "일반적으로 돈을 더 많이 쓸수록 사는 물건도 더 좋아집니다.",
+          "ja": "一般的に、お金を多く使うほど、買える物もよくなります。",
+          "en": "<b>一般来说</b>，钱花得越多，买到的东西也越好。"
+        },
+        "context": {
+          "ko": "일반적인 조건이나 경험칙을 말할 때",
+          "ja": "一般的な条件や経験則を述べるとき",
+          "en": "Stating a general condition or rule of thumb"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "어젯밤에 너한테 전화했는데 계속 아무도 안 받더라. 뭐 하느라 바빴어?",
+              "ja": "昨夜君に電話したけれど、ずっと誰も出なかったよ。何で忙しかったの？",
+              "en": "I called you last night, but no one answered. What were you busy with?"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "어제 아내가 같이 슈퍼마켓에 가서 과일 주스를 사자고 했어. 휴대폰을 집에 두고 왔거든.",
+              "ja": "昨日、妻にスーパーへ果汁を買いに付き合ってと言われたんだ。携帯を家に忘れてしまってね。",
+              "en": "Yesterday my wife asked me to go with her to the supermarket to buy fruit juice. I left my phone at home."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "그렇게 조금 사는 데 그렇게 오래 걸릴 리가 없잖아!",
+              "ja": "そんな少しの物を買うのに、そんなに時間はかからないでしょう！",
+              "en": "Buying just that little bit of stuff shouldn't take that long!"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "우리는 먼저 쇼핑몰을 잠깐 둘러봤어. 들어가자마자 판매원이 이것저것 열정적으로 소개해 줬고, 아내는 바지 한 벌, 셔츠 한 장, 양말 두 켤레를 샀어. 그러고는 기분 좋게 집에 돌아왔지.",
+              "ja": "まず少しショッピングモールを見て回ったんだ。入るとすぐ販売員が熱心にあれこれ紹介してくれて、妻はズボンを一本、シャツを一枚、靴下を二足買った。それから楽しく家に帰ったよ。",
+              "en": "We first spent a while browsing around the mall. As soon as we walked in, the salesperson enthusiastically showed us this and that. She bought a pair of pants, a shirt, and two pairs of socks, and then we went home happily."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "나는 물건 살 때 내가 사고 싶은 것만 보고, 또 혼자 보고 혼자 고르는 걸 좋아해서 다른 사람이 방해하는 걸 원하지 않아.",
+              "ja": "買い物をするとき、私は自分が買いたい物だけを見るし、自分で見て自分で選ぶのが好きで、人に邪魔されたくないんだ。",
+              "en": "When I shop, I only look at what I want to buy. I also like looking and choosing by myself, and I don't want other people bothering me."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "맞아! 집에 돌아온 뒤에야 쇼핑몰 슈퍼마켓에 가서 과일 주스를 사는 걸 깜빡했다는 걸 알았어!",
+              "ja": "そうなんだ！家に帰ってから、ショッピングモールのスーパーへ果汁を買いに行くのを忘れていたことに気づいたんだ！",
+              "en": "Exactly! After we got home, I realized that we had actually forgotten to go to the mall's supermarket to buy the fruit juice!"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "토마토 신선한가요? 어떻게 팔아요?",
+              "ja": "トマトは新鮮ですか？いくらですか？",
+              "en": "Are the tomatoes fresh? How much are they?"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "한 근에 7위안입니다. 안심하세요, 100퍼센트 신선하다고 보장합니다.",
+              "ja": "一斤七元です。ご安心ください、百パーセント新鮮だと保証します。",
+              "en": "Seven yuan per jin. Don't worry, I guarantee they are one hundred percent fresh."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "왜 이렇게 비싸요! 어제는 한 근에 겨우 3위안 5자오였던 걸로 기억하는데, 오늘 가격은 어제의 두 배네요.",
+              "ja": "どうしてこんなに高いんですか！昨日は一斤三元五角だったと覚えていますが、今日の値段は昨日の二倍ですね。",
+              "en": "Why are they so expensive! I remember yesterday they were only three yuan fifty per jin. Today's price is twice yesterday's."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "손님이 물어보신 이 종류는 ‘친환경’ 제품입니다. 싼 게 비지떡이죠. 매일 이런 신선한 토마토를 한두 개 먹으면 피부에 좋습니다.",
+              "ja": "お尋ねのこの種類は「グリーン」なものです。値段相応ですよ。毎日この新鮮なトマトを一つ二つ食べると、肌にいいです。",
+              "en": "The kind you're asking about is “green” produce. You get what you pay for. Eating one or two of these fresh tomatoes every day is good for your skin."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "좋아요, 그럼 먼저 몇 개 사서 맛볼게요.",
+              "ja": "わかりました。では、まずいくつか買って味見してみます。",
+              "en": "All right, then I'll buy a few first and try them."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "네, 여기 토마토입니다. 모두 두 근이고, 14위안입니다.",
+              "ja": "はい、こちらがトマトです。全部で二斤、十四元です。",
+              "en": "Sure. Here are your tomatoes. Two jin altogether, fourteen yuan."
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "선생님, 저희 가게의 여행가방은 모두 여기에 있습니다. 어떤 것을 원하시나요?",
+              "ja": "お客様、当店のスーツケースはこちらにすべてあります。どのようなものをご希望ですか？",
+              "en": "Sir, all the suitcases in our shop are here. What kind would you like?"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "좀 가벼운 것을 사고 싶어요.",
+              "ja": "少し軽いものを買いたいです。",
+              "en": "I want to buy one that is a little lighter."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "이것을 한번 보세요. 가격 면에서 보든 품질 면에서 보든 모두 고려할 만합니다.",
+              "ja": "こちらをご覧ください。価格の面から見ても、品質の面から見ても、検討する価値があります。",
+              "en": "Take a look at this one. Whether you consider the price or the quality, it is worth thinking about."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "품질은 괜찮네요. 이건 얼마인가요?",
+              "ja": "品質は悪くないですね。これはいくらですか？",
+              "en": "The quality is pretty good. How much is this one?"
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "지금 저희 쇼핑몰에서 마침 할인 행사가 있어서, 할인 후 가격은 999입니다. 또 1년 이내에는 저희가 무료 수리를 책임집니다.",
+              "ja": "現在、当ショッピングモールではちょうど割引イベントがあり、割引後は999です。また、一年以内は無料修理を承ります。",
+              "en": "Our mall happens to be having a discount event now. After the discount, it is 999. Also, we handle repairs free of charge within one year."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "서비스도 괜찮고 가격도 괜찮네요. 이걸로 사겠습니다.",
+              "ja": "サービスもよく、価格も大丈夫です。これを買います。",
+              "en": "Your service is good, and the price is acceptable. I will buy this one."
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "고객 여러분, 여러분의 성원에 감사드리기 위해 저희 서점은 오늘 “책 구매 시 사은품 증정” 행사를 진행합니다. 책을 100위안 이상 구매하면 노트 한 권을, 200위안 이상 구매하면 사전 한 권을 드립니다. 또한 일부 도서는 할인 행사도 진행 중입니다. 그중 소설은 25% 할인, 지도는 20% 할인, 유학 시험용 도서는 40% 할인입니다. 책을 500위안 이상 구매하면 회원 카드를 무료로 만들 수 있고, 이후 책 구매 시 20% 할인을 받을 수 있습니다. 오늘 생일인 분들과 모든 어린이도 작은 선물 하나를 받을 수 있습니다. 많은 구매 바랍니다!",
+              "ja": "お客様の皆さま、日頃のご支持に感謝するため、当書店では本日「本を買ってプレゼントをもらおう」イベントを開催しています。本を100元以上購入するとノートを一冊、200元以上購入すると辞書を一冊差し上げます。また、一部の図書には割引もあります。そのうち小説は25%引き、地図は20%引き、留学試験用書籍は40%引きです。本を500元以上購入すると会員カードを無料で作ることができ、今後の本の購入は20%引きになります。本日誕生日のお客様とすべてのお子様も小さなプレゼントを一つ受け取れます。皆さまのご購入をお待ちしています！",
+              "en": "Dear customers and friends, to thank everyone for your support, our bookstore is holding a “buy books, receive gifts” event today. Spend 100 yuan on books and receive a notebook; spend 200 yuan and receive a dictionary. In addition, some books are also discounted: novels are 25% off, maps are 20% off, and study-abroad exam books are 40% off. If you spend 500 yuan on books, you can get a membership card for free and receive 20% off future book purchases. Friends celebrating a birthday today and all children can also receive a small gift. Everyone is welcome to shop!"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "사람들은 흔히 “싼 게 비지떡”이라고 말하는데, 이는 물건의 품질과 가격이 큰 관계가 있다는 뜻이다. “싼 물건에는 좋은 물건이 없고, 좋은 물건은 싸지 않다”고도 말할 수 있다. 일반적으로 돈을 많이 쓸수록 사는 물건도 더 좋아진다. 하지만 사실 꼭 항상 그런 것은 아니다. 때로는 품질이 아주 좋은 물건도 매우 저렴할 수 있다. 예를 들어 봄이 오면 겨울옷은 할인에 들어가는데, 품질도 좋고 가격도 저렴해서 적은 돈으로 살 수 있다. 명절이 되면 쇼핑몰도 각종 행사를 열어 가격을 낮추므로, 이때 우리는 싸면서도 좋은 물건을 살 수 있다.",
+              "ja": "人々はよく「一分のお金に一分の品」と言います。これは物の品質と価格には大きな関係があるという意味で、「安い物に良い物はなく、良い物は安くない」とも言えます。一般的には、使うお金が多いほど、買う物もよくなります。しかし実際には、必ずしもすべてがそうとは限りません。時には、品質がとても良い物も非常に安くなることがあります。例えば春になると、冬服は割引になり、品質が良くても安く、少ないお金で買うことができます。祝日になると、ショッピングモールもさまざまなイベントを開催して価格を下げるので、この時期には安くて良い物を買うこともできます。",
+              "en": "People often say “you get what you pay for,” meaning that the quality and price of things are closely related. You can also say, “cheap goods are not good, and good goods are not cheap.” In general, the more money you spend, the better the things you buy. In fact, this is not always the case. Sometimes, things of very good quality can also be very inexpensive. For example, when spring comes, winter clothes go on sale. They are good quality and also cheap, so you can buy them with very little money. During holidays, malls also hold all kinds of events and lower prices. At those times, we can also buy things that are both cheap and good."
+            }
+          }
+        }
+      }
+    },
+    "lessonTitle": {
+      "ko": "Lesson 6: 장위안과 리진이 리진의 어젯밤 쇼핑 경험에 대해 이야기하다",
+      "ja": "Lesson 6: 張遠と李進が李進の昨夜の買い物体験について話す",
+      "en": "Lesson 6: Zhang Yuan and Li Jin talk about Li Jin's shopping experience last night"
+    },
+    "textTitles": {
+      "1": {
+        "ko": "장위안과 리진이 리진의 어젯밤 쇼핑 경험에 대해 이야기하다",
+        "ja": "張遠と李進が李進の昨夜の買い物体験について話す",
+        "en": "Zhang Yuan and Li Jin talk about Li Jin's shopping experience last night"
+      },
+      "2": {
+        "ko": "왕징이 상점에서 토마토를 사다",
+        "ja": "王静が店でトマトを買う",
+        "en": "Wang Jing buys tomatoes at a shop"
+      },
+      "3": {
+        "ko": "리진이 쇼핑몰에서 여행가방을 사다",
+        "ja": "李進がショッピングモールでスーツケースを買う",
+        "en": "Li Jin buys a suitcase at the mall"
+      },
+      "4": {
+        "ko": "서점의 책 구매 사은품 행사",
+        "ja": "書店の本購入プレゼントイベント",
+        "en": "Bookstore gift-with-purchase event"
+      },
+      "5": {
+        "ko": "싼 게 비지떡일까? - 가격과 품질의 관계",
+        "ja": "安い物は悪い物？価格と品質の関係",
+        "en": "You get what you pay for"
+      }
+    }
+  }
+}

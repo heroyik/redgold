@@ -761,31 +761,46 @@
       "sentence": "真可惜，我还想多照点儿香山的照片呢。去长城<b>倒是</b>一个好主意，那我们明天去吧。",
       "pinyin": "Zhēn kěxī, wǒ hái xiǎng duō zhào diǎnr Xiāng Shān de zhàopiàn ne. Qù Chángchéng <b>dào shì</b> yí ge hǎo zhǔyi, nà wǒmen míngtiān qù ba.",
       "translation": "What a pity. I still wanted to take more photos of Fragrant Hill. Going to the Great Wall is actually a good idea, though. Then let’s go tomorrow.",
-      "context": "의견을 일부 인정하고 말할 때"
+      "context": "의견을 일부 인정하고 말할 때",
+      "colloquial_equivalent": "有点可惜，不过去长城倒也不错，那明天去吧。",
+      "colloquial_pinyin": "Yǒudiǎn kěxī, búguò qù Chángchéng dào yě bùcuò, nà míngtiān qù ba.",
+      "colloquial_translation": "That is a bit of a pity, but going to the Great Wall is actually not bad. Let’s go tomorrow."
     },
     {
       "sentence": "每次你让它<b>干</b>什么，它就像能听懂你的话一样去做。",
       "pinyin": "Měi cì nǐ ràng tā <b>gàn</b> shénme, tā jiù xiàng néng tīng dǒng nǐ de huà yíyàng qù zuò.",
       "translation": "Every time you ask it to do something, it does it as if it can understand what you are saying.",
-      "context": "어떤 일을 하게 할 때"
+      "context": "어떤 일을 하게 할 때",
+      "colloquial_equivalent": "你每次叫它干什么，它都像听得懂一样去做。",
+      "colloquial_pinyin": "Nǐ měi cì jiào tā gàn shénme, tā dōu xiàng tīng de dǒng yíyàng qù zuò.",
+      "colloquial_translation": "Every time you tell it to do something, it acts as if it understands."
     },
     {
       "sentence": "上个月我去了一<b>趟</b>北京动物园，那里约有500种动物。",
       "pinyin": "Shàng ge yuè wǒ qù le yí <b>tàng</b> Běijīng Dòngwùyuán, nàli yuē yǒu wǔbǎi zhǒng dòngwù.",
       "translation": "Last month I took a trip to the Beijing Zoo, where there are about five hundred kinds of animals.",
-      "context": "한 번 다녀온 일을 말할 때"
+      "context": "한 번 다녀온 일을 말할 때",
+      "colloquial_equivalent": "上个月我去了一趟北京动物园，动物还挺多的。",
+      "colloquial_pinyin": "Shàng ge yuè wǒ qù le yí tàng Běijīng Dòngwùyuán, dòngwù hái tǐng duō de.",
+      "colloquial_translation": "I went to the Beijing Zoo once last month, and there were quite a lot of animals."
     },
     {
       "sentence": "植物会<b>为了</b>阳光、空气和水<b>而</b>竞争。",
       "pinyin": "Zhíwù huì <b>wèile</b> yángguāng, kōngqì hé shuǐ <b>ér</b> jìngzhēng.",
       "translation": "Plants compete for sunlight, air, and water.",
-      "context": "목적을 분명히 설명할 때"
+      "context": "목적을 분명히 설명할 때",
+      "colloquial_equivalent": "植物也会为了阳光、空气和水去竞争。",
+      "colloquial_pinyin": "Zhíwù yě huì wèile yángguāng, kōngqì hé shuǐ qù jìngzhēng.",
+      "colloquial_translation": "Plants also compete for sunlight, air, and water."
     },
     {
       "sentence": "就算在几公里深的海底也<b>仍然</b>能看到东西。",
       "pinyin": "Jiùsuàn zài jǐ gōnglǐ shēn de hǎidǐ yě <b>réngrán</b> néng kàn dào dōngxi.",
       "translation": "Even several kilometers deep under the sea, things can still be seen.",
-      "context": "변함없이 계속됨을 말할 때"
+      "context": "변함없이 계속됨을 말할 때",
+      "colloquial_equivalent": "就算在很深的海底，还是能看到东西。",
+      "colloquial_pinyin": "Jiùsuàn zài hěn shēn de hǎidǐ, háishi néng kàn dào dōngxi.",
+      "colloquial_translation": "Even deep under the sea, you can still see things."
     }
   ],
   "translations": {
@@ -1368,14 +1383,14 @@
           "ja": "本当に残念です。香山の写真をもっと撮りたかったのに。長城へ行くのは、むしろいい考えですね。では明日行きましょう。"
         },
         "colloquial_translation": {
-          "en": "The Great Wall is actually a pretty good idea. Let’s go tomorrow.",
-          "ko": "만리장성도 괜찮긴 하네. 그럼 내일 가자.",
-          "ja": "長城も悪くないですね。じゃあ明日行きましょう。"
+          "ko": "좀 아쉽긴 하지만 만리장성에 가는 것도 괜찮네. 그럼 내일 가자.",
+          "ja": "少し残念ですが、長城へ行くのも悪くないですね。では明日行きましょう。",
+          "en": "That is a bit of a pity, but going to the Great Wall is actually not bad. Let’s go tomorrow."
         },
         "context": {
-          "en": "Partly agreeing with an idea",
           "ko": "의견을 일부 인정하고 말할 때",
-          "ja": "意見を一部認めて言うとき"
+          "ja": "意見を一部認めて言うとき",
+          "en": "Partly agreeing with an idea"
         }
       },
       "每次你让它<b>干</b>什么，它就像能听懂你的话一样去做。": {
@@ -1385,14 +1400,14 @@
           "ja": "あなたが何かをさせるたびに、まるであなたの言葉が分かるかのように行動します。"
         },
         "colloquial_translation": {
-          "en": "Whenever you tell it to do something, it acts like it understands you.",
-          "ko": "네가 뭘 시키면 진짜 알아듣는 것처럼 하더라.",
-          "ja": "何かをさせると、本当に分かっているみたいにやります。"
+          "ko": "네가 뭘 하라고 할 때마다 정말 알아듣는 것처럼 하더라.",
+          "ja": "何かをしろと言うたびに、本当に分かっているかのようにやります。",
+          "en": "Every time you tell it to do something, it acts as if it understands."
         },
         "context": {
-          "en": "Asking someone or something to do an action",
           "ko": "어떤 일을 하게 할 때",
-          "ja": "何かをさせるとき"
+          "ja": "何かをさせるとき",
+          "en": "Asking someone or something to do an action"
         }
       },
       "上个月我去了一<b>趟</b>北京动物园，那里约有500种动物。": {
@@ -1402,14 +1417,14 @@
           "ja": "先月、私は北京動物園へ一度行きました。そこには約五百種類の動物がいます。"
         },
         "colloquial_translation": {
-          "en": "I went to the Beijing Zoo once last month.",
-          "ko": "지난달에 베이징 동물원에 한 번 다녀왔어.",
-          "ja": "先月、北京動物園へ一度行ってきました。"
+          "ko": "지난달에 베이징 동물원에 한 번 갔는데 동물이 꽤 많았어.",
+          "ja": "先月、北京動物園へ一度行きましたが、動物がかなり多かったです。",
+          "en": "I went to the Beijing Zoo once last month, and there were quite a lot of animals."
         },
         "context": {
-          "en": "Talking about making one trip somewhere",
           "ko": "한 번 다녀온 일을 말할 때",
-          "ja": "一度行ってきたことを言うとき"
+          "ja": "一度行ってきたことを言うとき",
+          "en": "Talking about making one trip somewhere"
         }
       },
       "植物会<b>为了</b>阳光、空气和水<b>而</b>竞争。": {
@@ -1419,14 +1434,14 @@
           "ja": "植物は日光、空気、水を得るために競争します。"
         },
         "colloquial_translation": {
-          "en": "Plants compete to get sunlight, air, and water.",
           "ko": "식물도 햇빛, 공기, 물을 얻으려고 경쟁해.",
-          "ja": "植物も日光、空気、水を得るために競争します。"
+          "ja": "植物も日光、空気、水を得るために競争します。",
+          "en": "Plants also compete for sunlight, air, and water."
         },
         "context": {
-          "en": "Clearly explaining a purpose",
           "ko": "목적을 분명히 설명할 때",
-          "ja": "目的をはっきり説明するとき"
+          "ja": "目的をはっきり説明するとき",
+          "en": "Clearly explaining a purpose"
         }
       },
       "就算在几公里深的海底也<b>仍然</b>能看到东西。": {
@@ -1436,14 +1451,14 @@
           "ja": "数キロメートル深い海底でも、なお物を見ることができます。"
         },
         "colloquial_translation": {
-          "en": "Even deep under the sea, you can still see things.",
-          "ko": "깊은 바닷속에서도 여전히 뭔가를 볼 수 있어.",
-          "ja": "深い海底でも、まだ物を見ることができます。"
+          "ko": "아주 깊은 바닷속에서도 여전히 뭔가를 볼 수 있어.",
+          "ja": "とても深い海底でも、まだ物を見ることができます。",
+          "en": "Even deep under the sea, you can still see things."
         },
         "context": {
-          "en": "Saying something continues unchanged",
           "ko": "변함없이 계속됨을 말할 때",
-          "ja": "変わらず続いていることを言うとき"
+          "ja": "変わらず続いていることを言うとき",
+          "en": "Saying something continues unchanged"
         }
       }
     },

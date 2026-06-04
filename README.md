@@ -2,7 +2,7 @@
   <img src="public/assets/logo.png" width="240" alt="Redgold Logo">
 </p>
 
-<h1 align="center">✨ REDGOLD ✨</h1>
+<h1 align="center">✨ REDGOLD 1.0.0 — 전체 교재 작업 완료 ✨</h1>
 
 <p align="center">
   <strong>Textbooks are mid. Master the bridge from HSK 4 to real-world talk.</strong><br>
@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-0.9.86-B8860B?style=for-the-badge" alt="Version">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Version-1.0.0-B8860B?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Status-Textbook_Complete-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
 </p>
@@ -125,6 +125,7 @@ npm run build
 | **Data** | Lesson 5 Textbook Data Build-Out | ✅ Done |
 | **Data** | Lesson 11 Textbook Data Build-Out | ✅ Done |
 | **Data** | Lesson 12 Textbook Data Build-Out | ✅ Done |
+| **Data** | Lesson 1-20 Complete Textbook JSON Coverage | ✅ Done |
 | **Pipeline** | Auto JSON Rule Pack Optimization | ✅ Done |
 | **Data** | Mastery Quiz System & Progress Tracking | ⏳ Next |
 
@@ -133,6 +134,17 @@ npm run build
 ## 📋 Changelog
 
 Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
+
+---
+
+### v1.0.0 — 2026-06-04
+> *전체 교재 작업 완료.* RedGold now has complete HSK 4 textbook JSON coverage from Lesson 1 through Lesson 20.
+
+- 📚 **Lessons 1-20 Complete** — Completed and validated all lesson JSON data across textbook texts, vocabulary, grammar/notes, mastery sentences, and locale translation packs.
+- 🏆 **Lesson 20 Finalized** — Added Lesson 20 notes and mastery sentences, including `V+着+V+着`, `一……就……`, `究竟`, `起来`, `V+起`, and `同字词：格`.
+- 🌐 **Locale Packs Completed** — Backfilled missing `translations.vocabulary`, `properNouns`, `lessonTitle`, `textTitles`, grammar examples, and mastery fields where needed.
+- 🧱 **Auto JSON Rules Hardened** — Updated `plan/auto_json` rules to prevent recurring schema gaps around optional `proper_nouns`, grammar translation wrappers, and mastery base fields.
+- ✅ **Full Validation Pass** — Revalidated Lessons 1-20 with optional proper nouns excluded correctly: `checked: 20`, `passed: 20`, `failed: 0`.
 
 ---
 

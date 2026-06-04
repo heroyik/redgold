@@ -1,0 +1,1871 @@
+{
+  "lessonId": 20,
+  "title": "Lesson 20: 小张去北京，朋友送小张去机场 (Xiǎo Zhāng qù Běijīng, péngyou sòng Xiǎo Zhāng qù jīchǎng) (Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport)",
+  "vocabulary": [
+    {
+      "word": "加油站",
+      "pinyin": "jiāyóuzhàn",
+      "meaning": "n. gas station"
+    },
+    {
+      "word": "航班",
+      "pinyin": "hángbān",
+      "meaning": "n. scheduled flight"
+    },
+    {
+      "word": "推迟",
+      "pinyin": "tuīchí",
+      "meaning": "v. to postpone, to delay"
+    },
+    {
+      "word": "高速公路",
+      "pinyin": "gāosù gōnglù",
+      "meaning": "expressway"
+    },
+    {
+      "word": "登机牌",
+      "pinyin": "dēngjīpái",
+      "meaning": "n. boarding pass"
+    },
+    {
+      "word": "首都",
+      "pinyin": "shǒudū",
+      "meaning": "n. capital (of a country)"
+    },
+    {
+      "word": "旅行",
+      "pinyin": "lǚxíng",
+      "meaning": "v. to travel, to tour"
+    },
+    {
+      "word": "怪",
+      "pinyin": "guài",
+      "meaning": "adv. rather, quite"
+    },
+    {
+      "word": "可怜",
+      "pinyin": "kělián",
+      "meaning": "adj. pitiable, poor"
+    },
+    {
+      "word": "对面",
+      "pinyin": "duìmiàn",
+      "meaning": "n. opposite, across"
+    },
+    {
+      "word": "烤鸭",
+      "pinyin": "kǎoyā",
+      "meaning": "n. roast duck"
+    },
+    {
+      "word": "祝贺",
+      "pinyin": "zhùhè",
+      "meaning": "v. to congratulate"
+    },
+    {
+      "word": "合格",
+      "pinyin": "hégé",
+      "meaning": "adj. qualified, up to standard"
+    },
+    {
+      "word": "干杯",
+      "pinyin": "gānbēi",
+      "meaning": "v. to drink a toast"
+    },
+    {
+      "word": "民族",
+      "pinyin": "mínzú",
+      "meaning": "n. nationality, ethnic group"
+    },
+    {
+      "word": "打扮",
+      "pinyin": "dǎban",
+      "meaning": "v. to dress up, to deck out"
+    },
+    {
+      "word": "笑话",
+      "pinyin": "xiàohua",
+      "meaning": "n. joke"
+    },
+    {
+      "word": "存",
+      "pinyin": "cún",
+      "meaning": "v. to store, to keep"
+    },
+    {
+      "word": "钥匙",
+      "pinyin": "yàoshi",
+      "meaning": "n. key"
+    },
+    {
+      "word": "究竟",
+      "pinyin": "jiūjìng",
+      "meaning": "adv. exactly (used in questions for emphasis)"
+    },
+    {
+      "word": "棵",
+      "pinyin": "kē",
+      "meaning": "m. used for plants"
+    },
+    {
+      "word": "汤",
+      "pinyin": "tāng",
+      "meaning": "n. soup"
+    },
+    {
+      "word": "对话",
+      "pinyin": "duìhuà",
+      "meaning": "v. to have a dialogue"
+    },
+    {
+      "word": "普通话",
+      "pinyin": "pǔtōnghuà",
+      "meaning": "n. Mandarin Chinese"
+    },
+    {
+      "word": "小吃",
+      "pinyin": "xiǎochī",
+      "meaning": "n. small and cheap dishes"
+    },
+    {
+      "word": "收拾",
+      "pinyin": "shōushi",
+      "meaning": "v. to put in order, to pack"
+    },
+    {
+      "word": "出发",
+      "pinyin": "chūfā",
+      "meaning": "v. to depart, to set off"
+    },
+    {
+      "word": "辣",
+      "pinyin": "là",
+      "meaning": "adj. hot, spicy"
+    },
+    {
+      "word": "香",
+      "pinyin": "xiāng",
+      "meaning": "adj. fragrant, scented"
+    },
+    {
+      "word": "酸",
+      "pinyin": "suān",
+      "meaning": "adj. sour, tart"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "V+着+V+着",
+      "formal": "The structure “V+着+V+着”",
+      "colloquial": "开着开着 / 讲着讲着 / 躺着躺着",
+      "explanation": "In the structure “V+着+V+着”, the two verbs are the same, and the verb is usually monosyllabic. This structure is often followed by another verb, indicating that another action occurs while the first action is in progress.",
+      "nuance": "This pattern emphasizes that something happens naturally or unexpectedly during an ongoing action. In everyday speech, it is common with simple action verbs such as “开”, “讲”, “走”, “看”, “聊”, and “躺”.",
+      "formal_examples": [
+        {
+          "zh": "好，那我就放心了，别开着开着没油了。",
+          "pinyin": "Hǎo, nà wǒ jiù fàngxīn le, bié kāi zhe kāi zhe méi yóu le.",
+          "translation": "Good, then I can relax. We do not want to run out of gas while driving."
+        },
+        {
+          "zh": "她讲着讲着自己就先笑了，而大家却不明白她到底为什么笑。",
+          "pinyin": "Tā jiǎng zhe jiǎng zhe zìjǐ jiù xiān xiào le, ér dàjiā què bù míngbai tā dàodǐ wèishénme xiào.",
+          "translation": "As she was talking, she started laughing first, but everyone else did not understand why she was laughing."
+        },
+        {
+          "zh": "晚上躺在草地上看星星的感觉非常棒，有时候躺着躺着就安静地睡着了。",
+          "pinyin": "Wǎnshang tǎng zài cǎodì shang kàn xīngxing de gǎnjué fēicháng bàng, yǒu shíhou tǎng zhe tǎng zhe jiù ānjìng de shuìzháo le.",
+          "translation": "Lying on the grass at night and looking at the stars feels wonderful; sometimes, while lying there, you quietly fall asleep."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "别开着开着突然没油了。",
+          "pinyin": "Bié kāi zhe kāi zhe tūrán méi yóu le.",
+          "translation": "Do not suddenly run out of gas while driving."
+        },
+        {
+          "zh": "她说着说着自己先笑起来了。",
+          "pinyin": "Tā shuō zhe shuō zhe zìjǐ xiān xiào qǐlai le.",
+          "translation": "As she was talking, she started laughing first."
+        },
+        {
+          "zh": "我躺着躺着就睡着了。",
+          "pinyin": "Wǒ tǎng zhe tǎng zhe jiù shuìzháo le.",
+          "translation": "I fell asleep while lying there."
+        }
+      ]
+    },
+    {
+      "point": "一……就……",
+      "formal": "The structure “一……就……”",
+      "colloquial": "一回来就 / 一说话就 / 一哭就",
+      "explanation": "The structure “一……就……” can indicate that two events happen immediately one after the other, meaning “as soon as...”. The two events may or may not share the same subject. It can also mean “if..., then...”: “一” is followed by a condition, and “就” is followed by the situation that would occur under that condition. The two situations may or may not share the same subject.",
+      "nuance": "This pattern is very common in speech and writing. In the “as soon as” use, it stresses immediate sequence. In the conditional use, it often describes a repeated or typical result whenever a condition occurs.",
+      "formal_examples": [
+        {
+          "zh": "100年前，塑料一出现就受到人们的普遍欢迎。",
+          "pinyin": "Yì bǎi nián qián, sùliào yì chūxiàn jiù shòu dào rénmen de pǔbiàn huānyíng.",
+          "translation": "One hundred years ago, as soon as plastic appeared, it was widely welcomed by people."
+        },
+        {
+          "zh": "等女儿一回来我就告诉她这个好消息。",
+          "pinyin": "Děng nǚ’ér yì huílai wǒ jiù gàosu tā zhè ge hǎo xiāoxi.",
+          "translation": "As soon as our daughter comes back, I will tell her the good news."
+        },
+        {
+          "zh": "儿子小时候一说话就脸红，回答老师问题的时候声音也很小，我当时很为他担心。",
+          "pinyin": "Érzi xiǎo shíhou yì shuōhuà jiù liǎn hóng, huídá lǎoshī wèntí de shíhou shēngyīn yě hěn xiǎo, wǒ dāngshí hěn wèi tā dānxīn.",
+          "translation": "When my son was little, he would blush whenever he spoke, and his voice was also very soft when answering the teacher’s questions. I was very worried about him at the time."
+        },
+        {
+          "zh": "父母必须让孩子从小就知道，不是所有的东西一哭就能得到。",
+          "pinyin": "Fùmǔ bìxū ràng háizi cóng xiǎo jiù zhīdào, bú shì suǒyǒu de dōngxi yì kū jiù néng dédào.",
+          "translation": "Parents must let children know from a young age that not everything can be obtained simply by crying."
+        },
+        {
+          "zh": "妈妈一进房间，他就把手机装了起来。",
+          "pinyin": "Māma yí jìn fángjiān, tā jiù bǎ shǒujī zhuāng le qǐlai.",
+          "translation": "As soon as his mother entered the room, he put away his phone."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "她一回来，我就告诉她。",
+          "pinyin": "Tā yì huílai, wǒ jiù gàosu tā.",
+          "translation": "I will tell her as soon as she comes back."
+        },
+        {
+          "zh": "他小时候一说话就脸红。",
+          "pinyin": "Tā xiǎo shíhou yì shuōhuà jiù liǎn hóng.",
+          "translation": "When he was little, he would blush whenever he spoke."
+        },
+        {
+          "zh": "妈妈一进来，他就把手机收起来了。",
+          "pinyin": "Māma yì jìnlai, tā jiù bǎ shǒujī shōu qǐlai le.",
+          "translation": "As soon as his mom came in, he put his phone away."
+        }
+      ]
+    },
+    {
+      "point": "究竟",
+      "formal": "The adverb “究竟”",
+      "colloquial": "到底 / 究竟",
+      "explanation": "The adverb “究竟” is used in interrogative sentences or sentences with interrogative words to indicate inquiry and strengthen the interrogative mood. It is often used in written Chinese. If the subject of the sentence is an interrogative pronoun, “究竟” can only be placed before the subject.",
+      "nuance": "“究竟” sounds more formal and written than “到底”. In everyday speech, “到底” is often more natural, while “究竟” is useful when the speaker wants a more serious, emphatic, or written tone.",
+      "formal_examples": [
+        {
+          "zh": "究竟哪个季节去丽江旅游比较好呢？",
+          "pinyin": "Jiūjìng nǎ ge jìjié qù Lìjiāng lǚyóu bǐjiào hǎo ne?",
+          "translation": "Exactly which season is better for traveling to Lijiang?"
+        },
+        {
+          "zh": "随着科学技术的发展，很多问题已经得到解决。但有些问题我们仍然无法回答，例如，生命究竟从哪里来？",
+          "pinyin": "Suízhe kēxué jìshù de fāzhǎn, hěn duō wèntí yǐjīng dédào jiějué. Dàn yǒu xiē wèntí wǒmen réngrán wúfǎ huídá, lìrú, shēngmìng jiūjìng cóng nǎli lái?",
+          "translation": "With the development of science and technology, many problems have already been solved. But there are still some questions we cannot answer, for example: where exactly does life come from?"
+        },
+        {
+          "zh": "学习时，不仅要知道答案是什么，还要弄清楚答案究竟是怎么得来的，只有这样，才能把问题真正弄懂。",
+          "pinyin": "Xuéxí shí, bùjǐn yào zhīdào dá’àn shì shénme, hái yào nòng qīngchu dá’àn jiūjìng shì zěnme dé lái de, zhǐyǒu zhèyàng, cái néng bǎ wèntí zhēnzhèng nòng dǒng.",
+          "translation": "When studying, you must not only know what the answer is, but also figure out exactly how the answer was obtained. Only in this way can you truly understand the problem."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "到底哪个季节去丽江最好？",
+          "pinyin": "Dàodǐ nǎ ge jìjié qù Lìjiāng zuì hǎo?",
+          "translation": "Which season is actually the best for going to Lijiang?"
+        },
+        {
+          "zh": "生命到底是从哪儿来的？",
+          "pinyin": "Shēngmìng dàodǐ shì cóng nǎr lái de?",
+          "translation": "Where does life actually come from?"
+        },
+        {
+          "zh": "别只看答案，还得搞清楚它到底是怎么算出来的。",
+          "pinyin": "Bié zhǐ kàn dá’àn, hái děi gǎo qīngchu tā dàodǐ shì zěnme suàn chūlai de.",
+          "translation": "Do not just look at the answer; you also need to figure out how it was actually worked out."
+        }
+      ]
+    },
+    {
+      "point": "究竟 / 到底",
+      "formal": "Compare “究竟” and “到底”",
+      "colloquial": "究竟 / 到底 / 坚持到底",
+      "explanation": "Both “究竟” and “到底” can be used as adverbs in interrogative sentences or sentences with an interrogative word to indicate inquiry and strengthen the interrogative mood. If the subject is an interrogative pronoun, both can only be placed before the subject. The difference is that “到底” can also be used as a verb meaning “to the end” or “until the end”, while “究竟” does not have this usage.",
+      "nuance": "As interrogative adverbs, “究竟” is more formal and written, while “到底” is more common in everyday speech. When the meaning is “to the end”, only “到底” can be used, as in “看到底” or “坚持到底”.",
+      "formal_examples": [
+        {
+          "zh": "无论做什么事情，只有试过才知道究竟/到底能不能成功。",
+          "pinyin": "Wúlùn zuò shénme shìqing, zhǐyǒu shì guo cái zhīdào jiūjìng/dàodǐ néng bu néng chénggōng.",
+          "translation": "No matter what you do, only after trying will you know whether you can actually succeed."
+        },
+        {
+          "zh": "人的一生中，究竟什么是最重要的？",
+          "pinyin": "Rén de yìshēng zhōng, jiūjìng shénme shì zuì zhòngyào de?",
+          "translation": "In a person’s life, what exactly is the most important thing?"
+        },
+        {
+          "zh": "你耐心点儿！这个电影得看到底，才能知道那件事情的原因。",
+          "pinyin": "Nǐ nàixīn diǎnr! Zhè ge diànyǐng děi kàn dào dǐ, cái néng zhīdào nà jiàn shìqing de yuányīn.",
+          "translation": "Be a little patient! You have to watch this movie to the end to know the reason for that matter."
+        },
+        {
+          "zh": "我们已经做了这么多努力了，一定要把这个计划坚持到底，现在放弃太可惜了。",
+          "pinyin": "Wǒmen yǐjīng zuò le zhème duō nǔlì le, yídìng yào bǎ zhè ge jìhuà jiānchí dào dǐ, xiànzài fàngqì tài kěxī le.",
+          "translation": "We have already made so much effort, so we must carry this plan through to the end. It would be such a pity to give up now."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "到底能不能成功，试了才知道。",
+          "pinyin": "Dàodǐ néng bu néng chénggōng, shì le cái zhīdào.",
+          "translation": "You will only know whether it can actually succeed after trying."
+        },
+        {
+          "zh": "人这一辈子，到底什么最重要？",
+          "pinyin": "Rén zhè yí bèizi, dàodǐ shénme zuì zhòngyào?",
+          "translation": "In life, what really matters most?"
+        },
+        {
+          "zh": "这个电影得看到底，不能看到一半就不看了。",
+          "pinyin": "Zhè ge diànyǐng děi kàn dào dǐ, bù néng kàn dào yíbàn jiù bú kàn le.",
+          "translation": "You have to watch this movie to the end; you cannot stop halfway."
+        }
+      ]
+    },
+    {
+      "point": "起来",
+      "formal": "The verb “起来” used as a complement of direction or extended complement",
+      "colloquial": "拿起来 / 唱起来 / 听起来",
+      "explanation": "The verb “起来” can be used after another verb as a complement of direction, indicating upward movement. By extension, it can indicate that an action begins and continues, or it can introduce the speaker’s comment on a certain aspect of a person or thing.",
+      "nuance": "Use “起来” literally when something moves upward or is picked up. Use it extendedly when an action starts, as in “唱起来”, or when giving an impression based on perception, as in “听起来”, “看起来”, or “吃起来”.",
+      "formal_examples": [
+        {
+          "zh": "你先把桌子上的东西拿起来，我擦完之后你再放下来。",
+          "pinyin": "Nǐ xiān bǎ zhuōzi shang de dōngxi ná qǐlai, wǒ cā wán zhīhòu nǐ zài fàng xiàlai.",
+          "translation": "First pick up the things on the table. After I finish wiping it, you can put them back down."
+        },
+        {
+          "zh": "邻居小王最近一定遇到了很多开心的事，你听，他又唱起来了。",
+          "pinyin": "Línjū Xiǎo Wáng zuìjìn yídìng yùdào le hěn duō kāixīn de shì, nǐ tīng, tā yòu chàng qǐlai le.",
+          "translation": "Our neighbor Xiao Wang must have had many happy things happen recently. Listen, he has started singing again."
+        },
+        {
+          "zh": "比如你跟上海人对话时，会发现上海话听起来就像外语一样。",
+          "pinyin": "Bǐrú nǐ gēn Shànghǎi rén duìhuà shí, huì fāxiàn Shànghǎihuà tīng qǐlai jiù xiàng wàiyǔ yíyàng.",
+          "translation": "For example, when you have a conversation with someone from Shanghai, you will find that Shanghainese sounds like a foreign language."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "先把桌上的东西拿起来。",
+          "pinyin": "Xiān bǎ zhuō shang de dōngxi ná qǐlai.",
+          "translation": "Pick up the things on the table first."
+        },
+        {
+          "zh": "他心情不错，又唱起来了。",
+          "pinyin": "Tā xīnqíng búcuò, yòu chàng qǐlai le.",
+          "translation": "He is in a good mood and has started singing again."
+        },
+        {
+          "zh": "上海话听起来像外语。",
+          "pinyin": "Shànghǎihuà tīng qǐlai xiàng wàiyǔ.",
+          "translation": "Shanghainese sounds like a foreign language."
+        }
+      ]
+    },
+    {
+      "point": "V+起",
+      "formal": "The structure “V+起”",
+      "colloquial": "说起 / 聊起 / 问起",
+      "explanation": "The structure “V+起” introduces the thing that an action involves. The verb is usually one of a limited set of transitive verbs such as “说”, “谈”, “讲”, “问”, “提”, “聊”, and “回忆”. This structure is usually followed by a noun.",
+      "nuance": "“V+起” is commonly used to bring up a topic. “说起” and “聊起” are very natural in conversation, while “提起” can sound slightly more deliberate, as if someone specifically mentions a topic.",
+      "formal_examples": [
+        {
+          "zh": "说起吃的东西，给我印象最深的是湖南菜。",
+          "pinyin": "Shuō qǐ chī de dōngxi, gěi wǒ yìnxiàng zuì shēn de shì Húnán cài.",
+          "translation": "Speaking of food, the thing that left the deepest impression on me is Hunan cuisine."
+        },
+        {
+          "zh": "聊起那场网球比赛，他们俩就兴奋得停不下来了。",
+          "pinyin": "Liáo qǐ nà chǎng wǎngqiú bǐsài, tāmen liǎ jiù xīngfèn de tíng bu xiàlai le.",
+          "translation": "When they started talking about that tennis match, the two of them became so excited that they could not stop."
+        },
+        {
+          "zh": "要是有人问起那件事，你就告诉他你还没接到通知，也不清楚怎么回事。",
+          "pinyin": "Yàoshi yǒu rén wèn qǐ nà jiàn shì, nǐ jiù gàosu tā nǐ hái méi jiē dào tōngzhī, yě bù qīngchu zěnme huí shì.",
+          "translation": "If someone asks about that matter, tell them that you have not received a notice yet and are not clear about what happened."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "说起好吃的，我最想念湖南菜。",
+          "pinyin": "Shuō qǐ hǎochī de, wǒ zuì xiǎngniàn Húnán cài.",
+          "translation": "Speaking of good food, I miss Hunan cuisine the most."
+        },
+        {
+          "zh": "一聊起那场比赛，他们就停不下来。",
+          "pinyin": "Yì liáo qǐ nà chǎng bǐsài, tāmen jiù tíng bu xiàlai.",
+          "translation": "Once they start chatting about that match, they cannot stop."
+        },
+        {
+          "zh": "有人问起这事，你就说还没通知。",
+          "pinyin": "Yǒu rén wèn qǐ zhè shì, nǐ jiù shuō hái méi tōngzhī.",
+          "translation": "If someone asks about this, just say there has not been any notice yet."
+        }
+      ]
+    },
+    {
+      "point": "同字词：格",
+      "explanation": "“格” appears in a group of words with the same character: 性格, 价格, 表格, 合格, 严格. The words share the character 格 but have different meanings: character/personality, price, form/table, qualified, and strict. Learn them as separate lexical items and pay attention to how each one is used in context.",
+      "colloquial_pattern": "格：性格 / 价格 / 表格 / 合格 / 严格",
+      "nuance": "This is a same-character vocabulary note, not a sentence pattern. The formal examples preserve textbook usage, while the colloquial examples show more natural everyday contexts for the same words.",
+      "formal_examples": [
+        {
+          "zh": "我的性格很像我父亲，我的理想就是做一个像父亲那样的医生。",
+          "pinyin": "Wǒ de xìnggé hěn xiàng wǒ fùqin, wǒ de lǐxiǎng jiù shì zuò yí gè xiàng fùqin nàyàng de yīshēng.",
+          "translation": "My personality is very much like my father’s, and my ideal is to become a doctor like him."
+        },
+        {
+          "zh": "我想租一个窗户向南、阳光好的房间，附近最好有超市和医院。当然，价格也要合适。",
+          "pinyin": "Wǒ xiǎng zū yí gè chuānghu xiàng nán, yángguāng hǎo de fángjiān, fùjìn zuì hǎo yǒu chāoshì hé yīyuàn. Dāngrán, jiàgé yě yào héshì.",
+          "translation": "I want to rent a sunny room with a south-facing window, preferably with a supermarket and hospital nearby. Of course, the price also has to be suitable."
+        },
+        {
+          "zh": "如果您想办信用卡的话，得先填一下这张表格。",
+          "pinyin": "Rúguǒ nín xiǎng bàn xìnyòngkǎ dehuà, děi xiān tián yíxià zhè zhāng biǎogé.",
+          "translation": "If you want to apply for a credit card, you need to fill out this form first."
+        },
+        {
+          "zh": "一个合格的公司管理者，一定要允许其他人有反对意见。",
+          "pinyin": "Yí gè hégé de gōngsī guǎnlǐzhě, yídìng yào yǔnxǔ qítā rén yǒu fǎnduì yìjiàn.",
+          "translation": "A qualified company manager must allow other people to have opposing opinions."
+        },
+        {
+          "zh": "严格地说，地球应该叫“水球”，这是因为从地图上看，大约71%的地方都是蓝色的海洋。",
+          "pinyin": "Yángé de shuō, dìqiú yīnggāi jiào “shuǐqiú”, zhè shì yīnwèi cóng dìtú shàng kàn, dàyuē bǎi fēn zhī qīshíyī de dìfang dōu shì lán sè de hǎiyáng.",
+          "translation": "Strictly speaking, Earth should be called “water sphere,” because on a map, about 71 percent of the places are blue oceans."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "他性格挺直的，有什么想法都会直接说。",
+          "pinyin": "Tā xìnggé tǐng zhí de, yǒu shénme xiǎngfǎ dōu huì zhíjiē shuō.",
+          "translation": "He has a pretty straightforward personality and says whatever he thinks directly."
+        },
+        {
+          "zh": "这家店东西不错，就是价格有点儿不太友好。",
+          "pinyin": "Zhè jiā diàn dōngxi bùcuò, jiù shì jiàgé yǒudiǎnr bù tài yǒuhǎo.",
+          "translation": "The stuff at this shop is good, but the prices are not exactly friendly."
+        },
+        {
+          "zh": "你先把表格填好，剩下的我帮你看。",
+          "pinyin": "Nǐ xiān bǎ biǎogé tián hǎo, shèngxià de wǒ bāng nǐ kàn.",
+          "translation": "Fill out the form first, and I’ll help you check the rest."
+        },
+        {
+          "zh": "这份报告还不太合格，数据得再补一下。",
+          "pinyin": "Zhè fèn bàogào hái bú tài hégé, shùjù děi zài bǔ yíxià.",
+          "translation": "This report is not quite up to standard yet; the data needs to be filled in more."
+        },
+        {
+          "zh": "严格来说，这不算迟到，但也确实有点儿赶。",
+          "pinyin": "Yángé lái shuō, zhè bú suàn chídào, dàn yě quèshí yǒudiǎnr gǎn.",
+          "translation": "Strictly speaking, this does not count as being late, but it is definitely a bit rushed."
+        }
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "小张去北京，朋友送小张去机场 (Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport)",
+      "audio": "audio/20-1.mp3",
+      "content": [
+        {
+          "speaker": "朋友",
+          "text": "该加油了，去机场的路上有加油站吗？",
+          "pinyin": "Gāi jiāyóu le, qù jīchǎng de lù shang yǒu jiāyóuzhàn ma?",
+          "translation": "We should get gas. Is there a gas station on the way to the airport?"
+        },
+        {
+          "speaker": "小张",
+          "text": "我记得过了长江大桥往右一拐就有一个，大概有四五公里远。",
+          "pinyin": "Wǒ jìde guò le Chángjiāng Dàqiáo wǎng yòu yì guǎi jiù yǒu yí ge, dàgài yǒu sì wǔ gōnglǐ yuǎn.",
+          "translation": "I remember that after crossing the Yangtze River Bridge, if you turn right, there is one. It is about four or five kilometers away."
+        },
+        {
+          "speaker": "朋友",
+          "text": "好，那我就放心了，别开着开着没油了。你去北京的航班是几点的？时间来得及吗？",
+          "pinyin": "Hǎo, nà wǒ jiù fàngxīn le, bié kāi zhe kāi zhe méi yóu le. Nǐ qù Běijīng de hángbān shì jǐ diǎn de? Shíjiān láidejí ma?",
+          "translation": "Good, then I can relax. We do not want to run out of gas while driving. What time is your flight to Beijing? Will there be enough time?"
+        },
+        {
+          "speaker": "小张",
+          "text": "航班本来是十点的，后来机场网站上通知推迟了一个小时，所以九点半以前到就应该没问题。",
+          "pinyin": "Hángbān běnlái shì shí diǎn de, hòulái jīchǎng wǎngzhàn shang tōngzhī tuīchí le yí ge xiǎoshí, suǒyǐ jiǔ diǎn bàn yǐqián dào jiù yīnggāi méi wèntí.",
+          "translation": "The flight was originally at ten o’clock, but later the airport website announced that it was delayed by one hour, so arriving before nine thirty should be no problem."
+        },
+        {
+          "speaker": "朋友",
+          "text": "刚才我还有点儿担心来不及呢。一会儿加完油，往西走五百米就能上高速公路。走高速公路大约半个小时就到了。",
+          "pinyin": "Gāngcái wǒ hái yǒu diǎnr dānxīn lái bu jí ne. Yíhuìr jiā wán yóu, wǎng xī zǒu wǔ bǎi mǐ jiù néng shàng gāosù gōnglù. Zǒu gāosù gōnglù dàyuē bàn ge xiǎoshí jiù dào le.",
+          "translation": "Just now I was still a little worried that we would not make it in time. After we get gas, go five hundred meters west and we can get on the expressway. Taking the expressway, we will arrive in about half an hour."
+        },
+        {
+          "speaker": "小张",
+          "text": "一会儿我自己进去换登机牌，你就不用送我了，等我到了首都机场再给你发短信。",
+          "pinyin": "Yíhuìr wǒ zìjǐ jìnqù huàn dēngjīpái, nǐ jiù bú yòng sòng wǒ le, děng wǒ dào le Shǒudū Jīchǎng zài gěi nǐ fā duǎnxìn.",
+          "translation": "In a little while I will go in by myself to get my boarding pass, so you do not need to see me off. After I arrive at Capital Airport, I will send you a text message."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "长江",
+          "pinyin": "Chángjiāng",
+          "meaning": "Yangtze River, the longest river in China"
+        },
+        {
+          "word": "长江大桥",
+          "pinyin": "Chángjiāng Dàqiáo",
+          "meaning": "Yangtze River Bridge (in Nanjing)"
+        },
+        {
+          "word": "首都机场",
+          "pinyin": "Shǒudū Jīchǎng",
+          "meaning": "Beijing Capital International Airport"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "加油站",
+          "pinyin": "jiāyóuzhàn",
+          "meaning": "n. gas station"
+        },
+        {
+          "word": "航班",
+          "pinyin": "hángbān",
+          "meaning": "n. scheduled flight"
+        },
+        {
+          "word": "推迟",
+          "pinyin": "tuīchí",
+          "meaning": "v. to postpone, to delay"
+        },
+        {
+          "word": "高速公路",
+          "pinyin": "gāosù gōnglù",
+          "meaning": "expressway"
+        },
+        {
+          "word": "登机牌",
+          "pinyin": "dēngjīpái",
+          "meaning": "n. boarding pass"
+        },
+        {
+          "word": "首都",
+          "pinyin": "shǒudū",
+          "meaning": "n. capital (of a country)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "孙月和丈夫计划放寒假带女儿去旅行 (Sun Yue and her husband plan to take their daughter traveling during winter vacation)",
+      "audio": "audio/20-2.mp3",
+      "content": [
+        {
+          "speaker": "孙月",
+          "text": "女儿下个星期就要放寒假了，到时候咱们带她去旅游，放松放松，怎么样？",
+          "pinyin": "Nǚ’ér xià ge xīngqī jiù yào fàng hánjià le, dào shíhou zánmen dài tā qù lǚyóu, fàngsōng fàngsōng, zěnmeyàng?",
+          "translation": "Our daughter will start winter vacation next week. When the time comes, how about we take her traveling so she can relax a bit?"
+        },
+        {
+          "speaker": "丈夫",
+          "text": "平时女儿那么多课，总是说想去旅行，但是没时间，怪可怜的。这次放假咱们带她去哪儿玩儿比较好呢？",
+          "pinyin": "Píngshí nǚ’ér nàme duō kè, zǒng shì shuō xiǎng qù lǚxíng, dànshì méi shíjiān, guài kělián de. Zhè cì fàngjià zánmen dài tā qù nǎr wánr bǐjiào hǎo ne?",
+          "translation": "Our daughter usually has so many classes. She always says she wants to travel, but she has no time. It is really rather pitiful. Where would be a good place to take her this vacation?"
+        },
+        {
+          "speaker": "孙月",
+          "text": "去年我同事带她儿子去广西玩儿了一趟，听说很不错，我们就去广西吧。",
+          "pinyin": "Qùnián wǒ tóngshì dài tā érzi qù Guǎngxī wánr le yí tàng, tīngshuō hěn búcuò, wǒmen jiù qù Guǎngxī ba.",
+          "translation": "Last year my colleague took her son to Guangxi for a trip. I heard it was very good, so let’s go to Guangxi."
+        },
+        {
+          "speaker": "丈夫",
+          "text": "好啊，那里的气候和北方很不同，即使是冬天，也非常暖和，还能吃到许多新鲜的水果。等女儿一回来我就告诉她这个好消息。",
+          "pinyin": "Hǎo a, nàli de qìhòu hé běifāng hěn bù tóng, jíshǐ shì dōngtiān, yě fēicháng nuǎnhuo, hái néng chī dào xǔduō xīnxiān de shuǐguǒ. Děng nǚ’ér yì huílai wǒ jiù gàosu tā zhè ge hǎo xiāoxi.",
+          "translation": "Great. The climate there is very different from the north. Even in winter it is very warm, and we can also eat lots of fresh fruit. As soon as our daughter comes back, I will tell her the good news."
+        },
+        {
+          "speaker": "孙月",
+          "text": "先别着急说。中午我们不是要去对面的饭店吃烤鸭，祝贺她考试成绩都合格吗？那时候再告诉她，不是更好？",
+          "pinyin": "Xiān bié zháojí shuō. Zhōngwǔ wǒmen bú shì yào qù duìmiàn de fàndiàn chī kǎoyā, zhùhè tā kǎoshì chéngjì dōu hégé ma? Nà shíhou zài gàosu tā, bú shì gèng hǎo?",
+          "translation": "Don’t rush to tell her yet. Aren’t we going to the restaurant across the street at noon to eat roast duck and congratulate her because all her exam grades passed? Wouldn’t it be better to tell her then?"
+        },
+        {
+          "speaker": "丈夫",
+          "text": "好主意，到时她知道了肯定特别开心。",
+          "pinyin": "Hǎo zhǔyi, dào shí tā zhīdào le kěndìng tèbié kāixīn.",
+          "translation": "Good idea. When she finds out then, she will definitely be especially happy."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "旅行",
+          "pinyin": "lǚxíng",
+          "meaning": "v. to travel, to tour"
+        },
+        {
+          "word": "怪",
+          "pinyin": "guài",
+          "meaning": "adv. rather, quite"
+        },
+        {
+          "word": "可怜",
+          "pinyin": "kělián",
+          "meaning": "adj. pitiable, poor"
+        },
+        {
+          "word": "对面",
+          "pinyin": "duìmiàn",
+          "meaning": "n. opposite, across"
+        },
+        {
+          "word": "烤鸭",
+          "pinyin": "kǎoyā",
+          "meaning": "n. roast duck"
+        },
+        {
+          "word": "祝贺",
+          "pinyin": "zhùhè",
+          "meaning": "v. to congratulate"
+        },
+        {
+          "word": "合格",
+          "pinyin": "hégé",
+          "meaning": "adj. qualified, up to standard"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "安娜向马克介绍去丽江旅行的经验 (Anna tells Mark about her experience traveling to Lijiang)",
+      "audio": "audio/20-3.mp3",
+      "content": [
+        {
+          "speaker": "马克",
+          "text": "这么多照片，都是你这次去丽江旅行时照的？那里的自然风景可真美！",
+          "pinyin": "Zhème duō zhàopiàn, dōu shì nǐ zhè cì qù Lìjiāng lǚxíng shí zhào de? Nàli de zìrán fēngjǐng kě zhēn měi!",
+          "translation": "So many photos. Were they all taken during your trip to Lijiang this time? The natural scenery there is really beautiful!"
+        },
+        {
+          "speaker": "安娜",
+          "text": "是啊，小城四季的风景都很美，而且环境保护得也很好，因此每年都吸引着成千上万的游客去那儿旅游。",
+          "pinyin": "Shì a, xiǎochéng sìjì de fēngjǐng dōu hěn měi, érqiě huánjìng bǎohù de yě hěn hǎo, yīncǐ měi nián dōu xīyǐn zhe chéng qiān shàng wàn de yóukè qù nàr lǚyóu.",
+          "translation": "Yes. The scenery of the small town is beautiful in all four seasons, and the environment is also well protected. Therefore, every year it attracts tens of thousands of tourists to travel there."
+        },
+        {
+          "speaker": "马克",
+          "text": "这张照片上和你干杯的那个人是少数民族吗？她打扮得真漂亮。",
+          "pinyin": "Zhè zhāng zhàopiàn shang hé nǐ gānbēi de nà ge rén shì shǎoshù mínzú ma? Tā dǎban de zhēn piàoliang.",
+          "translation": "Is the person drinking a toast with you in this photo from an ethnic minority? She is dressed up so beautifully."
+        },
+        {
+          "speaker": "安娜",
+          "text": "她是我们的导游，不是少数民族。一路上她给我们讲了很多有趣的笑话。有一次我把存包的钥匙丢了，最后还是她帮我找到的。这张照片就是找到钥匙后，我们一起照的。",
+          "pinyin": "Tā shì wǒmen de dǎoyóu, bú shì shǎoshù mínzú. Yílù shang tā gěi wǒmen jiǎng le hěn duō yǒuqù de xiàohua. Yǒu yí cì wǒ bǎ cún bāo de yàoshi diū le, zuìhòu hái shì tā bāng wǒ zhǎodào de. Zhè zhāng zhàopiàn jiù shì zhǎodào yàoshi hòu, wǒmen yìqǐ zhào de.",
+          "translation": "She was our tour guide, not from an ethnic minority. Along the way she told us many interesting jokes. Once I lost the key for storing my bag, and in the end she helped me find it. This photo was taken together after we found the key."
+        },
+        {
+          "speaker": "马克",
+          "text": "明年我有机会也去那儿看看，到时把你的导游介绍给我吧。究竟哪个季节去丽江旅游比较好呢？",
+          "pinyin": "Míngnián wǒ yǒu jīhuì yě qù nàr kànkan, dào shí bǎ nǐ de dǎoyóu jièshào gěi wǒ ba. Jiūjìng nǎ ge jìjié qù Lìjiāng lǚyóu bǐjiào hǎo ne?",
+          "translation": "Next year, if I have the chance, I will also go there to have a look. When the time comes, introduce your tour guide to me. Exactly which season is better for traveling to Lijiang?"
+        },
+        {
+          "speaker": "安娜",
+          "text": "那儿最美的季节是春天和秋天，不过那时候人比较多。稍微好一点儿的时间是每年12月到第二年3月。这段时间去丽江的话，无论交通还是吃、住都很便宜。",
+          "pinyin": "Nàr zuì měi de jìjié shì chūntiān hé qiūtiān, búguò nà shíhou rén bǐjiào duō. Shāowēi hǎo yìdiǎnr de shíjiān shì měi nián shí’èr yuè dào dì èr nián sān yuè. Zhè duàn shíjiān qù Lìjiāng de huà, wúlùn jiāotōng háishi chī, zhù dōu hěn piányi.",
+          "translation": "The most beautiful seasons there are spring and autumn, but there are more people then. A slightly better time is from December each year to March of the following year. If you go to Lijiang during this period, transportation, food, and lodging are all inexpensive."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "Mark, a personal name"
+        },
+        {
+          "word": "安娜",
+          "pinyin": "Ānnà",
+          "meaning": "Anna, a personal name"
+        },
+        {
+          "word": "丽江",
+          "pinyin": "Lìjiāng",
+          "meaning": "Lijiang, a city in Yunnan Province"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "干杯",
+          "pinyin": "gānbēi",
+          "meaning": "v. to drink a toast"
+        },
+        {
+          "word": "民族",
+          "pinyin": "mínzú",
+          "meaning": "n. nationality, ethnic group"
+        },
+        {
+          "word": "打扮",
+          "pinyin": "dǎban",
+          "meaning": "v. to dress up, to deck out"
+        },
+        {
+          "word": "笑话",
+          "pinyin": "xiàohua",
+          "meaning": "n. joke"
+        },
+        {
+          "word": "存",
+          "pinyin": "cún",
+          "meaning": "v. to store, to keep"
+        },
+        {
+          "word": "钥匙",
+          "pinyin": "yàoshi",
+          "meaning": "n. key"
+        },
+        {
+          "word": "究竟",
+          "pinyin": "jiūjìng",
+          "meaning": "adv. exactly (used in questions for emphasis)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "中国南北气候、风景和语言的区别 (Differences between northern and southern China in climate, scenery, and language)",
+      "audio": "audio/20-4.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "中国南北距离约5500公里，因此南北气候有很大区别。每年三四月份的时候，如果从北方坐火车到南方去旅游，一路上你会发现，不同的地方有不同的风景：窗外的树一棵一棵地变绿，北方也许还下着雪，南方却已经到处都是绿色了。南方菜很有特点，特别是汤，味道鲜美，很多北方人都喜欢喝。另外，南方和北方的语言也有很大不同。比如你跟上海人对话时，会发现上海话听起来就像外语一样。虽然上海人也会讲普通话，可是仔细听，还是有上海味儿。",
+          "pinyin": "Zhōngguó nánběi jùlí yuē wǔ qiān wǔ bǎi gōnglǐ, yīncǐ nánběi qìhòu yǒu hěn dà qūbié. Měi nián sān sì yuèfèn de shíhou, rúguǒ cóng běifāng zuò huǒchē dào nánfāng qù lǚyóu, yílù shang nǐ huì fāxiàn, bù tóng de dìfang yǒu bù tóng de fēngjǐng: chuāngwài de shù yì kē yì kē de biàn lǜ, běifāng yěxǔ hái xià zhe xuě, nánfāng què yǐjīng dàochù dōu shì lǜsè le. Nánfāng cài hěn yǒu tèdiǎn, tèbié shì tāng, wèidào xiānměi, hěn duō běifāng rén dōu xǐhuan hē. Lìngwài, nánfāng hé běifāng de yǔyán yě yǒu hěn dà bù tóng. Bǐrú nǐ gēn Shànghǎi rén duìhuà shí, huì fāxiàn Shànghǎihuà tīng qǐlai jiù xiàng wàiyǔ yíyàng. Suīrán Shànghǎi rén yě huì jiǎng Pǔtōnghuà, kěshì zǐxì tīng, háishi yǒu Shànghǎi wèir.",
+          "translation": "The distance from north to south in China is about 5,500 kilometers, so the climates of the north and south are very different. Every year in March and April, if you take a train from the north to the south to travel, you will notice different scenery in different places along the way: the trees outside the window turn green one by one; it may still be snowing in the north, while the south is already green everywhere. Southern cuisine is very distinctive, especially the soup. It tastes fresh and delicious, and many northerners like to drink it. In addition, the languages of the south and north are also very different. For example, when you have a conversation with someone from Shanghai, you will find that Shanghainese sounds like a foreign language. Although people from Shanghai can also speak Mandarin, if you listen carefully, there is still a Shanghai flavor."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "上海",
+          "pinyin": "Shànghǎi",
+          "meaning": "Shanghai"
+        },
+        {
+          "word": "上海话",
+          "pinyin": "Shànghǎihuà",
+          "meaning": "Shanghainese, the Shanghai dialect"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "棵",
+          "pinyin": "kē",
+          "meaning": "m. used for plants"
+        },
+        {
+          "word": "汤",
+          "pinyin": "tāng",
+          "meaning": "n. soup"
+        },
+        {
+          "word": "对话",
+          "pinyin": "duìhuà",
+          "meaning": "v. to have a dialogue"
+        },
+        {
+          "word": "普通话",
+          "pinyin": "pǔtōnghuà",
+          "meaning": "n. Mandarin Chinese"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "旅行让我有机会品尝各地小吃 (Travel gives me the chance to taste local snacks from different places)",
+      "audio": "audio/20-5.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "一个人有时间一定要去旅行，旅行不仅能丰富一个人的经历，而且是很好的减压方法。但对我来说，最重要的是旅行能让我有机会尝到各地有名的小吃。放假的时候，我会收拾好行李，带上地图，买张火车票，向目的地出发。说起吃的东西，给我印象最深的是湖南菜。湖南菜的特点就是辣，与其他地方的辣不同，湖南菜的辣主要是咸辣、香辣和酸辣。虽然全国各地都有湖南饭馆儿，但最好还是直接去那里尝一尝。每次旅行结束后，我都会精神百倍地开始我的工作。",
+          "pinyin": "Yí ge rén yǒu shíjiān yídìng yào qù lǚxíng, lǚxíng bùjǐn néng fēngfù yí ge rén de jīnglì, érqiě shì hěn hǎo de jiǎnyā fāngfǎ. Dàn duì wǒ lái shuō, zuì zhòngyào de shì lǚxíng néng ràng wǒ yǒu jīhuì cháng dào gè dì yǒumíng de xiǎochī. Fàngjià de shíhou, wǒ huì shōushi hǎo xíngli, dài shang dìtú, mǎi zhāng huǒchē piào, xiàng mùdìdì chūfā. Shuō qǐ chī de dōngxi, gěi wǒ yìnxiàng zuì shēn de shì Húnán cài. Húnán cài de tèdiǎn jiù shì là, yǔ qítā dìfang de là bù tóng, Húnán cài de là zhǔyào shì xiánlà, xiānglà hé suānlà. Suīrán quánguó gè dì dōu yǒu Húnán fànguǎnr, dàn zuì hǎo háishi zhíjiē qù nàli cháng yi cháng. Měi cì lǚxíng jiéshù hòu, wǒ dōu huì jīngshén bǎi bèi de kāishǐ wǒ de gōngzuò.",
+          "translation": "When a person has time, they really should travel. Traveling can not only enrich a person’s experience, but is also a very good way to relieve stress. But for me, the most important thing is that traveling gives me the chance to taste famous local snacks from different places. During vacations, I pack my luggage, bring a map, buy a train ticket, and set off for my destination. Speaking of food, the thing that left the deepest impression on me is Hunan cuisine. The defining feature of Hunan cuisine is spiciness. Different from the spiciness of other places, Hunan cuisine is mainly salty-spicy, fragrant-spicy, and sour-spicy. Although there are Hunan restaurants all over the country, it is still best to go there directly and try it. After every trip, I start my work full of energy."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "湖南菜",
+          "pinyin": "Húnán cài",
+          "meaning": "Hunan cuisine"
+        },
+        {
+          "word": "湖南饭馆儿",
+          "pinyin": "Húnán fànguǎnr",
+          "meaning": "Hunan restaurant"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "小吃",
+          "pinyin": "xiǎochī",
+          "meaning": "n. small and cheap dishes"
+        },
+        {
+          "word": "收拾",
+          "pinyin": "shōushi",
+          "meaning": "v. to put in order, to pack"
+        },
+        {
+          "word": "出发",
+          "pinyin": "chūfā",
+          "meaning": "v. to depart, to set off"
+        },
+        {
+          "word": "辣",
+          "pinyin": "là",
+          "meaning": "adj. hot, spicy"
+        },
+        {
+          "word": "香",
+          "pinyin": "xiāng",
+          "meaning": "adj. fragrant, scented"
+        },
+        {
+          "word": "酸",
+          "pinyin": "suān",
+          "meaning": "adj. sour, tart"
+        }
+      ]
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "好，那我就放心了，别开着开着没油了。",
+      "pinyin": "Hǎo, nà wǒ jiù fàngxīn le, bié kāizhe kāizhe méi yóu le.",
+      "translation": "Good, then I can relax. Just do not end up running out of gas while driving.",
+      "colloquial_equivalent": "行，那我就踏实了，别半路开着开着没油啊。",
+      "colloquial_pinyin": "Xíng, nà wǒ jiù tāshi le, bié bànlù kāizhe kāizhe méi yóu a.",
+      "colloquial_translation": "Alright, then I feel better. Just don’t run out of gas halfway there.",
+      "context": "걱정하던 일이 해결돼서 안심할 때"
+    },
+    {
+      "sentence": "等女儿一回来我就告诉她这个好消息。",
+      "pinyin": "Děng nǚ’ér yì huílái wǒ jiù gàosu tā zhège hǎo xiāoxi.",
+      "translation": "As soon as our daughter comes back, I will tell her the good news.",
+      "colloquial_equivalent": "她一回来，我马上就跟她说这个好消息。",
+      "colloquial_pinyin": "Tā yì huílái, wǒ mǎshàng jiù gēn tā shuō zhège hǎo xiāoxi.",
+      "colloquial_translation": "The moment she gets back, I’ll tell her the good news right away.",
+      "context": "어떤 일이 일어나자마자 바로 다음 행동을 할 때"
+    },
+    {
+      "sentence": "究竟哪个季节去丽江旅游比较好呢？",
+      "pinyin": "Jiūjìng nǎge jìjié qù Lìjiāng lǚyóu bǐjiào hǎo ne?",
+      "translation": "Which season is actually better for traveling to Lijiang?",
+      "colloquial_equivalent": "去丽江到底啥时候最合适？",
+      "colloquial_pinyin": "Qù Lìjiāng dàodǐ shá shíhou zuì héshì?",
+      "colloquial_translation": "When is really the best time to go to Lijiang?",
+      "context": "정확한 답을 캐묻거나 비교해서 물을 때"
+    },
+    {
+      "sentence": "比如你跟上海人对话时，会发现上海话听起来就像外语一样。",
+      "pinyin": "Bǐrú nǐ gēn Shànghǎi rén duìhuà shí, huì fāxiàn Shànghǎihuà tīngqǐlái jiù xiàng wàiyǔ yíyàng.",
+      "translation": "For example, when you talk with people from Shanghai, you will find that Shanghainese sounds just like a foreign language.",
+      "colloquial_equivalent": "你跟上海人一聊天，就会觉得上海话听着跟外语似的。",
+      "colloquial_pinyin": "Nǐ gēn Shànghǎi rén yì liáotiān, jiù huì juéde Shànghǎihuà tīngzhe gēn wàiyǔ shì de.",
+      "colloquial_translation": "Once you chat with someone from Shanghai, you’ll feel Shanghainese sounds almost like a foreign language.",
+      "context": "어떤 것을 듣거나 느낀 인상을 말할 때"
+    },
+    {
+      "sentence": "说起吃的东西，给我印象最深的是湖南菜。",
+      "pinyin": "Shuōqǐ chī de dōngxi, gěi wǒ yìnxiàng zuì shēn de shì Húnán cài.",
+      "translation": "Speaking of food, what left the deepest impression on me was Hunan cuisine.",
+      "colloquial_equivalent": "一说到吃的，我第一个想到的就是湖南菜。",
+      "colloquial_pinyin": "Yì shuō dào chī de, wǒ dì yī gè xiǎngdào de jiù shì Húnán cài.",
+      "colloquial_translation": "When it comes to food, the first thing I think of is Hunan cuisine.",
+      "context": "화제를 꺼내며 가장 인상 깊은 것을 말할 때"
+    }
+  ],
+  "translations": {
+    "vocabulary": {
+      "加油站": {
+        "ko": "주유소",
+        "ja": "ガソリンスタンド",
+        "en": "gas station"
+      },
+      "航班": {
+        "ko": "항공편",
+        "ja": "定期便、フライト",
+        "en": "scheduled flight"
+      },
+      "推迟": {
+        "ko": "연기하다, 지연하다",
+        "ja": "延期する、遅らせる",
+        "en": "to postpone, to delay"
+      },
+      "高速公路": {
+        "ko": "고속도로",
+        "ja": "高速道路",
+        "en": "expressway"
+      },
+      "登机牌": {
+        "ko": "탑승권",
+        "ja": "搭乗券",
+        "en": "boarding pass"
+      },
+      "首都": {
+        "ko": "수도",
+        "ja": "首都",
+        "en": "capital (of a country)"
+      },
+      "旅行": {
+        "ko": "여행하다",
+        "ja": "旅行する",
+        "en": "to travel, to tour"
+      },
+      "怪": {
+        "ko": "꽤, 상당히",
+        "ja": "かなり、ずいぶん",
+        "en": "rather, quite"
+      },
+      "可怜": {
+        "ko": "불쌍하다, 가엾다",
+        "ja": "かわいそうな、気の毒な",
+        "en": "pitiable, poor"
+      },
+      "对面": {
+        "ko": "맞은편, 건너편",
+        "ja": "向かい、反対側",
+        "en": "opposite, across"
+      },
+      "烤鸭": {
+        "ko": "오리구이",
+        "ja": "ローストダック",
+        "en": "roast duck"
+      },
+      "祝贺": {
+        "ko": "축하하다",
+        "ja": "祝う、祝賀する",
+        "en": "to congratulate"
+      },
+      "合格": {
+        "ko": "합격이다, 기준에 맞다",
+        "ja": "合格している、基準に達している",
+        "en": "qualified, up to standard"
+      },
+      "干杯": {
+        "ko": "건배하다",
+        "ja": "乾杯する",
+        "en": "to drink a toast"
+      },
+      "民族": {
+        "ko": "민족, 종족 집단",
+        "ja": "民族、エスニックグループ",
+        "en": "nationality, ethnic group"
+      },
+      "打扮": {
+        "ko": "꾸미다, 차려입다",
+        "ja": "着飾る、装う",
+        "en": "to dress up, to deck out"
+      },
+      "笑话": {
+        "ko": "농담, 우스갯소리",
+        "ja": "冗談、笑い話",
+        "en": "joke"
+      },
+      "存": {
+        "ko": "보관하다, 저장하다",
+        "ja": "預ける、保存する",
+        "en": "to store, to keep"
+      },
+      "钥匙": {
+        "ko": "열쇠",
+        "ja": "鍵",
+        "en": "key"
+      },
+      "究竟": {
+        "ko": "도대체, 정확히",
+        "ja": "いったい、結局",
+        "en": "exactly (used in questions for emphasis)"
+      },
+      "棵": {
+        "ko": "그루, 포기",
+        "ja": "本、株（植物を数える量詞）",
+        "en": "measure word for plants"
+      },
+      "汤": {
+        "ko": "국, 탕",
+        "ja": "スープ",
+        "en": "soup"
+      },
+      "对话": {
+        "ko": "대화하다",
+        "ja": "対話する、会話する",
+        "en": "to have a dialogue"
+      },
+      "普通话": {
+        "ko": "표준 중국어, 보통화",
+        "ja": "普通話、標準中国語",
+        "en": "Mandarin Chinese"
+      },
+      "小吃": {
+        "ko": "간단하고 값싼 음식, 간식거리",
+        "ja": "軽食、安くて小さな料理",
+        "en": "small and cheap dishes"
+      },
+      "收拾": {
+        "ko": "정리하다, 챙기다",
+        "ja": "片づける、荷造りする",
+        "en": "to put in order, to pack"
+      },
+      "出发": {
+        "ko": "출발하다",
+        "ja": "出発する",
+        "en": "to depart, to set off"
+      },
+      "辣": {
+        "ko": "맵다",
+        "ja": "辛い",
+        "en": "hot, spicy"
+      },
+      "香": {
+        "ko": "향기롭다, 고소하다",
+        "ja": "香りがよい",
+        "en": "fragrant, scented"
+      },
+      "酸": {
+        "ko": "시다, 새콤하다",
+        "ja": "酸っぱい",
+        "en": "sour, tart"
+      }
+    },
+    "properNouns": {
+      "长江": {
+        "ko": "장강, 중국에서 가장 긴 강",
+        "ja": "長江、中国で最も長い川",
+        "en": "Yangtze River, the longest river in China"
+      },
+      "长江大桥": {
+        "ko": "장강대교, 난징에 있는 양쯔강 대교",
+        "ja": "長江大橋、南京にある長江の橋",
+        "en": "Yangtze River Bridge (in Nanjing)"
+      },
+      "首都机场": {
+        "ko": "베이징 수도 국제공항",
+        "ja": "北京首都国際空港",
+        "en": "Beijing Capital International Airport"
+      },
+      "马克": {
+        "ko": "마크, 사람 이름",
+        "ja": "マーク、人名",
+        "en": "Mark, a personal name"
+      },
+      "安娜": {
+        "ko": "안나, 사람 이름",
+        "ja": "アンナ、人名",
+        "en": "Anna, a personal name"
+      },
+      "丽江": {
+        "ko": "리장, 윈난성의 도시",
+        "ja": "麗江、雲南省の都市",
+        "en": "Lijiang, a city in Yunnan Province"
+      },
+      "上海": {
+        "ko": "상하이",
+        "ja": "上海",
+        "en": "Shanghai"
+      },
+      "上海话": {
+        "ko": "상하이어, 상하이 방언",
+        "ja": "上海語、上海方言",
+        "en": "Shanghainese, the Shanghai dialect"
+      },
+      "湖南菜": {
+        "ko": "후난 요리",
+        "ja": "湖南料理",
+        "en": "Hunan cuisine"
+      },
+      "湖南饭馆儿": {
+        "ko": "후난 음식점",
+        "ja": "湖南料理店",
+        "en": "Hunan restaurant"
+      }
+    },
+    "grammar": {
+      "V+着+V+着": {
+        "formal_translation": {
+          "ko": "“V+着+V+着” 구조에서는 같은 동사를 반복해서 쓰며, 이 동사는 보통 단음절 동사입니다. 이 구조 뒤에는 자주 다른 동사가 이어져, 앞의 동작이 진행되는 중에 또 다른 동작이 발생했음을 나타냅니다.",
+          "ja": "「V+着+V+着」の構造では同じ動詞を繰り返して使い、その動詞は普通一音節動詞です。この構造の後ろにはよく別の動詞が続き、前の動作が進行している途中で別の動作が起こったことを表します。",
+          "en": "In the structure “V+着+V+着”, the two verbs are the same, and the verb is usually monosyllabic. This structure is often followed by another verb, indicating that another action occurs while the first action is in progress."
+        },
+        "colloquial_translation": {
+          "ko": "이 패턴은 어떤 일이 진행되는 도중에 다른 일이 자연스럽게 또는 예상치 않게 일어나는 느낌을 강조합니다. 일상 회화에서는 “开”, “讲”, “走”, “看”, “聊”, “躺” 같은 단순 동사와 자주 쓰입니다.",
+          "ja": "このパターンは、ある動作が続いている途中で別のことが自然に、または予想外に起こる感じを強調します。日常会話では「开」「讲」「走」「看」「聊」「躺」などの単純な動詞とよく使われます。",
+          "en": "This pattern emphasizes that something happens naturally or unexpectedly during an ongoing action. In everyday speech, it is common with simple action verbs such as “开”, “讲”, “走”, “看”, “聊”, and “躺”."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "좋아요, 그럼 안심이네요. 운전하다가 기름이 떨어지면 안 되니까요.",
+              "ja": "よかった、それなら安心です。運転している途中でガソリンがなくならないようにしないと。",
+              "en": "Good, then I can relax. We do not want to run out of gas while driving."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그녀는 이야기하다가 자신이 먼저 웃었지만, 모두는 그녀가 도대체 왜 웃는지 이해하지 못했습니다.",
+              "ja": "彼女は話しているうちに自分が先に笑い出しましたが、みんなは彼女がいったいなぜ笑ったのかわかりませんでした。",
+              "en": "As she was talking, she started laughing first, but everyone else did not understand why she was laughing."
+            }
+          },
+          {
+            "translation": {
+              "ko": "밤에 잔디밭에 누워 별을 보는 느낌은 정말 좋고, 때로는 누워 있다가 조용히 잠들기도 합니다.",
+              "ja": "夜、草地に寝転んで星を見る感じはとても素晴らしく、ときには寝転んでいるうちに静かに眠ってしまいます。",
+              "en": "Lying on the grass at night and looking at the stars feels wonderful; sometimes, while lying there, you quietly fall asleep."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "운전하다가 갑자기 기름이 떨어지면 안 돼요.",
+              "ja": "運転している途中で急にガソリンがなくならないようにしてください。",
+              "en": "Do not suddenly run out of gas while driving."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그녀는 말하다가 자기가 먼저 웃기 시작했어요.",
+              "ja": "彼女は話しているうちに自分が先に笑い出しました。",
+              "en": "As she was talking, she started laughing first."
+            }
+          },
+          {
+            "translation": {
+              "ko": "저는 누워 있다가 잠들었어요.",
+              "ja": "私は寝転んでいるうちに眠ってしまいました。",
+              "en": "I fell asleep while lying there."
+            }
+          }
+        ]
+      },
+      "一……就……": {
+        "formal_translation": {
+          "ko": "“一……就……” 구조는 두 일이 바로 이어서 발생함을 나타낼 수 있으며 “...하자마자 곧...”이라는 뜻입니다. 두 사건의 주어는 같을 수도 있고 다를 수도 있습니다. 또한 “만약 ...이면 곧 ...”이라는 조건 의미도 나타낼 수 있습니다. 이때 “一” 뒤에는 조건이 오고, “就” 뒤에는 그 조건에서 발생하는 상황이 옵니다.",
+          "ja": "「一……就……」の構造は、二つの出来事がすぐ続けて起こることを表し、「…するとすぐに…」という意味になります。二つの出来事の主語は同じ場合も異なる場合もあります。また、「もし…なら…」という条件の意味も表せます。この場合、「一」の後ろには条件が続き、「就」の後ろにはその条件のもとで起こる状況が続きます。",
+          "en": "The structure “一……就……” can indicate that two events happen immediately one after the other, meaning “as soon as...”. The two events may or may not share the same subject. It can also mean “if..., then...”: “一” is followed by a condition, and “就” is followed by the situation that would occur under that condition. The two situations may or may not share the same subject."
+        },
+        "colloquial_translation": {
+          "ko": "이 패턴은 구어와 문어 모두에서 매우 자주 쓰입니다. “...하자마자” 용법에서는 즉각적인 순서를 강조하고, 조건 용법에서는 어떤 조건이 생길 때마다 반복적이거나 전형적으로 나타나는 결과를 말할 때가 많습니다.",
+          "ja": "このパターンは話し言葉でも書き言葉でも非常によく使われます。「…するとすぐに」の用法では直後に起こることを強調し、条件の用法では、ある条件が起こるたびに繰り返し、または典型的に生じる結果を述べることが多いです。",
+          "en": "This pattern is very common in speech and writing. In the “as soon as” use, it stresses immediate sequence. In the conditional use, it often describes a repeated or typical result whenever a condition occurs."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "100년 전, 플라스틱은 등장하자마자 사람들의 보편적인 환영을 받았습니다.",
+              "ja": "100年前、プラスチックは登場するとすぐに人々に広く歓迎されました。",
+              "en": "One hundred years ago, as soon as plastic appeared, it was widely welcomed by people."
+            }
+          },
+          {
+            "translation": {
+              "ko": "딸이 돌아오자마자 저는 이 좋은 소식을 알려 줄게요.",
+              "ja": "娘が帰ってきたらすぐに、このよい知らせを伝えます。",
+              "en": "As soon as our daughter comes back, I will tell her the good news."
+            }
+          },
+          {
+            "translation": {
+              "ko": "아들이 어릴 때는 말만 하면 얼굴이 빨개졌고, 선생님의 질문에 대답할 때도 목소리가 매우 작아서 저는 그때 그를 많이 걱정했습니다.",
+              "ja": "息子は小さいころ、話すとすぐ顔が赤くなり、先生の質問に答えるときも声がとても小さかったので、私は当時とても心配していました。",
+              "en": "When my son was little, he would blush whenever he spoke, and his voice was also very soft when answering the teacher’s questions. I was very worried about him at the time."
+            }
+          },
+          {
+            "translation": {
+              "ko": "부모는 아이가 어릴 때부터 모든 것이 울기만 하면 얻을 수 있는 것은 아니라는 점을 알게 해야 합니다.",
+              "ja": "親は子どもに、小さいころから、すべてのものが泣けば手に入るわけではないと知らせなければなりません。",
+              "en": "Parents must let children know from a young age that not everything can be obtained simply by crying."
+            }
+          },
+          {
+            "translation": {
+              "ko": "엄마가 방에 들어오자마자 그는 휴대전화를 집어 넣었습니다.",
+              "ja": "お母さんが部屋に入るとすぐ、彼は携帯電話をしまいました。",
+              "en": "As soon as his mother entered the room, he put away his phone."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "그녀가 돌아오자마자 제가 말해 줄게요.",
+              "ja": "彼女が帰ってきたらすぐに伝えます。",
+              "en": "I will tell her as soon as she comes back."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그는 어릴 때 말만 하면 얼굴이 빨개졌어요.",
+              "ja": "彼は小さいころ、話すとすぐ顔が赤くなりました。",
+              "en": "When he was little, he would blush whenever he spoke."
+            }
+          },
+          {
+            "translation": {
+              "ko": "엄마가 들어오자마자 그는 휴대폰을 치웠어요.",
+              "ja": "お母さんが入ってくるとすぐ、彼は携帯をしまいました。",
+              "en": "As soon as his mom came in, he put his phone away."
+            }
+          }
+        ]
+      },
+      "究竟": {
+        "formal_translation": {
+          "ko": "부사 “究竟”은 의문문이나 의문사가 있는 비의문문에서 쓰여 의문을 나타내고 질문의 어감을 강화합니다. 주로 문어체에서 많이 쓰입니다. 문장의 주어가 의문대명사일 경우 “究竟”은 주어 앞에만 놓일 수 있습니다.",
+          "ja": "副詞「究竟」は、疑問文または疑問詞を含む文で使われ、問いかけを示し、疑問の語気を強めます。主に書き言葉でよく使われます。文の主語が疑問代名詞の場合、「究竟」は主語の前にしか置けません。",
+          "en": "The adverb “究竟” is used in interrogative sentences or sentences with interrogative words to indicate inquiry and strengthen the interrogative mood. It is often used in written Chinese. If the subject of the sentence is an interrogative pronoun, “究竟” can only be placed before the subject."
+        },
+        "colloquial_translation": {
+          "ko": "“究竟”은 “到底”보다 더 격식 있고 문어적인 느낌입니다. 일상 회화에서는 “到底”가 더 자연스러운 경우가 많고, “究竟”은 더 진지하거나 강조된 문어체 느낌을 주고 싶을 때 유용합니다.",
+          "ja": "「究竟」は「到底」よりも改まった書き言葉の響きがあります。日常会話では「到底」のほうが自然なことが多く、「究竟」はより真剣で強調された、または書き言葉らしい調子を出したいときに有用です。",
+          "en": "“究竟” sounds more formal and written than “到底”. In everyday speech, “到底” is often more natural, while “究竟” is useful when the speaker wants a more serious, emphatic, or written tone."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "도대체 어느 계절에 리장 여행을 가는 것이 더 좋나요?",
+              "ja": "いったいどの季節に麗江へ旅行するのがよいのでしょうか。",
+              "en": "Exactly which season is better for traveling to Lijiang?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "과학기술의 발전에 따라 많은 문제는 이미 해결되었습니다. 하지만 어떤 문제들은 우리는 여전히 대답할 수 없습니다. 예를 들어 생명은 도대체 어디에서 왔을까요?",
+              "ja": "科学技術の発展に伴い、多くの問題はすでに解決されました。しかし、まだ答えられない問題もあります。たとえば、生命はいったいどこから来たのでしょうか。",
+              "en": "With the development of science and technology, many problems have already been solved. But there are still some questions we cannot answer, for example: where exactly does life come from?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "공부할 때는 답이 무엇인지 알 뿐만 아니라, 그 답이 도대체 어떻게 나온 것인지도 분명히 해야 합니다. 그래야만 문제를 진정으로 이해할 수 있습니다.",
+              "ja": "学習するときは、答えが何かを知るだけでなく、その答えがいったいどのように得られたのかもはっきりさせなければなりません。そうしてこそ、問題を本当に理解できます。",
+              "en": "When studying, you must not only know what the answer is, but also figure out exactly how the answer was obtained. Only in this way can you truly understand the problem."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "도대체 어느 계절에 리장에 가는 게 제일 좋아요?",
+              "ja": "結局、どの季節に麗江へ行くのが一番いいですか。",
+              "en": "Which season is actually the best for going to Lijiang?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "생명은 도대체 어디서 온 걸까요?",
+              "ja": "生命はいったいどこから来たのでしょうか。",
+              "en": "Where does life actually come from?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "답만 보지 말고, 그게 도대체 어떻게 계산된 건지도 알아야 해요.",
+              "ja": "答えだけを見るのではなく、それが結局どう計算されたのかもはっきりさせる必要があります。",
+              "en": "Do not just look at the answer; you also need to figure out how it was actually worked out."
+            }
+          }
+        ]
+      },
+      "究竟 / 到底": {
+        "formal_translation": {
+          "ko": "“究竟”과 “到底”는 모두 부사로 의문문이나 의문사가 있는 문장에서 쓰여 의문을 나타내고 질문의 어감을 강화할 수 있습니다. 주어가 의문대명사일 경우 둘 다 주어 앞에만 놓일 수 있습니다. 차이점은 “到底”가 “끝까지, 마지막까지”라는 뜻의 동사성 표현으로도 쓰일 수 있지만, “究竟”에는 이런 용법이 없다는 점입니다.",
+          "ja": "「究竟」と「到底」はどちらも副詞として、疑問文または疑問詞を含む文で使われ、問いかけを示し、疑問の語気を強めることができます。主語が疑問代名詞の場合、どちらも主語の前にしか置けません。違いは、「到底」は「最後まで」という意味の動詞的な表現としても使えますが、「究竟」にはこの用法がない点です。",
+          "en": "Both “究竟” and “到底” can be used as adverbs in interrogative sentences or sentences with an interrogative word to indicate inquiry and strengthen the interrogative mood. If the subject is an interrogative pronoun, both can only be placed before the subject. The difference is that “到底” can also be used as a verb meaning “to the end” or “until the end”, while “究竟” does not have this usage."
+        },
+        "colloquial_translation": {
+          "ko": "의문 부사로는 “究竟”이 더 격식 있고 문어적이며, “到底”는 일상 회화에서 더 자주 쓰입니다. “끝까지”라는 의미일 때는 “看到底”, “坚持到底”처럼 “到底”만 쓸 수 있습니다.",
+          "ja": "疑問副詞としては、「究竟」はより改まった書き言葉で、「到底」は日常会話でよりよく使われます。「最後まで」という意味では、「看到底」「坚持到底」のように「到底」だけが使えます。",
+          "en": "As interrogative adverbs, “究竟” is more formal and written, while “到底” is more common in everyday speech. When the meaning is “to the end”, only “到底” can be used, as in “看到底” or “坚持到底”."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "무슨 일을 하든, 시도해 봐야 도대체 성공할 수 있는지 알 수 있습니다.",
+              "ja": "何をするにしても、試してみて初めて、本当に成功できるかどうかがわかります。",
+              "en": "No matter what you do, only after trying will you know whether you can actually succeed."
+            }
+          },
+          {
+            "translation": {
+              "ko": "사람의 일생에서 도대체 무엇이 가장 중요할까요?",
+              "ja": "人の一生の中で、いったい何が最も重要なのでしょうか。",
+              "en": "In a person’s life, what exactly is the most important thing?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "좀 참을성을 가지세요! 이 영화는 끝까지 봐야 그 일의 원인을 알 수 있습니다.",
+              "ja": "少し辛抱してください。この映画は最後まで見てこそ、その出来事の原因がわかります。",
+              "en": "Be a little patient! You have to watch this movie to the end to know the reason for that matter."
+            }
+          },
+          {
+            "translation": {
+              "ko": "우리는 이미 이렇게 많은 노력을 했으니, 반드시 이 계획을 끝까지 밀고 나가야 합니다. 지금 포기하면 너무 아깝습니다.",
+              "ja": "私たちはすでにこれほど多くの努力をしたのだから、この計画を必ず最後までやり抜かなければなりません。今あきらめるのは本当にもったいないです。",
+              "en": "We have already made so much effort, so we must carry this plan through to the end. It would be such a pity to give up now."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "성공할 수 있는지는 해 봐야 알 수 있어요.",
+              "ja": "本当に成功できるかどうかは、やってみて初めてわかります。",
+              "en": "You will only know whether it can actually succeed after trying."
+            }
+          },
+          {
+            "translation": {
+              "ko": "사람 인생에서 도대체 뭐가 제일 중요할까요?",
+              "ja": "人生で、結局何が一番大事なのでしょうか。",
+              "en": "In life, what really matters most?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 영화는 끝까지 봐야 해요. 중간에 그만 보면 안 돼요.",
+              "ja": "この映画は最後まで見なければなりません。途中で見るのをやめてはいけません。",
+              "en": "You have to watch this movie to the end; you cannot stop halfway."
+            }
+          }
+        ]
+      },
+      "起来": {
+        "formal_translation": {
+          "ko": "동사 “起来”는 다른 동사 뒤에 쓰여 방향보어가 될 수 있으며, 동작 방향이 아래에서 위로 향함을 나타냅니다. 확장되어 동작이 시작되어 계속됨을 나타낼 수도 있고, 말하는 사람이 사람이나 사물의 어떤 측면을 평가하는 뜻을 나타낼 수도 있습니다.",
+          "ja": "動詞「起来」はほかの動詞の後ろに置かれて方向補語となり、動作の方向が下から上へ向かうことを表します。拡張して、動作が始まり継続することを表すこともでき、また話し手が人や物事のある側面について評価する意味も表せます。",
+          "en": "The verb “起来” can be used after another verb as a complement of direction, indicating upward movement. By extension, it can indicate that an action begins and continues, or it can introduce the speaker’s comment on a certain aspect of a person or thing."
+        },
+        "colloquial_translation": {
+          "ko": "무언가가 위로 움직이거나 집어 올려질 때는 “起来”를 문자 그대로 씁니다. “唱起来”처럼 동작이 시작됨을 나타낼 때도 쓰고, “听起来”, “看起来”, “吃起来”처럼 지각에 근거한 인상을 말할 때도 씁니다.",
+          "ja": "何かが上に動く、または持ち上げられるときは「起来」を文字通りに使います。「唱起来」のように動作が始まることを表すときにも使い、「听起来」「看起来」「吃起来」のように知覚に基づく印象を述べるときにも使います。",
+          "en": "Use “起来” literally when something moves upward or is picked up. Use it extendedly when an action starts, as in “唱起来”, or when giving an impression based on perception, as in “听起来”, “看起来”, or “吃起来”."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "먼저 책상 위의 물건들을 들어 올려 주세요. 제가 닦은 뒤에 다시 내려놓으세요.",
+              "ja": "先に机の上の物を持ち上げてください。私が拭き終わったら、また下ろしてください。",
+              "en": "First pick up the things on the table. After I finish wiping it, you can put them back down."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이웃 샤오왕은 최근 분명 기쁜 일이 많이 있었나 봐요. 들어 보세요, 또 노래를 부르기 시작했어요.",
+              "ja": "隣の小王は最近きっと楽しいことがたくさんあったのでしょう。聞いてください、また歌い始めました。",
+              "en": "Our neighbor Xiao Wang must have had many happy things happen recently. Listen, he has started singing again."
+            }
+          },
+          {
+            "translation": {
+              "ko": "예를 들어 상하이 사람과 대화할 때, 상하이어가 외국어처럼 들린다는 것을 알게 됩니다.",
+              "ja": "たとえば上海の人と会話すると、上海語は外国語のように聞こえることに気づきます。",
+              "en": "For example, when you have a conversation with someone from Shanghai, you will find that Shanghainese sounds like a foreign language."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "먼저 책상 위의 물건을 들어 주세요.",
+              "ja": "先に机の上の物を持ち上げてください。",
+              "en": "Pick up the things on the table first."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그는 기분이 좋아서 또 노래를 부르기 시작했어요.",
+              "ja": "彼は機嫌がよくて、また歌い始めました。",
+              "en": "He is in a good mood and has started singing again."
+            }
+          },
+          {
+            "translation": {
+              "ko": "상하이어는 외국어처럼 들려요.",
+              "ja": "上海語は外国語のように聞こえます。",
+              "en": "Shanghainese sounds like a foreign language."
+            }
+          }
+        ]
+      },
+      "V+起": {
+        "formal_translation": {
+          "ko": "“V+起” 구조는 어떤 동작이 관련되는 대상을 끌어내어 말할 때 씁니다. 동사는 보통 “说”, “谈”, “讲”, “问”, “提”, “聊”, “回忆” 같은 일부 타동사이며, 이 구조 뒤에는 보통 명사가 옵니다.",
+          "ja": "「V+起」の構造は、ある動作が関わる対象を導入するときに使います。動詞は普通、「说」「谈」「讲」「问」「提」「聊」「回忆」などの限られた他動詞で、この構造の後ろには通常名詞が続きます。",
+          "en": "The structure “V+起” introduces the thing that an action involves. The verb is usually one of a limited set of transitive verbs such as “说”, “谈”, “讲”, “问”, “提”, “聊”, and “回忆”. This structure is usually followed by a noun."
+        },
+        "colloquial_translation": {
+          "ko": "“V+起”는 화제를 꺼낼 때 자주 씁니다. “说起”와 “聊起”는 회화에서 매우 자연스럽고, “提起”는 어떤 사람이 특정 화제를 일부러 언급하는 느낌이 조금 더 있습니다.",
+          "ja": "「V+起」は話題を持ち出すときによく使います。「说起」「聊起」は会話でとても自然で、「提起」は誰かが特定の話題をわざわざ言及するような感じが少しあります。",
+          "en": "“V+起” is commonly used to bring up a topic. “说起” and “聊起” are very natural in conversation, while “提起” can sound slightly more deliberate, as if someone specifically mentions a topic."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "먹는 것에 대해 말하자면, 저에게 가장 깊은 인상을 준 것은 후난 요리입니다.",
+              "ja": "食べ物について言えば、最も印象深いのは湖南料理です。",
+              "en": "Speaking of food, the thing that left the deepest impression on me is Hunan cuisine."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 테니스 경기에 대해 이야기하자, 그들 둘은 흥분해서 멈출 수 없게 되었습니다.",
+              "ja": "そのテニスの試合の話になると、二人は興奮して止まらなくなりました。",
+              "en": "When they started talking about that tennis match, the two of them became so excited that they could not stop."
+            }
+          },
+          {
+            "translation": {
+              "ko": "누군가 그 일을 물어보면, 아직 통지를 받지 못했고 어떻게 된 일인지도 잘 모른다고 말하세요.",
+              "ja": "もし誰かがその件について尋ねたら、まだ通知を受け取っておらず、どういうことかもよくわからないと伝えてください。",
+              "en": "If someone asks about that matter, tell them that you have not received a notice yet and are not clear about what happened."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "맛있는 음식 얘기가 나오면 저는 후난 요리가 제일 생각나요.",
+              "ja": "おいしいものの話になると、私は湖南料理が一番恋しくなります。",
+              "en": "Speaking of good food, I miss Hunan cuisine the most."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 경기에 대해 이야기하기 시작하면 그들은 멈추지 못해요.",
+              "ja": "その試合の話になると、彼らは止まらなくなります。",
+              "en": "Once they start chatting about that match, they cannot stop."
+            }
+          },
+          {
+            "translation": {
+              "ko": "누가 이 일을 물어보면 아직 통지가 없다고 말하면 돼요.",
+              "ja": "誰かがこの件を聞いてきたら、まだ通知がないと言えばいいです。",
+              "en": "If someone asks about this, just say there has not been any notice yet."
+            }
+          }
+        ]
+      },
+      "同字词：格": {
+        "formal_translation": {
+          "ko": "“格”가 들어간 동자어: 性格(성격), 价格(가격), 表格(양식/표), 合格(합격한/기준에 맞는), 严格(엄격한). 같은 글자를 공유하지만 의미와 쓰임은 각각 다르므로 단어별로 익혀야 한다.",
+          "ja": "「格」を含む同字語：性格（性格）、价格（価格）、表格（用紙・表）、合格（合格している・基準に達している）、严格（厳格な）。同じ字を含んでいても意味と用法はそれぞれ異なる。",
+          "en": "Words sharing the character “格”: 性格 (personality), 价格 (price), 表格 (form/table), 合格 (qualified/up to standard), and 严格 (strict). Although they share the same character, each word has its own meaning and usage."
+        },
+        "colloquial_translation": {
+          "ko": "같은 “格”가 들어가도 뜻은 완전히 달라진다. 性格은 사람 성격, 价格은 가격, 表格은 작성하는 양식, 合格은 기준 통과, 严格은 엄격함을 말할 때 쓴다.",
+          "ja": "同じ「格」が入っていても意味は別物。性格は人柄、价格は値段、表格は記入フォーム、合格は基準クリア、严格は厳しいという意味で使う。",
+          "en": "Even though these words all contain 格, they mean different things: personality, price, form, qualified, and strict. Treat them as separate vocabulary items."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "내 성격은 아버지와 많이 닮았고, 내 꿈은 아버지 같은 의사가 되는 것이다.",
+              "ja": "私の性格は父によく似ていて、私の理想は父のような医者になることです。",
+              "en": "My personality is very much like my father’s, and my ideal is to become a doctor like him."
+            }
+          },
+          {
+            "translation": {
+              "ko": "나는 남향 창문이 있고 햇볕이 좋은 방을 빌리고 싶다. 근처에 슈퍼와 병원이 있으면 가장 좋다. 물론 가격도 적당해야 한다.",
+              "ja": "南向きの窓があり、日当たりのよい部屋を借りたいです。近くにスーパーと病院があると一番よいです。もちろん、価格も適切でなければなりません。",
+              "en": "I want to rent a sunny room with a south-facing window, preferably with a supermarket and hospital nearby. Of course, the price also has to be suitable."
+            }
+          },
+          {
+            "translation": {
+              "ko": "신용카드를 만들고 싶으시다면 먼저 이 양식을 작성하셔야 합니다.",
+              "ja": "クレジットカードを作りたい場合は、まずこの用紙に記入する必要があります。",
+              "en": "If you want to apply for a credit card, you need to fill out this form first."
+            }
+          },
+          {
+            "translation": {
+              "ko": "자격 있는 회사 관리자는 반드시 다른 사람이 반대 의견을 낼 수 있도록 허용해야 한다.",
+              "ja": "有能な会社の管理者は、必ず他の人が反対意見を持つことを認めなければなりません。",
+              "en": "A qualified company manager must allow other people to have opposing opinions."
+            }
+          },
+          {
+            "translation": {
+              "ko": "엄격히 말하면 지구는 “수구”라고 불러야 한다. 지도에서 보면 약 71%의 지역이 푸른 바다이기 때문이다.",
+              "ja": "厳密に言えば、地球は「水球」と呼ぶべきです。地図で見ると、約71%の場所が青い海だからです。",
+              "en": "Strictly speaking, Earth should be called “water sphere,” because on a map, about 71 percent of the places are blue oceans."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "그는 성격이 꽤 직설적이라 생각이 있으면 바로 말한다.",
+              "ja": "彼はかなり率直な性格で、考えがあればすぐ直接言います。",
+              "en": "He has a pretty straightforward personality and says whatever he thinks directly."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 가게 물건은 괜찮은데, 가격이 좀 착하지 않다.",
+              "ja": "この店の商品は悪くないけれど、値段が少し優しくありません。",
+              "en": "The stuff at this shop is good, but the prices are not exactly friendly."
+            }
+          },
+          {
+            "translation": {
+              "ko": "먼저 양식을 다 작성해. 나머지는 내가 봐줄게.",
+              "ja": "先にフォームを記入して。残りは私が見てあげます。",
+              "en": "Fill out the form first, and I’ll help you check the rest."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 보고서는 아직 기준에 좀 못 미쳐. 데이터를 더 보충해야 해.",
+              "ja": "この報告書はまだ少し基準に達していません。データをもう少し補う必要があります。",
+              "en": "This report is not quite up to standard yet; the data needs to be filled in more."
+            }
+          },
+          {
+            "translation": {
+              "ko": "엄격히 말하면 지각은 아니지만, 확실히 좀 빠듯하긴 해.",
+              "ja": "厳密に言えば遅刻ではありませんが、確かに少しぎりぎりです。",
+              "en": "Strictly speaking, this does not count as being late, but it is definitely a bit rushed."
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "好，那我就放心了，别开着开着没油了。": {
+        "translation": {
+          "ko": "좋아, 그러면 나는 안심이야. 운전하다가 중간에 기름이 떨어지지 않게 해.",
+          "ja": "よし、それなら安心です。運転している途中でガソリンがなくならないようにしてください。",
+          "en": "Good, then I can relax. Just do not end up running out of gas while driving."
+        },
+        "colloquial_translation": {
+          "ko": "좋아, 그럼 마음이 놓인다. 가는 길에 운전하다가 기름 떨어지면 안 돼.",
+          "ja": "いいね、それなら安心。途中で運転しているうちにガソリン切れにならないでね。",
+          "en": "Alright, then I feel better. Just don’t run out of gas halfway there."
+        },
+        "context": {
+          "ko": "걱정하던 일이 해결돼서 안심할 때",
+          "ja": "心配していたことが解消して安心するとき",
+          "en": "When you feel relieved after a worry is addressed"
+        }
+      },
+      "等女儿一回来我就告诉她这个好消息。": {
+        "translation": {
+          "ko": "딸이 돌아오자마자 내가 이 좋은 소식을 알려줄게.",
+          "ja": "娘が帰ってきたらすぐに、このよい知らせを伝えます。",
+          "en": "As soon as our daughter comes back, I will tell her the good news."
+        },
+        "colloquial_translation": {
+          "ko": "딸이 돌아오는 순간 바로 이 좋은 소식을 말해줄게.",
+          "ja": "彼女が帰ってきたら、すぐこのよい知らせを話します。",
+          "en": "The moment she gets back, I’ll tell her the good news right away."
+        },
+        "context": {
+          "ko": "어떤 일이 일어나자마자 바로 다음 행동을 할 때",
+          "ja": "あることが起きた直後に次の行動をするとき",
+          "en": "When one action happens immediately after another"
+        }
+      },
+      "究竟哪个季节去丽江旅游比较好呢？": {
+        "translation": {
+          "ko": "도대체 어느 계절에 리장으로 여행 가는 것이 비교적 좋을까?",
+          "ja": "いったいどの季節に麗江へ旅行するのが比較的よいのでしょうか。",
+          "en": "Which season is actually better for traveling to Lijiang?"
+        },
+        "colloquial_translation": {
+          "ko": "리장은 대체 언제 가는 게 제일 좋아?",
+          "ja": "麗江へ行くなら結局いつが一番いいの？",
+          "en": "When is really the best time to go to Lijiang?"
+        },
+        "context": {
+          "ko": "정확한 답을 캐묻거나 비교해서 물을 때",
+          "ja": "正確な答えを尋ねたり比較して聞いたりするとき",
+          "en": "When asking for a precise answer or comparison"
+        }
+      },
+      "比如你跟上海人对话时，会发现上海话听起来就像外语一样。": {
+        "translation": {
+          "ko": "예를 들어 상하이 사람과 대화할 때, 상하이어가 마치 외국어처럼 들린다는 것을 알게 된다.",
+          "ja": "たとえば上海の人と会話すると、上海語はまるで外国語のように聞こえることに気づきます。",
+          "en": "For example, when you talk with people from Shanghai, you will find that Shanghainese sounds just like a foreign language."
+        },
+        "colloquial_translation": {
+          "ko": "상하이 사람하고 한번 얘기해 보면, 상하이어가 외국어처럼 들린다고 느낄 거야.",
+          "ja": "上海の人と話してみると、上海語は外国語みたいに聞こえると感じます。",
+          "en": "Once you chat with someone from Shanghai, you’ll feel Shanghainese sounds almost like a foreign language."
+        },
+        "context": {
+          "ko": "어떤 것을 듣거나 느낀 인상을 말할 때",
+          "ja": "聞いたり感じたりした印象を言うとき",
+          "en": "When describing how something sounds or feels"
+        }
+      },
+      "说起吃的东西，给我印象最深的是湖南菜。": {
+        "translation": {
+          "ko": "먹는 것에 대해 말하자면, 나에게 가장 깊은 인상을 준 것은 후난 요리다.",
+          "ja": "食べ物のことを言うと、私に最も深い印象を残したのは湖南料理です。",
+          "en": "Speaking of food, what left the deepest impression on me was Hunan cuisine."
+        },
+        "colloquial_translation": {
+          "ko": "먹는 얘기만 나오면, 내가 제일 먼저 떠올리는 건 후난 요리야.",
+          "ja": "食べ物の話になると、私が最初に思い浮かべるのは湖南料理です。",
+          "en": "When it comes to food, the first thing I think of is Hunan cuisine."
+        },
+        "context": {
+          "ko": "화제를 꺼내며 가장 인상 깊은 것을 말할 때",
+          "ja": "話題を切り出し、最も印象深いものを言うとき",
+          "en": "When bringing up a topic and naming what impressed you most"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "title": {
+          "ko": "샤오장이 베이징에 가고, 친구가 샤오장을 공항까지 바래다주다",
+          "ja": "小張が北京へ行き、友人が小張を空港まで送る",
+          "en": "Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "기름을 넣어야겠어요. 공항 가는 길에 주유소가 있나요?",
+              "ja": "ガソリンを入れないといけません。空港へ行く途中にガソリンスタンドはありますか。",
+              "en": "We should get gas. Is there a gas station on the way to the airport?"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "제가 기억하기로는 장강대교를 지나 오른쪽으로 돌면 하나 있어요. 대략 4, 5킬로미터 떨어져 있어요.",
+              "ja": "私の記憶では、長江大橋を渡って右へ曲がると一つあります。だいたい4、5キロ離れています。",
+              "en": "I remember that after crossing the Yangtze River Bridge, if you turn right, there is one. It is about four or five kilometers away."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "좋아요, 그럼 안심이네요. 운전하다가 기름이 떨어지면 안 되니까요. 베이징 가는 항공편은 몇 시예요? 시간은 충분한가요?",
+              "ja": "よかった、それなら安心です。運転している途中でガソリンがなくならないようにしないと。北京行きの便は何時ですか。時間は間に合いますか。",
+              "en": "Good, then I can relax. We do not want to run out of gas while driving. What time is your flight to Beijing? Will there be enough time?"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "항공편은 원래 10시였는데, 나중에 공항 웹사이트에서 한 시간 연기되었다고 공지했어요. 그래서 9시 반 전에 도착하면 문제없을 거예요.",
+              "ja": "便はもともと10時でしたが、その後空港のウェブサイトで1時間遅れると通知がありました。だから9時半前に着けば問題ないはずです。",
+              "en": "The flight was originally at ten o’clock, but later the airport website announced that it was delayed by one hour, so arriving before nine thirty should be no problem."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "방금 저는 아직 늦을까 봐 좀 걱정했어요. 조금 있다가 기름을 넣고 서쪽으로 500미터 가면 고속도로에 오를 수 있어요. 고속도로를 타면 약 30분이면 도착해요.",
+              "ja": "さっきは間に合わないのではないかと少し心配していました。あとでガソリンを入れたら、西へ500メートル行けば高速道路に乗れます。高速道路を走れば約30分で着きます。",
+              "en": "Just now I was still a little worried that we would not make it in time. After we get gas, go five hundred meters west and we can get on the expressway. Taking the expressway, we will arrive in about half an hour."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "조금 있다가 제가 직접 들어가서 탑승권을 받을 테니, 저를 배웅하지 않아도 돼요. 제가 수도공항에 도착하면 다시 문자 보낼게요.",
+              "ja": "あとで自分で中に入って搭乗券を受け取るので、見送らなくて大丈夫です。首都空港に着いたらまたメッセージを送ります。",
+              "en": "In a little while I will go in by myself to get my boarding pass, so you do not need to see me off. After I arrive at Capital Airport, I will send you a text message."
+            }
+          }
+        }
+      },
+      "2": {
+        "title": {
+          "ko": "쑨웨와 남편이 겨울방학에 딸을 데리고 여행 갈 계획을 세우다",
+          "ja": "孫月と夫が冬休みに娘を連れて旅行に行く計画を立てる",
+          "en": "Sun Yue and her husband plan to take their daughter traveling during winter vacation"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "딸이 다음 주면 겨울방학을 해요. 그때 우리가 딸을 데리고 여행 가서 좀 쉬게 해 주는 게 어때요?",
+              "ja": "娘は来週には冬休みに入ります。そのとき、私たちが娘を連れて旅行に行って、少しリラックスさせるのはどうですか。",
+              "en": "Our daughter will start winter vacation next week. When the time comes, how about we take her traveling so she can relax a bit?"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "평소에 딸은 수업이 그렇게 많아서 늘 여행 가고 싶다고 말하지만 시간이 없잖아요. 정말 좀 안됐어요. 이번 방학에 우리가 딸을 데리고 어디로 놀러 가는 게 좋을까요?",
+              "ja": "普段、娘は授業がとても多くて、いつも旅行に行きたいと言っていますが、時間がありません。本当にかわいそうです。今回の休みに、私たちは娘をどこへ遊びに連れて行くのがよいでしょうか。",
+              "en": "Our daughter usually has so many classes. She always says she wants to travel, but she has no time. It is really rather pitiful. Where would be a good place to take her this vacation?"
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "작년에 제 동료가 자기 아들을 데리고 광시에 한 번 놀러 갔는데, 꽤 좋았다고 들었어요. 우리도 광시에 가요.",
+              "ja": "去年、私の同僚が息子を連れて広西へ遊びに行ったそうで、とてもよかったと聞きました。私たちも広西へ行きましょう。",
+              "en": "Last year my colleague took her son to Guangxi for a trip. I heard it was very good, so let’s go to Guangxi."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "좋아요. 그곳의 기후는 북쪽과 많이 달라서 겨울에도 매우 따뜻하고, 신선한 과일도 많이 먹을 수 있어요. 딸이 돌아오면 바로 이 좋은 소식을 알려 줄게요.",
+              "ja": "いいですね。そこの気候は北方とかなり違い、冬でもとても暖かく、新鮮な果物もたくさん食べられます。娘が帰ってきたらすぐにこのよい知らせを伝えます。",
+              "en": "Great. The climate there is very different from the north. Even in winter it is very warm, and we can also eat lots of fresh fruit. As soon as our daughter comes back, I will tell her the good news."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "먼저 서둘러 말하지 마세요. 점심에 우리가 맞은편 식당에 가서 오리구이를 먹고, 딸의 시험 성적이 모두 합격한 것을 축하하기로 했잖아요? 그때 알려 주는 게 더 좋지 않겠어요?",
+              "ja": "先に急いで言わないでください。昼に向かいのレストランへローストダックを食べに行き、娘の試験成績が全部合格だったことを祝う予定でしょう。そのときに伝えたほうが、もっとよくありませんか。",
+              "en": "Don’t rush to tell her yet. Aren’t we going to the restaurant across the street at noon to eat roast duck and congratulate her because all her exam grades passed? Wouldn’t it be better to tell her then?"
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "좋은 생각이에요. 그때 딸이 알면 분명 아주 기뻐할 거예요.",
+              "ja": "いい考えです。そのとき娘が知ったら、きっととても喜ぶでしょう。",
+              "en": "Good idea. When she finds out then, she will definitely be especially happy."
+            }
+          }
+        }
+      },
+      "3": {
+        "title": {
+          "ko": "안나가 마크에게 리장 여행 경험을 소개하다",
+          "ja": "アンナがマークに麗江旅行の経験を紹介する",
+          "en": "Anna tells Mark about her experience traveling to Lijiang"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "사진이 이렇게 많네요. 모두 이번에 리장 여행 갔을 때 찍은 거예요? 그곳 자연 풍경이 정말 아름답네요!",
+              "ja": "こんなにたくさんの写真、全部今回麗江へ旅行したときに撮ったものですか。そこの自然風景は本当に美しいですね。",
+              "en": "So many photos. Were they all taken during your trip to Lijiang this time? The natural scenery there is really beautiful!"
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "네, 작은 도시의 사계절 풍경이 모두 아름답고, 환경도 잘 보호되어 있어요. 그래서 매년 수많은 관광객을 그곳으로 끌어들입니다.",
+              "ja": "はい。小さな町は四季の風景がどれも美しく、環境もよく保護されています。そのため毎年何万もの観光客をそこへ引きつけています。",
+              "en": "Yes. The scenery of the small town is beautiful in all four seasons, and the environment is also well protected. Therefore, every year it attracts tens of thousands of tourists to travel there."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "이 사진에서 당신과 건배하고 있는 사람은 소수민족인가요? 정말 예쁘게 차려입었네요.",
+              "ja": "この写真であなたと乾杯している人は少数民族ですか。とてもきれいに着飾っていますね。",
+              "en": "Is the person drinking a toast with you in this photo from an ethnic minority? She is dressed up so beautifully."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "그녀는 우리의 가이드이고 소수민족은 아니에요. 가는 길에 우리에게 재미있는 농담을 많이 해 주었어요. 한 번은 제가 짐 보관 열쇠를 잃어버렸는데, 결국 그녀가 찾아 주었어요. 이 사진은 열쇠를 찾은 뒤에 우리가 함께 찍은 거예요.",
+              "ja": "彼女は私たちのガイドで、少数民族ではありません。道中、私たちに面白い冗談をたくさん話してくれました。一度、私が荷物を預けた鍵をなくしましたが、最後は彼女が見つけてくれました。この写真は鍵を見つけたあと、一緒に撮ったものです。",
+              "en": "She was our tour guide, not from an ethnic minority. Along the way she told us many interesting jokes. Once I lost the key for storing my bag, and in the end she helped me find it. This photo was taken together after we found the key."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "내년에 기회가 있으면 저도 그곳에 가 볼게요. 그때 당신의 가이드를 소개해 주세요. 도대체 어느 계절에 리장 여행을 가는 것이 더 좋나요?",
+              "ja": "来年、機会があれば私もそこへ行ってみます。そのときあなたのガイドを紹介してください。いったいどの季節に麗江へ旅行するのがよいのでしょうか。",
+              "en": "Next year, if I have the chance, I will also go there to have a look. When the time comes, introduce your tour guide to me. Exactly which season is better for traveling to Lijiang?"
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "그곳에서 가장 아름다운 계절은 봄과 가을이지만, 그때는 사람이 비교적 많아요. 조금 더 좋은 시기는 매년 12월부터 다음 해 3월까지예요. 이 기간에 리장에 가면 교통이든 먹는 것, 숙박이든 모두 저렴해요.",
+              "ja": "そこが最も美しい季節は春と秋ですが、その時期は人が比較的多いです。少しよい時期は毎年12月から翌年3月までです。この期間に麗江へ行くなら、交通も食事も宿泊もすべて安いです。",
+              "en": "The most beautiful seasons there are spring and autumn, but there are more people then. A slightly better time is from December each year to March of the following year. If you go to Lijiang during this period, transportation, food, and lodging are all inexpensive."
+            }
+          }
+        }
+      },
+      "4": {
+        "title": {
+          "ko": "중국 남북의 기후, 풍경, 언어 차이",
+          "ja": "中国南北の気候、風景、言語の違い",
+          "en": "Differences between northern and southern China in climate, scenery, and language"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "중국의 남북 거리는 약 5,500킬로미터이기 때문에 남북의 기후는 큰 차이가 있습니다. 매년 3, 4월에 북쪽에서 기차를 타고 남쪽으로 여행을 가면, 길을 따라 지역마다 서로 다른 풍경이 있다는 것을 발견하게 됩니다. 창밖의 나무는 한 그루 한 그루 푸르게 변하고, 북쪽에는 어쩌면 아직 눈이 내리고 있을 수도 있지만 남쪽은 이미 곳곳이 초록색입니다. 남방 음식은 특징이 뚜렷한데, 특히 탕은 맛이 신선하고 좋아서 많은 북방 사람들이 즐겨 마십니다. 또한 남방과 북방의 언어도 매우 다릅니다. 예를 들어 상하이 사람과 대화할 때, 상하이어가 외국어처럼 들린다는 것을 알게 됩니다. 상하이 사람들도 보통화를 할 수 있지만 자세히 들어 보면 여전히 상하이 말투가 있습니다.",
+              "ja": "中国の南北の距離は約5500キロメートルあるため、南北の気候には大きな違いがあります。毎年3、4月ごろ、北方から列車に乗って南方へ旅行すると、道中で場所によって異なる風景があることに気づきます。窓の外の木々は一本一本緑になり、北方ではまだ雪が降っているかもしれませんが、南方はすでに至るところが緑になっています。南方料理は特徴があり、特にスープは味が新鮮でおいしく、多くの北方の人が好んで飲みます。また、南方と北方の言葉にも大きな違いがあります。たとえば上海の人と会話すると、上海語は外国語のように聞こえることに気づきます。上海の人も普通話を話せますが、よく聞くとやはり上海らしい響きがあります。",
+              "en": "The distance from north to south in China is about 5,500 kilometers, so the climates of the north and south are very different. Every year in March and April, if you take a train from the north to the south to travel, you will notice different scenery in different places along the way: the trees outside the window turn green one by one; it may still be snowing in the north, while the south is already green everywhere. Southern cuisine is very distinctive, especially the soup. It tastes fresh and delicious, and many northerners like to drink it. In addition, the languages of the south and north are also very different. For example, when you have a conversation with someone from Shanghai, you will find that Shanghainese sounds like a foreign language. Although people from Shanghai can also speak Mandarin, if you listen carefully, there is still a Shanghai flavor."
+            }
+          }
+        }
+      },
+      "5": {
+        "title": {
+          "ko": "여행은 내가 각지의 간식을 맛볼 기회를 준다",
+          "ja": "旅行は各地の軽食を味わう機会を与えてくれる",
+          "en": "Travel gives me the chance to taste local snacks from different places"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "사람은 시간이 있으면 반드시 여행을 가야 합니다. 여행은 한 사람의 경험을 풍부하게 할 뿐만 아니라 아주 좋은 스트레스 해소 방법이기도 합니다. 하지만 저에게 가장 중요한 것은 여행이 각지의 유명한 간식을 맛볼 기회를 준다는 점입니다. 방학 때 저는 짐을 잘 챙기고, 지도를 가지고, 기차표를 사서 목적지로 출발합니다. 먹는 것에 대해 말하자면, 저에게 가장 깊은 인상을 준 것은 후난 요리입니다. 후난 요리의 특징은 바로 매운맛입니다. 다른 지역의 매운맛과 달리 후난 요리의 매운맛은 주로 짭짤한 매운맛, 향긋한 매운맛, 새콤한 매운맛입니다. 전국 곳곳에 후난 음식점이 있지만, 가장 좋은 것은 역시 직접 그곳에 가서 한번 맛보는 것입니다. 매번 여행이 끝난 뒤 저는 늘 에너지가 백 배가 된 듯 제 일을 시작합니다.",
+              "ja": "人は時間があれば必ず旅行に行くべきです。旅行は一人の経験を豊かにするだけでなく、とてもよいストレス解消の方法でもあります。しかし私にとって最も重要なのは、旅行によって各地の有名な軽食を味わう機会が得られることです。休みのとき、私は荷物を整理し、地図を持ち、列車の切符を買って目的地へ出発します。食べ物について言えば、最も印象深いのは湖南料理です。湖南料理の特徴は辛さで、ほかの地域の辛さとは違い、湖南料理の辛さは主に塩辛い辛さ、香りのある辛さ、酸っぱい辛さです。全国各地に湖南料理店はありますが、やはり直接そこへ行って味わうのが一番です。旅行が終わるたびに、私はいつも元気いっぱいで仕事を始めます。",
+              "en": "When a person has time, they really should travel. Traveling can not only enrich a person’s experience, but is also a very good way to relieve stress. But for me, the most important thing is that traveling gives me the chance to taste famous local snacks from different places. During vacations, I pack my luggage, bring a map, buy a train ticket, and set off for my destination. Speaking of food, the thing that left the deepest impression on me is Hunan cuisine. The defining feature of Hunan cuisine is spiciness. Different from the spiciness of other places, Hunan cuisine is mainly salty-spicy, fragrant-spicy, and sour-spicy. Although there are Hunan restaurants all over the country, it is still best to go there directly and try it. After every trip, I start my work full of energy."
+            }
+          }
+        }
+      }
+    },
+    "lessonTitle": {
+      "ko": "제20과: 샤오장이 베이징에 가고, 친구가 샤오장을 공항까지 바래다주다",
+      "ja": "第20課: 小張が北京へ行き、友人が小張を空港まで送る",
+      "en": "Lesson 20: Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport"
+    },
+    "textTitles": {
+      "1": {
+        "ko": "샤오장이 베이징에 가고, 친구가 샤오장을 공항까지 바래다주다",
+        "ja": "小張が北京へ行き、友人が小張を空港まで送る",
+        "en": "Xiao Zhang goes to Beijing, and a friend takes Xiao Zhang to the airport"
+      },
+      "2": {
+        "ko": "쑨웨와 남편이 겨울방학에 딸을 데리고 여행 갈 계획을 세우다",
+        "ja": "孫月と夫が冬休みに娘を連れて旅行に行く計画を立てる",
+        "en": "Sun Yue and her husband plan to take their daughter traveling during winter vacation"
+      },
+      "3": {
+        "ko": "안나가 마크에게 리장 여행 경험을 소개하다",
+        "ja": "アンナがマークに麗江旅行の経験を紹介する",
+        "en": "Anna tells Mark about her experience traveling to Lijiang"
+      },
+      "4": {
+        "ko": "중국 남북의 기후, 풍경, 언어 차이",
+        "ja": "中国南北の気候、風景、言語の違い",
+        "en": "Differences between northern and southern China in climate, scenery, and language"
+      },
+      "5": {
+        "ko": "여행은 내가 각지의 간식을 맛볼 기회를 준다",
+        "ja": "旅行は各地の軽食を味わう機会を与えてくれる",
+        "en": "Travel gives me the chance to taste local snacks from different places"
+      }
+    }
+  }
+}

@@ -1,0 +1,1756 @@
+{
+  "lessonId": 10,
+  "title": "Lesson 10: 幸福的标准 (xìngfú de biāozhǔn) (The standard of happiness)",
+  "vocabulary": [
+    {
+      "word": "礼拜天",
+      "pinyin": "lǐbàitiān",
+      "meaning": "n. Sunday"
+    },
+    {
+      "word": "空儿",
+      "pinyin": "kòngr",
+      "meaning": "n. free time, spare time"
+    },
+    {
+      "word": "母亲",
+      "pinyin": "mǔqīn",
+      "meaning": "n. mother"
+    },
+    {
+      "word": "不过",
+      "pinyin": "búguò",
+      "meaning": "conj. but, yet"
+    },
+    {
+      "word": "永远",
+      "pinyin": "yǒngyuǎn",
+      "meaning": "adv. forever"
+    },
+    {
+      "word": "方向",
+      "pinyin": "fāngxiàng",
+      "meaning": "n. direction, orientation"
+    },
+    {
+      "word": "优秀",
+      "pinyin": "yōuxiù",
+      "meaning": "adj. excellent, outstanding"
+    },
+    {
+      "word": "硕士",
+      "pinyin": "shuòshì",
+      "meaning": "n. Master, person who has a master’s degree"
+    },
+    {
+      "word": "翻译",
+      "pinyin": "fānyì",
+      "meaning": "n. translator, interpreter"
+    },
+    {
+      "word": "确实",
+      "pinyin": "quèshí",
+      "meaning": "adv. truly, indeed"
+    },
+    {
+      "word": "兴奋",
+      "pinyin": "xīngfèn",
+      "meaning": "adj. excited"
+    },
+    {
+      "word": "拉",
+      "pinyin": "lā",
+      "meaning": "v. to pull, to drag"
+    },
+    {
+      "word": "建议",
+      "pinyin": "jiànyì",
+      "meaning": "n. suggestion, advice"
+    },
+    {
+      "word": "职业",
+      "pinyin": "zhíyè",
+      "meaning": "n. occupation, profession"
+    },
+    {
+      "word": "关键",
+      "pinyin": "guānjiàn",
+      "meaning": "n. hinge, crux"
+    },
+    {
+      "word": "将来",
+      "pinyin": "jiānglái",
+      "meaning": "n. future"
+    },
+    {
+      "word": "发展",
+      "pinyin": "fāzhǎn",
+      "meaning": "v. to develop, to promote"
+    },
+    {
+      "word": "躺",
+      "pinyin": "tǎng",
+      "meaning": "v. to lie on one’s back"
+    },
+    {
+      "word": "困",
+      "pinyin": "kùn",
+      "meaning": "adj. sleepy"
+    },
+    {
+      "word": "经济",
+      "pinyin": "jīngjì",
+      "meaning": "n. economy"
+    },
+    {
+      "word": "条件",
+      "pinyin": "tiáojiàn",
+      "meaning": "n. condition"
+    },
+    {
+      "word": "富",
+      "pinyin": "fù",
+      "meaning": "adj. rich, wealthy"
+    },
+    {
+      "word": "穷",
+      "pinyin": "qióng",
+      "meaning": "adj. poor, impoverished"
+    },
+    {
+      "word": "等",
+      "pinyin": "děng",
+      "meaning": "part. etc., and so on"
+    },
+    {
+      "word": "由于",
+      "pinyin": "yóuyú",
+      "meaning": "conj. because, since"
+    },
+    {
+      "word": "比如",
+      "pinyin": "bǐrú",
+      "meaning": "v. for example, such as"
+    },
+    {
+      "word": "橡皮",
+      "pinyin": "xiàngpí",
+      "meaning": "n. eraser, rubber"
+    },
+    {
+      "word": "糖",
+      "pinyin": "táng",
+      "meaning": "n. sugar, candy"
+    },
+    {
+      "word": "低",
+      "pinyin": "dī",
+      "meaning": "adj. low"
+    },
+    {
+      "word": "答案",
+      "pinyin": "dá’àn",
+      "meaning": "n. answer, key"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "不过",
+      "explanation": "“不过” can be used as a conjunction at the beginning of the second clause to mark a turn in meaning, supplementing or revising the first clause. It can also be used as an adverb meaning “merely” or “only,” emphasizing that an amount, scale, or role is small.",
+      "formal_examples": [
+        {
+          "chinese": "我现在上有老，下有小。除了工作以外，家里还有母亲和儿子需要照顾。<b>不过</b>现在我很幸福。",
+          "pinyin": "Wǒ xiànzài shàng yǒu lǎo, xià yǒu xiǎo. Chúle gōngzuò yǐwài, jiā li hái yǒu mǔqīn hé érzi xūyào zhàogù. Búguò xiànzài wǒ hěn xìngfú.",
+          "translation": "I now have elderly parents above and children below. Besides work, my mother and son need care at home. However, I am very happy now."
+        },
+        {
+          "chinese": "你再早来一会儿就好了，那辆车刚开走，你只能等下一辆了。<b>不过</b>也不用多长时间，估计十几分钟就来了。",
+          "pinyin": "Nǐ zài zǎo lái yíhuìr jiù hǎo le, nà liàng chē gāng kāi zǒu, nǐ zhǐ néng děng xià yí liàng le. Búguò yě bú yòng duō cháng shíjiān, gūjì shí jǐ fēnzhōng jiù lái le.",
+          "translation": "It would have been better if you had come a little earlier. That bus just left, so you can only wait for the next one. But it should not take long; it will probably come in ten-something minutes."
+        },
+        {
+          "chinese": "我们<b>不过</b>谈了点儿工作方面的问题，别的都没谈。",
+          "pinyin": "Wǒmen búguò tán le diǎnr gōngzuò fāngmiàn de wèntí, bié de dōu méi tán.",
+          "translation": "We only talked a little about work-related issues; we did not talk about anything else."
+        },
+        {
+          "chinese": "A：没有你的帮助，我们肯定不能按时完成任务，真是太谢谢你了。<br/>B：你太客气了，我<b>不过</b>是给了些建议，这一切都是你们辛苦努力的结果。",
+          "pinyin": "A: Méiyǒu nǐ de bāngzhù, wǒmen kěndìng bù néng ànshí wánchéng rènwu, zhēn shì tài xièxie nǐ le.<br/>B: Nǐ tài kèqi le, wǒ búguò shì gěi le xiē jiànyì, zhè yíqiè dōu shì nǐmen xīnkǔ nǔlì de jiéguǒ.",
+          "translation": "A: Without your help, we definitely could not have completed the task on time. Thank you so much.<br/>B: You are too kind. I merely gave some suggestions; all of this is the result of your hard work."
+        }
+      ],
+      "colloquial_pattern": "不过 / 不过是",
+      "colloquial_examples": [
+        {
+          "chinese": "我最近很忙，<b>不过</b>周末可以陪你去逛街。",
+          "pinyin": "Wǒ zuìjìn hěn máng, búguò zhōumò kěyǐ péi nǐ qù guàngjiē.",
+          "translation": "I have been busy lately, but I can go shopping with you on the weekend."
+        },
+        {
+          "chinese": "这件事<b>不过</b>是个小问题，不用太担心。",
+          "pinyin": "Zhè jiàn shì búguò shì ge xiǎo wèntí, bú yòng tài dānxīn.",
+          "translation": "This is merely a small problem, so do not worry too much."
+        },
+        {
+          "chinese": "我们<b>不过</b>聊了几句，还没有认真讨论。",
+          "pinyin": "Wǒmen búguò liáo le jǐ jù, hái méiyǒu rènzhēn tǎolùn.",
+          "translation": "We only chatted for a few sentences and have not discussed it seriously yet."
+        }
+      ],
+      "nuance": "As a conjunction, “不过” is similar to “but/however,” but it often softens, supplements, or corrects what came before. As an adverb, it means “only/merely,” and “不过是...” is common when downplaying the importance or scale of something."
+    },
+    {
+      "point": "不过—但是",
+      "explanation": "Both “不过” and “但是” can mark a transition and are used at the beginning of the second clause. “不过” is often more polite and conversational when giving a suggestion or refusal, while “但是” has a stronger turning tone. “不过” can also be an adverb meaning “only/merely,” often before a number, but “但是” cannot.",
+      "formal_examples": [
+        {
+          "chinese": "我本来想当律师，<b>不过</b>/<b>但是</b>后来我发现自己对新闻更感兴趣。",
+          "pinyin": "Wǒ běnlái xiǎng dāng lǜshī, búguò/dànshì hòulái wǒ fāxiàn zìjǐ duì xīnwén gèng gǎn xìngqù.",
+          "translation": "I originally wanted to be a lawyer, but later I found that I was more interested in news."
+        },
+        {
+          "chinese": "对不起，先生，那种蛋糕已经卖完了，<b>不过</b>，您可以尝一下这种饼干，味道也很不错。",
+          "pinyin": "Duìbuqǐ, xiānsheng, nà zhǒng dàngāo yǐjīng mài wán le, búguò, nín kěyǐ cháng yíxià zhè zhǒng bǐnggān, wèidào yě hěn búcuò.",
+          "translation": "Sorry, sir, that cake has sold out, but you can try this kind of biscuit; it also tastes good."
+        },
+        {
+          "chinese": "别人的方法也许很有效，<b>但是</b>并不一定适合你。",
+          "pinyin": "Biérén de fāngfǎ yěxǔ hěn yǒuxiào, dànshì bìng bù yídìng shìhé nǐ.",
+          "translation": "Other people’s methods may be effective, but they are not necessarily suitable for you."
+        },
+        {
+          "chinese": "去年我<b>不过</b>50公斤，今年怎么这么胖了？",
+          "pinyin": "Qùnián wǒ búguò wǔshí gōngjīn, jīnnián zěnme zhème pàng le?",
+          "translation": "Last year I was only 50 kilograms; why did I get so fat this year?"
+        }
+      ],
+      "colloquial_pattern": "不过 vs 但是",
+      "colloquial_examples": [
+        {
+          "chinese": "我想帮你，<b>不过</b>今天真的没时间。",
+          "pinyin": "Wǒ xiǎng bāng nǐ, búguò jīntiān zhēn de méi shíjiān.",
+          "translation": "I want to help you, but I really do not have time today."
+        },
+        {
+          "chinese": "这个办法不错，<b>但是</b>风险也比较大。",
+          "pinyin": "Zhège bànfǎ búcuò, dànshì fēngxiǎn yě bǐjiào dà.",
+          "translation": "This method is good, but the risk is also quite high."
+        },
+        {
+          "chinese": "我<b>不过</b>花了十分钟就做完了。",
+          "pinyin": "Wǒ búguò huā le shí fēnzhōng jiù zuò wán le.",
+          "translation": "I finished it in only ten minutes."
+        }
+      ],
+      "nuance": "For a softer, more tactful spoken turn, use “不过.” For a clearer or heavier contrast, use “但是.” Only “不过” can mean “merely/only.”"
+    },
+    {
+      "point": "确实",
+      "explanation": "The adverb “确实” confirms the truth or reliability of an objective situation.",
+      "formal_examples": [
+        {
+          "chinese": "爱情<b>确实</b>是结婚的重要原因，但仅有爱情是不够的。",
+          "pinyin": "Àiqíng quèshí shì jiéhūn de zhòngyào yuányīn, dàn jǐn yǒu àiqíng shì bù gòu de.",
+          "translation": "Love is indeed an important reason for marriage, but love alone is not enough."
+        },
+        {
+          "chinese": "A：好几年没见，你还是这么爱开玩笑，我哪儿有你说的那么年轻。<br/>B：我说的是真的，你<b>确实</b>比以前更年轻、更漂亮了。",
+          "pinyin": "A: Hǎo jǐ nián méi jiàn, nǐ hái shì zhème ài kāi wánxiào, wǒ nǎr yǒu nǐ shuō de nàme niánqīng.<br/>B: Wǒ shuō de shì zhēn de, nǐ quèshí bǐ yǐqián gèng niánqīng, gèng piàoliang le.",
+          "translation": "A: We have not seen each other for years, and you still love joking. How could I be as young as you say?<br/>B: I am telling the truth. You really are younger and prettier than before."
+        },
+        {
+          "chinese": "我女儿<b>确实</b>不错，记得她刚拿到第一个月工资时，就兴奋地拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！",
+          "pinyin": "Wǒ nǚér quèshí búcuò, jìde tā gāng ná dào dì yí ge yuè gōngzī shí, jiù xīngfèn de lāzhe wǒ hé tā bà liǎ qù shāngchǎng, gěi wǒmen mǎi lǐwù, nà shí wǒ hé tā bà xīn li bié tí duō měi le!",
+          "translation": "My daughter really is wonderful. I remember when she had just received her first month’s salary, she excitedly pulled her father and me to the mall to buy gifts for us. At that time, her father and I were extremely happy."
+        }
+      ],
+      "colloquial_pattern": "确实 + predicate",
+      "colloquial_examples": [
+        {
+          "chinese": "你说得<b>确实</b>有道理。",
+          "pinyin": "Nǐ shuō de quèshí yǒu dàolǐ.",
+          "translation": "What you said really makes sense."
+        },
+        {
+          "chinese": "这家店的饼干<b>确实</b>很好吃。",
+          "pinyin": "Zhè jiā diàn de bǐnggān quèshí hěn hǎochī.",
+          "translation": "The biscuits from this shop really are delicious."
+        },
+        {
+          "chinese": "他<b>确实</b>比以前努力多了。",
+          "pinyin": "Tā quèshí bǐ yǐqián nǔlì duō le.",
+          "translation": "He really works much harder than before."
+        }
+      ],
+      "nuance": "“确实” stresses that something is truly the case, usually based on facts or objective evidence."
+    },
+    {
+      "point": "在……看来",
+      "explanation": "“在……看来” is a parenthetical expression meaning “in someone’s opinion,” indicating that what follows is an opinion or point of view.",
+      "formal_examples": [
+        {
+          "chinese": "<b>在</b>很多人<b>看来</b>，听流行音乐仅仅是年轻人的爱好，其实现在不少中老年人对流行歌曲也很感兴趣。",
+          "pinyin": "Zài hěn duō rén kànlai, tīng liúxíng yīnyuè jǐnjǐn shì niánqīng rén de àihào, qíshí xiànzài bù shǎo zhōnglǎonián rén duì liúxíng gēqǔ yě hěn gǎn xìngqù.",
+          "translation": "In many people’s view, listening to pop music is only a hobby of young people, but actually many middle-aged and elderly people are also interested in pop songs now."
+        },
+        {
+          "chinese": "<b>在</b>我<b>看来</b>，比赛结果并不是最重要的，在参加比赛的过程中使自己获得提高更重要。",
+          "pinyin": "Zài wǒ kànlai, bǐsài jiéguǒ bìng bú shì zuì zhòngyào de, zài cānjiā bǐsài de guòchéng zhōng shǐ zìjǐ huòdé tígāo gèng zhòngyào.",
+          "translation": "In my opinion, the result of the competition is not the most important thing; improving yourself during the process of participating is more important."
+        },
+        {
+          "chinese": "A：你觉得在选择职业时，收入重要吗？<br/>B：<b>在</b>我<b>看来</b>，赚钱多少不是最重要的，兴趣才是关键。",
+          "pinyin": "A: Nǐ juéde zài xuǎnzé zhíyè shí, shōurù zhòngyào ma?<br/>B: Zài wǒ kànlai, zhuànqián duōshǎo bú shì zuì zhòngyào de, xìngqù cái shì guānjiàn.",
+          "translation": "A: Do you think income is important when choosing a career?<br/>B: In my opinion, how much money one earns is not the most important thing; interest is the key."
+        }
+      ],
+      "colloquial_pattern": "在 + person + 看来",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>在</b>我<b>看来</b>，这份工作很适合你。",
+          "pinyin": "Zài wǒ kànlai, zhè fèn gōngzuò hěn shìhé nǐ.",
+          "translation": "In my view, this job suits you well."
+        },
+        {
+          "chinese": "<b>在</b>他<b>看来</b>，过程比结果更重要。",
+          "pinyin": "Zài tā kànlai, guòchéng bǐ jiéguǒ gèng zhòngyào.",
+          "translation": "In his view, the process is more important than the result."
+        },
+        {
+          "chinese": "<b>在</b>很多学生<b>看来</b>，兴趣才是学习的关键。",
+          "pinyin": "Zài hěn duō xuésheng kànlai, xìngqù cái shì xuéxí de guānjiàn.",
+          "translation": "In many students’ view, interest is the key to learning."
+        }
+      ],
+      "nuance": "This pattern frames the following statement as a subjective opinion, not necessarily an objective fact."
+    },
+    {
+      "point": "由于",
+      "explanation": "“由于” can be used as a conjunction to indicate a reason, usually followed by a sentence and used in the first clause of a complex sentence. It can also be used as a preposition indicating a reason, followed by a nominal phrase.",
+      "formal_examples": [
+        {
+          "chinese": "今年春节他们本来打算出国去逛逛，但是<b>由于</b>家里的老人突然生病了，所以他们只好放弃了这个计划。",
+          "pinyin": "Jīnnián Chūnjié tāmen běnlái dǎsuàn chū guó qù guàng guang, dànshì yóuyú jiā li de lǎorén tūrán shēng bìng le, suǒyǐ tāmen zhǐhǎo fàngqì le zhège jìhuà.",
+          "translation": "This Spring Festival they had originally planned to travel abroad, but because an elderly family member suddenly fell ill, they had to give up the plan."
+        },
+        {
+          "chinese": "当你生病了，如果<b>由于</b>缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。",
+          "pinyin": "Dāng nǐ shēng bìng le, rúguǒ yóuyú quē qián ér bù néng jíshí qù kàn yīshēng, nǐ de jiànkāng dōu hěn nán dédào bǎozhèng, jiù gèng bié shuō xìngfú le.",
+          "translation": "When you are sick, if you cannot see a doctor in time because you lack money, even your health is hard to guarantee, let alone happiness."
+        },
+        {
+          "chinese": "<b>由于</b>种种原因，我们不得不改变原来的计划。",
+          "pinyin": "Yóuyú zhǒngzhǒng yuányīn, wǒmen bùdébù gǎibiàn yuánlái de jìhuà.",
+          "translation": "Due to various reasons, we had to change our original plan."
+        },
+        {
+          "chinese": "<b>由于</b>工作的需要，我去年十月去了趟上海，跟一家公司去谈生意。",
+          "pinyin": "Yóuyú gōngzuò de xūyào, wǒ qùnián shí yuè qù le tàng Shànghǎi, gēn yì jiā gōngsī qù tán shēngyi.",
+          "translation": "Because of work needs, I went to Shanghai last October to discuss business with a company."
+        }
+      ],
+      "colloquial_pattern": "由于 + reason",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>由于</b>天气不好，比赛改到明天了。",
+          "pinyin": "Yóuyú tiānqì bù hǎo, bǐsài gǎi dào míngtiān le.",
+          "translation": "Because the weather is bad, the competition has been moved to tomorrow."
+        },
+        {
+          "chinese": "<b>由于</b>时间不够，我们只讨论了一个问题。",
+          "pinyin": "Yóuyú shíjiān bù gòu, wǒmen zhǐ tǎolùn le yí ge wèntí.",
+          "translation": "Because there was not enough time, we only discussed one issue."
+        },
+        {
+          "chinese": "<b>由于</b>工作原因，他不能参加这次活动。",
+          "pinyin": "Yóuyú gōngzuò yuányīn, tā bù néng cānjiā zhè cì huódòng.",
+          "translation": "Because of work reasons, he cannot participate in this activity."
+        }
+      ],
+      "nuance": "“由于” is relatively formal and introduces the cause or reason. It can be followed by a full clause or by a noun phrase."
+    },
+    {
+      "point": "比如",
+      "explanation": "The verb “比如” introduces examples used to explain a thing, situation, or idea.",
+      "formal_examples": [
+        {
+          "chinese": "还有人说，小时候幸福是一件东西，<b>比如</b>一块橡皮、一块糖，得到了就很幸福。",
+          "pinyin": "Hái yǒu rén shuō, xiǎoshíhou xìngfú shì yí jiàn dōngxi, bǐrú yí kuài xiàngpí, yí kuài táng, dédào le jiù hěn xìngfú.",
+          "translation": "Some people also say that when they were young, happiness was an object, such as an eraser or a piece of candy; getting it made them very happy."
+        },
+        {
+          "chinese": "每个人都有自己特别感兴趣的东西，<b>比如</b>，作家爱写小说，画家爱画画儿。我们只有了解了自己的兴趣爱好后，才能更好地发展自己。",
+          "pinyin": "Měi ge rén dōu yǒu zìjǐ tèbié gǎn xìngqù de dōngxi, bǐrú, zuòjiā ài xiě xiǎoshuō, huàjiā ài huà huàr. Wǒmen zhǐyǒu liǎojiě le zìjǐ de xìngqù àihào hòu, cái néng gèng hǎo de fāzhǎn zìjǐ.",
+          "translation": "Everyone has things they are especially interested in; for example, writers love writing novels, and painters love painting. Only after understanding our own interests and hobbies can we develop ourselves better."
+        },
+        {
+          "chinese": "旅游前最好做个计划，<b>比如</b>要去几个地方，怎么坐车，带哪些东西，一共要玩儿多少天等。把这些都提前想好，旅游时才会更轻松。",
+          "pinyin": "Lǚyóu qián zuì hǎo zuò ge jìhuà, bǐrú yào qù jǐ ge dìfang, zěnme zuò chē, dài nǎxiē dōngxi, yígòng yào wánr duōshǎo tiān děng. Bǎ zhèxiē dōu tíqián xiǎng hǎo, lǚyóu shí cái huì gèng qīngsōng.",
+          "translation": "Before traveling, it is best to make a plan, such as how many places to visit, how to get there, what to bring, and how many days to spend. If you think these things through in advance, traveling will be easier."
+        }
+      ],
+      "colloquial_pattern": "比如 + example(s)",
+      "colloquial_examples": [
+        {
+          "chinese": "我喜欢吃甜的东西，<b>比如</b>糖和巧克力。",
+          "pinyin": "Wǒ xǐhuan chī tián de dōngxi, bǐrú táng hé qiǎokèlì.",
+          "translation": "I like sweet things, such as candy and chocolate."
+        },
+        {
+          "chinese": "周末可以做很多事，<b>比如</b>看电影、逛街或者在家休息。",
+          "pinyin": "Zhōumò kěyǐ zuò hěn duō shì, bǐrú kàn diànyǐng, guàngjiē huòzhě zài jiā xiūxi.",
+          "translation": "There are many things you can do on the weekend, such as watching a movie, going shopping, or resting at home."
+        },
+        {
+          "chinese": "学习汉语要多练习，<b>比如</b>多听、多说、多写。",
+          "pinyin": "Xuéxí Hànyǔ yào duō liànxí, bǐrú duō tīng, duō shuō, duō xiě.",
+          "translation": "To learn Chinese, you need to practice more, for example by listening more, speaking more, and writing more."
+        }
+      ],
+      "nuance": "“比如” is used before one or more examples. It is similar to “for example” or “such as,” and the examples help make the previous statement more concrete."
+    },
+    {
+      "point": "同字词：经",
+      "explanation": "Words with the same character “经” include “经济” (economy/economic), “经验” (experience as knowledge or work experience), and “经历” (to go through; an experience one has lived through).",
+      "formal_examples": [
+        {
+          "chinese": "每个人在工作、学习、<b>经济</b>上都或多或少会有压力。有压力不一定是坏事，关键是要知道怎样做才能给自己减压。看电影、听音乐，还有跟朋友一起聊天儿、散步等，都是非常有效的办法。",
+          "pinyin": "Měi ge rén zài gōngzuò, xuéxí, jīngjì shàng dōu huò duō huò shǎo huì yǒu yālì. Yǒu yālì bù yídìng shì huài shì, guānjiàn shì yào zhīdào zěnyàng zuò cái néng gěi zìjǐ jiǎnyā. Kàn diànyǐng, tīng yīnyuè, hái yǒu gēn péngyou yìqǐ liáo tiānr, sànbù děng, dōu shì fēicháng yǒuxiào de bànfǎ.",
+          "translation": "Everyone has more or less pressure in work, study, and finances. Pressure is not necessarily a bad thing; the key is knowing how to reduce pressure for yourself. Watching movies, listening to music, chatting with friends, and taking walks are all very effective methods."
+        },
+        {
+          "chinese": "有家广告公司正在招聘高级经理，要求是艺术专业毕业，有两年以上工作<b>经验</b>。我觉得你的条件挺适合的，可以去试试。",
+          "pinyin": "Yǒu jiā guǎnggào gōngsī zhèngzài zhāopìn gāojí jīnglǐ, yāoqiú shì yìshù zhuānyè bìyè, yǒu liǎng nián yǐshàng gōngzuò jīngyàn. Wǒ juéde nǐ de tiáojiàn tǐng shìhé de, kěyǐ qù shìshi.",
+          "translation": "An advertising company is hiring a senior manager. The requirements are graduation from an art major and more than two years of work experience. I think your qualifications are quite suitable, so you can try applying."
+        },
+        {
+          "chinese": "人一生中会遇到很多事情，或者愉快，或者伤心，都只能由自己去<b>经历</b>。生活是自己在过，别人说什么不重要，自己感觉快乐就行了。",
+          "pinyin": "Rén yì shēng zhōng huì yùdào hěn duō shìqing, huòzhě yúkuài, huòzhě shāngxīn, dōu zhǐ néng yóu zìjǐ qù jīnglì. Shēnghuó shì zìjǐ zài guò, biérén shuō shénme bù zhòngyào, zìjǐ gǎnjué kuàilè jiù xíng le.",
+          "translation": "In a person’s life, they will encounter many things, either happy or sad, and all of them can only be experienced by themselves. Life is lived by oneself; what others say is not important, as long as one feels happy."
+        }
+      ],
+      "colloquial_pattern": "经济 / 经验 / 经历",
+      "colloquial_examples": [
+        {
+          "chinese": "最近<b>经济</b>压力有点大，我想少买一些不需要的东西。",
+          "pinyin": "Zuìjìn jīngjì yālì yǒudiǎn dà, wǒ xiǎng shǎo mǎi yìxiē bù xūyào de dōngxi.",
+          "translation": "Recently I have had some financial pressure, so I want to buy fewer unnecessary things."
+        },
+        {
+          "chinese": "他有三年工作<b>经验</b>，所以很快就适应了新工作。",
+          "pinyin": "Tā yǒu sān nián gōngzuò jīngyàn, suǒyǐ hěn kuài jiù shìyìng le xīn gōngzuò.",
+          "translation": "He has three years of work experience, so he adapted to the new job quickly."
+        },
+        {
+          "chinese": "这次失败也是一种<b>经历</b>，以后会有帮助。",
+          "pinyin": "Zhè cì shībài yě shì yì zhǒng jīnglì, yǐhòu huì yǒu bāngzhù.",
+          "translation": "This failure is also an experience, and it will help in the future."
+        }
+      ],
+      "nuance": "“经济” is about money, economy, or economic conditions. “经验” refers to knowledge or skill gained from practice. “经历” emphasizes things one personally goes through or has gone through."
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "没事儿，谢谢！<b>不过</b>现在我很幸福，因为在母亲面前我可以做一个永远长不大的孩子；在孩子面前我又是个能照顾他的母亲，这让我有了努力的方向。",
+      "pinyin": "Méi shìr, xièxie! Búguò xiànzài wǒ hěn xìngfú, yīnwèi zài mǔqīn miànqián wǒ kěyǐ zuò yí ge yǒngyuǎn zhǎng bú dà de háizi; zài háizi miànqián wǒ yòu shì ge néng zhàogù tā de mǔqīn, zhè ràng wǒ yǒu le nǔlì de fāngxiàng.",
+      "translation": "I’m fine, thank you! But now I feel very happy, because in front of my mother I can be a child who never grows up; in front of my child, I am also a mother who can take care of him. This gives me a direction to work toward.",
+      "colloquial_equivalent": "没事儿啦，<b>不过</b>现在这样我也挺幸福的，有老有小，日子忙但心里有奔头。",
+      "colloquial_pinyin": "Méi shìr la, búguò xiànzài zhèyàng wǒ yě tǐng xìngfú de, yǒu lǎo yǒu xiǎo, rìzi máng dàn xīn li yǒu bèntou.",
+      "context": "Softening a complaint by turning it into a positive feeling."
+    },
+    {
+      "sentence": "我女儿<b>确实</b>不错，记得她刚拿到第一个月工资时，就兴奋地拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！",
+      "pinyin": "Wǒ nǚ’ér quèshí búcuò, jìde tā gāng ná dào dì yí ge yuè gōngzī shí, jiù xīngfèn de lā zhe wǒ hé tā bà liǎ qù shāngchǎng, gěi wǒmen mǎi lǐwù, nà shí wǒ hé tā bà xīn li bié tí duō měi le!",
+      "translation": "My daughter is indeed great. I remember when she had just received her first month’s salary, she excitedly dragged me and her father to the mall to buy us gifts. At that time, her father and I felt incredibly happy!",
+      "colloquial_equivalent": "我女儿<b>确实</b>挺争气的，第一次发工资就想着给我们买礼物，我们当时高兴坏了。",
+      "colloquial_pinyin": "Wǒ nǚ’ér quèshí tǐng zhēngqì de, dì yī cì fā gōngzī jiù xiǎngzhe gěi wǒmen mǎi lǐwù, wǒmen dāngshí gāoxìng huài le.",
+      "context": "Praising someone with objective confirmation and pride."
+    },
+    {
+      "sentence": "在我看来，赚钱多少不是最重要的，兴趣才是关键。<b>只有</b>做自己喜欢的事，<b>才</b>会觉得幸福，将来也会有更好的发展。",
+      "pinyin": "Zài wǒ kàn lái, zhuànqián duōshǎo bú shì zuì zhòngyào de, xìngqù cái shì guānjiàn. Zhǐyǒu zuò zìjǐ xǐhuan de shì, cái huì juéde xìngfú, jiānglái yě huì yǒu gèng hǎo de fāzhǎn.",
+      "translation": "In my view, how much money you earn is not the most important thing; interest is the key. Only by doing what you like will you feel happy, and you will also have better development in the future.",
+      "colloquial_equivalent": "<b>在我看来</b>，钱不是唯一标准，做自己喜欢的事才更有劲儿。",
+      "colloquial_pinyin": "Zài wǒ kànlai, qián bú shì wéiyī biāozhǔn, zuò zìjǐ xǐhuan de shì cái gèng yǒu jìnr.",
+      "context": "Giving career advice based on personal values."
+    },
+    {
+      "sentence": "当你生病了，如果<b>由于</b>缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。",
+      "pinyin": "Dāng nǐ shēngbìng le, rúguǒ yóuyú quē qián ér bù néng jíshí qù kàn yīshēng, nǐ de jiànkāng dōu hěn nán dédào bǎozhèng, jiù gèng bié shuō xìngfú le.",
+      "translation": "When you are sick, if you cannot see a doctor in time because you lack money, even your health is hard to guarantee, let alone happiness.",
+      "colloquial_equivalent": "人要是<b>因为</b>没钱连病都看不起，健康都保不住，更别提幸福了。",
+      "colloquial_pinyin": "Rén yàoshi yīnwèi méi qián lián bìng dōu kàn bu qǐ, jiànkāng dōu bǎo bú zhù, gèng bié tí xìngfú le.",
+      "context": "Explaining why money still matters for basic security."
+    },
+    {
+      "sentence": "不管你认为幸福是什么，<b>只要</b>你用心去找，<b>就</b>一定能发现它。",
+      "pinyin": "Bùguǎn nǐ rènwéi xìngfú shì shénme, zhǐyào nǐ yòngxīn qù zhǎo, jiù yídìng néng fāxiàn tā.",
+      "translation": "No matter what you think happiness is, as long as you search for it with your heart, you will definitely find it.",
+      "colloquial_equivalent": "幸福这东西，<b>只要</b>你认真去感受，<b>就</b>一定找得到。",
+      "colloquial_pinyin": "Xìngfú zhè dōngxi, zhǐyào nǐ rènzhēn qù gǎnshòu, jiù yídìng zhǎo de dào.",
+      "context": "Encouraging someone to notice happiness in everyday life."
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "孙月和王静聊王静的生活情况 (sūn yuè hé wáng jìng liáo wáng jìng de shēnghuó qíngkuàng) (Sun Yue and Wang Jing talk about Wang Jing’s life situation)",
+      "content": [
+        {
+          "speaker": "孙月",
+          "text": "礼拜天有空儿吗？陪我去逛街怎么样？我想去给丈夫买个生日礼物。",
+          "pinyin": "Lǐbàitiān yǒu kòngr ma? Péi wǒ qù guàngjiē zěnmeyàng? Wǒ xiǎng qù gěi zhàngfu mǎi ge shēngrì lǐwù.",
+          "translation": "Are you free on Sunday? How about going shopping with me? I want to buy my husband a birthday gift."
+        },
+        {
+          "speaker": "王静",
+          "text": "我可能去不了，最近事情多。",
+          "pinyin": "Wǒ kěnéng qù bù liǎo, zuìjìn shìqing duō.",
+          "translation": "I probably can’t go. I’ve had a lot going on recently."
+        },
+        {
+          "speaker": "孙月",
+          "text": "你最近是不是工作特别忙？",
+          "pinyin": "Nǐ zuìjìn shì bú shì gōngzuò tèbié máng?",
+          "translation": "Have you been especially busy with work lately?"
+        },
+        {
+          "speaker": "王静",
+          "text": "我现在<b>上</b>有老，<b>下</b>有小。除了工作以外，家里还有母亲和儿子需要照顾。",
+          "pinyin": "Wǒ xiànzài shàng yǒu lǎo, xià yǒu xiǎo. Chúle gōngzuò yǐwài, jiā li hái yǒu mǔqīn hé érzi xūyào zhàogù.",
+          "translation": "Right now I have elders above me and children below me to care for. Besides work, I also have my mother and son at home who need looking after."
+        },
+        {
+          "speaker": "孙月",
+          "text": "真是辛苦啊！你最近脸色不太好，是不是哪儿不舒服？要注意身体啊。",
+          "pinyin": "Zhēn shì xīnkǔ a! Nǐ zuìjìn liǎnsè bú tài hǎo, shì bú shì nǎr bù shūfu? Yào zhùyì shēntǐ a.",
+          "translation": "That really sounds hard! You haven’t looked very well lately. Are you feeling unwell somewhere? You need to take care of your health."
+        },
+        {
+          "speaker": "王静",
+          "text": "没事儿，谢谢！<b>不过</b>现在我很幸福，因为在母亲面前我可以做一个<b>永远</b>长不大的孩子；在孩子面前我又是个能照顾他的母亲，这让我有了努力的<b>方向</b>。",
+          "pinyin": "Méi shìr, xièxie! Búguò xiànzài wǒ hěn xìngfú, yīnwèi zài mǔqīn miànqián wǒ kěyǐ zuò yí ge yǒngyuǎn zhǎng bú dà de háizi; zài háizi miànqián wǒ yòu shì ge néng zhàogù tā de mǔqīn, zhè ràng wǒ yǒu le nǔlì de fāngxiàng.",
+          "translation": "I’m fine, thank you! But now I feel very happy, because in front of my mother I can be a child who never grows up; in front of my child, I am also a mother who can take care of him. This gives me a direction to work toward."
+        }
+      ],
+      "audio": "audio/10-1.mp3",
+      "proper_nouns": [
+        {
+          "word": "孙月",
+          "pinyin": "Sūn Yuè",
+          "meaning": "Sun Yue, name of a person"
+        },
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "礼拜天",
+          "pinyin": "lǐbàitiān",
+          "meaning": "n. Sunday"
+        },
+        {
+          "word": "空儿",
+          "pinyin": "kòngr",
+          "meaning": "n. free time, spare time"
+        },
+        {
+          "word": "母亲",
+          "pinyin": "mǔqīn",
+          "meaning": "n. mother"
+        },
+        {
+          "word": "不过",
+          "pinyin": "búguò",
+          "meaning": "conj. but, yet"
+        },
+        {
+          "word": "永远",
+          "pinyin": "yǒngyuǎn",
+          "meaning": "adv. forever"
+        },
+        {
+          "word": "方向",
+          "pinyin": "fāngxiàng",
+          "meaning": "n. direction, orientation"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "高老师和李老师在谈幸福 (gāo lǎoshī hé lǐ lǎoshī zài tán xìngfú) (Teacher Gao and Teacher Li talk about happiness)",
+      "content": [
+        {
+          "speaker": "高老师",
+          "text": "你看人家王老师，刚来这儿工作三年就当了教授，还有个好妻子，真让人羡慕！",
+          "pinyin": "Nǐ kàn rénjiā Wáng lǎoshī, gāng lái zhèr gōngzuò sān nián jiù dāng le jiàoshòu, hái yǒu ge hǎo qīzi, zhēn ràng rén xiànmù!",
+          "translation": "Look at Teacher Wang. He became a professor after working here for only three years, and he also has a good wife. It really makes people envious!"
+        },
+        {
+          "speaker": "李老师",
+          "text": "<b>其实</b>，你在别人眼中也是很幸福的，只是你自己没有发现。",
+          "pinyin": "Qíshí, nǐ zài biérén yǎn zhōng yě shì hěn xìngfú de, zhǐshì nǐ zìjǐ méiyǒu fāxiàn.",
+          "translation": "Actually, in other people’s eyes, you are also very happy. You just haven’t realized it yourself."
+        },
+        {
+          "speaker": "高老师",
+          "text": "是吗？我哪能跟王老师比啊？",
+          "pinyin": "Shì ma? Wǒ nǎ néng gēn Wáng lǎoshī bǐ a?",
+          "translation": "Really? How could I compare with Teacher Wang?"
+        },
+        {
+          "speaker": "李老师",
+          "text": "你有一个漂亮的女儿，还那么优秀，硕士毕业后就当了翻译。",
+          "pinyin": "Nǐ yǒu yí ge piàoliang de nǚ’ér, hái nàme yōuxiù, shuòshì bìyè hòu jiù dāng le fānyì.",
+          "translation": "You have a beautiful daughter, and she is so outstanding. After graduating with a master’s degree, she became a translator."
+        },
+        {
+          "speaker": "高老师",
+          "text": "我女儿<b>确实</b>不错，记得她刚拿到第一个月工资时，就兴奋地拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！",
+          "pinyin": "Wǒ nǚ’ér quèshí búcuò, jìde tā gāng ná dào dì yí ge yuè gōngzī shí, jiù xīngfèn de lā zhe wǒ hé tā bà liǎ qù shāngchǎng, gěi wǒmen mǎi lǐwù, nà shí wǒ hé tā bà xīn li bié tí duō měi le!",
+          "translation": "My daughter is indeed great. I remember when she had just received her first month’s salary, she excitedly dragged me and her father to the mall to buy us gifts. At that time, her father and I felt incredibly happy!"
+        },
+        {
+          "speaker": "李老师",
+          "text": "<b>所以说</b>每个人有每个人的生活，不用羡慕别人。你羡慕别人的时候，他们可能也正在羡慕你呢。",
+          "pinyin": "Suǒyǐ shuō měi ge rén yǒu měi ge rén de shēnghuó, bú yòng xiànmù biérén. Nǐ xiànmù biérén de shíhou, tāmen kěnéng yě zhèngzài xiànmù nǐ ne.",
+          "translation": "So, everyone has their own life, and there is no need to envy others. When you envy others, they may also be envying you."
+        }
+      ],
+      "audio": "audio/10-2.mp3",
+      "proper_nouns": [
+        {
+          "word": "高老师",
+          "pinyin": "Gāo Lǎoshī",
+          "meaning": "Teacher Gao"
+        },
+        {
+          "word": "李老师",
+          "pinyin": "Lǐ Lǎoshī",
+          "meaning": "Teacher Li"
+        },
+        {
+          "word": "王老师",
+          "pinyin": "Wáng Lǎoshī",
+          "meaning": "Teacher Wang"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "优秀",
+          "pinyin": "yōuxiù",
+          "meaning": "adj. excellent, outstanding"
+        },
+        {
+          "word": "硕士",
+          "pinyin": "shuòshì",
+          "meaning": "n. Master, person who has a master’s degree"
+        },
+        {
+          "word": "翻译",
+          "pinyin": "fānyì",
+          "meaning": "n. translator, interpreter"
+        },
+        {
+          "word": "确实",
+          "pinyin": "quèshí",
+          "meaning": "adv. truly, indeed"
+        },
+        {
+          "word": "兴奋",
+          "pinyin": "xīngfèn",
+          "meaning": "adj. excited"
+        },
+        {
+          "word": "拉",
+          "pinyin": "lā",
+          "meaning": "v. to pull, to drag"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "小雨和小夏聊找工作的事情 (xiǎo yǔ hé xiǎo xià liáo zhǎo gōngzuò de shìqing) (Xiao Yu and Xiao Xia talk about finding a job)",
+      "content": [
+        {
+          "speaker": "小雨",
+          "text": "时间过得真快，马上就要毕业了。毕业后你打算做什么？",
+          "pinyin": "Shíjiān guò de zhēn kuài, mǎshàng jiù yào bìyè le. Bìyè hòu nǐ dǎsuàn zuò shénme?",
+          "translation": "Time passes so quickly. We’re about to graduate. What do you plan to do after graduation?"
+        },
+        {
+          "speaker": "小夏",
+          "text": "我还没想好呢，正想听听你的建议。你觉得在选择职业时，收入重要吗？",
+          "pinyin": "Wǒ hái méi xiǎng hǎo ne, zhèng xiǎng tīng ting nǐ de jiànyì. Nǐ juéde zài xuǎnzé zhíyè shí, shōurù zhòngyào ma?",
+          "translation": "I haven’t decided yet. I was just thinking of hearing your advice. Do you think income is important when choosing a profession?"
+        },
+        {
+          "speaker": "小雨",
+          "text": "在我看来，赚钱多少不是最重要的，兴趣才是关键。<b>只有</b>做自己喜欢的事，<b>才</b>会觉得幸福，将来也会有更好的发展。",
+          "pinyin": "Zài wǒ kàn lái, zhuànqián duōshǎo bú shì zuì zhòngyào de, xìngqù cái shì guānjiàn. Zhǐyǒu zuò zìjǐ xǐhuan de shì, cái huì juéde xìngfú, jiānglái yě huì yǒu gèng hǎo de fāzhǎn.",
+          "translation": "In my view, how much money you earn is not the most important thing; interest is the key. Only by doing what you like will you feel happy, and you will also have better development in the future."
+        },
+        {
+          "speaker": "小夏",
+          "text": "我也这么想。<b>如果</b>我带着热情去做自己喜欢的工作，<b>就</b>不会感到累。<b>不过</b>，现在什么东西都那么贵，生活压力太大了，没有钱也不会过得幸福啊！",
+          "pinyin": "Wǒ yě zhème xiǎng. Rúguǒ wǒ dàizhe rèqíng qù zuò zìjǐ xǐhuan de gōngzuò, jiù bú huì gǎndào lèi. Búguò, xiànzài shénme dōngxi dōu nàme guì, shēnghuó yālì tài dà le, méiyǒu qián yě bú huì guò de xìngfú a!",
+          "translation": "I think so too. If I do a job I like with enthusiasm, I won’t feel tired. However, everything is so expensive now, and life pressure is too great. Without money, life won’t be happy either!"
+        },
+        {
+          "speaker": "小雨",
+          "text": "幸福其实很简单，它不是只要有钱就能买到的。我觉得工作结束回家后，洗个热水澡，然后躺在床上看看书、听听音乐，困了睡睡觉，就很幸福。",
+          "pinyin": "Xìngfú qíshí hěn jiǎndān, tā bú shì zhǐyào yǒu qián jiù néng mǎi dào de. Wǒ juéde gōngzuò jiéshù huí jiā hòu, xǐ ge rèshuǐzǎo, ránhòu tǎng zài chuáng shang kàn kan shū, tīng ting yīnyuè, kùn le shuì shuìjiào, jiù hěn xìngfú.",
+          "translation": "Happiness is actually very simple. It is not something you can buy just by having money. I think that after work, going home, taking a hot shower, then lying in bed reading a book, listening to music, and sleeping when I’m tired is already very happy."
+        },
+        {
+          "speaker": "小夏",
+          "text": "你说的也对。<b>如果</b>能找到一份自己既感兴趣，收入又不错的工作，那就最好了。",
+          "pinyin": "Nǐ shuō de yě duì. Rúguǒ néng zhǎodào yí fèn zìjǐ jì gǎn xìngqù, shōurù yòu búcuò de gōngzuò, nà jiù zuì hǎo le.",
+          "translation": "What you said is also right. If I can find a job that I’m interested in and that also has good income, that would be best."
+        }
+      ],
+      "audio": "audio/10-3.mp3",
+      "proper_nouns": [
+        {
+          "word": "小雨",
+          "pinyin": "Xiǎo Yǔ",
+          "meaning": "Xiao Yu, name of a person"
+        },
+        {
+          "word": "小夏",
+          "pinyin": "Xiǎo Xià",
+          "meaning": "Xiao Xia, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "建议",
+          "pinyin": "jiànyì",
+          "meaning": "n. suggestion, advice"
+        },
+        {
+          "word": "职业",
+          "pinyin": "zhíyè",
+          "meaning": "n. occupation, profession"
+        },
+        {
+          "word": "关键",
+          "pinyin": "guānjiàn",
+          "meaning": "n. hinge, crux"
+        },
+        {
+          "word": "将来",
+          "pinyin": "jiānglái",
+          "meaning": "n. future"
+        },
+        {
+          "word": "发展",
+          "pinyin": "fāzhǎn",
+          "meaning": "v. to develop, to promote"
+        },
+        {
+          "word": "躺",
+          "pinyin": "tǎng",
+          "meaning": "v. to lie on one’s back"
+        },
+        {
+          "word": "困",
+          "pinyin": "kùn",
+          "meaning": "adj. sleepy"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "关于金钱和幸福的短文 (guānyú jīnqián hé xìngfú de duǎnwén) (A short passage about money and happiness)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "有的人希望穿得再好一些，房子再大一些，认为经济条件越好人就越幸福。其实有很多富人过得并不愉快，而有些穷人却过得很快乐。有钱不一定幸福，因为很多东西都是不能用钱买到的，例如时间、感情、生活经历等。但是，从另外一个方面看，如果没钱，也很难过得幸福。当你生病了，如果<b>由于</b>缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。",
+          "pinyin": "Yǒu de rén xīwàng chuān de zài hǎo yìxiē, fángzi zài dà yìxiē, rènwéi jīngjì tiáojiàn yuè hǎo rén jiù yuè xìngfú. Qíshí yǒu hěn duō fùrén guò de bìng bù yúkuài, ér yǒu xiē qióngrén què guò de hěn kuàilè. Yǒu qián bù yídìng xìngfú, yīnwèi hěn duō dōngxi dōu shì bù néng yòng qián mǎi dào de, lìrú shíjiān, gǎnqíng, shēnghuó jīnglì děng. Dànshì, cóng lìngwài yí ge fāngmiàn kàn, rúguǒ méi qián, yě hěn nán guò de xìngfú. Dāng nǐ shēngbìng le, rúguǒ yóuyú quē qián ér bù néng jíshí qù kàn yīshēng, nǐ de jiànkāng dōu hěn nán dédào bǎozhèng, jiù gèng bié shuō xìngfú le.",
+          "translation": "Some people hope to dress even better and have an even bigger house, believing that the better one’s economic conditions are, the happier one will be. In fact, many rich people do not live happily, while some poor people live very happily. Having money does not necessarily mean happiness, because many things cannot be bought with money, such as time, feelings, life experiences, and so on. However, from another perspective, if you have no money, it is also hard to live happily. When you are sick, if you cannot see a doctor in time because you lack money, even your health is hard to guarantee, let alone happiness."
+        }
+      ],
+      "audio": "audio/10-4.mp3",
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "经济",
+          "pinyin": "jīngjì",
+          "meaning": "n. economy"
+        },
+        {
+          "word": "条件",
+          "pinyin": "tiáojiàn",
+          "meaning": "n. condition"
+        },
+        {
+          "word": "富",
+          "pinyin": "fù",
+          "meaning": "adj. rich, wealthy"
+        },
+        {
+          "word": "穷",
+          "pinyin": "qióng",
+          "meaning": "adj. poor, impoverished"
+        },
+        {
+          "word": "等",
+          "pinyin": "děng",
+          "meaning": "part. etc., and so on"
+        },
+        {
+          "word": "由于",
+          "pinyin": "yóuyú",
+          "meaning": "conj. because, since"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "关于什么是幸福的短文 (guānyú shénme shì xìngfú de duǎnwén) (A short passage about what happiness is)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "什么是幸福？有的人认为，工资高、能赚钱就是幸福；有的人认为，心情放松、身体健康才是幸福；也有人认为，能帮助别人就是一种幸福。还有人说，小时候幸福是一件东西，比如一块橡皮、一块糖，得到了就很幸福；长大后幸福是一种态度，生活的态度决定了我们幸福感的高低。那怎样才算是真正的幸福？其实，幸福并没有一个标准答案，每个人对幸福都有不同的理解。不管你认为幸福是什么，<b>只要</b>你用心去找，<b>就</b>一定能发现它。",
+          "pinyin": "Shénme shì xìngfú? Yǒu de rén rènwéi, gōngzī gāo, néng zhuànqián jiù shì xìngfú; yǒu de rén rènwéi, xīnqíng fàngsōng, shēntǐ jiànkāng cái shì xìngfú; yě yǒu rén rènwéi, néng bāngzhù biérén jiù shì yì zhǒng xìngfú. Hái yǒu rén shuō, xiǎoshíhou xìngfú shì yí jiàn dōngxi, bǐrú yí kuài xiàngpí, yí kuài táng, dédào le jiù hěn xìngfú; zhǎng dà hòu xìngfú shì yì zhǒng tàidu, shēnghuó de tàidu juédìng le wǒmen xìngfúgǎn de gāodī. Nà zěnyàng cái suàn shì zhēnzhèng de xìngfú? Qíshí, xìngfú bìng méiyǒu yí ge biāozhǔn dá’àn, měi ge rén duì xìngfú dōu yǒu bùtóng de lǐjiě. Bùguǎn nǐ rènwéi xìngfú shì shénme, zhǐyào nǐ yòngxīn qù zhǎo, jiù yídìng néng fāxiàn tā.",
+          "translation": "What is happiness? Some people believe that having a high salary and being able to earn money is happiness; some believe that feeling relaxed and being healthy is happiness; others believe that being able to help others is a kind of happiness. Some also say that when we are children, happiness is a thing, such as an eraser or a piece of candy, and getting it makes us happy; after growing up, happiness is an attitude, and our attitude toward life determines the level of our sense of happiness. So what counts as true happiness? In fact, happiness does not have a standard answer. Everyone has a different understanding of happiness. No matter what you think happiness is, as long as you search for it with your heart, you will definitely find it."
+        }
+      ],
+      "audio": "audio/10-5.mp3",
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "比如",
+          "pinyin": "bǐrú",
+          "meaning": "v. for example, such as"
+        },
+        {
+          "word": "橡皮",
+          "pinyin": "xiàngpí",
+          "meaning": "n. eraser, rubber"
+        },
+        {
+          "word": "糖",
+          "pinyin": "táng",
+          "meaning": "n. sugar, candy"
+        },
+        {
+          "word": "低",
+          "pinyin": "dī",
+          "meaning": "adj. low"
+        },
+        {
+          "word": "答案",
+          "pinyin": "dá’àn",
+          "meaning": "n. answer, key"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "vocabulary": {
+      "礼拜天": {
+        "en": "Sunday",
+        "ko": "일요일",
+        "ja": "日曜日"
+      },
+      "空儿": {
+        "en": "free time, spare time",
+        "ko": "빈 시간, 여유 시간",
+        "ja": "空き時間、暇"
+      },
+      "母亲": {
+        "en": "mother",
+        "ko": "어머니",
+        "ja": "母親"
+      },
+      "不过": {
+        "en": "but, yet",
+        "ko": "하지만, 그러나",
+        "ja": "しかし、ただし"
+      },
+      "永远": {
+        "en": "forever",
+        "ko": "영원히",
+        "ja": "永遠に"
+      },
+      "方向": {
+        "en": "direction, orientation",
+        "ko": "방향",
+        "ja": "方向"
+      },
+      "优秀": {
+        "en": "excellent, outstanding",
+        "ko": "우수하다, 뛰어나다",
+        "ja": "優秀な、優れた"
+      },
+      "硕士": {
+        "en": "Master, person who has a master’s degree",
+        "ko": "석사, 석사 학위자",
+        "ja": "修士、修士号を持つ人"
+      },
+      "翻译": {
+        "en": "translator, interpreter",
+        "ko": "번역가, 통역사",
+        "ja": "翻訳者、通訳者"
+      },
+      "确实": {
+        "en": "truly, indeed",
+        "ko": "확실히, 정말로",
+        "ja": "確かに、本当に"
+      },
+      "兴奋": {
+        "en": "excited",
+        "ko": "흥분하다, 신나다",
+        "ja": "興奮した"
+      },
+      "拉": {
+        "en": "to pull, to drag",
+        "ko": "끌다, 당기다",
+        "ja": "引っ張る"
+      },
+      "建议": {
+        "en": "suggestion, advice",
+        "ko": "건의, 조언",
+        "ja": "提案、アドバイス"
+      },
+      "职业": {
+        "en": "occupation, profession",
+        "ko": "직업",
+        "ja": "職業"
+      },
+      "关键": {
+        "en": "hinge, crux",
+        "ko": "관건, 핵심",
+        "ja": "鍵、要点"
+      },
+      "将来": {
+        "en": "future",
+        "ko": "장래, 미래",
+        "ja": "将来"
+      },
+      "发展": {
+        "en": "to develop, to promote",
+        "ko": "발전하다, 발전시키다",
+        "ja": "発展する、発展させる"
+      },
+      "躺": {
+        "en": "to lie on one’s back",
+        "ko": "눕다",
+        "ja": "横になる"
+      },
+      "困": {
+        "en": "sleepy",
+        "ko": "졸리다",
+        "ja": "眠い"
+      },
+      "经济": {
+        "en": "economy",
+        "ko": "경제",
+        "ja": "経済"
+      },
+      "条件": {
+        "en": "condition",
+        "ko": "조건",
+        "ja": "条件"
+      },
+      "富": {
+        "en": "rich, wealthy",
+        "ko": "부유하다",
+        "ja": "豊かな、裕福な"
+      },
+      "穷": {
+        "en": "poor, impoverished",
+        "ko": "가난하다",
+        "ja": "貧しい"
+      },
+      "等": {
+        "en": "etc., and so on",
+        "ko": "등, 따위",
+        "ja": "など"
+      },
+      "由于": {
+        "en": "because, since",
+        "ko": "~ 때문에, ~로 인해",
+        "ja": "〜のため、〜によって"
+      },
+      "比如": {
+        "en": "for example, such as",
+        "ko": "예를 들면",
+        "ja": "例えば"
+      },
+      "橡皮": {
+        "en": "eraser, rubber",
+        "ko": "지우개",
+        "ja": "消しゴム"
+      },
+      "糖": {
+        "en": "sugar, candy",
+        "ko": "사탕, 설탕",
+        "ja": "砂糖、キャンディー"
+      },
+      "低": {
+        "en": "low",
+        "ko": "낮다",
+        "ja": "低い"
+      },
+      "答案": {
+        "en": "answer, key",
+        "ko": "답안, 해답",
+        "ja": "答え、解答"
+      }
+    },
+    "properNouns": {
+      "孙月": {
+        "en": "Sun Yue, name of a person",
+        "ko": "쑨웨, 사람 이름",
+        "ja": "孫月、人名"
+      },
+      "王静": {
+        "en": "Wang Jing, name of a person",
+        "ko": "왕징, 사람 이름",
+        "ja": "王静、人名"
+      },
+      "高老师": {
+        "en": "Teacher Gao",
+        "ko": "가오 선생님",
+        "ja": "高先生"
+      },
+      "李老师": {
+        "en": "Teacher Li",
+        "ko": "리 선생님",
+        "ja": "李先生"
+      },
+      "王老师": {
+        "en": "Teacher Wang",
+        "ko": "왕 선생님",
+        "ja": "王先生"
+      },
+      "小雨": {
+        "en": "Xiao Yu, name of a person",
+        "ko": "샤오위, 사람 이름",
+        "ja": "小雨、人名"
+      },
+      "小夏": {
+        "en": "Xiao Xia, name of a person",
+        "ko": "샤오샤, 사람 이름",
+        "ja": "小夏、人名"
+      }
+    },
+    "lessonTitle": {
+      "en": "Lesson 10: Sun Yue and Wang Jing talk about Wang Jing’s life situation",
+      "ko": "Lesson 10: 쑨웨와 왕징이 왕징의 생활 상황에 대해 이야기하다",
+      "ja": "Lesson 10: 孫月と王静が王静の生活状況について話す"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Sun Yue and Wang Jing talk about Wang Jing’s life situation",
+        "ko": "쑨웨와 왕징이 왕징의 생활 상황에 대해 이야기하다",
+        "ja": "孫月と王静が王静の生活状況について話す"
+      },
+      "2": {
+        "en": "Teacher Gao and Teacher Li talk about happiness",
+        "ko": "가오 선생님과 리 선생님이 행복에 대해 이야기하다",
+        "ja": "高先生と李先生が幸せについて話す"
+      },
+      "3": {
+        "en": "Xiao Yu and Xiao Xia talk about finding a job",
+        "ko": "샤오위와 샤오샤가 구직에 대해 이야기하다",
+        "ja": "小雨と小夏が仕事探しについて話す"
+      },
+      "4": {
+        "en": "A short passage about money and happiness",
+        "ko": "돈과 행복에 관한 짧은 글",
+        "ja": "お金と幸せについての短文"
+      },
+      "5": {
+        "en": "A short passage about what happiness is",
+        "ko": "행복이란 무엇인가에 관한 짧은 글",
+        "ja": "幸せとは何かについての短文"
+      }
+    },
+    "grammar": {
+      "不过": {
+        "formal_translation": {
+          "en": "“不过” can be used as a conjunction at the beginning of the second clause to mark a turn in meaning, supplementing or revising the first clause. It can also be used as an adverb meaning “merely” or “only,” emphasizing that an amount, scale, or role is small.",
+          "ko": "접속사 “不过”는 뒤 절의 시작에 쓰여 의미의 전환을 나타내고, 앞 절의 뜻을 보충하거나 수정할 수 있습니다. 또한 부사로 쓰여 “단지, 그저”라는 뜻을 나타내며 수량이나 규모가 적거나 작음을 강조합니다.",
+          "ja": "接続詞「不过」は後半の節の冒頭で使われ、意味の転換を表し、前の節の内容を補足・修正します。また副詞として「ただ、ほんの」という意味を表し、数量や規模が小さいことを強調します。"
+        },
+        "colloquial_translation": {
+          "en": "Use “不过” like “but/however” when adding a turn or correction. Use it like “only/merely,” often in “不过是...,” when making something sound small or limited.",
+          "ko": "“不过”는 “하지만/그런데”처럼 앞말을 살짝 돌리거나 보충할 때 씁니다. 부사일 때는 “그저/단지”라는 뜻이고, “不过是...” 형태로 어떤 일을 작게 말할 때 자주 씁니다.",
+          "ja": "「不过」は「でも／しかし」のように、前の内容を少し転換したり補足したりするときに使います。副詞では「ただ／ほんの」という意味で、「不过是...」の形で物事を小さく言うときによく使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "I now have elderly parents above and children below. Besides work, my mother and son need care at home. However, I am very happy now.",
+              "ko": "나는 지금 위로는 노인이 있고 아래로는 아이가 있다. 일 외에도 집에는 돌봐야 할 어머니와 아들이 있다. 하지만 지금 나는 매우 행복하다.",
+              "ja": "私は今、上には高齢者、下には子どもがいます。仕事以外にも、家には世話が必要な母と息子がいます。でも今はとても幸せです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "It would have been better if you had come a little earlier. That bus just left, so you can only wait for the next one. But it should not take long; it will probably come in ten-something minutes.",
+              "ko": "네가 조금만 더 일찍 왔으면 좋았을 텐데. 그 차는 방금 떠났으니 다음 차를 기다릴 수밖에 없다. 하지만 오래 걸리지는 않을 것이고, 아마 십몇 분이면 올 것이다.",
+              "ja": "もう少し早く来ていればよかったですね。その車はちょうど出たので、次の車を待つしかありません。でもそれほど時間はかからず、十数分で来ると思います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "We only talked a little about work-related issues; we did not talk about anything else.",
+              "ko": "우리는 단지 업무 관련 문제를 조금 이야기했을 뿐이고, 다른 것은 이야기하지 않았다.",
+              "ja": "私たちは仕事に関する問題を少し話しただけで、ほかのことは話していません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Without your help, we definitely could not have completed the task on time. Thank you so much.\nB: You are too kind. I merely gave some suggestions; all of this is the result of your hard work.",
+              "ko": "A: 당신의 도움이 없었다면 우리는 분명 제때 임무를 끝낼 수 없었을 겁니다. 정말 감사합니다.\nB: 별말씀을요. 저는 그저 몇 가지 제안을 했을 뿐이고, 이 모든 것은 여러분이 애써 노력한 결과입니다.",
+              "ja": "A: あなたの助けがなければ、私たちはきっと期限どおりに任務を終えられませんでした。本当にありがとうございます。\nB: そんな、とんでもないです。私はただ少し提案をしただけで、これはすべて皆さんの努力の結果です。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I have been busy lately, but I can go shopping with you on the weekend.",
+              "ko": "요즘 바쁘지만, 주말에는 너와 쇼핑하러 갈 수 있어.",
+              "ja": "最近忙しいけれど、週末なら一緒に買い物に行けます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This is merely a small problem, so do not worry too much.",
+              "ko": "이 일은 그저 작은 문제일 뿐이니 너무 걱정하지 마.",
+              "ja": "これはただの小さな問題なので、あまり心配しなくていいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "We only chatted for a few sentences and have not discussed it seriously yet.",
+              "ko": "우리는 단지 몇 마디 나눴을 뿐이고, 아직 진지하게 논의하지 않았다.",
+              "ja": "私たちはほんの少し話しただけで、まだ真剣には話し合っていません。"
+            }
+          }
+        ]
+      },
+      "不过—但是": {
+        "formal_translation": {
+          "en": "Both “不过” and “但是” mark transition at the beginning of a following clause. “不过” is often softer and more conversational, especially for polite suggestions or refusals; “但是” sounds stronger. “不过” can also mean “only/merely,” while “但是” cannot.",
+          "ko": "“不过”와 “但是”는 모두 뒤 절의 시작에서 전환을 나타낼 수 있습니다. “不过”는 정중하게 제안하거나 거절할 때 구어에서 더 부드럽게 쓰이는 경우가 많고, “但是”는 전환의 어감이 더 강합니다. 또한 “不过”는 “단지/그저”라는 부사 용법이 있지만 “但是”에는 없습니다.",
+          "ja": "「不过」と「但是」はどちらも後続節の冒頭で転換を表せます。「不过」は丁寧に提案したり断ったりするときに、話し言葉でより柔らかく使われることが多く、「但是」は転換の語気がより強めです。また「不过」には「ただ／ほんの」という副詞用法がありますが、「但是」にはありません。"
+        },
+        "colloquial_translation": {
+          "en": "Use “不过” for a softer “but,” and “但是” for a stronger “but.” “不过” can also mean “only.”",
+          "ko": "부드러운 “하지만”은 “不过”, 더 강한 “하지만”은 “但是”를 씁니다. “不过”는 “단지”라는 뜻도 됩니다.",
+          "ja": "柔らかい「でも」は「不过」、強めの「しかし」は「但是」を使います。「不过」は「ただ」という意味にもなります。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "I originally wanted to be a lawyer, but later I found that I was more interested in news.",
+              "ko": "나는 원래 변호사가 되고 싶었지만, 나중에 내가 뉴스에 더 관심이 있다는 것을 알게 되었다.",
+              "ja": "私はもともと弁護士になりたかったのですが、後で自分はニュースにもっと興味があることに気づきました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Sorry, sir, that cake has sold out, but you can try this kind of biscuit; it also tastes good.",
+              "ko": "죄송합니다, 손님. 그 케이크는 이미 다 팔렸지만, 이 비스킷을 한번 드셔 보셔도 됩니다. 맛도 꽤 좋습니다.",
+              "ja": "申し訳ありません、お客様。そのケーキは売り切れましたが、このビスケットをお試しいただけます。味もなかなかいいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Other people’s methods may be effective, but they are not necessarily suitable for you.",
+              "ko": "다른 사람의 방법은 효과적일 수도 있지만, 반드시 너에게 맞는 것은 아니다.",
+              "ja": "他人の方法は効果的かもしれませんが、必ずしもあなたに合うとは限りません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Last year I was only 50 kilograms; why did I get so fat this year?",
+              "ko": "작년에 나는 겨우 50킬로였는데, 올해는 왜 이렇게 살이 쪘지?",
+              "ja": "去年私はたった50キロだったのに、今年はどうしてこんなに太ったのでしょう。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I want to help you, but I really do not have time today.",
+              "ko": "도와주고 싶지만 오늘은 정말 시간이 없어.",
+              "ja": "手伝いたいのですが、今日は本当に時間がありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This method is good, but the risk is also quite high.",
+              "ko": "이 방법은 괜찮지만 위험도 비교적 크다.",
+              "ja": "この方法は悪くありませんが、リスクもかなり大きいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I finished it in only ten minutes.",
+              "ko": "나는 단지 10분 만에 끝냈다.",
+              "ja": "私はたった10分で終わらせました。"
+            }
+          }
+        ]
+      },
+      "确实": {
+        "formal_translation": {
+          "en": "The adverb “确实” confirms the veracity of an objective condition.",
+          "ko": "부사 “确实”는 객관적 상황의 진실성을 긍정하고 확인합니다.",
+          "ja": "副詞「确实」は、客観的な状況が事実であることを肯定・確認します。"
+        },
+        "colloquial_translation": {
+          "en": "Use “确实” when saying something is really or indeed true.",
+          "ko": "어떤 일이 정말 그렇다고 확인할 때 “确实”를 씁니다.",
+          "ja": "何かが本当にそうだと確認するときに「确实」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Love is indeed an important reason for marriage, but love alone is not enough.",
+              "ko": "사랑은 확실히 결혼의 중요한 이유이지만, 사랑만으로는 충분하지 않다.",
+              "ja": "愛情は確かに結婚の重要な理由ですが、愛情だけでは十分ではありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: We have not seen each other for years, and you still love joking. How could I be as young as you say?\nB: I am telling the truth. You really are younger and prettier than before.",
+              "ko": "A: 몇 년 만에 만났는데 너는 여전히 농담을 좋아하는구나. 내가 네 말처럼 그렇게 젊을 리가 있니?\nB: 진짜야. 너는 확실히 예전보다 더 젊고 예뻐졌어.",
+              "ja": "A: 何年も会っていないのに、相変わらず冗談が好きですね。私があなたの言うほど若いわけないでしょう。\nB: 本当です。あなたは確かに以前より若く、きれいになりました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "My daughter really is wonderful. I remember when she had just received her first month’s salary, she excitedly pulled her father and me to the mall to buy gifts for us. At that time, her father and I were extremely happy.",
+              "ko": "내 딸은 확실히 괜찮다. 그녀가 첫 월급을 받자마자 신이 나서 나와 그녀 아빠를 끌고 쇼핑몰에 가서 우리에게 선물을 사 주던 일이 기억난다. 그때 나와 그녀 아빠는 정말 기뻤다.",
+              "ja": "私の娘は確かにすばらしいです。彼女が初任給をもらったばかりのとき、興奮して私と父親をデパートに連れて行き、私たちにプレゼントを買ってくれたことを覚えています。そのとき私たちは本当にうれしかったです。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "What you said really makes sense.",
+              "ko": "네 말은 확실히 일리가 있다.",
+              "ja": "あなたの言うことは確かに筋が通っています。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The biscuits from this shop really are delicious.",
+              "ko": "이 가게의 비스킷은 확실히 맛있다.",
+              "ja": "この店のビスケットは確かにおいしいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He really works much harder than before.",
+              "ko": "그는 확실히 예전보다 훨씬 더 노력한다.",
+              "ja": "彼は確かに以前よりずっと努力しています。"
+            }
+          }
+        ]
+      },
+      "在……看来": {
+        "formal_translation": {
+          "en": "“在……看来” is a parenthetical expression meaning “in someone’s opinion,” showing that what follows is an opinion or view.",
+          "ko": "“在……看来”는 “~가 보기에/~의 생각에는”이라는 삽입 표현으로, 뒤 내용이 의견이나 견해임을 나타냅니다.",
+          "ja": "「在……看来」は「〜から見ると／〜の考えでは」という挿入表現で、後に続く内容が意見や見方であることを表します。"
+        },
+        "colloquial_translation": {
+          "en": "Use “在……看来” to introduce someone’s opinion: “in my view,” “in his view,” etc.",
+          "ko": "“내가 보기에는”, “그가 보기에는”처럼 누군가의 의견을 꺼낼 때 씁니다.",
+          "ja": "「私から見ると」「彼から見ると」のように、誰かの意見を示すときに使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "In many people’s view, listening to pop music is only a hobby of young people, but actually many middle-aged and elderly people are also interested in pop songs now.",
+              "ko": "많은 사람들이 보기에 유행 음악을 듣는 것은 단지 젊은이들의 취미이지만, 사실 지금은 적지 않은 중장년층도 유행가에 관심이 있다.",
+              "ja": "多くの人から見ると、流行音楽を聴くことは若者だけの趣味ですが、実際には今、多くの中高年も流行歌に興味を持っています。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In my opinion, the result of the competition is not the most important thing; improving yourself during the process of participating is more important.",
+              "ko": "내가 보기에는 경기 결과가 가장 중요한 것은 아니며, 경기에 참가하는 과정에서 자신을 향상시키는 것이 더 중요하다.",
+              "ja": "私から見ると、試合の結果は最も重要なものではなく、参加する過程で自分を向上させることのほうが重要です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Do you think income is important when choosing a career?\nB: In my opinion, how much money one earns is not the most important thing; interest is the key.",
+              "ko": "A: 직업을 선택할 때 수입이 중요하다고 생각해?\nB: 내가 보기에는 돈을 얼마나 버는지가 가장 중요한 것은 아니고, 흥미가 핵심이야.",
+              "ja": "A: 職業を選ぶとき、収入は重要だと思いますか。\nB: 私から見ると、いくら稼ぐかは最も重要ではなく、興味こそが鍵です。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "In my view, this job suits you well.",
+              "ko": "내가 보기에는 이 일은 너에게 잘 맞는다.",
+              "ja": "私から見ると、この仕事はあなたにとても合っています。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In his view, the process is more important than the result.",
+              "ko": "그가 보기에는 과정이 결과보다 더 중요하다.",
+              "ja": "彼から見ると、過程は結果より重要です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In many students’ view, interest is the key to learning.",
+              "ko": "많은 학생들이 보기에는 흥미가 학습의 핵심이다.",
+              "ja": "多くの学生から見ると、興味こそが学習の鍵です。"
+            }
+          }
+        ]
+      },
+      "由于": {
+        "formal_translation": {
+          "en": "“由于” can be used as a conjunction to indicate a reason, usually followed by a sentence and used in the first clause of a complex sentence. It can also be used as a preposition indicating a reason, followed by a nominal phrase.",
+          "ko": "“由于”는 원인을 나타내는 접속사로 쓰일 수 있으며, 보통 뒤에 문장이 오고 복문의 앞 절에 쓰입니다. 또한 원인을 나타내는 전치사로도 쓰이며, 뒤에는 명사성 구가 옵니다.",
+          "ja": "「由于」は原因を表す接続詞として使え、通常は後ろに文が続き、複文の前半節で用いられます。また原因を表す前置詞としても使え、後ろには名詞句が続きます。"
+        },
+        "colloquial_translation": {
+          "en": "Use “由于” to give a cause. It is a bit formal and can be followed by either a clause or a noun phrase.",
+          "ko": "원인을 말할 때 “由于”를 씁니다. 약간 격식 있는 표현이며, 뒤에 문장이나 명사구가 올 수 있습니다.",
+          "ja": "原因を述べるときに「由于」を使います。やや改まった表現で、後ろには文または名詞句が続きます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "This Spring Festival they had originally planned to travel abroad, but because an elderly family member suddenly fell ill, they had to give up the plan.",
+              "ko": "올해 춘절에 그들은 원래 해외에 나가 둘러볼 계획이었지만, 집안 어르신이 갑자기 병이 나서 어쩔 수 없이 그 계획을 포기했다.",
+              "ja": "今年の春節、彼らはもともと海外へ出かける予定でしたが、家の高齢者が突然病気になったため、その計画を諦めるしかありませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When you are sick, if you cannot see a doctor in time because you lack money, even your health is hard to guarantee, let alone happiness.",
+              "ko": "병이 났을 때 돈이 부족해서 제때 의사를 보러 가지 못한다면 건강조차 보장받기 어렵고, 행복은 더 말할 것도 없다.",
+              "ja": "病気になったとき、お金がないためにすぐ医者に行けなければ、健康さえ保証しにくく、まして幸福は言うまでもありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Due to various reasons, we had to change our original plan.",
+              "ko": "여러 가지 이유로 우리는 원래 계획을 바꿀 수밖에 없었다.",
+              "ja": "さまざまな理由により、私たちは元の計画を変更せざるを得ませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Because of work needs, I went to Shanghai last October to discuss business with a company.",
+              "ko": "업무상 필요로 나는 작년 10월에 상하이에 한 번 가서 한 회사와 사업 이야기를 했다.",
+              "ja": "仕事の必要により、私は去年10月に上海へ行き、ある会社と商談をしました。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Because the weather is bad, the competition has been moved to tomorrow.",
+              "ko": "날씨가 좋지 않아서 경기가 내일로 변경되었다.",
+              "ja": "天気が悪いため、試合は明日に変更されました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Because there was not enough time, we only discussed one issue.",
+              "ko": "시간이 부족해서 우리는 한 가지 문제만 논의했다.",
+              "ja": "時間が足りなかったため、私たちは一つの問題だけを話し合いました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Because of work reasons, he cannot participate in this activity.",
+              "ko": "업무상의 이유로 그는 이번 활동에 참가할 수 없다.",
+              "ja": "仕事の都合により、彼は今回の活動に参加できません。"
+            }
+          }
+        ]
+      },
+      "比如": {
+        "formal_translation": {
+          "en": "The verb “比如” introduces examples used to explain a thing or situation.",
+          "ko": "동사 “比如”는 어떤 사물이나 상황을 설명하기 위한 예를 끌어올 때 씁니다.",
+          "ja": "動詞「比如」は、物事や状況を説明するための例を導入するときに使います。"
+        },
+        "colloquial_translation": {
+          "en": "Use “比如” like “for example” or “such as.”",
+          "ko": "“예를 들면”, “예컨대”처럼 예시를 말할 때 “比如”를 씁니다.",
+          "ja": "「例えば」「〜など」のように例を挙げるときに「比如」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Some people also say that when they were young, happiness was an object, such as an eraser or a piece of candy; getting it made them very happy.",
+              "ko": "또 어떤 사람들은 어릴 때 행복은 하나의 물건, 예를 들어 지우개 하나나 사탕 하나였고, 그것을 얻으면 매우 행복했다고 말한다.",
+              "ja": "また、子どものころの幸せは一つの物、例えば消しゴム一つや飴一つで、それを手に入れるととても幸せだったと言う人もいます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Everyone has things they are especially interested in; for example, writers love writing novels, and painters love painting. Only after understanding our own interests and hobbies can we develop ourselves better.",
+              "ko": "모든 사람에게는 자신이 특별히 흥미를 느끼는 것이 있다. 예를 들어 작가는 소설 쓰기를 좋아하고, 화가는 그림 그리기를 좋아한다. 우리는 자신의 흥미와 취미를 이해한 뒤에야 자신을 더 잘 발전시킬 수 있다.",
+              "ja": "誰にでも自分が特に興味を持つものがあります。例えば、作家は小説を書くのが好きで、画家は絵を描くのが好きです。自分の興味や好みを理解して初めて、よりよく自分を発展させることができます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Before traveling, it is best to make a plan, such as how many places to visit, how to get there, what to bring, and how many days to spend. If you think these things through in advance, traveling will be easier.",
+              "ko": "여행 전에 계획을 세우는 것이 가장 좋다. 예를 들어 몇 곳에 갈지, 어떻게 차를 탈지, 어떤 물건을 가져갈지, 모두 며칠 동안 놀지 등이다. 이런 것들을 미리 생각해 두면 여행할 때 더 수월하다.",
+              "ja": "旅行の前には計画を立てるのが一番よいです。例えば、いくつの場所へ行くか、どうやって車に乗るか、何を持って行くか、全部で何日遊ぶかなどです。これらを前もって考えておけば、旅行のときにもっと楽になります。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I like sweet things, such as candy and chocolate.",
+              "ko": "나는 단것을 좋아한다. 예를 들어 사탕과 초콜릿이다.",
+              "ja": "私は甘いものが好きです。例えば、飴やチョコレートです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "There are many things you can do on the weekend, such as watching a movie, going shopping, or resting at home.",
+              "ko": "주말에는 많은 일을 할 수 있다. 예를 들어 영화를 보거나, 쇼핑을 하거나, 집에서 쉬는 것이다.",
+              "ja": "週末にはいろいろなことができます。例えば、映画を見る、買い物に行く、家で休むなどです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "To learn Chinese, you need to practice more, for example by listening more, speaking more, and writing more.",
+              "ko": "중국어를 배우려면 많이 연습해야 한다. 예를 들어 많이 듣고, 많이 말하고, 많이 쓰는 것이다.",
+              "ja": "中国語を学ぶにはたくさん練習する必要があります。例えば、たくさん聞く、たくさん話す、たくさん書くことです。"
+            }
+          }
+        ]
+      },
+      "同字词：经": {
+        "formal_translation": {
+          "en": "Words with the same character “经” include “经济” (economy/economic), “经验” (experience as knowledge or work experience), and “经历” (to go through; an experience one has lived through).",
+          "ko": "같은 글자 “经”이 들어간 단어에는 “经济”(경제, 경제적인 상황), “经验”(경험, 업무 경험처럼 축적된 지식), “经历”(겪다, 겪은 일/경험)가 있습니다.",
+          "ja": "同じ字「经」を含む語には、「经济」（経済・経済状況）、「经验」（経験、仕事経験など実践で得た知識）、「经历」（経験する、実際に経た出来事）があります。"
+        },
+        "colloquial_translation": {
+          "en": "“经济” is about money or economy, “经验” is know-how from practice, and “经历” is something you personally go through.",
+          "ko": "“经济”는 돈이나 경제 상황, “经验”은 실천에서 얻은 노하우, “经历”는 직접 겪은 일을 말합니다.",
+          "ja": "「经济」はお金や経済状況、「经验」は実践から得たノウハウ、「经历」は自分で実際に経験したことを表します。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Everyone has more or less pressure in work, study, and finances. Pressure is not necessarily a bad thing; the key is knowing how to reduce pressure for yourself. Watching movies, listening to music, chatting with friends, and taking walks are all very effective methods.",
+              "ko": "모든 사람은 일, 공부, 경제 면에서 많든 적든 압박을 느낀다. 압박이 반드시 나쁜 것은 아니며, 핵심은 어떻게 해야 스스로 스트레스를 줄일 수 있는지 아는 것이다. 영화 보기, 음악 듣기, 친구와 이야기하기, 산책하기 등은 모두 매우 효과적인 방법이다.",
+              "ja": "誰でも仕事、勉強、経済面で多かれ少なかれプレッシャーがあります。プレッシャーは必ずしも悪いことではなく、大切なのはどうすれば自分のストレスを減らせるかを知ることです。映画を見る、音楽を聴く、友人と話す、散歩するなどは、どれも非常に効果的な方法です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "An advertising company is hiring a senior manager. The requirements are graduation from an art major and more than two years of work experience. I think your qualifications are quite suitable, so you can try applying.",
+              "ko": "어떤 광고 회사가 고급 관리자를 채용하고 있는데, 요구 조건은 예술 전공 졸업과 2년 이상의 업무 경험이다. 네 조건이 꽤 잘 맞는다고 생각하니 한번 지원해 볼 수 있다.",
+              "ja": "ある広告会社が上級マネージャーを募集しており、条件は芸術専攻卒業で、2年以上の職務経験があることです。あなたの条件はかなり合っていると思うので、応募してみてもよいでしょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In a person’s life, they will encounter many things, either happy or sad, and all of them can only be experienced by themselves. Life is lived by oneself; what others say is not important, as long as one feels happy.",
+              "ko": "사람은 평생 많은 일을 만나게 되며, 즐거운 일이든 슬픈 일이든 모두 스스로 겪을 수밖에 없다. 삶은 자신이 살아가는 것이므로, 다른 사람이 뭐라고 하든 중요하지 않고 자신이 행복하다고 느끼면 된다.",
+              "ja": "人は一生の中で多くのことに出会います。楽しいことも悲しいことも、すべて自分で経験するしかありません。生活は自分で送るものなので、他人が何を言うかは重要ではなく、自分が楽しいと感じればそれでよいのです。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Recently I have had some financial pressure, so I want to buy fewer unnecessary things.",
+              "ko": "최근 경제적 압박이 조금 커서 필요 없는 물건을 덜 사고 싶다.",
+              "ja": "最近、経済的なプレッシャーが少し大きいので、不要なものを買うのを減らしたいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He has three years of work experience, so he adapted to the new job quickly.",
+              "ko": "그는 3년의 업무 경험이 있어서 새 일에 빨리 적응했다.",
+              "ja": "彼は3年の職務経験があるので、新しい仕事にすぐ慣れました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This failure is also an experience, and it will help in the future.",
+              "ko": "이번 실패도 하나의 경험이니 앞으로 도움이 될 것이다.",
+              "ja": "今回の失敗も一つの経験であり、今後役に立つでしょう。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "没事儿，谢谢！<b>不过</b>现在我很幸福，因为在母亲面前我可以做一个永远长不大的孩子；在孩子面前我又是个能照顾他的母亲，这让我有了努力的方向。": {
+        "translation": {
+          "en": "I’m fine, thank you! But now I feel very happy, because in front of my mother I can be a child who never grows up; in front of my child, I am also a mother who can take care of him. This gives me a direction to work toward.",
+          "ko": "괜찮아요, 고마워요! 하지만 지금은 행복해요. 어머니 앞에서는 영원히 자라지 않는 아이가 될 수 있고, 아이 앞에서는 그를 돌볼 수 있는 어머니가 되기 때문이에요. 이것이 제게 노력할 방향을 주었어요.",
+          "ja": "大丈夫です、ありがとう！でも今は幸せです。母の前では永遠に大きくならない子どもでいられ、子どもの前では彼を世話できる母親でもいられるからです。それが私に努力する方向を与えてくれました。"
+        },
+        "colloquial_translation": {
+          "en": "I’m okay. But honestly, I’m pretty happy like this. I have elders and a child to care for, so life is busy, but I have something to work toward.",
+          "ko": "괜찮아. 그래도 지금 이렇게 사는 것도 꽤 행복해. 위로는 어른, 아래로는 아이가 있어서 바쁘지만 마음속에는 목표가 있어.",
+          "ja": "大丈夫だよ。でも正直、今のこういう生活もけっこう幸せ。親も子どももいて忙しいけれど、心には頑張る目標がある。"
+        },
+        "context": {
+          "en": "Softening a complaint by turning it into a positive feeling.",
+          "ko": "힘든 상황을 말하면서도 긍정적인 감정으로 전환할 때.",
+          "ja": "大変な状況を話しながらも、前向きな気持ちに変えるとき。"
+        }
+      },
+      "我女儿<b>确实</b>不错，记得她刚拿到第一个月工资时，就兴奋地拉着我和她爸俩去商场，给我们买礼物，那时我和她爸心里别提多美了！": {
+        "translation": {
+          "en": "My daughter is indeed great. I remember when she had just received her first month’s salary, she excitedly dragged me and her father to the mall to buy us gifts. At that time, her father and I felt incredibly happy!",
+          "ko": "우리 딸은 정말 괜찮아요. 첫 월급을 받았을 때 신이 나서 나와 아빠를 쇼핑몰로 끌고 가 선물을 사 줬던 게 기억나요. 그때 우리 부부는 말할 수 없이 기뻤어요!",
+          "ja": "娘は確かにすばらしいです。初任給をもらったばかりのとき、興奮して私と父親をショッピングモールへ連れて行き、プレゼントを買ってくれたのを覚えています。そのとき私たちは本当にうれしかったです！"
+        },
+        "colloquial_translation": {
+          "en": "My daughter really makes us proud. The first time she got paid, she already wanted to buy us gifts. We were over the moon.",
+          "ko": "우리 딸은 정말 대견해. 첫 월급을 받자마자 우리에게 선물을 사 주려고 했거든. 그때 정말 기뻤어.",
+          "ja": "娘は本当に誇らしいです。初めて給料をもらったとき、すぐ私たちにプレゼントを買おうとしてくれました。私たちは本当にうれしかったです。"
+        },
+        "context": {
+          "en": "Praising someone with objective confirmation and pride.",
+          "ko": "객관적으로 인정하며 자랑스럽게 칭찬할 때.",
+          "ja": "客観的に認めながら誇らしく褒めるとき。"
+        }
+      },
+      "在我看来，赚钱多少不是最重要的，兴趣才是关键。<b>只有</b>做自己喜欢的事，<b>才</b>会觉得幸福，将来也会有更好的发展。": {
+        "translation": {
+          "en": "In my view, how much money you earn is not the most important thing; interest is the key. Only by doing what you like will you feel happy, and you will also have better development in the future.",
+          "ko": "내가 보기에는 돈을 얼마나 버는지가 가장 중요한 것은 아니고, 흥미가 핵심이에요. 자신이 좋아하는 일을 해야 행복을 느낄 수 있고, 앞으로도 더 잘 발전할 수 있어요.",
+          "ja": "私から見ると、どれだけお金を稼ぐかが最も重要なのではなく、興味こそが大切です。自分の好きなことをしてこそ幸せを感じ、将来もよりよく発展できます。"
+        },
+        "colloquial_translation": {
+          "en": "In my view, money is not the only standard. Doing what you actually like gives you more drive.",
+          "ko": "내가 보기에는 돈이 유일한 기준은 아니야. 진짜 좋아하는 일을 해야 더 힘이 나.",
+          "ja": "私から見ると、お金だけが基準ではありません。本当に好きなことをするほうが、もっとやる気が出ます。"
+        },
+        "context": {
+          "en": "Giving career advice based on personal values.",
+          "ko": "개인의 가치관을 바탕으로 진로 조언을 할 때.",
+          "ja": "個人の価値観に基づいて進路の助言をするとき。"
+        }
+      },
+      "当你生病了，如果<b>由于</b>缺钱而不能及时去看医生，你的健康都很难得到保证，就更别说幸福了。": {
+        "translation": {
+          "en": "When you are sick, if you cannot see a doctor in time because you lack money, even your health is hard to guarantee, let alone happiness.",
+          "ko": "아플 때 돈이 부족해서 제때 의사를 보지 못한다면 건강조차 보장받기 어렵고, 행복은 더 말할 것도 없어요.",
+          "ja": "病気になったとき、お金が足りないためにすぐ医者に行けなければ、健康さえ保証されにくく、まして幸せなど言うまでもありません。"
+        },
+        "colloquial_translation": {
+          "en": "If you’re so short on money that you can’t even see a doctor, you can’t protect your health, let alone talk about happiness.",
+          "ko": "돈이 없어서 병원도 못 갈 정도라면 건강도 지키기 어렵고, 행복은 말할 것도 없어.",
+          "ja": "お金がなくて病院にさえ行けないなら、健康も守れないし、幸せなんてなおさらです。"
+        },
+        "context": {
+          "en": "Explaining why money still matters for basic security.",
+          "ko": "기본적인 안전을 위해 돈이 여전히 중요하다는 점을 설명할 때.",
+          "ja": "基本的な安心のためにお金がやはり重要だと説明するとき。"
+        }
+      },
+      "不管你认为幸福是什么，<b>只要</b>你用心去找，<b>就</b>一定能发现它。": {
+        "translation": {
+          "en": "No matter what you think happiness is, as long as you search for it with your heart, you will definitely find it.",
+          "ko": "당신이 행복을 무엇이라고 생각하든, 마음을 다해 찾기만 하면 반드시 발견할 수 있어요.",
+          "ja": "あなたが幸せを何だと思っていても、心を込めて探しさえすれば、きっと見つけることができます。"
+        },
+        "colloquial_translation": {
+          "en": "Happiness is something you can find if you really pay attention to it.",
+          "ko": "행복이라는 건 진심으로 느끼려고 하면 반드시 찾을 수 있어.",
+          "ja": "幸せというものは、本気で感じようとすればきっと見つけられます。"
+        },
+        "context": {
+          "en": "Encouraging someone to notice happiness in everyday life.",
+          "ko": "일상 속 행복을 알아차리도록 격려할 때.",
+          "ja": "日常の中の幸せに気づくよう励ますとき。"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Are you free on Sunday? How about going shopping with me? I want to buy my husband a birthday gift.",
+              "ko": "일요일에 시간 있어? 나랑 쇼핑하러 가는 게 어때? 남편에게 생일 선물을 하나 사 주고 싶어.",
+              "ja": "日曜日に時間ある？私と買い物に行くのはどう？夫に誕生日プレゼントを買いたいの。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I probably can’t go. I’ve had a lot going on recently.",
+              "ko": "나는 아마 못 갈 것 같아. 요즘 일이 많아.",
+              "ja": "私はたぶん行けないと思う。最近やることが多いの。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Have you been especially busy with work lately?",
+              "ko": "요즘 일이 특히 바쁜 거야?",
+              "ja": "最近、仕事が特に忙しいの？"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Right now I have elders above me and children below me to care for. Besides work, I also have my mother and son at home who need looking after.",
+              "ko": "나는 지금 위로는 어른이 있고 아래로는 아이가 있어. 일 말고도 집에는 돌봐야 할 어머니와 아들이 있어.",
+              "ja": "私は今、上には年寄り、下には子どもがいる状態です。仕事以外にも、家には世話をしなければならない母と息子がいます。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "That really sounds hard! You haven’t looked very well lately. Are you feeling unwell somewhere? You need to take care of your health.",
+              "ko": "정말 고생이 많네! 요즘 안색이 별로 좋아 보이지 않는데, 어디 불편한 거야? 몸 조심해야 해.",
+              "ja": "本当に大変だね！最近顔色があまりよくないけど、どこか具合が悪いの？体に気をつけてね。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "I’m fine, thank you! But now I feel very happy, because in front of my mother I can be a child who never grows up; in front of my child, I am also a mother who can take care of him. This gives me a direction to work toward.",
+              "ko": "괜찮아, 고마워! 하지만 지금 나는 아주 행복해. 어머니 앞에서는 영원히 자라지 않는 아이가 될 수 있고, 아이 앞에서는 그를 돌볼 수 있는 어머니이기도 하니까. 이것이 나에게 노력할 방향을 주었어.",
+              "ja": "大丈夫、ありがとう！でも今、私はとても幸せです。母の前では永遠に大きくならない子どもでいられるし、子どもの前では彼を世話できる母親でもあります。これが私に努力する方向を与えてくれました。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Look at Teacher Wang. He became a professor after working here for only three years, and he also has a good wife. It really makes people envious!",
+              "ko": "왕 선생님을 봐요. 여기 온 지 겨우 3년 만에 교수가 되었고 좋은 아내도 있으니 정말 부럽네요!",
+              "ja": "王先生を見てください。ここで働き始めてわずか三年で教授になり、良い奥さんもいて、本当にうらやましいですね！"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Actually, in other people’s eyes, you are also very happy. You just haven’t realized it yourself.",
+              "ko": "사실 다른 사람 눈에는 당신도 아주 행복한 사람입니다. 다만 스스로 발견하지 못했을 뿐이에요.",
+              "ja": "実は、他人の目にはあなたもとても幸せに見えています。ただ自分で気づいていないだけです。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Really? How could I compare with Teacher Wang?",
+              "ko": "그래요? 제가 어떻게 왕 선생님과 비교될 수 있겠어요?",
+              "ja": "そうですか？私がどうして王先生と比べられるでしょうか。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "You have a beautiful daughter, and she is so outstanding. After graduating with a master’s degree, she became a translator.",
+              "ko": "당신에게는 예쁜 딸이 있고, 또 그렇게 우수하잖아요. 석사 졸업 후 바로 번역가가 되었고요.",
+              "ja": "あなたにはきれいな娘さんがいて、しかもとても優秀です。修士課程を卒業した後、すぐ翻訳者になりました。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "My daughter is indeed great. I remember when she had just received her first month’s salary, she excitedly dragged me and her father to the mall to buy us gifts. At that time, her father and I felt incredibly happy!",
+              "ko": "제 딸은 확실히 괜찮아요. 딸이 첫 달 월급을 막 받았을 때, 신이 나서 저와 그 애 아빠를 끌고 쇼핑몰에 가서 우리에게 선물을 사 줬던 기억이 납니다. 그때 저와 그 애 아빠는 말할 수 없이 기뻤어요!",
+              "ja": "娘は確かに立派です。彼女が初めての月給をもらったばかりの時、興奮して私と父親を連れてショッピングモールへ行き、私たちにプレゼントを買ってくれました。その時、私と彼女の父親は言葉にできないほど嬉しかったです！"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "So, everyone has their own life, and there is no need to envy others. When you envy others, they may also be envying you.",
+              "ko": "그러니까 사람마다 각자의 삶이 있는 것이고, 다른 사람을 부러워할 필요는 없습니다. 당신이 다른 사람을 부러워할 때, 그들도 어쩌면 당신을 부러워하고 있을지도 몰라요.",
+              "ja": "つまり、人にはそれぞれの生活があり、他人をうらやむ必要はありません。あなたが他人をうらやんでいる時、相手もあなたをうらやんでいるかもしれません。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Time passes so quickly. We’re about to graduate. What do you plan to do after graduation?",
+              "ko": "시간이 정말 빨리 지나가네. 곧 졸업이야. 졸업 후에는 무엇을 할 생각이야?",
+              "ja": "時間が過ぎるのは本当に早いね。もうすぐ卒業だ。卒業後は何をするつもり？"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I haven’t decided yet. I was just thinking of hearing your advice. Do you think income is important when choosing a profession?",
+              "ko": "아직 정하지 못했어. 마침 네 조언을 좀 들어보고 싶었어. 직업을 선택할 때 수입이 중요하다고 생각해?",
+              "ja": "まだ決めていないんだ。ちょうどあなたの意見を聞きたいと思っていたところ。職業を選ぶ時、収入は重要だと思う？"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "In my view, how much money you earn is not the most important thing; interest is the key. Only by doing what you like will you feel happy, and you will also have better development in the future.",
+              "ko": "내가 보기에는 돈을 얼마나 버는지가 가장 중요한 것은 아니고, 흥미가 핵심이야. 자신이 좋아하는 일을 해야 행복하다고 느끼고, 장래에도 더 좋은 발전이 있을 거야.",
+              "ja": "私から見ると、どれだけお金を稼ぐかが一番重要なのではなく、興味こそが鍵です。自分の好きなことをしてこそ幸せを感じ、将来もよりよい発展があるでしょう。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "I think so too. If I do a job I like with enthusiasm, I won’t feel tired. However, everything is so expensive now, and life pressure is too great. Without money, life won’t be happy either!",
+              "ko": "나도 그렇게 생각해. 내가 열정을 가지고 좋아하는 일을 한다면 피곤함을 느끼지 않을 거야. 하지만 지금은 모든 것이 그렇게 비싸고 생활 압박이 너무 커서, 돈이 없어도 행복하게 살 수 있는 건 아니야!",
+              "ja": "私もそう思う。情熱を持って自分の好きな仕事をすれば、疲れを感じないと思う。でも、今は何でもそんなに高く、生活のプレッシャーが大きすぎるから、お金がなければ幸せに暮らすこともできないよ！"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Happiness is actually very simple. It is not something you can buy just by having money. I think that after work, going home, taking a hot shower, then lying in bed reading a book, listening to music, and sleeping when I’m tired is already very happy.",
+              "ko": "행복은 사실 아주 단순해. 돈만 있으면 살 수 있는 것이 아니야. 나는 일이 끝나고 집에 돌아와 뜨거운 물로 샤워를 하고, 침대에 누워 책을 보거나 음악을 듣다가 졸리면 자는 것만으로도 아주 행복하다고 생각해.",
+              "ja": "幸せは実はとてもシンプルです。お金があれば買えるものではありません。仕事が終わって家に帰り、熱いシャワーを浴びて、それからベッドに横になって本を読んだり音楽を聞いたりし、眠くなったら寝る、それだけでとても幸せだと思います。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "What you said is also right. If I can find a job that I’m interested in and that also has good income, that would be best.",
+              "ko": "네 말도 맞아. 내가 관심도 있고 수입도 괜찮은 일을 찾을 수 있다면 그게 가장 좋겠지.",
+              "ja": "あなたの言うことも正しいね。自分が興味を持てて、収入も悪くない仕事を見つけられたら、それが一番いいね。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Some people hope to dress even better and have an even bigger house, believing that the better one’s economic conditions are, the happier one will be. In fact, many rich people do not live happily, while some poor people live very happily. Having money does not necessarily mean happiness, because many things cannot be bought with money, such as time, feelings, life experiences, and so on. However, from another perspective, if you have no money, it is also hard to live happily. When you are sick, if you cannot see a doctor in time because you lack money, even your health is hard to guarantee, let alone happiness.",
+              "ko": "어떤 사람들은 더 좋은 옷을 입고, 더 큰 집에 살기를 바라며 경제 조건이 좋을수록 사람이 더 행복하다고 생각합니다. 사실 많은 부자들이 즐겁게 살지 못하는 반면, 어떤 가난한 사람들은 매우 행복하게 삽니다. 돈이 있다고 반드시 행복한 것은 아닙니다. 시간, 감정, 생활 경험 등 많은 것은 돈으로 살 수 없기 때문입니다. 하지만 다른 한편으로 보면 돈이 없으면 행복하게 살기도 어렵습니다. 병이 났을 때 돈이 부족해서 제때 병원에 가지 못한다면 건강조차 보장받기 어렵고, 행복은 더 말할 것도 없습니다.",
+              "ja": "ある人は、もっとよい服を着たい、もっと大きな家に住みたいと思い、経済条件がよいほど人は幸せになると考えます。実際には、多くの裕福な人が楽しく暮らしているわけではなく、一方で貧しい人の中にもとても楽しく暮らしている人がいます。お金があれば必ず幸せというわけではありません。時間、感情、生活経験など、多くのものはお金で買えないからです。しかし別の面から見ると、お金がなければ幸せに暮らすことも難しいです。病気になった時、お金が足りないためにすぐ医者に行けなければ、健康さえ保障されにくく、まして幸せなど言うまでもありません。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "What is happiness? Some people believe that having a high salary and being able to earn money is happiness; some believe that feeling relaxed and being healthy is happiness; others believe that being able to help others is a kind of happiness. Some also say that when we are children, happiness is a thing, such as an eraser or a piece of candy, and getting it makes us happy; after growing up, happiness is an attitude, and our attitude toward life determines the level of our sense of happiness. So what counts as true happiness? In fact, happiness does not have a standard answer. Everyone has a different understanding of happiness. No matter what you think happiness is, as long as you search for it with your heart, you will definitely find it.",
+              "ko": "행복이란 무엇일까요? 어떤 사람은 월급이 높고 돈을 벌 수 있는 것이 행복이라고 생각합니다. 어떤 사람은 마음이 편안하고 몸이 건강해야 행복이라고 생각합니다. 또 어떤 사람은 다른 사람을 도울 수 있는 것이 일종의 행복이라고 생각합니다. 어떤 사람은 어릴 때 행복은 하나의 물건, 예를 들어 지우개 하나나 사탕 하나였고, 그것을 얻으면 매우 행복했다고 말합니다. 자란 뒤에는 행복은 하나의 태도이며, 생활 태도가 우리의 행복감의 높낮이를 결정합니다. 그렇다면 무엇이 진정한 행복일까요? 사실 행복에는 표준 답안이 없고, 사람마다 행복에 대한 이해가 다릅니다. 당신이 행복을 무엇이라고 생각하든, 마음을 다해 찾기만 하면 반드시 그것을 발견할 수 있습니다.",
+              "ja": "幸せとは何でしょうか。ある人は、給料が高く、お金を稼げることが幸せだと考えます。ある人は、気持ちがリラックスし、体が健康であることこそ幸せだと考えます。また、他人を助けられることが一種の幸せだと考える人もいます。さらに、子どもの頃の幸せは物であり、例えば消しゴム一つ、キャンディー一つでも、手に入ればとても幸せだったと言う人もいます。大人になってからの幸せは一つの態度であり、生活への態度が私たちの幸福感の高さを決めます。では、何が本当の幸せと言えるのでしょうか。実は、幸せには標準的な答えはありません。人それぞれ幸せに対する理解が違います。あなたが幸せを何だと思っていても、心を込めて探しさえすれば、必ずそれを見つけることができます。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

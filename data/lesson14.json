@@ -1,0 +1,1680 @@
+{
+  "lessonId": 14,
+  "title": "Lesson 14: 保护地球母亲 (bǎohù dìqiú mǔqīn) (Protect Mother Earth)",
+  "vocabulary": [
+    {
+      "word": "出差",
+      "pinyin": "chūchāi",
+      "meaning": "v. to go on a business trip"
+    },
+    {
+      "word": "毛巾",
+      "pinyin": "máojīn",
+      "meaning": "n. towel"
+    },
+    {
+      "word": "牙膏",
+      "pinyin": "yágāo",
+      "meaning": "n. toothpaste"
+    },
+    {
+      "word": "重",
+      "pinyin": "zhòng",
+      "meaning": "adj. heavy, weighty"
+    },
+    {
+      "word": "行",
+      "pinyin": "xíng",
+      "meaning": "v. to be OK, to be all right"
+    },
+    {
+      "word": "省",
+      "pinyin": "shěng",
+      "meaning": "v. to save, to economize"
+    },
+    {
+      "word": "污染",
+      "pinyin": "wūrǎn",
+      "meaning": "v. to pollute"
+    },
+    {
+      "word": "卫生间",
+      "pinyin": "wèishēngjiān",
+      "meaning": "n. restroom, bathroom"
+    },
+    {
+      "word": "脏",
+      "pinyin": "zāng",
+      "meaning": "adj. dirty"
+    },
+    {
+      "word": "抱歉",
+      "pinyin": "bàoqiàn",
+      "meaning": "v. to be sorry"
+    },
+    {
+      "word": "空",
+      "pinyin": "kōng",
+      "meaning": "adj. empty"
+    },
+    {
+      "word": "盒子",
+      "pinyin": "hézi",
+      "meaning": "n. box, case"
+    },
+    {
+      "word": "扔",
+      "pinyin": "rēng",
+      "meaning": "v. to throw away"
+    },
+    {
+      "word": "以",
+      "pinyin": "yǐ",
+      "meaning": "prep. via, by means of"
+    },
+    {
+      "word": "速度",
+      "pinyin": "sùdù",
+      "meaning": "n. speed"
+    },
+    {
+      "word": "地球",
+      "pinyin": "dìqiú",
+      "meaning": "n. earth, globe"
+    },
+    {
+      "word": "既然",
+      "pinyin": "jìrán",
+      "meaning": "conj. since, as, now that"
+    },
+    {
+      "word": "停",
+      "pinyin": "tíng",
+      "meaning": "v. to stop, to cease"
+    },
+    {
+      "word": "得意",
+      "pinyin": "déyì",
+      "meaning": "adj. complacent, gloating"
+    },
+    {
+      "word": "目的",
+      "pinyin": "mùdì",
+      "meaning": "n. aim, purpose"
+    },
+    {
+      "word": "暖",
+      "pinyin": "nuǎn",
+      "meaning": "adj. warm"
+    },
+    {
+      "word": "塑料袋",
+      "pinyin": "sùliàodài",
+      "meaning": "n. plastic bag"
+    },
+    {
+      "word": "于是",
+      "pinyin": "yúshì",
+      "meaning": "conj. hence, therefore"
+    },
+    {
+      "word": "鼓励",
+      "pinyin": "gǔlì",
+      "meaning": "v. to encourage"
+    },
+    {
+      "word": "拒绝",
+      "pinyin": "jùjué",
+      "meaning": "v. to refuse, to reject"
+    },
+    {
+      "word": "减少",
+      "pinyin": "jiǎnshǎo",
+      "meaning": "v. to reduce, to decrease"
+    },
+    {
+      "word": "数量",
+      "pinyin": "shùliàng",
+      "meaning": "n. quantity, amount"
+    },
+    {
+      "word": "温度",
+      "pinyin": "wēndù",
+      "meaning": "n. temperature"
+    },
+    {
+      "word": "乘坐",
+      "pinyin": "chéngzuò",
+      "meaning": "v. to take (a vehicle), to ride (in a vehicle)"
+    },
+    {
+      "word": "丢",
+      "pinyin": "diū",
+      "meaning": "v. to throw, to cast"
+    },
+    {
+      "word": "垃圾桶",
+      "pinyin": "lājītǒng",
+      "meaning": "n. dustbin, trash can"
+    },
+    {
+      "word": "美丽",
+      "pinyin": "měilì",
+      "meaning": "adj. beautiful"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "够",
+      "explanation": "“够”可以作动词，表示数量上能满足；也可以作副词，表示程度上达到了一定标准。“够+形容词”用于肯定句时，形容词后常加“的”。",
+      "nuance": "As a verb, “够” means that the quantity is enough. As an adverb, it means the degree has reached a certain standard. In affirmative sentences, “够 + adjective” is often followed by “的.”",
+      "formal_examples": [
+        {
+          "chinese": "客人来了，中国人一定要把家里最好吃的东西拿出来请客人吃，并且让客人吃<b>够</b>、吃饱。",
+          "pinyin": "Kèrén lái le, Zhōngguó rén yídìng yào bǎ jiā lǐ zuì hǎochī de dōngxi ná chūlai qǐng kèrén chī, bìngqiě ràng kèrén chī <b>gòu</b>, chī bǎo.",
+          "translation": "When guests come, Chinese people are sure to bring out the best food at home for them, and make sure the guests eat enough and get full."
+        },
+        {
+          "chinese": "医生提醒我们，睡觉时间太长并不好，有时甚至会引起头疼，一般睡<b>够</b>八小时就可以了。",
+          "pinyin": "Yīshēng tíxǐng wǒmen, shuìjiào shíjiān tài cháng bìng bù hǎo, yǒu shí shènzhì huì yǐnqǐ tóuténg, yìbān shuì <b>gòu</b> bā xiǎoshí jiù kěyǐ le.",
+          "translation": "Doctors remind us that sleeping too long is not good and can sometimes even cause headaches. Generally, sleeping enough for eight hours is fine."
+        },
+        {
+          "chinese": "不用拿这些，宾馆都会免费提供的。再说，箱子已经<b>够</b>重的了！",
+          "pinyin": "Bú yòng ná zhèxiē, bīnguǎn dōu huì miǎnfèi tígōng de. Zài shuō, xiāngzi yǐjīng <b>gòu</b> zhòng de le!",
+          "translation": "No need to bring these. Hotels provide them for free. Besides, the suitcase is already heavy enough!"
+        },
+        {
+          "chinese": "有的人害怕失败，无法接受失败。这不仅是因为他们不<b>够</b>勇敢，还因为他们对自己要求太高。",
+          "pinyin": "Yǒu de rén hàipà shībài, wúfǎ jiēshòu shībài. Zhè bùjǐn shì yīnwèi tāmen bú <b>gòu</b> yǒnggǎn, hái yīnwèi tāmen duì zìjǐ yāoqiú tài gāo.",
+          "translation": "Some people are afraid of failure and cannot accept it. This is not only because they are not brave enough, but also because they demand too much of themselves."
+        }
+      ],
+      "colloquial_pattern": "够 / 够了 / 够……的",
+      "colloquial_examples": [
+        {
+          "chinese": "别再装了，箱子已经<b>够</b>重的了。",
+          "pinyin": "Bié zài zhuāng le, xiāngzi yǐjīng <b>gòu</b> zhòng de le.",
+          "translation": "Stop packing more. The suitcase is already heavy enough."
+        },
+        {
+          "chinese": "睡<b>够</b>八小时就行，睡太久反而容易头疼。",
+          "pinyin": "Shuì <b>gòu</b> bā xiǎoshí jiù xíng, shuì tài jiǔ fǎn'ér róngyì tóuténg.",
+          "translation": "Eight hours of sleep is enough. Sleeping too long can actually make your head hurt."
+        }
+      ]
+    },
+    {
+      "point": "以",
+      "explanation": "“以”可以作介词，表示凭借，有“用、拿”的意思，常用结构是“以……+V”。“以……为……”结构的意思是“把……作为……”或者“认为……是……”。“以”也可以作连词，表示目的，相当于“用来、为的是”，一般用在后一分句的句首，主语必须相同。",
+      "nuance": "“以” is formal and often appears in written or official-sounding Chinese. It can mean “by means of,” form the pattern “以……为……” meaning “take/regard ... as ...,” or introduce a purpose clause meaning “in order to.”",
+      "formal_examples": [
+        {
+          "chinese": "经理您放心，我一定<b>以</b>最快的速度完成。",
+          "pinyin": "Jīnglǐ nín fàngxīn, wǒ yídìng <b>yǐ</b> zuì kuài de sùdù wánchéng.",
+          "translation": "Manager, don't worry. I will definitely complete it at the fastest speed."
+        },
+        {
+          "chinese": "事情做到“差不多”就觉得满意的人往往不会成功，只有<b>以</b>严格的标准来要求自己才会让自己变得更优秀。",
+          "pinyin": "Shìqing zuò dào “chàbuduō” jiù juéde mǎnyì de rén wǎngwǎng bú huì chénggōng, zhǐyǒu <b>yǐ</b> yángé de biāozhǔn lái yāoqiú zìjǐ cái huì ràng zìjǐ biàn de gèng yōuxiù.",
+          "translation": "People who feel satisfied when something is done just “more or less” often do not succeed. Only by holding oneself to strict standards can one become more outstanding."
+        },
+        {
+          "chinese": "我们应该<b>以</b>那些敢说真话的人<b>为</b>镜子，这样才能及时发现自己的缺点。",
+          "pinyin": "Wǒmen yīnggāi <b>yǐ</b> nàxiē gǎn shuō zhēnhuà de rén <b>wéi</b> jìngzi, zhèyàng cái néng jíshí fāxiàn zìjǐ de quēdiǎn.",
+          "translation": "We should take those who dare to tell the truth as a mirror, so that we can discover our own shortcomings in time."
+        },
+        {
+          "chinese": "如果是十分重要的朋友，中国人往往会请他们去饭店或餐厅吃饭，<b>以</b>表示对客人的尊重和礼貌。",
+          "pinyin": "Rúguǒ shì shífēn zhòngyào de péngyou, Zhōngguó rén wǎngwǎng huì qǐng tāmen qù fàndiàn huò cāntīng chīfàn, <b>yǐ</b> biǎoshì duì kèrén de zūnzhòng hé lǐmào.",
+          "translation": "If they are very important friends, Chinese people often invite them to eat at a restaurant in order to show respect and courtesy to the guests."
+        }
+      ],
+      "colloquial_pattern": "用 / 把……当作…… / 为了",
+      "colloquial_examples": [
+        {
+          "chinese": "你放心，我会<b>用</b>最快的速度把这事儿做完。",
+          "pinyin": "Nǐ fàngxīn, wǒ huì <b>yòng</b> zuì kuài de sùdù bǎ zhè shìr zuò wán.",
+          "translation": "Don't worry. I'll get this done as fast as possible."
+        },
+        {
+          "chinese": "我们要<b>把</b>敢说真话的人<b>当作</b>镜子，别光听好听的话。",
+          "pinyin": "Wǒmen yào <b>bǎ</b> gǎn shuō zhēnhuà de rén <b>dàngzuò</b> jìngzi, bié guāng tīng hǎotīng de huà.",
+          "translation": "We should treat people who dare to tell the truth as a mirror, not just listen to nice-sounding words."
+        }
+      ]
+    },
+    {
+      "point": "既然",
+      "explanation": "“既然”，连词，用在复句的前一分句，意思是“因为事实已经是这样了”。后一分句常有“就、也、还”之类的词跟它配合使用，表示根据前边的情况得出的结论。",
+      "nuance": "“既然” introduces an existing fact or accepted situation and leads to a conclusion, often with “就,” “也,” or “还” in the following clause. It is similar to “since this is the case, then...”",
+      "formal_examples": [
+        {
+          "chinese": "A: 你<b>既然</b>不愿意打球，为什么还要打？<br/>B: 我是不得不打啊，因为这些天我又胖了好几斤。",
+          "pinyin": "A: Nǐ <b>jìrán</b> bú yuànyì dǎqiú, wèishénme hái yào dǎ?<br/>B: Wǒ shì bùdébù dǎ a, yīnwèi zhèxiē tiān wǒ yòu pàng le hǎo jǐ jīn.",
+          "translation": "A: Since you don't want to play ball, why are you still playing?<br/>B: I have no choice but to play, because I've gained several jin these days."
+        },
+        {
+          "chinese": "A: 真抱歉，明天我得出差，不能参加明天的会议了。<br/>B: <b>既然</b>这样，就只好安排在下周了。",
+          "pinyin": "A: Zhēn bàoqiàn, míngtiān wǒ děi chūchāi, bù néng cānjiā míngtiān de huìyì le.<br/>B: <b>Jìrán</b> zhèyàng, jiù zhǐhǎo ānpái zài xià zhōu le.",
+          "translation": "A: I'm really sorry. I have to go on a business trip tomorrow, so I can't attend tomorrow's meeting.<br/>B: Since that's the case, we'll have to arrange it for next week."
+        },
+        {
+          "chinese": "<b>既然</b>明天晚上公司会关灯停电，那么我们肯定不用加班了。",
+          "pinyin": "<b>Jìrán</b> míngtiān wǎnshang gōngsī huì guān dēng tíng diàn, nàme wǒmen kěndìng bú yòng jiābān le.",
+          "translation": "Since the company will turn off the lights and cut the power tomorrow night, we definitely won't need to work overtime."
+        }
+      ],
+      "colloquial_pattern": "既然……就…… / 都……了，那就……",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>既然</b>你明天要出差，那会议就改到下周吧。",
+          "pinyin": "<b>Jìrán</b> nǐ míngtiān yào chūchāi, nà huìyì jiù gǎi dào xià zhōu ba.",
+          "translation": "Since you're going on a business trip tomorrow, let's move the meeting to next week."
+        },
+        {
+          "chinese": "公司明晚都要停电了，<b>那就</b>别加班了吧。",
+          "pinyin": "Gōngsī míngwǎn dōu yào tíng diàn le, <b>nà jiù</b> bié jiābān le ba.",
+          "translation": "The company is going to cut the power tomorrow night anyway, so let's not work overtime."
+        }
+      ]
+    },
+    {
+      "point": "于是",
+      "explanation": "“于是”，连词，用在复句的后一分句中，表示后面的事情紧随着前面的事情发生，一般有承接关系。",
+      "nuance": "“于是” is used in the second clause of a complex sentence to show that the following event happens right after, or as a result of, the previous event. It often has a sequential, narrative feel.",
+      "formal_examples": [
+        {
+          "chinese": "听爷爷奶奶说，我妹妹出生那天，正好下了一场大雪，<b>于是</b>我爸妈就给她取名叫夏雪。",
+          "pinyin": "Tīng yéye nǎinai shuō, wǒ mèimei chūshēng nà tiān, zhènghǎo xià le yì chǎng dà xuě, <b>yúshì</b> wǒ bàmā jiù gěi tā qǔ míng jiào Xià Xuě.",
+          "translation": "I heard from my grandparents that on the day my younger sister was born, there happened to be a heavy snow, so my parents named her Xia Xue."
+        },
+        {
+          "chinese": "他是一位著名的记者，五年里，他去了亚洲许多国家，尝遍了各地的美食。回国后，他用一年的时间整理材料，<b>于是</b>就有了这本关于亚洲美食的书。",
+          "pinyin": "Tā shì yí wèi zhùmíng de jìzhě, wǔ nián lǐ, tā qù le Yàzhōu xǔduō guójiā, cháng biàn le gè dì de měishí. Huíguó hòu, tā yòng yì nián de shíjiān zhěnglǐ cáiliào, <b>yúshì</b> jiù yǒu le zhè běn guānyú Yàzhōu měishí de shū.",
+          "translation": "He is a famous journalist. Over five years, he went to many Asian countries and tasted food from many places. After returning home, he spent a year organizing the materials, and thus this book about Asian cuisine came into being."
+        },
+        {
+          "chinese": "可是，它的大量使用也带来了严重的环境污染问题。<b>于是</b>，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。",
+          "pinyin": "Kěshì, tā de dàliàng shǐyòng yě dàilái le yánzhòng de huánjìng wūrǎn wèntí. <b>Yúshì</b>, yìxiē guójiā guīdìng, chāoshì, shāngchǎng bù néng wèi gùkè tígōng miǎnfèi sùliàodài, bìngqiě gǔlì dàjiā gòumǎi kěyǐ duō cì shǐyòng de gòuwùdài.",
+          "translation": "However, their heavy use also brought serious environmental pollution. Therefore, some countries made regulations that supermarkets and shopping malls cannot provide free plastic bags to customers, and they encourage people to buy shopping bags that can be used many times."
+        }
+      ],
+      "colloquial_pattern": "于是 / 然后 / 所以",
+      "colloquial_examples": [
+        {
+          "chinese": "妹妹出生那天下了大雪，<b>所以</b>爸妈就给她取名叫夏雪。",
+          "pinyin": "Mèimei chūshēng nà tiān xià le dà xuě, <b>suǒyǐ</b> bàmā jiù gěi tā qǔ míng jiào Xià Xuě.",
+          "translation": "It snowed heavily on the day my younger sister was born, so my parents named her Xia Xue."
+        },
+        {
+          "chinese": "塑料袋用太多会污染环境，<b>于是</b>很多地方开始不免费提供了。",
+          "pinyin": "Sùliàodài yòng tài duō huì wūrǎn huánjìng, <b>yúshì</b> hěn duō dìfang kāishǐ bù miǎnfèi tígōng le.",
+          "translation": "Using too many plastic bags pollutes the environment, so many places started no longer providing them for free."
+        }
+      ]
+    },
+    {
+      "point": "于是 vs 因此",
+      "explanation": "相同点：两者都是连词，都可用于“A，于是/因此B”结构，表示A引起B。不同点：表示这个意思时，“于是”强调A先发生，B后发生；而“因此”强调A是原因，B是结果。",
+      "nuance": "Both “于是” and “因此” can connect A and B to show that A causes B. “于是” emphasizes sequence: A happens first, then B follows. “因此” emphasizes cause and result: A is the reason and B is the result.",
+      "formal_examples": [
+        {
+          "chinese": "小时候，他经常生病，<b>于是</b>/<b>因此</b>每天都去跑步锻炼身体。",
+          "pinyin": "Xiǎoshíhou, tā jīngcháng shēngbìng, <b>yúshì</b>/<b>yīncǐ</b> měitiān dōu qù pǎobù duànliàn shēntǐ.",
+          "translation": "When he was little, he often got sick, so he went running every day to exercise."
+        },
+        {
+          "chinese": "大家都同意寒假去旅行，<b>于是</b>，我们开始讨论去哪里旅行的问题。",
+          "pinyin": "Dàjiā dōu tóngyì hánjià qù lǚxíng, <b>yúshì</b>, wǒmen kāishǐ tǎolùn qù nǎlǐ lǚxíng de wèntí.",
+          "translation": "Everyone agreed to travel during winter vacation, so we began discussing where to travel."
+        },
+        {
+          "chinese": "他三岁跟父亲母亲一起来到这儿，就再也没离开过这里。<b>因此</b>，他对这个地方感情很深。",
+          "pinyin": "Tā sān suì gēn fùqīn mǔqīn yìqǐ lái dào zhèr, jiù zài yě méi líkāi guo zhèlǐ. <b>Yīncǐ</b>, tā duì zhè ge dìfang gǎnqíng hěn shēn.",
+          "translation": "He came here with his parents when he was three and has never left since. Therefore, he has deep feelings for this place."
+        }
+      ],
+      "colloquial_pattern": "于是 / 因此 / 所以",
+      "colloquial_examples": [
+        {
+          "chinese": "大家都同意寒假出去玩，<b>于是</b>我们就开始商量去哪儿。",
+          "pinyin": "Dàjiā dōu tóngyì hánjià chūqù wán, <b>yúshì</b> wǒmen jiù kāishǐ shāngliang qù nǎr.",
+          "translation": "Everyone agreed to go out during winter vacation, so we started talking about where to go."
+        },
+        {
+          "chinese": "他从小就在这儿长大，<b>所以</b>对这个地方感情特别深。",
+          "pinyin": "Tā cóng xiǎo jiù zài zhèr zhǎng dà, <b>suǒyǐ</b> duì zhè ge dìfang gǎnqíng tèbié shēn.",
+          "translation": "He grew up here, so he has especially deep feelings for this place."
+        }
+      ]
+    },
+    {
+      "point": "什么的",
+      "explanation": "“什么的”，助词，用在所举例子的后边，表示还有与所举例子类似的情况，常用于口语。",
+      "nuance": "“什么的” is a colloquial particle placed after listed examples to suggest that there are other similar items or situations. It is like saying “and so on” or “things like that.”",
+      "formal_examples": [
+        {
+          "chinese": "既然你不喜欢新闻专业，那就考虑考虑其他专业吧，中文、国际关系<b>什么的</b>，我和你爸都不反对。",
+          "pinyin": "Jìrán nǐ bù xǐhuan xīnwén zhuānyè, nà jiù kǎolǜ kǎolǜ qítā zhuānyè ba, Zhōngwén, guójì guānxi <b>shénme de</b>, wǒ hé nǐ bà dōu bù fǎnduì.",
+          "translation": "Since you don't like the journalism major, then consider other majors, such as Chinese or international relations. Your dad and I won't object."
+        },
+        {
+          "chinese": "A: 我们去趟超市吧，明天出去玩儿得买点儿饼干和面包。<br/>B: 好，还有矿泉水、果汁<b>什么的</b>。",
+          "pinyin": "A: Wǒmen qù tàng chāoshì ba, míngtiān chūqù wánr děi mǎi diǎnr bǐnggān hé miànbāo.<br/>B: Hǎo, hái yǒu kuàngquánshuǐ, guǒzhī <b>shénme de</b>.",
+          "translation": "A: Let's go to the supermarket. We need to buy some cookies and bread for going out tomorrow.<br/>B: Okay, and mineral water, juice, and things like that."
+        },
+        {
+          "chinese": "实际上，我们只需注意一下身边的小事就可以。例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯<b>什么的</b>。",
+          "pinyin": "Shíjì shàng, wǒmen zhǐ xū zhùyì yíxià shēnbiān de xiǎo shì jiù kěyǐ. Lìrú, xiàtiān bǎ kōngtiáo de wēndù kāi de gāo yìxiē, chūmén shí jìde guān kōngtiáo hé diànnǎo, zhèyàng kěyǐ jiéyuē yòng diàn; shǎo kāichē, duō qí chē huòzhě chéngzuò dìtiě hé gōnggòng qìchē, zhèyàng néng jiàngdī kōngqì wūrǎn; hái yǒu yǎngchéng bǎ lājī diū jìn lājītǒng de xíguàn <b>shénme de</b>.",
+          "translation": "In fact, we only need to pay attention to small things around us. For example, in summer, set the air conditioner temperature a little higher and remember to turn off the air conditioner and computer when going out, which saves electricity; drive less, ride more, or take the subway and buses, which can reduce air pollution; and develop the habit of throwing garbage into trash cans and so on."
+        }
+      ],
+      "colloquial_pattern": "什么的 / 之类的 / 这些",
+      "colloquial_examples": [
+        {
+          "chinese": "你可以看看中文、国际关系<b>什么的</b>，不一定非得学新闻。",
+          "pinyin": "Nǐ kěyǐ kànkan Zhōngwén, guójì guānxi <b>shénme de</b>, bù yídìng fēi děi xué xīnwén.",
+          "translation": "You can look at Chinese, international relations, and things like that. You don't have to study journalism."
+        },
+        {
+          "chinese": "明天出去玩，买点饼干、面包、饮料<b>之类的</b>吧。",
+          "pinyin": "Míngtiān chūqù wán, mǎi diǎn bǐnggān, miànbāo, yǐnliào <b>zhīlèi de</b> ba.",
+          "translation": "We're going out tomorrow, so let's buy some cookies, bread, drinks, and stuff like that."
+        }
+      ]
+    },
+    {
+      "point": "同字词：度",
+      "explanation": "同字词“度”：速度、温度、态度。“速度”表示快慢的程度；“温度”表示冷热的程度；“态度”表示对人或事情的看法、立场或表现出来的情绪。",
+      "nuance": "This extension note groups words that share the character “度.” The shared character often relates to degree or measure, but each word has its own fixed meaning: speed, temperature, and attitude.",
+      "formal_examples": [
+        {
+          "chinese": "现在火车的<b>速度</b>非常快，有时乘坐火车甚至比乘坐飞机更节约时间，因为一般来说，去火车站比去机场的距离要近得多。",
+          "pinyin": "Xiànzài huǒchē de <b>sùdù</b> fēicháng kuài, yǒu shí chéngzuò huǒchē shènzhì bǐ chéngzuò fēijī gèng jiéyuē shíjiān, yīnwèi yìbān lái shuō, qù huǒchēzhàn bǐ qù jīchǎng de jùlí yào jìn de duō.",
+          "translation": "Trains are very fast now. Sometimes taking a train can even save more time than taking a plane, because generally speaking, the distance to a train station is much shorter than the distance to an airport."
+        },
+        {
+          "chinese": "很多人习惯在早上锻炼身体，但室外锻炼并不是越早越好，尤其是冬天，日出前<b>温度</b>较低，并不适合运动。",
+          "pinyin": "Hěn duō rén xíguàn zài zǎoshang duànliàn shēntǐ, dàn shìwài duànliàn bìng bú shì yuè zǎo yuè hǎo, yóuqí shì dōngtiān, rìchū qián <b>wēndù</b> jiào dī, bìng bù shìhé yùndòng.",
+          "translation": "Many people are used to exercising in the morning, but outdoor exercise is not necessarily better the earlier it is, especially in winter. Before sunrise, the temperature is relatively low and not suitable for exercise."
+        },
+        {
+          "chinese": "人们都希望生活会向着好的方向变化，当我们开始改变自己的<b>态度</b>时，这种变化就开始发生了。",
+          "pinyin": "Rénmen dōu xīwàng shēnghuó huì xiàng zhe hǎo de fāngxiàng biànhuà, dāng wǒmen kāishǐ gǎibiàn zìjǐ de <b>tàidu</b> shí, zhè zhǒng biànhuà jiù kāishǐ fāshēng le.",
+          "translation": "People all hope that life will change in a good direction. When we begin to change our own attitude, this kind of change begins to happen."
+        }
+      ],
+      "colloquial_pattern": "速度 / 温度 / 态度",
+      "colloquial_examples": [
+        {
+          "chinese": "现在高铁<b>速度</b>很快，有时候坐火车比坐飞机还省时间。",
+          "pinyin": "Xiànzài gāotiě <b>sùdù</b> hěn kuài, yǒu shíhou zuò huǒchē bǐ zuò fēijī hái shěng shíjiān.",
+          "translation": "High-speed trains are really fast now. Sometimes taking the train saves more time than flying."
+        },
+        {
+          "chinese": "想让生活变好，先改改自己的<b>态度</b>。",
+          "pinyin": "Xiǎng ràng shēnghuó biàn hǎo, xiān gǎigai zìjǐ de <b>tàidu</b>.",
+          "translation": "If you want life to get better, start by changing your own attitude."
+        }
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "李进要出差，王静和李进在聊天儿 (lǐ jìn yào chūchāi, wáng jìng hé lǐ jìn zài liáotiānr) (Li Jin is going on a business trip, and Wang Jing and Li Jin are chatting)",
+      "audio": "audio/14-1.mp3",
+      "content": [
+        {
+          "speaker": "王静",
+          "text": "这是明天你出差要带的毛巾、牙膏和牙刷，把它们放到箱子里吧。",
+          "pinyin": "Zhè shì míngtiān nǐ chūchāi yào dài de máojīn, yágāo hé yáshuā, bǎ tāmen fàng dào xiāngzi lǐ ba.",
+          "translation": "These are the towel, toothpaste, and toothbrush you need to take on your business trip tomorrow. Put them in your suitcase."
+        },
+        {
+          "speaker": "李进",
+          "text": "不用拿这些，宾馆都会免费提供的。再说，箱子已经够重的了！",
+          "pinyin": "Bú yòng ná zhèxiē, bīnguǎn dōu huì miǎnfèi tígōng de. Zài shuō, xiāngzi yǐjīng gòu zhòng de le!",
+          "translation": "No need to bring these. Hotels provide them for free. Besides, the suitcase is already heavy enough!"
+        },
+        {
+          "speaker": "王静",
+          "text": "我当然知道宾馆里有。你不是一直说要保护环境吗？现在就从身边的小事做起吧。",
+          "pinyin": "Wǒ dāngrán zhīdào bīnguǎn lǐ yǒu. Nǐ bú shì yìzhí shuō yào bǎohù huánjìng ma? Xiànzài jiù cóng shēnbiān de xiǎo shì zuò qǐ ba.",
+          "translation": "Of course I know hotels have them. Haven't you always said we should protect the environment? Start now with small things around you."
+        },
+        {
+          "speaker": "李进",
+          "text": "行，没问题。我明天上午10点的飞机，你能开车把我送到机场吗？",
+          "pinyin": "Xíng, méi wèntí. Wǒ míngtiān shàngwǔ shí diǎn de fēijī, nǐ néng kāichē bǎ wǒ sòng dào jīchǎng ma?",
+          "translation": "Okay, no problem. My flight is at 10 tomorrow morning. Can you drive me to the airport?"
+        },
+        {
+          "speaker": "王静",
+          "text": "那个时间路上堵车多严重啊！你还是坐地铁去机场吧。这样不仅省油钱，而且还不会污染空气。",
+          "pinyin": "Nà ge shíjiān lù shàng dǔchē duō yánzhòng a! Nǐ háishi zuò dìtiě qù jīchǎng ba. Zhèyàng bùjǐn shěng yóuqián, érqiě hái bú huì wūrǎn kōngqì.",
+          "translation": "Traffic is really bad at that time! You'd better take the subway to the airport. That way you can not only save gas money, but also avoid polluting the air."
+        },
+        {
+          "speaker": "李进",
+          "text": "好，那就听你的。",
+          "pinyin": "Hǎo, nà jiù tīng nǐ de.",
+          "translation": "All right, I'll listen to you."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "李进",
+          "pinyin": "Lǐ Jìn",
+          "meaning": "Li Jin, name of a person"
+        },
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "出差",
+          "pinyin": "chūchāi",
+          "meaning": "v. to go on a business trip"
+        },
+        {
+          "word": "毛巾",
+          "pinyin": "máojīn",
+          "meaning": "n. towel"
+        },
+        {
+          "word": "牙膏",
+          "pinyin": "yágāo",
+          "meaning": "n. toothpaste"
+        },
+        {
+          "word": "重",
+          "pinyin": "zhòng",
+          "meaning": "adj. heavy, weighty"
+        },
+        {
+          "word": "行",
+          "pinyin": "xíng",
+          "meaning": "v. to be OK, to be all right"
+        },
+        {
+          "word": "省",
+          "pinyin": "shěng",
+          "meaning": "v. to save, to economize"
+        },
+        {
+          "word": "污染",
+          "pinyin": "wūrǎn",
+          "meaning": "v. to pollute"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "经理和服务员在谈工作 (jīnglǐ hé fúwùyuán zài tán gōngzuò) (The manager and the waiter are discussing work)",
+      "audio": "audio/14-2.mp3",
+      "content": [
+        {
+          "speaker": "经理",
+          "text": "小王，卫生间怎么那么脏啊？这会给客人留下不好的印象，快去打扫一下。",
+          "pinyin": "Xiǎo Wáng, wèishēngjiān zěnme nàme zāng a? Zhè huì gěi kèrén liú xià bù hǎo de yìnxiàng, kuài qù dǎsǎo yíxià.",
+          "translation": "Xiao Wang, why is the restroom so dirty? This will leave a bad impression on the guests. Go clean it quickly."
+        },
+        {
+          "speaker": "服务员",
+          "text": "经理，实在抱歉。今天店里太忙了，我还没来得及打扫。",
+          "pinyin": "Jīnglǐ, shízài bàoqiàn. Jīntiān diàn lǐ tài máng le, wǒ hái méi láidejí dǎsǎo.",
+          "translation": "Manager, I'm really sorry. The restaurant has been too busy today, and I haven't had time to clean it yet."
+        },
+        {
+          "speaker": "经理",
+          "text": "那张桌子下面还有一些空饮料瓶子和纸盒子。",
+          "pinyin": "Nà zhāng zhuōzi xiàmiàn hái yǒu yìxiē kōng yǐnliào píngzi hé zhǐ hézi.",
+          "translation": "There are also some empty drink bottles and paper boxes under that table."
+        },
+        {
+          "speaker": "服务员",
+          "text": "好的，我马上就去把它们扔掉。",
+          "pinyin": "Hǎo de, wǒ mǎshàng jiù qù bǎ tāmen rēng diào.",
+          "translation": "Okay, I'll go throw them away right now."
+        },
+        {
+          "speaker": "经理",
+          "text": "以后你一定得注意这个问题，不管客人多多，生意多忙，我们都要保证餐厅干净卫生。",
+          "pinyin": "Yǐhòu nǐ yídìng děi zhùyì zhè ge wèntí, bùguǎn kèrén duō duō, shēngyì duō máng, wǒmen dōu yào bǎozhèng cāntīng gānjìng wèishēng.",
+          "translation": "From now on, you must pay attention to this issue. No matter how many customers there are or how busy business is, we must ensure the restaurant is clean and hygienic."
+        },
+        {
+          "speaker": "服务员",
+          "text": "经理您放心，我一定以最快的速度完成。不过咱们真的应该再多招聘几个服务员了。",
+          "pinyin": "Jīnglǐ nín fàngxīn, wǒ yídìng yǐ zuì kuài de sùdù wánchéng. Búguò zánmen zhēn de yīnggāi zài duō zhāopìn jǐ ge fúwùyuán le.",
+          "translation": "Manager, don't worry. I'll finish it as quickly as possible. But we really should hire a few more waiters."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "小王",
+          "pinyin": "Xiǎo Wáng",
+          "meaning": "Xiao Wang, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "卫生间",
+          "pinyin": "wèishēngjiān",
+          "meaning": "n. restroom, bathroom"
+        },
+        {
+          "word": "脏",
+          "pinyin": "zāng",
+          "meaning": "adj. dirty"
+        },
+        {
+          "word": "抱歉",
+          "pinyin": "bàoqiàn",
+          "meaning": "v. to be sorry"
+        },
+        {
+          "word": "空",
+          "pinyin": "kōng",
+          "meaning": "adj. empty"
+        },
+        {
+          "word": "盒子",
+          "pinyin": "hézi",
+          "meaning": "n. box, case"
+        },
+        {
+          "word": "扔",
+          "pinyin": "rēng",
+          "meaning": "v. to throw away"
+        },
+        {
+          "word": "以",
+          "pinyin": "yǐ",
+          "meaning": "prep. via, by means of"
+        },
+        {
+          "word": "速度",
+          "pinyin": "sùdù",
+          "meaning": "n. speed"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "孙月和王静在聊关于环保的事情 (sūn yuè hé wáng jìng zài liáo guānyú huánbǎo de shìqing) (Sun Yue and Wang Jing are talking about environmental protection)",
+      "audio": "audio/14-3.mp3",
+      "content": [
+        {
+          "speaker": "孙月",
+          "text": "早上听新闻说明天有一个叫“地球一小时”的活动，你对这个活动了解吗？",
+          "pinyin": "Zǎoshang tīng xīnwén shuō míngtiān yǒu yí ge jiào “Dìqiú Yì Xiǎoshí” de huódòng, nǐ duì zhè ge huódòng liǎojiě ma?",
+          "translation": "I heard on the news this morning that there will be an event tomorrow called “Earth Hour.” Do you know about this event?"
+        },
+        {
+          "speaker": "王静",
+          "text": "这个活动年年都有，最早是从2007年开始的。明天晚上很多人都会关灯一小时，支持这个活动。你没看到门口的通知吗？我们公司也参加。",
+          "pinyin": "Zhè ge huódòng niánnián dōu yǒu, zuìzǎo shì cóng èr líng líng qī nián kāishǐ de. Míngtiān wǎnshang hěn duō rén dōu huì guān dēng yì xiǎoshí, zhīchí zhè ge huódòng. Nǐ méi kàn dào ménkǒu de tōngzhī ma? Wǒmen gōngsī yě cānjiā.",
+          "translation": "This event happens every year and first started in 2007. Tomorrow evening, many people will turn off their lights for one hour to support it. Didn't you see the notice at the entrance? Our company is participating too."
+        },
+        {
+          "speaker": "孙月",
+          "text": "真的吗？太好了！既然明天晚上公司会关灯停电，那么我们肯定不用加班了。",
+          "pinyin": "Zhēn de ma? Tài hǎo le! Jìrán míngtiān wǎnshang gōngsī huì guān dēng tíng diàn, nàme wǒmen kěndìng bú yòng jiābān le.",
+          "translation": "Really? That's great! Since the company will turn off the lights and cut the power tomorrow night, we definitely won't need to work overtime."
+        },
+        {
+          "speaker": "王静",
+          "text": "看你得意的样子！还以为你高兴是为了支持环保，原来是因为不用加班啊！",
+          "pinyin": "Kàn nǐ déyì de yàngzi! Hái yǐwéi nǐ gāoxìng shì wèile zhīchí huánbǎo, yuánlái shì yīnwèi bú yòng jiābān a!",
+          "translation": "Look how pleased you are! I thought you were happy because you wanted to support environmental protection, but it turns out it's because you don't have to work overtime!"
+        },
+        {
+          "speaker": "孙月",
+          "text": "环境保护我当然也支持了！对了，为什么会有这么一个活动啊？",
+          "pinyin": "Huánjìng bǎohù wǒ dāngrán yě zhīchí le! Duì le, wèishénme huì yǒu zhème yí ge huódòng a?",
+          "translation": "Of course I support environmental protection too! By the way, why is there such an event?"
+        },
+        {
+          "speaker": "王静",
+          "text": "其实目的挺简单的，就是提醒人们节约用电，希望引起人们对气候变暖问题的关注。",
+          "pinyin": "Qíshí mùdì tǐng jiǎndān de, jiù shì tíxǐng rénmen jiéyuē yòng diàn, xīwàng yǐnqǐ rénmen duì qìhòu biàn nuǎn wèntí de guānzhù.",
+          "translation": "Actually, the purpose is quite simple: to remind people to save electricity and to draw people's attention to climate warming."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "孙月",
+          "pinyin": "Sūn Yuè",
+          "meaning": "Sun Yue, name of a person"
+        },
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, name of a person"
+        },
+        {
+          "word": "地球一小时",
+          "pinyin": "Dìqiú Yì Xiǎoshí",
+          "meaning": "Earth Hour, an environmental campaign"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "地球",
+          "pinyin": "dìqiú",
+          "meaning": "n. earth, globe"
+        },
+        {
+          "word": "既然",
+          "pinyin": "jìrán",
+          "meaning": "conj. since, as, now that"
+        },
+        {
+          "word": "停",
+          "pinyin": "tíng",
+          "meaning": "v. to stop, to cease"
+        },
+        {
+          "word": "得意",
+          "pinyin": "déyì",
+          "meaning": "adj. complacent, gloating"
+        },
+        {
+          "word": "目的",
+          "pinyin": "mùdì",
+          "meaning": "n. aim, purpose"
+        },
+        {
+          "word": "暖",
+          "pinyin": "nuǎn",
+          "meaning": "adj. warm"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "塑料袋的使用和环境保护 (sùliàodài de shǐyòng hé huánjìng bǎohù) (The use of plastic bags and environmental protection)",
+      "audio": "audio/14-4.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "塑料袋给人们的生活带来方便，受到人们的普遍欢迎，可是，它的大量使用也带来了严重的环境污染问题。于是，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。我们每个人都有责任保护环境，因此，请大家节约使用塑料袋，或者购物时自备购物袋，甚至拒绝使用塑料袋。虽然这是一件很小的事，但这样做可以减少塑料袋的使用数量，对环境保护有很大的作用。",
+          "pinyin": "Sùliàodài gěi rénmen de shēnghuó dàilái fāngbiàn, shòudào rénmen de pǔbiàn huānyíng, kěshì, tā de dàliàng shǐyòng yě dàilái le yánzhòng de huánjìng wūrǎn wèntí. Yúshì, yìxiē guójiā guīdìng, chāoshì, shāngchǎng bù néng wèi gùkè tígōng miǎnfèi sùliàodài, bìngqiě gǔlì dàjiā gòumǎi kěyǐ duō cì shǐyòng de gòuwùdài. Wǒmen měi ge rén dōu yǒu zérèn bǎohù huánjìng, yīncǐ, qǐng dàjiā jiéyuē shǐyòng sùliàodài, huòzhě gòuwù shí zìbèi gòuwùdài, shènzhì jùjué shǐyòng sùliàodài. Suīrán zhè shì yí jiàn hěn xiǎo de shì, dàn zhèyàng zuò kěyǐ jiǎnshǎo sùliàodài de shǐyòng shùliàng, duì huánjìng bǎohù yǒu hěn dà de zuòyòng.",
+          "translation": "Plastic bags bring convenience to people's lives and are widely welcomed, but their heavy use has also caused serious environmental pollution. Therefore, some countries have regulations that supermarkets and shopping malls cannot provide free plastic bags to customers, and they encourage people to buy shopping bags that can be used many times. Each of us has a responsibility to protect the environment, so please use fewer plastic bags, bring your own shopping bags when shopping, or even refuse to use plastic bags. Although this is a very small thing, doing so can reduce the number of plastic bags used and has a great effect on environmental protection."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "塑料袋",
+          "pinyin": "sùliàodài",
+          "meaning": "n. plastic bag"
+        },
+        {
+          "word": "于是",
+          "pinyin": "yúshì",
+          "meaning": "conj. hence, therefore"
+        },
+        {
+          "word": "鼓励",
+          "pinyin": "gǔlì",
+          "meaning": "v. to encourage"
+        },
+        {
+          "word": "拒绝",
+          "pinyin": "jùjué",
+          "meaning": "v. to refuse, to reject"
+        },
+        {
+          "word": "减少",
+          "pinyin": "jiǎnshǎo",
+          "meaning": "v. to reduce, to decrease"
+        },
+        {
+          "word": "数量",
+          "pinyin": "shùliàng",
+          "meaning": "n. quantity, amount"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "保护地球环境从身边小事做起 (bǎohù dìqiú huánjìng cóng shēnbiān xiǎo shì zuò qǐ) (Protecting the earth's environment starts with small things around us)",
+      "audio": "audio/14-5.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "保护地球环境，并不是一件离我们很远、很难做到的事情。实际上，我们只需注意一下身边的小事就可以。例如，夏天把空调的温度开得高一些，出门时记得关空调和电脑，这样可以节约用电；少开车，多骑车或者乘坐地铁和公共汽车，这样能降低空气污染；还有养成把垃圾丢进垃圾桶的习惯什么的。这些是我们每个人都能够做到的小事，但却有实实在在的效果。地球是我们共同的家，只有大家共同努力，减少污染、保护环境，才能使我们的家变得更美丽。",
+          "pinyin": "Bǎohù dìqiú huánjìng, bìng bú shì yí jiàn lí wǒmen hěn yuǎn, hěn nán zuò dào de shìqing. Shíjì shàng, wǒmen zhǐ xū zhùyì yíxià shēnbiān de xiǎo shì jiù kěyǐ. Lìrú, xiàtiān bǎ kōngtiáo de wēndù kāi de gāo yìxiē, chūmén shí jìde guān kōngtiáo hé diànnǎo, zhèyàng kěyǐ jiéyuē yòng diàn; shǎo kāichē, duō qí chē huòzhě chéngzuò dìtiě hé gōnggòng qìchē, zhèyàng néng jiàngdī kōngqì wūrǎn; hái yǒu yǎngchéng bǎ lājī diū jìn lājītǒng de xíguàn shénme de. Zhèxiē shì wǒmen měi ge rén dōu nénggòu zuò dào de xiǎo shì, dàn què yǒu shíshí zàizài de xiàoguǒ. Dìqiú shì wǒmen gòngtóng de jiā, zhǐyǒu dàjiā gòngtóng nǔlì, jiǎnshǎo wūrǎn, bǎohù huánjìng, cái néng shǐ wǒmen de jiā biàn de gèng měilì.",
+          "translation": "Protecting the earth's environment is not something far away from us or very difficult to do. In fact, we only need to pay attention to small things around us. For example, in summer, set the air conditioner temperature a little higher, and remember to turn off the air conditioner and computer when going out; this can save electricity. Drive less, ride bikes more, or take the subway and buses; this can reduce air pollution. Also, develop the habit of throwing garbage into trash cans. These are small things each of us can do, but they have real effects. The earth is our shared home. Only if everyone works together to reduce pollution and protect the environment can we make our home more beautiful."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "温度",
+          "pinyin": "wēndù",
+          "meaning": "n. temperature"
+        },
+        {
+          "word": "乘坐",
+          "pinyin": "chéngzuò",
+          "meaning": "v. to take (a vehicle), to ride (in a vehicle)"
+        },
+        {
+          "word": "丢",
+          "pinyin": "diū",
+          "meaning": "v. to throw, to cast"
+        },
+        {
+          "word": "垃圾桶",
+          "pinyin": "lājītǒng",
+          "meaning": "n. dustbin, trash can"
+        },
+        {
+          "word": "美丽",
+          "pinyin": "měilì",
+          "meaning": "adj. beautiful"
+        }
+      ]
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "不用拿这些，宾馆都会免费提供的。再说，箱子已经<b>够</b>重的了！",
+      "pinyin": "Bú yòng ná zhèxiē, bīnguǎn dōu huì miǎnfèi tígōng de. Zài shuō, xiāngzi yǐjīng <b>gòu</b> zhòng de le!",
+      "translation": "No need to bring these. Hotels provide them for free. Besides, the suitcase is already heavy enough!",
+      "colloquial_equivalent": "这些别带了，酒店都有免费的，箱子都<b>够</b>沉了！",
+      "colloquial_pinyin": "Zhèxiē bié dài le, jiǔdiàn dōu yǒu miǎnfèi de, xiāngzi dōu <b>gòu</b> chén le!",
+      "colloquial_translation": "Don't bring these. Hotels have them for free, and the suitcase is already heavy enough!",
+      "context": "짐이 충분히 무겁다고 말할 때"
+    },
+    {
+      "sentence": "经理您放心，我一定<b>以</b>最快的速度完成。",
+      "pinyin": "Jīnglǐ nín fàngxīn, wǒ yídìng <b>yǐ</b> zuì kuài de sùdù wánchéng.",
+      "translation": "Manager, don't worry. I'll finish it as quickly as possible.",
+      "colloquial_equivalent": "经理您放心，我肯定<b>用</b>最快速度弄完。",
+      "colloquial_pinyin": "Jīnglǐ nín fàngxīn, wǒ kěndìng <b>yòng</b> zuì kuài sùdù nòng wán.",
+      "colloquial_translation": "Manager, don't worry. I'll definitely get it done as fast as possible.",
+      "context": "업무 처리 속도를 약속할 때"
+    },
+    {
+      "sentence": "<b>既然</b>明天晚上公司会关灯停电，那么我们肯定不用加班了。",
+      "pinyin": "<b>Jìrán</b> míngtiān wǎnshang gōngsī huì guān dēng tíng diàn, nàme wǒmen kěndìng bú yòng jiābān le.",
+      "translation": "Since the company will turn off the lights and cut the power tomorrow night, we definitely won't need to work overtime.",
+      "colloquial_equivalent": "公司明晚都要停电了，<b>那就</b>肯定不用加班了吧。",
+      "colloquial_pinyin": "Gōngsī míngwǎn dōu yào tíng diàn le, <b>nà jiù</b> kěndìng bú yòng jiābān le ba.",
+      "colloquial_translation": "The company is going to cut the power tomorrow night, so surely we won't need to work overtime.",
+      "context": "이미 정해진 상황에서 결론을 말할 때"
+    },
+    {
+      "sentence": "可是，它的大量使用也带来了严重的环境污染问题。<b>于是</b>，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。",
+      "pinyin": "Kěshì, tā de dàliàng shǐyòng yě dàilái le yánzhòng de huánjìng wūrǎn wèntí. <b>Yúshì</b>, yìxiē guójiā guīdìng, chāoshì, shāngchǎng bù néng wèi gùkè tígōng miǎnfèi sùliàodài, bìngqiě gǔlì dàjiā gòumǎi kěyǐ duō cì shǐyòng de gòuwùdài.",
+      "translation": "However, their heavy use also brought serious environmental pollution. Therefore, some countries made regulations that supermarkets and shopping malls cannot provide free plastic bags to customers, and they encourage people to buy shopping bags that can be used many times.",
+      "colloquial_equivalent": "塑料袋用太多会污染环境，<b>所以</b>很多地方开始不免费提供了，还鼓励大家用环保袋。",
+      "colloquial_pinyin": "Sùliàodài yòng tài duō huì wūrǎn huánjìng, <b>suǒyǐ</b> hěn duō dìfang kāishǐ bù miǎnfèi tígōng le, hái gǔlì dàjiā yòng huánbǎo dài.",
+      "colloquial_translation": "Using too many plastic bags pollutes the environment, so many places stopped giving them out for free and encourage reusable bags.",
+      "context": "원인 뒤에 조치를 설명할 때"
+    },
+    {
+      "sentence": "还有养成把垃圾丢进垃圾桶的习惯<b>什么的</b>。",
+      "pinyin": "Hái yǒu yǎngchéng bǎ lājī diū jìn lājītǒng de xíguàn <b>shénme de</b>.",
+      "translation": "Also, develop the habit of throwing garbage into trash cans and so on.",
+      "colloquial_equivalent": "平时就注意把垃圾丢进垃圾桶<b>之类的</b>小事。",
+      "colloquial_pinyin": "Píngshí jiù zhùyì bǎ lājī diū jìn lājītǒng <b>zhīlèi de</b> xiǎo shì.",
+      "colloquial_translation": "In daily life, pay attention to small things like throwing garbage into trash cans.",
+      "context": "비슷한 예시를 덧붙일 때"
+    }
+  ],
+  "translations": {
+    "lessonTitle": {
+      "en": "Li Jin is going on a business trip, and Wang Jing and Li Jin are chatting",
+      "ko": "리진이 출장을 가려고 하고, 왕징과 리진이 이야기를 나누다",
+      "ja": "李進が出張に行く予定で、王静と李進が話している"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Li Jin is going on a business trip, and Wang Jing and Li Jin are chatting",
+        "ko": "리진이 출장을 가려고 하고, 왕징과 리진이 이야기를 나누다",
+        "ja": "李進が出張に行く予定で、王静と李進が話している"
+      },
+      "2": {
+        "en": "The manager and the waiter are discussing work",
+        "ko": "매니저와 직원이 업무에 대해 이야기하다",
+        "ja": "マネージャーと店員が仕事について話している"
+      },
+      "3": {
+        "en": "Sun Yue and Wang Jing are talking about environmental protection",
+        "ko": "쑨웨와 왕징이 환경 보호에 대해 이야기하다",
+        "ja": "孫月と王静が環境保護について話している"
+      },
+      "4": {
+        "en": "The use of plastic bags and environmental protection",
+        "ko": "비닐봉지 사용과 환경 보호",
+        "ja": "ビニール袋の使用と環境保護"
+      },
+      "5": {
+        "en": "Protecting the earth's environment starts with small things around us",
+        "ko": "지구 환경 보호는 주변의 작은 일에서 시작된다",
+        "ja": "地球環境の保護は身近な小さなことから始まる"
+      }
+    },
+    "vocabulary": {
+      "出差": {
+        "en": "v. to go on a business trip",
+        "ko": "동. 출장 가다",
+        "ja": "動. 出張する"
+      },
+      "毛巾": {
+        "en": "n. towel",
+        "ko": "명. 수건",
+        "ja": "名. タオル"
+      },
+      "牙膏": {
+        "en": "n. toothpaste",
+        "ko": "명. 치약",
+        "ja": "名. 歯磨き粉"
+      },
+      "重": {
+        "en": "adj. heavy, weighty",
+        "ko": "형. 무거운",
+        "ja": "形. 重い"
+      },
+      "行": {
+        "en": "v. to be OK, to be all right",
+        "ko": "동. 괜찮다, 문제없다",
+        "ja": "動. よい、大丈夫である"
+      },
+      "省": {
+        "en": "v. to save, to economize",
+        "ko": "동. 아끼다, 절약하다",
+        "ja": "動. 節約する、省く"
+      },
+      "污染": {
+        "en": "v. to pollute",
+        "ko": "동. 오염시키다",
+        "ja": "動. 汚染する"
+      },
+      "卫生间": {
+        "en": "n. restroom, bathroom",
+        "ko": "명. 화장실",
+        "ja": "名. トイレ、洗面所"
+      },
+      "脏": {
+        "en": "adj. dirty",
+        "ko": "형. 더러운",
+        "ja": "形. 汚い"
+      },
+      "抱歉": {
+        "en": "v. to be sorry",
+        "ko": "동. 미안해하다, 죄송하다",
+        "ja": "動. 申し訳なく思う"
+      },
+      "空": {
+        "en": "adj. empty",
+        "ko": "형. 빈",
+        "ja": "形. 空の"
+      },
+      "盒子": {
+        "en": "n. box, case",
+        "ko": "명. 상자, 케이스",
+        "ja": "名. 箱、ケース"
+      },
+      "扔": {
+        "en": "v. to throw away",
+        "ko": "동. 버리다, 던지다",
+        "ja": "動. 捨てる、投げる"
+      },
+      "以": {
+        "en": "prep. via, by means of",
+        "ko": "전. ~로, ~의 방식으로",
+        "ja": "前. 〜で、〜によって"
+      },
+      "速度": {
+        "en": "n. speed",
+        "ko": "명. 속도",
+        "ja": "名. 速度"
+      },
+      "地球": {
+        "en": "n. earth, globe",
+        "ko": "명. 지구",
+        "ja": "名. 地球"
+      },
+      "既然": {
+        "en": "conj. since, as, now that",
+        "ko": "접. 기왕, 이미 ~인 이상",
+        "ja": "接. 〜である以上、せっかく"
+      },
+      "停": {
+        "en": "v. to stop, to cease",
+        "ko": "동. 멈추다, 중지하다",
+        "ja": "動. 止まる、止める"
+      },
+      "得意": {
+        "en": "adj. complacent, gloating",
+        "ko": "형. 우쭐한, 득의양양한",
+        "ja": "形. 得意げな、うぬぼれた"
+      },
+      "目的": {
+        "en": "n. aim, purpose",
+        "ko": "명. 목적",
+        "ja": "名. 目的"
+      },
+      "暖": {
+        "en": "adj. warm",
+        "ko": "형. 따뜻한",
+        "ja": "形. 暖かい"
+      },
+      "塑料袋": {
+        "en": "n. plastic bag",
+        "ko": "명. 비닐봉지, 플라스틱 봉투",
+        "ja": "名. ビニール袋、プラスチック袋"
+      },
+      "于是": {
+        "en": "conj. hence, therefore",
+        "ko": "접. 그래서, 이에",
+        "ja": "接. そこで、それで"
+      },
+      "鼓励": {
+        "en": "v. to encourage",
+        "ko": "동. 격려하다, 장려하다",
+        "ja": "動. 励ます、奨励する"
+      },
+      "拒绝": {
+        "en": "v. to refuse, to reject",
+        "ko": "동. 거절하다",
+        "ja": "動. 拒絶する、断る"
+      },
+      "减少": {
+        "en": "v. to reduce, to decrease",
+        "ko": "동. 줄이다, 감소하다",
+        "ja": "動. 減らす、減少する"
+      },
+      "数量": {
+        "en": "n. quantity, amount",
+        "ko": "명. 수량",
+        "ja": "名. 数量"
+      },
+      "温度": {
+        "en": "n. temperature",
+        "ko": "명. 온도",
+        "ja": "名. 温度"
+      },
+      "乘坐": {
+        "en": "v. to take (a vehicle), to ride (in a vehicle)",
+        "ko": "동. 타다, 탑승하다",
+        "ja": "動. 乗る、乗車する"
+      },
+      "丢": {
+        "en": "v. to throw, to cast",
+        "ko": "동. 버리다, 던지다",
+        "ja": "動. 捨てる、投げる"
+      },
+      "垃圾桶": {
+        "en": "n. dustbin, trash can",
+        "ko": "명. 쓰레기통",
+        "ja": "名. ごみ箱"
+      },
+      "美丽": {
+        "en": "adj. beautiful",
+        "ko": "형. 아름다운",
+        "ja": "形. 美しい"
+      }
+    },
+    "properNouns": {
+      "李进": {
+        "en": "Li Jin, name of a person",
+        "ko": "리진, 사람 이름",
+        "ja": "李進、人名"
+      },
+      "王静": {
+        "en": "Wang Jing, name of a person",
+        "ko": "왕징, 사람 이름",
+        "ja": "王静、人名"
+      },
+      "小王": {
+        "en": "Xiao Wang, name of a person",
+        "ko": "샤오왕, 사람 이름",
+        "ja": "小王、人名"
+      },
+      "孙月": {
+        "en": "Sun Yue, name of a person",
+        "ko": "쑨웨, 사람 이름",
+        "ja": "孫月、人名"
+      },
+      "地球一小时": {
+        "en": "Earth Hour, an environmental campaign",
+        "ko": "지구촌 전등 끄기, 환경 보호 캠페인",
+        "ja": "アースアワー、環境保護キャンペーン"
+      }
+    },
+    "grammar": {
+      "够": {
+        "formal_translation": {
+          "en": "“够” can be used as a verb meaning that the quantity is enough. It can also be used as an adverb meaning that the degree has reached a certain standard. When “够 + adjective” is used in an affirmative sentence, the adjective is usually followed by “的.”",
+          "ko": "“够”는 동사로 쓰여 수량이 충분함을 나타낼 수 있습니다. 또한 부사로 쓰여 정도가 일정한 기준에 도달했음을 나타냅니다. 긍정문에서 “够 + 형용사”를 쓸 때는 형용사 뒤에 보통 “的”를 붙입니다.",
+          "ja": "「够」は動詞として、数量が足りていることを表します。また副詞として、程度が一定の基準に達していることを表します。肯定文で「够＋形容詞」を使う場合、形容詞の後ろには普通「的」を付けます。"
+        },
+        "colloquial_translation": {
+          "en": "In everyday speech, “够” is used very naturally for both amount and degree, as in “够了,” “够重的,” and “不够勇敢.”",
+          "ko": "일상 회화에서 “够”는 수량과 정도를 모두 나타낼 때 아주 자연스럽게 쓰이며, “够了”, “够重的”, “不够勇敢” 같은 표현이 자주 보입니다.",
+          "ja": "日常会話では、「够」は数量と程度の両方にとても自然に使われ、「够了」「够重的」「不够勇敢」のような表現がよく使われます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "When guests come, Chinese people are sure to bring out the best food at home for them, and make sure the guests eat enough and get full.",
+              "ko": "손님이 오면 중국 사람들은 반드시 집에서 가장 맛있는 음식을 꺼내 손님에게 대접하고, 손님이 충분히 먹고 배부르게 먹도록 합니다.",
+              "ja": "お客さんが来ると、中国人は必ず家で一番おいしいものを出してもてなし、お客さんに十分食べてもらい、お腹いっぱいになってもらいます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Doctors remind us that sleeping too long is not good and can sometimes even cause headaches. Generally, sleeping enough for eight hours is fine.",
+              "ko": "의사는 우리에게 잠자는 시간이 너무 긴 것은 좋지 않고, 때로는 두통을 일으킬 수도 있다고 알려 줍니다. 일반적으로 여덟 시간만 충분히 자면 됩니다.",
+              "ja": "医者は私たちに、睡眠時間が長すぎるのはよくなく、時には頭痛を引き起こすこともあると注意しています。普通は八時間十分に寝れば大丈夫です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "No need to bring these. Hotels provide them for free. Besides, the suitcase is already heavy enough!",
+              "ko": "이런 건 가져갈 필요 없습니다. 호텔에서 다 무료로 제공해 줍니다. 게다가 캐리어가 이미 충분히 무겁습니다!",
+              "ja": "これらを持って行く必要はありません。ホテルが無料で提供してくれます。それに、スーツケースはもう十分重いです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Some people are afraid of failure and cannot accept it. This is not only because they are not brave enough, but also because they demand too much of themselves.",
+              "ko": "어떤 사람들은 실패를 두려워하고 실패를 받아들이지 못합니다. 이것은 그들이 충분히 용감하지 않기 때문일 뿐 아니라, 자신에게 너무 높은 요구를 하기 때문이기도 합니다.",
+              "ja": "ある人は失敗を恐れ、失敗を受け入れることができません。これは彼らが十分に勇敢でないからだけでなく、自分への要求が高すぎるからでもあります。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Stop packing more. The suitcase is already heavy enough.",
+              "ko": "더 넣지 마세요. 캐리어가 이미 충분히 무거워요.",
+              "ja": "もう詰めないでください。スーツケースはもう十分重いです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Eight hours of sleep is enough. Sleeping too long can actually make your head hurt.",
+              "ko": "여덟 시간만 자면 충분해요. 너무 오래 자면 오히려 머리가 아플 수 있어요.",
+              "ja": "八時間寝れば十分です。寝すぎるとかえって頭が痛くなることがあります。"
+            }
+          }
+        ]
+      },
+      "以": {
+        "formal_translation": {
+          "en": "“以” can be used as a preposition meaning “using, taking, by means of,” often in the structure “以…… + V.” The structure “以……为……” means “to take ... as ...” or “to regard ... as ...”. “以” can also be used as a conjunction indicating purpose, meaning “in order to,” usually at the beginning of the second clause with the same subject.",
+          "ko": "“以”는 전치사로 쓰여 ‘~을 이용하여, ~을 가지고’라는 뜻을 나타내며, 보통 “以…… + V” 구조로 씁니다. “以……为……”는 ‘……을 ……로 삼다’ 또는 ‘……을 ……라고 여기다’라는 뜻입니다. 또한 “以”는 접속사로 목적을 나타내어 ‘~하기 위해’라는 뜻이 되며, 보통 뒤 절의 문두에 쓰이고 두 절의 주어는 같아야 합니다.",
+          "ja": "「以」は前置詞として、「〜を用いて、〜によって」という意味を表し、よく「以……＋V」の形で使われます。「以……为……」は「……を……とする」または「……を……と見なす」という意味です。また「以」は接続詞として目的を表し、「〜するために」という意味になり、普通は後ろの節の文頭に置かれ、二つの節の主語は同じでなければなりません。"
+        },
+        "colloquial_translation": {
+          "en": "“以” is formal. In everyday speech, people often use “用,” “把……当作……,” or “为了” instead, depending on the meaning.",
+          "ko": "“以”는 격식 있는 표현입니다. 일상 회화에서는 의미에 따라 “用”, “把……当作……”, “为了”를 더 자주 씁니다.",
+          "ja": "「以」は改まった表現です。日常会話では、意味に応じて「用」「把……当作……」「为了」を使うことが多いです。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Manager, don't worry. I will definitely complete it at the fastest speed.",
+              "ko": "매니저님 안심하세요. 저는 반드시 가장 빠른 속도로 완료하겠습니다.",
+              "ja": "マネージャー、ご安心ください。私は必ず最速で完成させます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "People who feel satisfied when something is done just “more or less” often do not succeed. Only by holding oneself to strict standards can one become more outstanding.",
+              "ko": "일을 ‘그럭저럭’ 해 놓고 만족하는 사람은 대개 성공하지 못합니다. 엄격한 기준으로 자신을 요구해야만 자신을 더 뛰어나게 만들 수 있습니다.",
+              "ja": "物事を「だいたい」で済ませて満足する人は、往々にして成功しません。厳しい基準で自分に要求してこそ、自分をより優秀にすることができます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "We should take those who dare to tell the truth as a mirror, so that we can discover our own shortcomings in time.",
+              "ko": "우리는 진실을 말할 용기가 있는 사람들을 거울로 삼아야 합니다. 그래야 제때 자신의 단점을 발견할 수 있습니다.",
+              "ja": "私たちは本当のことを言う勇気のある人を鏡とすべきです。そうしてこそ、自分の欠点を適時に見つけることができます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If they are very important friends, Chinese people often invite them to eat at a restaurant in order to show respect and courtesy to the guests.",
+              "ko": "아주 중요한 친구라면 중국 사람들은 보통 그들을 식당이나 레스토랑에 초대해 식사를 하며, 손님에 대한 존중과 예의를 나타냅니다.",
+              "ja": "とても大切な友人であれば、中国人はよく彼らをレストランや食堂に招いて食事をし、お客さんへの尊重と礼儀を示します。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Don't worry. I'll get this done as fast as possible.",
+              "ko": "걱정하지 마세요. 제가 최대한 빨리 이 일을 끝낼게요.",
+              "ja": "心配しないでください。できるだけ早くこの件を終わらせます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "We should treat people who dare to tell the truth as a mirror, not just listen to nice-sounding words.",
+              "ko": "우리는 진실을 말할 용기가 있는 사람을 거울로 삼아야 해요. 듣기 좋은 말만 들으면 안 됩니다.",
+              "ja": "本当のことを言う勇気のある人を鏡として見るべきです。聞こえのいい言葉だけを聞いてはいけません。"
+            }
+          }
+        ]
+      },
+      "既然": {
+        "formal_translation": {
+          "en": "“既然” is a conjunction used in the first clause of a complex sentence, meaning “since this is already the fact.” The second clause often uses words such as “就,” “也,” or “还” with it to express a conclusion drawn from the previous situation.",
+          "ko": "“既然”은 복문의 앞 절에 쓰이는 접속사로, ‘이미 사실이 이러하니’라는 뜻입니다. 뒤 절에는 보통 “就”, “也”, “还” 같은 말이 함께 쓰여 앞의 상황에 근거한 결론을 나타냅니다.",
+          "ja": "「既然」は複文の前半の節に使われる接続詞で、「事実がすでにこうであるから」という意味です。後半の節にはよく「就」「也」「还」などが一緒に使われ、前の状況に基づく結論を表します。"
+        },
+        "colloquial_translation": {
+          "en": "In everyday speech, “既然……就……” is common for “since that's the case, then...”. A looser spoken alternative is “都……了，那就……”.",
+          "ko": "일상 회화에서 “既然……就……”는 ‘기왕 이렇게 된 이상, 그럼 ……하자’라는 뜻으로 자주 씁니다. 더 구어적인 표현으로는 “都……了，那就……”도 자연스럽습니다.",
+          "ja": "日常会話では、「既然……就……」は「そういうことなら、では……」という意味でよく使われます。より口語的には「都……了，那就……」も自然です。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "A: Since you don't want to play ball, why are you still playing?<br/>B: I have no choice but to play, because I've gained several jin these days.",
+              "ko": "A: 네가 공 치는 걸 원하지 않는데, 왜 또 치려고 해?<br/>B: 어쩔 수 없이 치는 거야. 요 며칠 또 몇 근이나 살이 쪘거든.",
+              "ja": "A: ボールをしたくないのに、どうしてまだするのですか。<br/>B: せざるを得ないんです。この数日でまた何斤も太ったからです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: I'm really sorry. I have to go on a business trip tomorrow, so I can't attend tomorrow's meeting.<br/>B: Since that's the case, we'll have to arrange it for next week.",
+              "ko": "A: 정말 죄송합니다. 내일 출장을 가야 해서 내일 회의에 참석할 수 없습니다.<br/>B: 그렇다면 어쩔 수 없이 다음 주로安排해야겠네요.",
+              "ja": "A: 本当に申し訳ありません。明日出張しなければならないので、明日の会議には参加できません。<br/>B: そういうことなら、来週に手配するしかありませんね。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Since the company will turn off the lights and cut the power tomorrow night, we definitely won't need to work overtime.",
+              "ko": "내일 밤 회사가 불을 끄고 전기를 끊는다면, 우리는 분명 야근하지 않아도 되겠네요.",
+              "ja": "明日の夜、会社が電気を消して停電するなら、私たちはきっと残業しなくて済みます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Since you're going on a business trip tomorrow, let's move the meeting to next week.",
+              "ko": "내일 출장 가는 거면 회의는 다음 주로 미루죠.",
+              "ja": "明日出張するなら、会議は来週に変更しましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The company is going to cut the power tomorrow night anyway, so let's not work overtime.",
+              "ko": "어차피 회사가 내일 밤 정전된다니까, 야근하지 맙시다.",
+              "ja": "会社は明日の夜どうせ停電するのですから、残業はやめましょう。"
+            }
+          }
+        ]
+      },
+      "于是": {
+        "formal_translation": {
+          "en": "“于是” is a conjunction used in the second clause of a complex sentence. It indicates that the following event happens immediately after the previous event, usually implying a successive or consequential relation.",
+          "ko": "“于是”는 복문의 뒤 절에 쓰이는 접속사입니다. 뒤의 일이 앞의 일에 이어 바로 발생함을 나타내며, 보통 순차적이거나 이어지는 관계를 함축합니다.",
+          "ja": "「于是」は複文の後半の節に使われる接続詞です。後の出来事が前の出来事に続いてすぐ起こることを表し、普通は連続・承接の関係を含みます。"
+        },
+        "colloquial_translation": {
+          "en": "“于是” is common in narration and explanations. In casual speech, “然后” or “所以” may sound more natural depending on whether the focus is sequence or result.",
+          "ko": "“于是”는 이야기나 설명에서 자주 쓰입니다. 일상 회화에서는 순서를 강조하면 “然后”, 결과를 강조하면 “所以”가 더 자연스러울 때가 많습니다.",
+          "ja": "「于是」は物語や説明でよく使われます。日常会話では、順序を強調するなら「然后」、結果を強調するなら「所以」のほうが自然なことが多いです。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "I heard from my grandparents that on the day my younger sister was born, there happened to be a heavy snow, so my parents named her Xia Xue.",
+              "ko": "할아버지와 할머니께 들었는데, 여동생이 태어난 날 마침 큰눈이 내려서 부모님이 그녀에게 샤쉐라는 이름을 지어 주셨습니다.",
+              "ja": "祖父母の話では、妹が生まれた日にちょうど大雪が降ったので、両親は彼女に夏雪という名前を付けました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He is a famous journalist. Over five years, he went to many Asian countries and tasted food from many places. After returning home, he spent a year organizing the materials, and thus this book about Asian cuisine came into being.",
+              "ko": "그는 유명한 기자입니다. 5년 동안 그는 아시아의 많은 나라를 다니며 각지의 음식을 맛보았습니다. 귀국한 뒤 1년 동안 자료를 정리했고, 그래서 이 아시아 음식에 관한 책이 나오게 되었습니다.",
+              "ja": "彼は有名な記者です。五年間でアジアの多くの国を訪れ、各地の美食を味わいました。帰国後、一年かけて資料を整理し、こうしてこのアジア料理に関する本ができました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "However, their heavy use also brought serious environmental pollution. Therefore, some countries made regulations that supermarkets and shopping malls cannot provide free plastic bags to customers, and they encourage people to buy shopping bags that can be used many times.",
+              "ko": "하지만 그것의 대량 사용은 심각한 환경 오염 문제도 가져왔습니다. 그래서 일부 국가는 슈퍼마켓과 상점이 고객에게 무료 비닐봉지를 제공할 수 없도록 규정하고, 여러 번 사용할 수 있는 장바구니를 구매하도록 장려합니다.",
+              "ja": "しかし、その大量使用は深刻な環境汚染問題ももたらしました。そこで、一部の国ではスーパーや商店が顧客に無料のビニール袋を提供してはならないと定め、何度も使える買い物袋を購入するよう奨励しています。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "It snowed heavily on the day my younger sister was born, so my parents named her Xia Xue.",
+              "ko": "여동생이 태어난 날 큰눈이 와서 부모님이 이름을 샤쉐라고 지어 주셨어요.",
+              "ja": "妹が生まれた日に大雪が降ったので、両親は夏雪という名前を付けました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Using too many plastic bags pollutes the environment, so many places started no longer providing them for free.",
+              "ko": "비닐봉지를 너무 많이 쓰면 환경을 오염시키니까, 많은 곳에서 무료 제공을 하지 않기 시작했어요.",
+              "ja": "ビニール袋を使いすぎると環境を汚染するので、多くの場所で無料提供をやめ始めました。"
+            }
+          }
+        ]
+      },
+      "于是 vs 因此": {
+        "formal_translation": {
+          "en": "Similarities: both are conjunctions and can be used in the structure “A, 于是/因此 B,” meaning A causes B. Differences: in this meaning, “于是” emphasizes that A happens first and B happens afterward, while “因此” emphasizes that A is the reason and B is the result.",
+          "ko": "공통점: 둘 다 접속사이며 “A, 于是/因此 B” 구조에 쓰여 A가 B를 일으킴을 나타낼 수 있습니다. 차이점: 이 의미를 나타낼 때 “于是”는 A가 먼저 일어나고 B가 뒤이어 일어남을 강조하며, “因此”는 A가 원인이고 B가 결과임을 강조합니다.",
+          "ja": "共通点：どちらも接続詞で、「A, 于是/因此 B」の構造に使え、AがBを引き起こすことを表します。相違点：この意味を表す時、「于是」はAが先に起こりBが後に起こることを強調し、「因此」はAが原因でBが結果であることを強調します。"
+        },
+        "colloquial_translation": {
+          "en": "In everyday speech, “所以” is often the easiest general choice. Use “于是” when telling what happened next, and “因此” when explaining a more formal cause-and-effect relation.",
+          "ko": "일상 회화에서는 보통 “所以”가 가장 무난합니다. 다음에 이어진 일을 말할 때는 “于是”, 더 격식 있게 원인과 결과를 설명할 때는 “因此”가 어울립니다.",
+          "ja": "日常会話では「所以」が最も使いやすい一般的な表現です。次に起こったことを語る時は「于是」、より改まって原因と結果を説明する時は「因此」が合います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "When he was little, he often got sick, so he went running every day to exercise.",
+              "ko": "어렸을 때 그는 자주 아팠고, 그래서 매일 달리기를 하며 몸을 단련했습니다.",
+              "ja": "子どものころ、彼はよく病気をしたので、毎日走って体を鍛えました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Everyone agreed to travel during winter vacation, so we began discussing where to travel.",
+              "ko": "모두가 겨울방학에 여행 가는 것에 동의했고, 그래서 우리는 어디로 여행 갈지에 대해 토론하기 시작했습니다.",
+              "ja": "みんなが冬休みに旅行へ行くことに賛成したので、私たちはどこへ旅行するかについて話し合い始めました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He came here with his parents when he was three and has never left since. Therefore, he has deep feelings for this place.",
+              "ko": "그는 세 살 때 부모님과 함께 이곳에 왔고 그 뒤로 한 번도 이곳을 떠난 적이 없습니다. 따라서 그는 이곳에 깊은 애정을 가지고 있습니다.",
+              "ja": "彼は三歳の時に父母と一緒にここへ来て、それ以来一度もここを離れたことがありません。そのため、彼はこの場所に深い思いを持っています。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Everyone agreed to go out during winter vacation, so we started talking about where to go.",
+              "ko": "다들 겨울방학에 놀러 가는 데 동의해서, 우리는 어디로 갈지 상의하기 시작했어요.",
+              "ja": "みんなが冬休みに出かけることに賛成したので、私たちはどこへ行くか相談し始めました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He grew up here, so he has especially deep feelings for this place.",
+              "ko": "그는 어려서부터 여기서 자라서, 이곳에 대한 감정이 특히 깊어요.",
+              "ja": "彼は小さいころからここで育ったので、この場所に特に深い思いがあります。"
+            }
+          }
+        ]
+      },
+      "什么的": {
+        "formal_translation": {
+          "en": "“什么的” is a particle used after the examples listed, meaning that there are still other things similar to the listed examples. It is usually used in spoken Chinese.",
+          "ko": "“什么的”는 열거한 예시 뒤에 쓰이는 조사로, 열거한 것과 비슷한 다른 상황이나 항목도 있음을 나타냅니다. 보통 구어에서 사용됩니다.",
+          "ja": "「什么的」は挙げた例の後ろに使われる助詞で、挙げた例と似たものがほかにもあることを表します。普通は話し言葉で使われます。"
+        },
+        "colloquial_translation": {
+          "en": "“什么的” is close to “and stuff like that.” “之类的” has a similar meaning and can sound a little neater or more general.",
+          "ko": "“什么的”는 ‘뭐 그런 것들’에 가깝습니다. “之类的”도 비슷한 뜻이며 조금 더 깔끔하거나 포괄적으로 들릴 수 있습니다.",
+          "ja": "「什么的」は「〜など、そういうもの」に近い表現です。「之类的」も似た意味で、少し整った、または広い表現に聞こえることがあります。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Since you don't like the journalism major, then consider other majors, such as Chinese or international relations. Your dad and I won't object.",
+              "ko": "네가 신문학 전공을 좋아하지 않는다면 다른 전공도 한번 고려해 봐. 중문학이나 국제관계 같은 것들 말이야. 나와 네 아빠는 반대하지 않아.",
+              "ja": "ニュース専攻が好きでないなら、ほかの専攻も考えてみなさい。中国語や国際関係などです。私とお父さんは反対しません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Let's go to the supermarket. We need to buy some cookies and bread for going out tomorrow.<br/>B: Okay, and mineral water, juice, and things like that.",
+              "ko": "A: 우리 슈퍼마켓에 가자. 내일 놀러 나가려면 과자랑 빵을 좀 사야 해.<br/>B: 좋아, 그리고 생수랑 주스 같은 것도.",
+              "ja": "A: スーパーに行きましょう。明日遊びに出かけるので、クッキーとパンを少し買わなければなりません。<br/>B: いいですね。それからミネラルウォーターやジュースなども。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In fact, we only need to pay attention to small things around us. For example, in summer, set the air conditioner temperature a little higher and remember to turn off the air conditioner and computer when going out, which saves electricity; drive less, ride more, or take the subway and buses, which can reduce air pollution; and develop the habit of throwing garbage into trash cans and so on.",
+              "ko": "사실 우리는 주변의 작은 일에 조금만 주의하면 됩니다. 예를 들어 여름에는 에어컨 온도를 조금 높게 설정하고, 외출할 때 에어컨과 컴퓨터를 끄는 것을 기억하면 전기를 절약할 수 있습니다. 차를 적게 몰고, 자전거를 더 많이 타거나 지하철과 버스를 이용하면 공기 오염을 줄일 수 있습니다. 또 쓰레기를 쓰레기통에 버리는 습관을 기르는 것 등이 있습니다.",
+              "ja": "実際には、私たちは身近な小さなことに少し注意するだけでよいのです。例えば、夏にエアコンの温度を少し高めにし、外出時にエアコンとパソコンを消すことを覚えておけば電気を節約できます。車を少なくし、自転車に多く乗ったり、地下鉄や公共バスを利用したりすれば空気汚染を減らせます。また、ごみをごみ箱に捨てる習慣を身につけることなどもあります。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "You can look at Chinese, international relations, and things like that. You don't have to study journalism.",
+              "ko": "중문학이나 국제관계 같은 것도 한번 봐. 꼭 신문학을 전공할 필요는 없어.",
+              "ja": "中国語や国際関係などを見てみてもいいです。必ずしもニュース専攻を学ばなくてもいいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "We're going out tomorrow, so let's buy some cookies, bread, drinks, and stuff like that.",
+              "ko": "내일 놀러 나가니까 과자, 빵, 음료 같은 걸 좀 사자.",
+              "ja": "明日出かけるので、クッキーやパン、飲み物などを少し買いましょう。"
+            }
+          }
+        ]
+      },
+      "同字词：度": {
+        "formal_translation": {
+          "en": "Words with the same character “度”: 速度, 温度, 态度. “速度” means speed, “温度” means temperature, and “态度” means attitude or stance toward a person or situation.",
+          "ko": "같은 글자 “度”가 들어간 단어: 速度, 温度, 态度. “速度”는 속도, “温度”는 온도, “态度”는 사람이나 일에 대한 태도나 입장을 뜻합니다.",
+          "ja": "同じ字「度」を含む語：速度、温度、态度。「速度」は速さ、「温度」は温度、「态度」は人や物事に対する態度や立場を意味します。"
+        },
+        "colloquial_translation": {
+          "en": "These words share “度,” which often relates to degree or measure, but they should be learned as separate vocabulary chunks.",
+          "ko": "이 단어들은 모두 “度”를 포함하며 정도나 측정과 관련되는 느낌이 있지만, 각각 별개의 어휘 덩어리로 익히는 것이 좋습니다.",
+          "ja": "これらの語は「度」を共有し、程度や測定に関係する感じがありますが、それぞれ別の語彙として覚えるのがよいです。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Trains are very fast now. Sometimes taking a train can even save more time than taking a plane, because generally speaking, the distance to a train station is much shorter than the distance to an airport.",
+              "ko": "요즘 기차의 속도는 매우 빠릅니다. 때로는 기차를 타는 것이 비행기를 타는 것보다 시간을 더 절약할 수도 있습니다. 일반적으로 기차역까지 가는 거리가 공항까지 가는 거리보다 훨씬 가깝기 때문입니다.",
+              "ja": "現在、列車の速度は非常に速いです。時には列車に乗るほうが飛行機に乗るより時間を節約できることさえあります。一般的に、駅へ行く距離は空港へ行く距離よりずっと近いからです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Many people are used to exercising in the morning, but outdoor exercise is not necessarily better the earlier it is, especially in winter. Before sunrise, the temperature is relatively low and not suitable for exercise.",
+              "ko": "많은 사람들은 아침에 운동하는 데 익숙하지만, 야외 운동은 무조건 빠를수록 좋은 것은 아닙니다. 특히 겨울에는 해 뜨기 전 온도가 비교적 낮아 운동에 적합하지 않습니다.",
+              "ja": "多くの人は朝に体を鍛える習慣がありますが、屋外での運動は早ければ早いほどよいわけではありません。特に冬は、日の出前の温度が比較的低く、運動に適していません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "People all hope that life will change in a good direction. When we begin to change our own attitude, this kind of change begins to happen.",
+              "ko": "사람들은 모두 삶이 좋은 방향으로 변하기를 바랍니다. 우리가 자신의 태도를 바꾸기 시작할 때, 이런 변화도 시작됩니다.",
+              "ja": "人々は皆、生活がよい方向へ変わることを望んでいます。私たちが自分の態度を変え始めると、このような変化も起こり始めます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "High-speed trains are really fast now. Sometimes taking the train saves more time than flying.",
+              "ko": "요즘 고속철도는 정말 빨라요. 때로는 기차를 타는 게 비행기보다 시간을 더 아낄 수 있어요.",
+              "ja": "今の高速鉄道は本当に速いです。時には列車に乗るほうが飛行機より時間を節約できます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If you want life to get better, start by changing your own attitude.",
+              "ko": "삶이 더 나아지길 원한다면 먼저 자신의 태도부터 바꿔 보세요.",
+              "ja": "生活をよくしたいなら、まず自分の態度を変えることから始めましょう。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "不用拿这些，宾馆都会免费提供的。再说，箱子已经<b>够</b>重的了！": {
+        "translation": {
+          "en": "No need to bring these. Hotels provide them for free. Besides, the suitcase is already heavy enough!",
+          "ko": "이런 건 가져갈 필요 없어. 호텔에서 다 무료로 제공해 줘. 게다가 캐리어가 이미 충분히 무거워!",
+          "ja": "これらを持って行く必要はありません。ホテルが無料で提供してくれます。それに、スーツケースはもう十分重いです。"
+        },
+        "colloquial_translation": {
+          "en": "Don't bring these. Hotels have them for free, and the suitcase is already heavy enough!",
+          "ko": "이런 건 가져가지 마. 호텔에 무료로 다 있고, 캐리어는 이미 충분히 무거워!",
+          "ja": "これらは持って行かなくていいです。ホテルに無料のものがありますし、スーツケースはもう十分重いです。"
+        },
+        "context": {
+          "en": "When saying something is already enough",
+          "ko": "짐이 충분히 무겁다고 말할 때",
+          "ja": "すでに十分だと言うとき"
+        }
+      },
+      "经理您放心，我一定<b>以</b>最快的速度完成。": {
+        "translation": {
+          "en": "Manager, don't worry. I'll finish it as quickly as possible.",
+          "ko": "매니저님 안심하세요. 가장 빠른 속도로 끝내겠습니다.",
+          "ja": "マネージャー、ご安心ください。最速で終わらせます。"
+        },
+        "colloquial_translation": {
+          "en": "Manager, don't worry. I'll definitely get it done as fast as possible.",
+          "ko": "매니저님 걱정하지 마세요. 제가 최대한 빨리 끝낼게요.",
+          "ja": "マネージャー、心配しないでください。できるだけ早く終わらせます。"
+        },
+        "context": {
+          "en": "Promising speed at work",
+          "ko": "업무 처리 속도를 약속할 때",
+          "ja": "仕事の処理速度を約束するとき"
+        }
+      },
+      "<b>既然</b>明天晚上公司会关灯停电，那么我们肯定不用加班了。": {
+        "translation": {
+          "en": "Since the company will turn off the lights and cut the power tomorrow night, we definitely won't need to work overtime.",
+          "ko": "내일 밤 회사가 불을 끄고 전기를 끊는다면, 우리는 분명 야근하지 않아도 되겠네요.",
+          "ja": "明日の夜、会社が電気を消して停電するなら、私たちはきっと残業しなくて済みます。"
+        },
+        "colloquial_translation": {
+          "en": "The company is going to cut the power tomorrow night, so surely we won't need to work overtime.",
+          "ko": "회사가 내일 밤 전기를 끊는다니까, 분명 야근 안 해도 되겠죠.",
+          "ja": "会社が明日の夜停電するなら、きっと残業しなくていいでしょう。"
+        },
+        "context": {
+          "en": "Drawing a conclusion from a fixed situation",
+          "ko": "이미 정해진 상황에서 결론을 말할 때",
+          "ja": "すでに決まった状況から結論を言うとき"
+        }
+      },
+      "可是，它的大量使用也带来了严重的环境污染问题。<b>于是</b>，一些国家规定，超市、商场不能为顾客提供免费塑料袋，并且鼓励大家购买可以多次使用的购物袋。": {
+        "translation": {
+          "en": "However, their heavy use also brought serious environmental pollution. Therefore, some countries made regulations that supermarkets and shopping malls cannot provide free plastic bags to customers, and they encourage people to buy shopping bags that can be used many times.",
+          "ko": "하지만 그것의 대량 사용은 심각한 환경 오염 문제도 가져왔습니다. 그래서 일부 국가는 슈퍼마켓과 상점이 고객에게 무료 비닐봉지를 제공할 수 없도록 규정하고, 여러 번 사용할 수 있는 장바구니를 구매하도록 장려합니다.",
+          "ja": "しかし、その大量使用は深刻な環境汚染問題ももたらしました。そこで、一部の国ではスーパーや商店が顧客に無料のビニール袋を提供してはならないと定め、何度も使える買い物袋を購入するよう奨励しています。"
+        },
+        "colloquial_translation": {
+          "en": "Using too many plastic bags pollutes the environment, so many places stopped giving them out for free and encourage reusable bags.",
+          "ko": "비닐봉지를 너무 많이 쓰면 환경이 오염되니까, 많은 곳에서 무료 제공을 중단하고 장바구니 사용을 장려하기 시작했어요.",
+          "ja": "ビニール袋を使いすぎると環境を汚染するので、多くの場所で無料配布をやめ、エコバッグの使用を奨励し始めました。"
+        },
+        "context": {
+          "en": "Explaining action after a cause",
+          "ko": "원인 뒤에 조치를 설명할 때",
+          "ja": "原因の後に対策を説明するとき"
+        }
+      },
+      "还有养成把垃圾丢进垃圾桶的习惯<b>什么的</b>。": {
+        "translation": {
+          "en": "Also, develop the habit of throwing garbage into trash cans and so on.",
+          "ko": "또 쓰레기를 쓰레기통에 버리는 습관을 기르는 것 등이 있습니다.",
+          "ja": "また、ごみをごみ箱に捨てる習慣を身につけることなどもあります。"
+        },
+        "colloquial_translation": {
+          "en": "In daily life, pay attention to small things like throwing garbage into trash cans.",
+          "ko": "평소에 쓰레기를 쓰레기통에 버리는 것 같은 작은 일에 신경 쓰면 돼요.",
+          "ja": "普段から、ごみをごみ箱に捨てるような小さなことに気をつければいいです。"
+        },
+        "context": {
+          "en": "Adding similar examples",
+          "ko": "비슷한 예시를 덧붙일 때",
+          "ja": "似た例を付け加えるとき"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "These are the towel, toothpaste, and toothbrush you need to take on your business trip tomorrow. Put them in your suitcase.",
+              "ko": "이건 내일 출장 갈 때 가져갈 수건, 치약, 칫솔이야. 그것들을 캐리어에 넣어 둬.",
+              "ja": "これは明日の出張に持って行くタオル、歯磨き粉、歯ブラシです。それらをスーツケースに入れておいてください。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "No need to bring these. Hotels provide them for free. Besides, the suitcase is already heavy enough!",
+              "ko": "이런 건 가져갈 필요 없어. 호텔에서 다 무료로 제공해 줘. 게다가 캐리어가 이미 충분히 무거워!",
+              "ja": "これらを持って行く必要はありません。ホテルが無料で提供してくれます。それに、スーツケースはもう十分重いです。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Of course I know hotels have them. Haven't you always said we should protect the environment? Start now with small things around you.",
+              "ko": "호텔에 있는 건 나도 당연히 알아. 너 항상 환경을 보호해야 한다고 말하지 않았어? 지금부터 주변의 작은 일부터 시작해 봐.",
+              "ja": "ホテルにあることはもちろん知っています。あなたはずっと環境を守るべきだと言っていたでしょう。今すぐ身近な小さなことから始めましょう。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Okay, no problem. My flight is at 10 tomorrow morning. Can you drive me to the airport?",
+              "ko": "그래, 문제없어. 내일 오전 10시 비행기인데, 차로 공항까지 데려다줄 수 있어?",
+              "ja": "分かりました、問題ありません。明日の午前十時の飛行機ですが、車で空港まで送ってくれますか。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Traffic is really bad at that time! You'd better take the subway to the airport. That way you can not only save gas money, but also avoid polluting the air.",
+              "ko": "그 시간엔 길이 얼마나 심하게 막히는데! 그냥 지하철 타고 공항에 가. 그러면 기름값도 아낄 수 있고 공기도 오염시키지 않아.",
+              "ja": "その時間は道がとても渋滞しますよ。やはり地下鉄で空港へ行ったほうがいいです。そうすればガソリン代を節約できるだけでなく、空気も汚染しません。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "All right, I'll listen to you.",
+              "ko": "좋아, 그럼 네 말 들을게.",
+              "ja": "分かりました。ではあなたの言うとおりにします。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Xiao Wang, why is the restroom so dirty? This will leave a bad impression on the guests. Go clean it quickly.",
+              "ko": "샤오왕, 화장실이 왜 이렇게 더러워? 손님들에게 좋지 않은 인상을 남길 거야. 빨리 가서 청소해.",
+              "ja": "小王、トイレはどうしてこんなに汚いのですか。お客様に悪い印象を残します。早く掃除しに行ってください。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Manager, I'm really sorry. The restaurant has been too busy today, and I haven't had time to clean it yet.",
+              "ko": "매니저님, 정말 죄송합니다. 오늘 가게가 너무 바빠서 아직 청소할 시간이 없었습니다.",
+              "ja": "マネージャー、本当に申し訳ありません。今日は店が忙しすぎて、まだ掃除する時間がありませんでした。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "There are also some empty drink bottles and paper boxes under that table.",
+              "ko": "저 테이블 아래에도 빈 음료수 병과 종이 상자가 좀 있어요.",
+              "ja": "あのテーブルの下にも、空の飲み物の瓶と紙箱がいくつかあります。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Okay, I'll go throw them away right now.",
+              "ko": "알겠습니다. 바로 가서 그것들을 버리겠습니다.",
+              "ja": "分かりました。すぐにそれらを捨てに行きます。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "From now on, you must pay attention to this issue. No matter how many customers there are or how busy business is, we must ensure the restaurant is clean and hygienic.",
+              "ko": "앞으로는 이 문제에 꼭 주의해야 해. 손님이 아무리 많고 장사가 아무리 바빠도 우리는 식당이 깨끗하고 위생적이도록 보장해야 해.",
+              "ja": "今後は必ずこの問題に注意してください。お客様がどれほど多く、商売がどれほど忙しくても、私たちはレストランを清潔で衛生的に保たなければなりません。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Manager, don't worry. I'll finish it as quickly as possible. But we really should hire a few more waiters.",
+              "ko": "매니저님 안심하세요. 가장 빠른 속도로 끝내겠습니다. 하지만 저희는 정말 직원을 몇 명 더 채용해야 할 것 같습니다.",
+              "ja": "マネージャー、ご安心ください。最速で終わらせます。ただ、私たちは本当に店員をもう何人か雇うべきだと思います。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "I heard on the news this morning that there will be an event tomorrow called “Earth Hour.” Do you know about this event?",
+              "ko": "아침에 뉴스를 들었는데 내일 ‘지구촌 전등 끄기’라는 활동이 있다더라. 너 이 활동에 대해 알아?",
+              "ja": "今朝ニュースで、明日「アースアワー」という活動があると聞きました。この活動について知っていますか。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "This event happens every year and first started in 2007. Tomorrow evening, many people will turn off their lights for one hour to support it. Didn't you see the notice at the entrance? Our company is participating too.",
+              "ko": "이 활동은 해마다 있고, 가장 처음에는 2007년에 시작됐어. 내일 밤 많은 사람들이 한 시간 동안 불을 끄고 이 활동을 지지할 거야. 문 앞의 공지 못 봤어? 우리 회사도 참가해.",
+              "ja": "この活動は毎年あり、最初は2007年に始まりました。明日の夜、多くの人が一時間電気を消してこの活動を支持します。入口の通知を見ませんでしたか。私たちの会社も参加します。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Really? That's great! Since the company will turn off the lights and cut the power tomorrow night, we definitely won't need to work overtime.",
+              "ko": "정말? 잘됐다! 내일 밤 회사가 불을 끄고 전기를 끊는다면, 우리는 분명 야근하지 않아도 되겠네.",
+              "ja": "本当ですか。よかったです。明日の夜、会社が電気を消して停電するなら、私たちはきっと残業しなくて済みますね。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Look how pleased you are! I thought you were happy because you wanted to support environmental protection, but it turns out it's because you don't have to work overtime!",
+              "ko": "우쭐해하는 네 모습 좀 봐! 네가 환경 보호를 지지해서 기쁜 줄 알았더니, 알고 보니 야근 안 해도 돼서였구나!",
+              "ja": "得意げな様子を見てください。環境保護を支持するために喜んでいるのかと思ったら、残業しなくていいからだったのですね。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Of course I support environmental protection too! By the way, why is there such an event?",
+              "ko": "환경 보호는 나도 당연히 지지하지! 그런데 왜 이런 활동이 있는 거야?",
+              "ja": "環境保護はもちろん私も支持します。ところで、なぜこのような活動があるのですか。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Actually, the purpose is quite simple: to remind people to save electricity and to draw people's attention to climate warming.",
+              "ko": "사실 목적은 아주 간단해. 사람들에게 전기를 절약하라고 일깨워 주고, 기후 온난화 문제에 대한 관심을 불러일으키려는 거야.",
+              "ja": "実は目的はとても簡単で、人々に節電を促し、気候温暖化の問題への関心を引き起こすことです。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Plastic bags bring convenience to people's lives and are widely welcomed, but their heavy use has also caused serious environmental pollution. Therefore, some countries have regulations that supermarkets and shopping malls cannot provide free plastic bags to customers, and they encourage people to buy shopping bags that can be used many times. Each of us has a responsibility to protect the environment, so please use fewer plastic bags, bring your own shopping bags when shopping, or even refuse to use plastic bags. Although this is a very small thing, doing so can reduce the number of plastic bags used and has a great effect on environmental protection.",
+              "ko": "비닐봉지는 사람들의 생활에 편리함을 가져다주어 보편적으로 환영받지만, 대량 사용은 심각한 환경 오염 문제도 가져왔습니다. 그래서 일부 국가는 슈퍼마켓과 상점이 고객에게 무료 비닐봉지를 제공할 수 없도록 규정하고, 여러 번 사용할 수 있는 장바구니를 구매하도록 장려합니다. 우리 각자는 환경을 보호할 책임이 있습니다. 따라서 비닐봉지를 절약해서 사용하거나 쇼핑할 때 장바구니를 직접 준비하고, 심지어 비닐봉지 사용을 거절해 주세요. 이것은 아주 작은 일이지만, 이렇게 하면 비닐봉지 사용 수량을 줄일 수 있고 환경 보호에 큰 작용을 합니다.",
+              "ja": "ビニール袋は人々の生活に便利さをもたらし、広く歓迎されていますが、その大量使用は深刻な環境汚染問題も引き起こしました。そこで、一部の国ではスーパーや商店が顧客に無料のビニール袋を提供してはならないと規定し、何度も使える買い物袋を購入するよう人々に奨励しています。私たち一人一人には環境を守る責任があります。ですから、ビニール袋の使用を節約するか、買い物の時に自分で買い物袋を用意し、さらにはビニール袋の使用を拒否してください。これはとても小さなことですが、そうすることでビニール袋の使用数量を減らすことができ、環境保護に大きな役割があります。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Protecting the earth's environment is not something far away from us or very difficult to do. In fact, we only need to pay attention to small things around us. For example, in summer, set the air conditioner temperature a little higher, and remember to turn off the air conditioner and computer when going out; this can save electricity. Drive less, ride bikes more, or take the subway and buses; this can reduce air pollution. Also, develop the habit of throwing garbage into trash cans. These are small things each of us can do, but they have real effects. The earth is our shared home. Only if everyone works together to reduce pollution and protect the environment can we make our home more beautiful.",
+              "ko": "지구 환경을 보호하는 것은 우리와 아주 멀리 떨어져 있거나 하기 어려운 일이 아닙니다. 실제로 우리는 주변의 작은 일에 조금만 주의하면 됩니다. 예를 들어 여름에는 에어컨 온도를 조금 높게 설정하고, 외출할 때 에어컨과 컴퓨터를 끄는 것을 기억하면 전기를 절약할 수 있습니다. 차를 적게 몰고, 자전거를 더 많이 타거나 지하철과 버스를 이용하면 공기 오염을 줄일 수 있습니다. 또 쓰레기를 쓰레기통에 버리는 습관을 기르는 것 등이 있습니다. 이것들은 우리 각자가 할 수 있는 작은 일이지만 실제 효과가 있습니다. 지구는 우리의 공동의 집입니다. 모두가 함께 노력해 오염을 줄이고 환경을 보호해야만 우리의 집을 더 아름답게 만들 수 있습니다.",
+              "ja": "地球環境を守ることは、私たちから遠く離れたことでも、実現が難しいことでもありません。実際には、身近な小さなことに少し注意するだけでよいのです。例えば、夏にエアコンの温度を少し高めに設定し、外出時にはエアコンとパソコンを消すことを覚えておけば、電気を節約できます。車の利用を減らし、自転車に多く乗ったり、地下鉄や公共バスを利用したりすれば、空気汚染を減らせます。また、ごみをごみ箱に捨てる習慣を身につけることなどもあります。これらは私たち一人一人ができる小さなことですが、確かな効果があります。地球は私たち共通の家です。皆が一緒に努力し、汚染を減らし、環境を守ってこそ、私たちの家をより美しくすることができます。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

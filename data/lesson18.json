@@ -1,0 +1,1661 @@
+{
+  "lessonId": 18,
+  "title": "Lesson 18: 王静给孙月推荐一本书 (wáng jìng gěi sūn yuè tuījiàn yì běn shū) (Wang Jing recommends a book to Sun Yue)",
+  "vocabulary": [
+    {
+      "word": "降落",
+      "pinyin": "jiàngluò",
+      "meaning": "v. to descend, to land"
+    },
+    {
+      "word": "火",
+      "pinyin": "huǒ",
+      "meaning": "adj. hot, popular"
+    },
+    {
+      "word": "作者",
+      "pinyin": "zuòzhě",
+      "meaning": "n. author"
+    },
+    {
+      "word": "交通",
+      "pinyin": "jiāotōng",
+      "meaning": "n. traffic, communication"
+    },
+    {
+      "word": "技术",
+      "pinyin": "jìshù",
+      "meaning": "n. technology"
+    },
+    {
+      "word": "是否",
+      "pinyin": "shìfǒu",
+      "meaning": "adv. if, whether"
+    },
+    {
+      "word": "秒",
+      "pinyin": "miǎo",
+      "meaning": "m. second, 1/60 minute"
+    },
+    {
+      "word": "方式",
+      "pinyin": "fāngshì",
+      "meaning": "n. way, mode"
+    },
+    {
+      "word": "受不了",
+      "pinyin": "shòu bu liǎo",
+      "meaning": "cannot stand, cannot bear"
+    },
+    {
+      "word": "日记",
+      "pinyin": "rìjì",
+      "meaning": "n. diary, journal"
+    },
+    {
+      "word": "安全",
+      "pinyin": "ānquán",
+      "meaning": "adj. safe, secure"
+    },
+    {
+      "word": "密码",
+      "pinyin": "mìmǎ",
+      "meaning": "n. password"
+    },
+    {
+      "word": "允许",
+      "pinyin": "yǔnxǔ",
+      "meaning": "v. to allow, to permit"
+    },
+    {
+      "word": "座",
+      "pinyin": "zuò",
+      "meaning": "m. used for bridges, mountains, buildings, etc."
+    },
+    {
+      "word": "桥",
+      "pinyin": "qiáo",
+      "meaning": "n. bridge"
+    },
+    {
+      "word": "危险",
+      "pinyin": "wēixiǎn",
+      "meaning": "adj. dangerous"
+    },
+    {
+      "word": "接着",
+      "pinyin": "jiēzhe",
+      "meaning": "adv. then, immediately after that"
+    },
+    {
+      "word": "警察",
+      "pinyin": "jǐngchá",
+      "meaning": "n. police"
+    },
+    {
+      "word": "抓",
+      "pinyin": "zhuā",
+      "meaning": "v. to catch, to arrest"
+    },
+    {
+      "word": "咸",
+      "pinyin": "xián",
+      "meaning": "adj. salty"
+    },
+    {
+      "word": "矿泉水",
+      "pinyin": "kuàngquánshuǐ",
+      "meaning": "n. mineral water"
+    },
+    {
+      "word": "付款",
+      "pinyin": "fù kuǎn",
+      "meaning": "to pay a sum of money"
+    },
+    {
+      "word": "举",
+      "pinyin": "jǔ",
+      "meaning": "v. to give, to enumerate"
+    },
+    {
+      "word": "迷路",
+      "pinyin": "mí lù",
+      "meaning": "v. to lose one's way"
+    },
+    {
+      "word": "地址",
+      "pinyin": "dìzhǐ",
+      "meaning": "n. address"
+    },
+    {
+      "word": "地点",
+      "pinyin": "dìdiǎn",
+      "meaning": "n. place, site"
+    },
+    {
+      "word": "世纪",
+      "pinyin": "shìjì",
+      "meaning": "n. century"
+    },
+    {
+      "word": "邮局",
+      "pinyin": "yóujú",
+      "meaning": "n. post office"
+    },
+    {
+      "word": "收",
+      "pinyin": "shōu",
+      "meaning": "v. to receive"
+    },
+    {
+      "word": "信封",
+      "pinyin": "xìnfēng",
+      "meaning": "n. envelope"
+    },
+    {
+      "word": "网站",
+      "pinyin": "wǎngzhàn",
+      "meaning": "n. website"
+    },
+    {
+      "word": "信息",
+      "pinyin": "xìnxī",
+      "meaning": "n. news, information"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "是否",
+      "formal": "The adverb “是否”",
+      "colloquial": "是不是 / 能不能 / 会不会",
+      "explanation": "The adverb “是否” means “whether or not” and is usually used in written Chinese. It is placed before a verb phrase or clause to express uncertainty about whether something is true or whether something can happen.",
+      "nuance": "“是否” sounds formal and written. In everyday speech, people more often use patterns such as “是不是”, “能不能”, or “会不会”, depending on the sentence.",
+      "formal_examples": [
+        {
+          "zh": "不过她这么小，这本书我不知道她是否能读懂。",
+          "pinyin": "Búguò tā zhème xiǎo, zhè běn shū wǒ bù zhīdào tā shìfǒu néng dú dǒng.",
+          "translation": "But she is still so young; I don't know whether she can understand this book."
+        },
+        {
+          "zh": "有人认为有“夫妻相”的夫妻家庭生活幸福，实际上，婚姻是否幸福跟这个没有关系。",
+          "pinyin": "Yǒu rén rènwéi yǒu “fūqī xiàng” de fūqī jiātíng shēnghuó xìngfú, shíjì shang, hūnyīn shìfǒu xìngfú gēn zhè ge méiyǒu guānxi.",
+          "translation": "Some people think couples who look alike have happy family lives, but in fact, whether a marriage is happy has nothing to do with that."
+        },
+        {
+          "zh": "现在，如果要问人们选择职业时主要考虑的是什么，不少人会以收入多少作为标准。当然，也有人主要看自己是否喜欢这份工作。",
+          "pinyin": "Xiànzài, rúguǒ yào wèn rénmen xuǎnzé zhíyè shí zhǔyào kǎolǜ de shì shénme, bù shǎo rén huì yǐ shōurù duōshǎo zuòwéi biāozhǔn. Dāngrán, yě yǒu rén zhǔyào kàn zìjǐ shìfǒu xǐhuan zhè fèn gōngzuò.",
+          "translation": "Now, if you ask people what they mainly consider when choosing a career, many use income level as the standard. Of course, some people mainly look at whether they like the job."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "我不知道她能不能看懂这本书。",
+          "pinyin": "Wǒ bù zhīdào tā néng bu néng kàn dǒng zhè běn shū.",
+          "translation": "I don't know if she can understand this book."
+        },
+        {
+          "zh": "这段婚姻幸不幸福，跟长得像不像没关系。",
+          "pinyin": "Zhè duàn hūnyīn xìng bu xìngfú, gēn zhǎng de xiàng bu xiàng méi guānxi.",
+          "translation": "Whether this marriage is happy has nothing to do with whether the two people look alike."
+        },
+        {
+          "zh": "找工作的时候，也有人主要看自己喜不喜欢。",
+          "pinyin": "Zhǎo gōngzuò de shíhou, yě yǒu rén zhǔyào kàn zìjǐ xǐ bu xǐhuan.",
+          "translation": "When looking for a job, some people mainly care about whether they like it."
+        }
+      ]
+    },
+    {
+      "point": "受不了",
+      "formal": "The complement phrase “受不了”",
+      "colloquial": "真受不了 / 实在受不了",
+      "explanation": "“受不了” means “cannot bear” or “cannot stand” pain, suffering, pressure, misfortune, attitude, temper, and similar things. It is usually used before a noun or noun phrase, or after a verb phrase to describe something that has become unbearable.",
+      "nuance": "“受不了” is common in both written and spoken Chinese. In everyday speech, people often add “真” or “实在” before it to emphasize that something is really unbearable.",
+      "formal_examples": [
+        {
+          "zh": "A：我们再去对面的商店看看吧。B：我真的受不了你了，你到底还要逛多久？",
+          "pinyin": "A: Wǒmen zài qù duìmiàn de shāngdiàn kànkan ba. B: Wǒ zhēn de shòu bu liǎo nǐ le, nǐ dàodǐ hái yào guàng duō jiǔ?",
+          "translation": "A: Let's go look at the store across the street too. B: I really can't stand you anymore. How much longer are you going to shop?"
+        },
+        {
+          "zh": "不过天天对着电脑看，眼睛实在受不了。",
+          "pinyin": "Búguò tiāntiān duì zhe diànnǎo kàn, yǎnjing shízài shòu bu liǎo.",
+          "translation": "But staring at a computer every day is really too much for the eyes."
+        },
+        {
+          "zh": "A：真受不了这样的老师！一个简单的动作让我们练二三十遍。B：他对你们严格些好，这样可以让你们打好基础。",
+          "pinyin": "A: Zhēn shòu bu liǎo zhèyàng de lǎoshī! Yí ge jiǎndān de dòngzuò ràng wǒmen liàn èr sān shí biàn. B: Tā duì nǐmen yángé xiē hǎo, zhèyàng kěyǐ ràng nǐmen dǎ hǎo jīchǔ.",
+          "translation": "A: I really can't stand this kind of teacher! He makes us practice one simple movement twenty or thirty times. B: It's good that he's stricter with you; that way you can build a solid foundation."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "我真受不了你了，还要逛多久啊？",
+          "pinyin": "Wǒ zhēn shòu bu liǎo nǐ le, hái yào guàng duō jiǔ a?",
+          "translation": "I really can't stand you anymore. How much longer are you going to shop?"
+        },
+        {
+          "zh": "天天盯着电脑，我眼睛实在受不了。",
+          "pinyin": "Tiāntiān dīng zhe diànnǎo, wǒ yǎnjing shízài shòu bu liǎo.",
+          "translation": "Staring at a computer every day is really too much for my eyes."
+        },
+        {
+          "zh": "这种老师我真受不了，一个动作练几十遍。",
+          "pinyin": "Zhè zhǒng lǎoshī wǒ zhēn shòu bu liǎo, yí ge dòngzuò liàn jǐ shí biàn.",
+          "translation": "I really can't stand this kind of teacher. One movement gets practiced dozens of times."
+        }
+      ]
+    },
+    {
+      "point": "接着",
+      "formal": "The adverb “接着”",
+      "colloquial": "然后 / 紧接着",
+      "explanation": "The adverb “接着” means “following immediately” in time. Like “然后”, it indicates that another situation happens after the previous event.",
+      "nuance": "When expressing this meaning, “接着” is an adverb and emphasizes immediate succession in time, while “然后” is a conjunction and is often used in the structure “先……然后（再）……”. With “接着”, the two events may or may not have the same subject; with “然后”, they usually share the same subject.",
+      "formal_examples": [
+        {
+          "zh": "这本书的内容非常有趣，你看完以后先不要还，我接着看。",
+          "pinyin": "Zhè běn shū de nèiróng fēicháng yǒuqù, nǐ kàn wán yǐhòu xiān bú yào huán, wǒ jiēzhe kàn.",
+          "translation": "The content of this book is very interesting. Don't return it right after you finish reading it; I'll read it next."
+        },
+        {
+          "zh": "我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起抓住了一个坏人。",
+          "pinyin": "Wǒ zuótiān wǎnshang zuò le yí ge tèbié qíguài de mèng, mèng dào zìjǐ zhèngzài yí zuò qiáo shang zǒu, zǒu zhe zǒu zhe, tūrán kāi guo lai yí liàng chē, fēicháng wēixiǎn, jiēzhe yòu mèngjiàn wǒ tiào dào chē shang, gēn jǐngchá yìqǐ zhuā zhù le yí ge huàirén.",
+          "translation": "Last night I had a really strange dream. I dreamed I was walking on a bridge, and as I was walking, a car suddenly drove over. It was very dangerous. Then I dreamed that I jumped onto the car and caught a bad guy together with the police."
+        },
+        {
+          "zh": "妻子问：“老公，怎么不见你和老王打网球了呢？”丈夫说：“你愿意和一个赢了就得意，输了就不高兴的人打球吗？”“当然不愿意。我明白了，”妻子接着说，“老王也不愿意跟这样的人打。”",
+          "pinyin": "Qīzi wèn: “Lǎogōng, zěnme bú jiàn nǐ hé Lǎo Wáng dǎ wǎngqiú le ne?” Zhàngfu shuō: “Nǐ yuànyì hé yí ge yíng le jiù déyì, shū le jiù bù gāoxìng de rén dǎ qiú ma?” “Dāngrán bù yuànyì. Wǒ míngbai le,” qīzi jiēzhe shuō, “Lǎo Wáng yě bù yuànyì gēn zhèyàng de rén dǎ.”",
+          "translation": "The wife asked, “Honey, why don't I see you playing tennis with Old Wang anymore?” The husband said, “Would you want to play with someone who gets smug when he wins and unhappy when he loses?” “Of course not. I get it,” the wife continued, “Old Wang doesn't want to play with that kind of person either.”"
+        },
+        {
+          "zh": "他毕业后在老家工作了一年，接着/然后又考上了北京大学，读研究生。",
+          "pinyin": "Tā bìyè hòu zài lǎojiā gōngzuò le yì nián, jiēzhe / ránhòu yòu kǎo shàng le Běijīng Dàxué, dú yánjiūshēng.",
+          "translation": "After graduating, he worked in his hometown for a year, and then got into Peking University to study as a graduate student."
+        },
+        {
+          "zh": "大学毕业后，他接着又考上了研究生。",
+          "pinyin": "Dàxué bìyè hòu, tā jiēzhe yòu kǎo shàng le yánjiūshēng.",
+          "translation": "After graduating from university, he immediately went on to get into graduate school."
+        },
+        {
+          "zh": "咱们先去吃晚饭，然后看电影，好不好？",
+          "pinyin": "Zánmen xiān qù chī wǎnfàn, ránhòu kàn diànyǐng, hǎo bù hǎo?",
+          "translation": "Let's go have dinner first and then watch a movie, okay?"
+        },
+        {
+          "zh": "他已经学了一年汉语了，明年还要接着学。",
+          "pinyin": "Tā yǐjīng xué le yì nián Hànyǔ le, míngnián hái yào jiēzhe xué.",
+          "translation": "He has already studied Chinese for a year, and next year he will continue studying it."
+        },
+        {
+          "zh": "这本书你看完了我接着看吧。",
+          "pinyin": "Zhè běn shū nǐ kàn wán le wǒ jiēzhe kàn ba.",
+          "translation": "After you finish this book, I'll read it next."
+        },
+        {
+          "zh": "遇到不认识的词语，我会马上查词典，然后写在本子上。",
+          "pinyin": "Yù dào bù rènshi de cíyǔ, wǒ huì mǎshàng chá cídiǎn, ránhòu xiě zài běnzi shang.",
+          "translation": "When I come across words I don't know, I look them up in a dictionary right away and then write them in my notebook."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "你看完先别还，我接着看。",
+          "pinyin": "Nǐ kàn wán xiān bié huán, wǒ jiēzhe kàn.",
+          "translation": "Don't return it after you finish; I'll read it next."
+        },
+        {
+          "zh": "车突然开过来，然后我又梦见自己跳到了车上。",
+          "pinyin": "Chē tūrán kāi guo lai, ránhòu wǒ yòu mèngjiàn zìjǐ tiào dào le chē shang.",
+          "translation": "A car suddenly drove over, and then I dreamed I jumped onto it."
+        },
+        {
+          "zh": "她接着说，老王也不想跟这种人打球。",
+          "pinyin": "Tā jiēzhe shuō, Lǎo Wáng yě bù xiǎng gēn zhè zhǒng rén dǎ qiú.",
+          "translation": "She continued, saying Old Wang didn't want to play with that kind of person either."
+        }
+      ]
+    },
+    {
+      "point": "除此以外",
+      "formal": "The phrase “除此以外”",
+      "colloquial": "除此之外 / 另外 / 除了这个以外",
+      "explanation": "“除此以外” means “besides this”, referring to what has just been mentioned. It is usually used in written Chinese to add more information beyond the previous point.",
+      "nuance": "“除此以外” is formal and written. In everyday speech, “另外” or “除了这个以外” often sounds more natural, while “除此之外” is also common and slightly formal.",
+      "formal_examples": [
+        {
+          "zh": "他和弟弟同一天出生，兄弟俩长得很像，但除此以外几乎再找不到其他共同点。",
+          "pinyin": "Tā hé dìdi tóng yì tiān chūshēng, xiōngdì liǎ zhǎng de hěn xiàng, dàn chú cǐ yǐwài jīhū zài zhǎo bu dào qítā gòngtóngdiǎn.",
+          "translation": "He and his younger brother were born on the same day, and the two brothers look very alike, but besides that, it is almost impossible to find any other similarities."
+        },
+        {
+          "zh": "北方人过年时爱吃饺子，是因为饺子味道鲜美，除此以外，还因为人们忙了一年，过年时全家人坐在一起包饺子，是很好的交流机会。",
+          "pinyin": "Běifāng rén guònián shí ài chī jiǎozi, shì yīnwèi jiǎozi wèidao xiānměi, chú cǐ yǐwài, hái yīnwèi rénmen máng le yì nián, guònián shí quán jiā rén zuò zài yìqǐ bāo jiǎozi, shì hěn hǎo de jiāoliú jīhuì.",
+          "translation": "People in northern China like eating dumplings during the New Year because dumplings taste delicious. Besides that, after being busy for a whole year, the whole family sitting together to make dumplings during the New Year is a very good chance to connect."
+        },
+        {
+          "zh": "打电话、发短信已经成了人们普遍使用的联系方式。除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。",
+          "pinyin": "Dǎ diànhuà, fā duǎnxìn yǐjīng chéng le rénmen pǔbiàn shǐyòng de liánxì fāngshì. Chú cǐ yǐwài, nǐ hái kěyǐ yòng tā lái tīng yīnyuè, kàn diànyǐng, yuèdú, wánr yóuxì, fù kuǎn gòuwù děng, zhè dàdà fāngbiàn le rénmen de shēnghuó.",
+          "translation": "Making calls and sending text messages have already become common ways for people to stay in touch. Besides that, you can use a phone to listen to music, watch movies, read, play games, pay for purchases, and more, which has made people's lives much more convenient."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "他们俩长得很像，除此之外几乎没什么共同点。",
+          "pinyin": "Tāmen liǎ zhǎng de hěn xiàng, chú cǐ zhīwài jīhū méi shénme gòngtóngdiǎn.",
+          "translation": "They look very alike, but besides that, they have almost nothing in common."
+        },
+        {
+          "zh": "北方人爱吃饺子，另外，全家一起包饺子也是交流的好机会。",
+          "pinyin": "Běifāng rén ài chī jiǎozi, lìngwài, quán jiā yìqǐ bāo jiǎozi yě shì jiāoliú de hǎo jīhuì.",
+          "translation": "People in northern China like eating dumplings. Also, making dumplings together as a family is a good chance to connect."
+        },
+        {
+          "zh": "手机能打电话、发短信，另外还能听音乐、看电影、买东西。",
+          "pinyin": "Shǒujī néng dǎ diànhuà, fā duǎnxìn, lìngwài hái néng tīng yīnyuè, kàn diànyǐng, mǎi dōngxi.",
+          "translation": "Phones can make calls and send texts, and they can also play music, show movies, and let you shop."
+        }
+      ]
+    },
+    {
+      "point": "把……叫作……",
+      "formal": "The structure “把……叫作……”",
+      "colloquial": "把……叫做…… / 叫……",
+      "explanation": "In the structure “把……叫作……”, meaning “to call ... ...”, the latter part is the name of the former part. “把” is usually followed by a noun, pronoun, or noun phrase.",
+      "nuance": "“叫作” and “叫做” both mean “to call something by a certain name”. “叫作” is slightly more written, while “叫做” and the shorter “叫” are more common in everyday speech.",
+      "formal_examples": [
+        {
+          "zh": "现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村”。",
+          "pinyin": "Xiàndài kēxué jìshù de fāzhǎn ràng shìjiè biàn de yuè lái yuè xiǎo, suǒyǐ xiànzài rénmen dōu bǎ dìqiú jiào zuò “dìqiú cūn”.",
+          "translation": "The development of modern science and technology has made the world smaller and smaller, so people now call the earth a “global village.”"
+        },
+        {
+          "zh": "黄河是中国第二大河，从中国西部流向东部，全长5464公里，人们把它叫作“母亲河”。",
+          "pinyin": "Huáng Hé shì Zhōngguó dì èr dà hé, cóng Zhōngguó xībù liú xiàng dōngbù, quán cháng wǔ qiān sì bǎi liù shí sì gōnglǐ, rénmen bǎ tā jiào zuò “mǔqīn hé”.",
+          "translation": "The Yellow River is China's second largest river. It flows from western China to eastern China and is 5,464 kilometers long. People call it the “Mother River.”"
+        },
+        {
+          "zh": "中国人搬了新家后，一般都会邀请亲戚朋友到家里来吃顿饭，热闹一下。人们把这个习惯叫作“暖房”。",
+          "pinyin": "Zhōngguó rén bān le xīn jiā hòu, yìbān dōu huì yāoqǐng qīnqi péngyou dào jiā lǐ lái chī dùn fàn, rènao yíxià. Rénmen bǎ zhè ge xíguàn jiào zuò “nuǎnfáng”.",
+          "translation": "After Chinese people move into a new home, they usually invite relatives and friends over for a meal to make the place lively. People call this custom “warming the house.”"
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "现在大家都把地球叫做“地球村”。",
+          "pinyin": "Xiànzài dàjiā dōu bǎ dìqiú jiào zuò “dìqiú cūn”.",
+          "translation": "Now everyone calls the earth the “global village.”"
+        },
+        {
+          "zh": "人们常把黄河叫做“母亲河”。",
+          "pinyin": "Rénmen cháng bǎ Huáng Hé jiào zuò “mǔqīn hé”.",
+          "translation": "People often call the Yellow River the “Mother River.”"
+        },
+        {
+          "zh": "搬新家后请朋友来吃饭，这叫“暖房”。",
+          "pinyin": "Bān xīn jiā hòu qǐng péngyou lái chī fàn, zhè jiào “nuǎnfáng”.",
+          "translation": "Inviting friends over for a meal after moving into a new home is called “warming the house.”"
+        }
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "王静给孙月推荐一本书 (Wang Jing recommends a book to Sun Yue)",
+      "audio": "audio/18-1.mp3",
+      "content": [
+        {
+          "speaker": "孙月",
+          "text": "上次女儿问我飞机是怎么起飞和降落的，真不知道该怎么回答她，她现在总是有各种各样的“为什么”。",
+          "pinyin": "Shàngcì nǚ'ér wèn wǒ fēijī shì zěnme qǐfēi hé jiàngluò de, zhēn bù zhīdào gāi zěnme huídá tā, tā xiànzài zǒng shì yǒu gè zhǒng gè yàng de “wèishénme”.",
+          "translation": "Last time my daughter asked me how airplanes take off and land. I really didn't know how to answer her. These days she always has all kinds of \"why\" questions."
+        },
+        {
+          "speaker": "王静",
+          "text": "孩子眼中的世界是美丽和奇特的。有一本书叫《新十万个为什么》，现在卖得非常火。书里的内容都是儿童想知道的科学知识，相信你女儿一定喜欢读。",
+          "pinyin": "Háizi yǎn zhōng de shìjiè shì měilì hé qítè de. Yǒu yì běn shū jiào “Xīn Shí Wàn Ge Wèishénme”, xiànzài mài de fēicháng huǒ. Shū lǐ de nèiróng dōu shì értóng xiǎng zhīdào de kēxué zhīshi, xiāngxìn nǐ nǚ'ér yídìng xǐhuan dú.",
+          "translation": "The world in a child's eyes is beautiful and full of wonder. There's a book called New One Hundred Thousand Whys, and it's selling really well now. Everything in it is scientific knowledge that children want to know, so I'm sure your daughter will like reading it."
+        },
+        {
+          "speaker": "孙月",
+          "text": "难道它和我们小时候看的《十万个为什么》不一样吗？作者是谁啊？",
+          "pinyin": "Nándào tā hé wǒmen xiǎoshíhou kàn de “Shí Wàn Ge Wèishénme” bù yíyàng ma? Zuòzhě shì shéi a?",
+          "translation": "Is it different from One Hundred Thousand Whys, the one we read when we were little? Who's the author?"
+        },
+        {
+          "speaker": "王静",
+          "text": "作者的名字我没记住。《新十万个为什么》的内容更新，介绍了各种科学知识，包括地球、动物、植物、交通、科学技术、社会和文化等很多方面。",
+          "pinyin": "Zuòzhě de míngzi wǒ méi jì zhù. “Xīn Shí Wàn Ge Wèishénme” de nèiróng gèng xīn, jièshào le gè zhǒng kēxué zhīshi, bāokuò dìqiú, dòngwù, zhíwù, jiāotōng, kēxué jìshù, shèhuì hé wénhuà děng hěn duō fāngmiàn.",
+          "translation": "I don't remember the author's name. New One Hundred Thousand Whys has more up-to-date content and introduces all kinds of scientific knowledge, including the earth, animals, plants, transportation, science and technology, society, culture, and many other areas."
+        },
+        {
+          "speaker": "孙月",
+          "text": "太好了！不过她这么小，我不知道她是否能读懂。",
+          "pinyin": "Tài hǎo le! Búguò tā zhème xiǎo, wǒ bù zhīdào tā shìfǒu néng dú dǒng.",
+          "translation": "That's great! But she's still so young, so I don't know whether she'll be able to understand it."
+        },
+        {
+          "speaker": "王静",
+          "text": "放心吧，这本书的语言简单易懂，一定能增长孩子的科学知识。",
+          "pinyin": "Fàngxīn ba, zhè běn shū de yǔyán jiǎndān yì dǒng, yídìng néng zēngzhǎng háizi de kēxué zhīshi.",
+          "translation": "Don't worry. The language in this book is simple and easy to understand, and it will definitely help children build their scientific knowledge."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "孙月",
+          "pinyin": "Sūn Yuè",
+          "meaning": "Sun Yue, a personal name"
+        },
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, a personal name"
+        },
+        {
+          "word": "新十万个为什么",
+          "pinyin": "Xīn Shí Wàn Ge Wèishénme",
+          "meaning": "New One Hundred Thousand Whys, a book title"
+        },
+        {
+          "word": "十万个为什么",
+          "pinyin": "Shí Wàn Ge Wèishénme",
+          "meaning": "One Hundred Thousand Whys, a book title"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "降落",
+          "pinyin": "jiàngluò",
+          "meaning": "v. to descend, to land"
+        },
+        {
+          "word": "火",
+          "pinyin": "huǒ",
+          "meaning": "adj. hot, popular"
+        },
+        {
+          "word": "作者",
+          "pinyin": "zuòzhě",
+          "meaning": "n. author"
+        },
+        {
+          "word": "交通",
+          "pinyin": "jiāotōng",
+          "meaning": "n. traffic, communication"
+        },
+        {
+          "word": "技术",
+          "pinyin": "jìshù",
+          "meaning": "n. technology"
+        },
+        {
+          "word": "是否",
+          "pinyin": "shìfǒu",
+          "meaning": "adv. if, whether"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "李老师和高老师在聊电脑和互联网技术的发展 (Teacher Li and Teacher Gao discuss the development of computers and internet technology)",
+      "audio": "audio/18-2.mp3",
+      "content": [
+        {
+          "speaker": "李老师",
+          "text": "现在的大学生一遇到不明白的问题，可以马上在网上查找答案，几秒钟就把问题解决了，这比我们上学的时候方便多了。",
+          "pinyin": "Xiànzài de dàxuéshēng yí yù dào bù míngbai de wèntí, kěyǐ mǎshàng zài wǎng shang cházhǎo dá'àn, jǐ miǎo zhōng jiù bǎ wèntí jiějué le, zhè bǐ wǒmen shàngxué de shíhou fāngbiàn duō le.",
+          "translation": "College students today can immediately look up answers online whenever they run into something they don't understand. They can solve the problem in just a few seconds, which is much more convenient than when we were in school."
+        },
+        {
+          "speaker": "高老师",
+          "text": "现在的人们，尤其是大学生开始普遍使用电脑，他们的生活已经离不开电脑。据调查，70%的人遇到问题时，首先想到的就是上网找答案。",
+          "pinyin": "Xiànzài de rénmen, yóuqí shì dàxuéshēng kāishǐ pǔbiàn shǐyòng diànnǎo, tāmen de shēnghuó yǐjīng lí bù kāi diànnǎo. Jù diàochá, bǎi fēn zhī qīshí de rén yù dào wèntí shí, shǒuxiān xiǎngdào de jiù shì shàngwǎng zhǎo dá'àn.",
+          "translation": "People today, especially college students, have started using computers widely, and their lives can no longer do without them. According to a survey, when 70% of people encounter a problem, the first thing they think of is going online to find the answer."
+        },
+        {
+          "speaker": "李老师",
+          "text": "电脑和互联网技术的发展使学生们的学习方式发生了很多变化，不过天天对着电脑看，眼睛实在受不了。",
+          "pinyin": "Diànnǎo hé hùliánwǎng jìshù de fāzhǎn shǐ xuésheng men de xuéxí fāngshì fāshēng le hěn duō biànhuà, búguò tiāntiān duì zhe diànnǎo kàn, yǎnjing shízài shòu bu liǎo.",
+          "translation": "The development of computers and internet technology has brought many changes to the way students study, but staring at a computer every day is really too much for the eyes."
+        },
+        {
+          "speaker": "高老师",
+          "text": "不仅是学习方式，而且连生活方式也发生了很大改变。现在越来越多的学生喜欢在网上写日记，他们说这样可以让朋友及时了解自己的生活。",
+          "pinyin": "Bùjǐn shì xuéxí fāngshì, érqiě lián shēnghuó fāngshì yě fāshēng le hěn dà gǎibiàn. Xiànzài yuè lái yuè duō de xuésheng xǐhuan zài wǎng shang xiě rìjì, tāmen shuō zhèyàng kěyǐ ràng péngyou jíshí liǎojiě zìjǐ de shēnghuó.",
+          "translation": "It isn't just the way they study; even their way of life has changed a lot. More and more students now like writing diaries online. They say this lets their friends keep up with their lives in time."
+        },
+        {
+          "speaker": "李老师",
+          "text": "这个办法不错，既能方便大家的交流，还能节约用纸，保护环境。但是如果别人都能看到我的日记的话，多不安全啊！",
+          "pinyin": "Zhè ge bànfǎ búcuò, jì néng fāngbiàn dàjiā de jiāoliú, hái néng jiéyuē yòng zhǐ, bǎohù huánjìng. Dànshì rúguǒ biéren dōu néng kàn dào wǒ de rìjì de huà, duō bù ānquán a!",
+          "translation": "That's a good idea. It makes communication easier for everyone, saves paper, and protects the environment. But if everyone else can see my diary, that would be so unsafe!"
+        },
+        {
+          "speaker": "高老师",
+          "text": "放心吧，可以给网上的日记加密码，那样只有得到了允许，别人才看得到。",
+          "pinyin": "Fàngxīn ba, kěyǐ gěi wǎng shang de rìjì jiā mìmǎ, nàyàng zhǐyǒu dédào le yǔnxǔ, biéren cái néng kàn dào.",
+          "translation": "Don't worry. You can add a password to an online diary. That way, other people can only see it if they have permission."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "李老师",
+          "pinyin": "Lǐ Lǎoshī",
+          "meaning": "Teacher Li"
+        },
+        {
+          "word": "高老师",
+          "pinyin": "Gāo Lǎoshī",
+          "meaning": "Teacher Gao"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "秒",
+          "pinyin": "miǎo",
+          "meaning": "m. second, 1/60 minute"
+        },
+        {
+          "word": "方式",
+          "pinyin": "fāngshì",
+          "meaning": "n. way, mode"
+        },
+        {
+          "word": "受不了",
+          "pinyin": "shòu bu liǎo",
+          "meaning": "cannot stand, cannot bear"
+        },
+        {
+          "word": "日记",
+          "pinyin": "rìjì",
+          "meaning": "n. diary, journal"
+        },
+        {
+          "word": "安全",
+          "pinyin": "ānquán",
+          "meaning": "adj. safe, secure"
+        },
+        {
+          "word": "密码",
+          "pinyin": "mìmǎ",
+          "meaning": "n. password"
+        },
+        {
+          "word": "允许",
+          "pinyin": "yǔnxǔ",
+          "meaning": "v. to allow, to permit"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "王静和孙月在聊关于梦的情况 (Wang Jing and Sun Yue talk about dreams)",
+      "audio": "audio/18-3.mp3",
+      "content": [
+        {
+          "speaker": "王静",
+          "text": "我昨天晚上做了一个特别奇怪的梦，梦到自己正在一座桥上走，走着走着，突然开过来一辆车，非常危险，接着又梦见我跳到车上，跟警察一起抓住了一个坏人。",
+          "pinyin": "Wǒ zuótiān wǎnshang zuò le yí ge tèbié qíguài de mèng, mèng dào zìjǐ zhèngzài yí zuò qiáo shang zǒu, zǒu zhe zǒu zhe, tūrán kāi guo lai yí liàng chē, fēicháng wēixiǎn, jiēzhe yòu mèngjiàn wǒ tiào dào chē shang, gēn jǐngchá yìqǐ zhuā zhù le yí ge huàirén.",
+          "translation": "Last night I had a really strange dream. I dreamed I was walking on a bridge, and as I was walking, a car suddenly drove over. It was very dangerous. Then I dreamed that I jumped onto the car and caught a bad guy together with the police."
+        },
+        {
+          "speaker": "孙月",
+          "text": "奇怪，你怎么总能记住自己做了什么梦？我好像从来没做过梦。",
+          "pinyin": "Qíguài, nǐ zěnme zǒng néng jì zhù zìjǐ zuò le shénme mèng? Wǒ hǎoxiàng cónglái méi zuò guo mèng.",
+          "translation": "That's strange. How can you always remember what you dreamed? I feel like I've never had a dream."
+        },
+        {
+          "speaker": "王静",
+          "text": "每个人都会做梦，区别只是有多有少。有的人睡醒之后还记得梦里的事情，有的人却记不清楚了。你之所以觉得从来没做过梦，只不过是忘记了。",
+          "pinyin": "Měi ge rén dōu huì zuò mèng, qūbié zhǐ shì yǒu duō yǒu shǎo. Yǒu de rén shuì xǐng zhīhòu hái jìde mèng lǐ de shìqing, yǒu de rén què jì bù qīngchu le. Nǐ zhī suǒyǐ juéde cónglái méi zuò guo mèng, zhǐbúguò shì wàngjì le.",
+          "translation": "Everyone dreams; the only difference is how often. Some people still remember what happened in their dreams after waking up, while others can't remember clearly. The reason you feel like you've never dreamed is simply that you've forgotten."
+        },
+        {
+          "speaker": "孙月",
+          "text": "你说的有道理，我一般都是一觉睡到天亮。很多人认为做梦是上天要告诉他们将来会发生的一些事情，可能上天不想让我知道吧。",
+          "pinyin": "Nǐ shuō de yǒu dàolǐ, wǒ yìbān dōu shì yí jiào shuì dào tiān liàng. Hěn duō rén rènwéi zuò mèng shì shàngtiān yào gàosu tāmen jiānglái huì fāshēng de yìxiē shìqing, kěnéng shàngtiān bù xiǎng ràng wǒ zhīdào ba.",
+          "translation": "That makes sense. I usually sleep straight through until morning. Many people think dreams are heaven's way of telling them about things that will happen in the future. Maybe heaven just doesn't want me to know."
+        },
+        {
+          "speaker": "王静",
+          "text": "一般晚上睡觉时，身体感觉到什么，人就容易梦到什么内容。记得有一次，我晚饭吃得太咸，那天晚上就梦见自己到处找商店买矿泉水。",
+          "pinyin": "Yìbān wǎnshang shuìjiào shí, shēntǐ gǎnjué dào shénme, rén jiù róngyì mèng dào shénme nèiróng. Jìde yǒu yí cì, wǒ wǎnfàn chī de tài xián, nà tiān wǎnshang jiù mèngjiàn zìjǐ dào chù zhǎo shāngdiàn mǎi kuàngquánshuǐ.",
+          "translation": "Usually, when you're asleep at night, whatever your body senses can easily show up in your dreams. I remember one time I ate food that was too salty for dinner, and that night I dreamed I was looking everywhere for a store to buy mineral water."
+        },
+        {
+          "speaker": "孙月",
+          "text": "很多人都试着对梦进行解释，有些人甚至专门写过这方面的书，可惜到现在仍然没有一个科学的说法。",
+          "pinyin": "Hěn duō rén dōu shì zhe duì mèng jìnxíng jiěshì, yǒu xiē rén shènzhì zhuānmén xiě guo zhè fāngmiàn de shū, kěxī dào xiànzài réngrán méiyǒu yí ge kēxué de shuōfǎ.",
+          "translation": "Many people have tried to interpret dreams, and some have even written books specifically on the topic. Unfortunately, even now there still isn't a scientific explanation."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, a personal name"
+        },
+        {
+          "word": "孙月",
+          "pinyin": "Sūn Yuè",
+          "meaning": "Sun Yue, a personal name"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "座",
+          "pinyin": "zuò",
+          "meaning": "m. used for bridges, mountains, buildings, etc."
+        },
+        {
+          "word": "桥",
+          "pinyin": "qiáo",
+          "meaning": "n. bridge"
+        },
+        {
+          "word": "危险",
+          "pinyin": "wēixiǎn",
+          "meaning": "adj. dangerous"
+        },
+        {
+          "word": "接着",
+          "pinyin": "jiēzhe",
+          "meaning": "adv. then, immediately after that"
+        },
+        {
+          "word": "警察",
+          "pinyin": "jǐngchá",
+          "meaning": "n. police"
+        },
+        {
+          "word": "抓",
+          "pinyin": "zhuā",
+          "meaning": "v. to catch, to arrest"
+        },
+        {
+          "word": "咸",
+          "pinyin": "xián",
+          "meaning": "adj. salty"
+        },
+        {
+          "word": "矿泉水",
+          "pinyin": "kuàngquánshuǐ",
+          "meaning": "n. mineral water"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "手机方便了人们的生活 (Mobile phones have made people's lives more convenient)",
+      "audio": "audio/18-4.mp3",
+      "content": [
+        {
+          "speaker": "课文",
+          "text": "现在手机不但价格降低了，而且作用也越来越大，打电话、发短信已经成了人们普遍使用的联系方式。除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。举一个例子，迷路时，只要用手机地图查一下地址，马上就能知道怎么去那个地点。现在的手机更像是一部可以拿在手中的电脑，现代人的生活已经越来越离不开手机了。",
+          "pinyin": "Xiànzài shǒujī búdàn jiàgé jiàngdī le, érqiě zuòyòng yě yuè lái yuè dà, dǎ diànhuà, fā duǎnxìn yǐjīng chéng le rénmen pǔbiàn shǐyòng de liánxì fāngshì. Chú cǐ yǐwài, nǐ hái kěyǐ yòng tā lái tīng yīnyuè, kàn diànyǐng, yuèdú, wánr yóuxì, fù kuǎn gòuwù děng, zhè dàdà fāngbiàn le rénmen de shēnghuó. Jǔ yí ge lìzi, mí lù shí, zhǐyào yòng shǒujī dìtú chá yíxià dìzhǐ, mǎshàng jiù néng zhīdào zěnme qù nà ge dìdiǎn. Xiànzài de shǒujī gèng xiàng shì yí bù kěyǐ ná zài shǒu zhōng de diànnǎo, xiàndài rén de shēnghuó yǐjīng yuè lái yuè lí bù kāi shǒujī le.",
+          "translation": "Mobile phones today have not only become cheaper, but also much more useful. Making calls and sending text messages have already become common ways for people to stay in touch. Besides that, you can use a phone to listen to music, watch movies, read, play games, pay for purchases, and more, which has made people's lives much more convenient. For example, when you get lost, you only need to check the address on a mobile map, and you can immediately know how to get to that place. Today's mobile phone is more like a computer you can hold in your hand, and modern life is becoming increasingly inseparable from mobile phones."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "付款",
+          "pinyin": "fù kuǎn",
+          "meaning": "to pay a sum of money"
+        },
+        {
+          "word": "举",
+          "pinyin": "jǔ",
+          "meaning": "v. to give, to enumerate"
+        },
+        {
+          "word": "迷路",
+          "pinyin": "mí lù",
+          "meaning": "v. to lose one's way"
+        },
+        {
+          "word": "地址",
+          "pinyin": "dìzhǐ",
+          "meaning": "n. address"
+        },
+        {
+          "word": "地点",
+          "pinyin": "dìdiǎn",
+          "meaning": "n. place, site"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "科学技术让世界变小了 (Science and technology have made the world smaller)",
+      "audio": "audio/18-5.mp3",
+      "content": [
+        {
+          "speaker": "课文",
+          "text": "21世纪，我们的生活发生了巨大变化。几千公里以外的国家，以前坐船需要几个月，现在乘坐飞机不过十几个小时。原来寄信需要好几天，现在连邮局都不用去，只要在家里上网发个电子邮件，用不了一分钟，远处的朋友就能收到，比写信封用的时间都短。以前外地的新闻要几天后才能知道，现在只要打开网站，任何信息都可以在第一时间获得。现代科学技术的发展让世界变得越来越小，所以现在人们都把地球叫作“地球村”。",
+          "pinyin": "Èrshíyī shìjì, wǒmen de shēnghuó fāshēng le jùdà biànhuà. Jǐ qiān gōnglǐ yǐwài de guójiā, yǐqián zuò chuán xūyào jǐ ge yuè, xiànzài chéngzuò fēijī búguò shí jǐ ge xiǎoshí. Yuánlái jì xìn xūyào hǎo jǐ tiān, xiànzài lián yóujú dōu bú yòng qù, zhǐyào zài jiā lǐ shàngwǎng fā ge diànzǐ yóujiàn, yòng bù liǎo yì fēnzhōng, yuǎn chù de péngyou jiù néng shōu dào, bǐ xiě xìnfēng yòng de shíjiān dōu duǎn. Yǐqián wàidì de xīnwén yào jǐ tiān hòu cái néng zhīdào, xiànzài zhǐyào dǎkāi wǎngzhàn, rènhé xìnxī dōu kěyǐ zài dì yī shíjiān huòdé. Xiàndài kēxué jìshù de fāzhǎn ràng shìjiè biàn de yuè lái yuè xiǎo, suǒyǐ xiànzài rénmen dōu bǎ dìqiú jiào zuò “dìqiú cūn”.",
+          "translation": "In the 21st century, our lives have changed enormously. For countries thousands of kilometers away, traveling there by boat used to take several months, but now taking a plane takes only a dozen or so hours. Sending a letter used to take several days, but now you don't even need to go to the post office. You only need to send an email online from home, and in less than a minute a friend far away can receive it, which is even faster than the time it takes to write an envelope. In the past, news from other places could only be known days later, but now by opening a website, any information can be obtained immediately. The development of modern science and technology has made the world smaller and smaller, so people now call the earth a \"global village.\""
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "世纪",
+          "pinyin": "shìjì",
+          "meaning": "n. century"
+        },
+        {
+          "word": "邮局",
+          "pinyin": "yóujú",
+          "meaning": "n. post office"
+        },
+        {
+          "word": "收",
+          "pinyin": "shōu",
+          "meaning": "v. to receive"
+        },
+        {
+          "word": "信封",
+          "pinyin": "xìnfēng",
+          "meaning": "n. envelope"
+        },
+        {
+          "word": "网站",
+          "pinyin": "wǎngzhàn",
+          "meaning": "n. website"
+        },
+        {
+          "word": "信息",
+          "pinyin": "xìnxī",
+          "meaning": "n. news, information"
+        }
+      ]
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "不过她这么小，我不知道她<b>是否</b>能读懂。",
+      "pinyin": "Búguò tā zhème xiǎo, wǒ bù zhīdào tā <b>shìfǒu</b> néng dú dǒng.",
+      "translation": "But she's still so young, so I don't know whether she'll be able to understand it.",
+      "context": "불확실한 여부를 말할 때",
+      "colloquial_equivalent": "不过她还这么小，我也不确定她能不能看懂。",
+      "colloquial_pinyin": "Búguò tā hái zhème xiǎo, wǒ yě bù quèdìng tā néng bu néng kàn dǒng.",
+      "colloquial_translation": "But she's still so young, so I'm not sure if she can understand it."
+    },
+    {
+      "sentence": "电脑和互联网技术的发展使学生们的学习方式发生了很多变化，不过天天对着电脑看，眼睛实在<b>受不了</b>。",
+      "pinyin": "Diànnǎo hé hùliánwǎng jìshù de fāzhǎn shǐ xuésheng men de xuéxí fāngshì fāshēng le hěn duō biànhuà, búguò tiāntiān duì zhe diànnǎo kàn, yǎnjing shízài <b>shòu bu liǎo</b>.",
+      "translation": "The development of computers and internet technology has brought many changes to the way students study, but staring at a computer every day is really too much for the eyes.",
+      "context": "견디기 어려운 상태를 말할 때",
+      "colloquial_equivalent": "电脑学习是方便，可天天盯着屏幕，眼睛真的受不了。",
+      "colloquial_pinyin": "Diànnǎo xuéxí shì fāngbiàn, kě tiāntiān dīng zhe píngmù, yǎnjing zhēn de shòu bu liǎo.",
+      "colloquial_translation": "Studying on a computer is convenient, but staring at a screen every day is really too much for the eyes."
+    },
+    {
+      "sentence": "走着走着，突然开过来一辆车，非常危险，<b>接着</b>又梦见我跳到车上，跟警察一起抓住了一个坏人。",
+      "pinyin": "Zǒu zhe zǒu zhe, tūrán kāi guo lai yí liàng chē, fēicháng wēixiǎn, <b>jiēzhe</b> yòu mèngjiàn wǒ tiào dào chē shang, gēn jǐngchá yìqǐ zhuā zhù le yí ge huàirén.",
+      "translation": "As I was walking, a car suddenly drove over. It was very dangerous. Then I dreamed that I jumped onto the car and caught a bad guy together with the police.",
+      "context": "바로 이어지는 일을 말할 때",
+      "colloquial_equivalent": "我走着走着突然来了一辆车，接着又梦到自己跟警察一起抓坏人。",
+      "colloquial_pinyin": "Wǒ zǒuzhe zǒuzhe tūrán lái le yí liàng chē, jiēzhe yòu mèng dào zìjǐ gēn jǐngchá yìqǐ zhuā huàirén.",
+      "colloquial_translation": "I was walking when a car suddenly came, and then I dreamed I was catching a bad guy with the police."
+    },
+    {
+      "sentence": "除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。",
+      "pinyin": "<b>Chú cǐ yǐwài</b>, nǐ hái kěyǐ yòng tā lái tīng yīnyuè, kàn diànyǐng, yuèdú, wánr yóuxì, fù kuǎn gòuwù děng, zhè dàdà fāngbiàn le rénmen de shēnghuó.",
+      "translation": "Besides that, you can use a phone to listen to music, watch movies, read, play games, pay for purchases, and more, which has made people's lives much more convenient.",
+      "context": "추가 정보를 말할 때",
+      "colloquial_equivalent": "除此以外，手机还能听歌、看电影、买东西，生活方便多了。",
+      "colloquial_pinyin": "Chú cǐ yǐwài, shǒujī hái néng tīng gē, kàn diànyǐng, mǎi dōngxi, shēnghuó fāngbiàn duō le.",
+      "colloquial_translation": "Besides that, phones can play music, show movies, and help you shop, making life much more convenient."
+    },
+    {
+      "sentence": "现代科学技术的发展让世界变得越来越小，所以现在人们都把地球<b>叫作</b>“地球村”。",
+      "pinyin": "Xiàndài kēxué jìshù de fāzhǎn ràng shìjiè biàn de yuè lái yuè xiǎo, suǒyǐ xiànzài rénmen dōu bǎ dìqiú <b>jiào zuò</b> “dìqiú cūn”.",
+      "translation": "The development of modern science and technology has made the world smaller and smaller, so people now call the earth a “global village.”",
+      "context": "이름이나 명칭을 말할 때",
+      "colloquial_equivalent": "科技让世界越来越近，所以大家现在把地球叫作“地球村”。",
+      "colloquial_pinyin": "Kējì ràng shìjiè yuè lái yuè jìn, suǒyǐ dàjiā xiànzài bǎ dìqiú jiào zuò “dìqiúcūn”.",
+      "colloquial_translation": "Technology has made the world feel closer and closer, so people now call the earth a “global village.”"
+    }
+  ],
+  "translations": {
+    "keySentences": {
+      "不过她这么小，我不知道她<b>是否</b>能读懂。": {
+        "translation": {
+          "ko": "그런데 아이가 아직 어려서, 읽고 이해할 수 있을지 모르겠어요.",
+          "ja": "でも、娘はまだこんなに小さいので、読んで理解できるかどうかわかりません。",
+          "en": "But she's still so young, so I don't know whether she'll be able to understand it."
+        },
+        "colloquial_translation": {
+          "ko": "아직 어려서 이걸 이해할 수 있을지 나도 잘 모르겠어요.",
+          "ja": "まだ小さいので、理解できるかどうか私もよく分かりません。",
+          "en": "But she's still so young, so I'm not sure if she can understand it."
+        },
+        "context": {
+          "ko": "불확실한 여부를 말할 때",
+          "ja": "不確かなことを言うとき",
+          "en": "Talking about uncertainty"
+        }
+      },
+      "电脑和互联网技术的发展使学生们的学习方式发生了很多变化，不过天天对着电脑看，眼睛实在<b>受不了</b>。": {
+        "translation": {
+          "ko": "컴퓨터와 인터넷 기술의 발전은 학생들의 학습 방식에 많은 변화를 가져왔어요. 다만 매일 컴퓨터를 보고 있으면 눈이 정말 견디기 힘들죠.",
+          "ja": "コンピューターとインターネット技術の発展は、学生たちの学習方法に多くの変化をもたらしました。ただ、毎日コンピューターを見ていると、目が本当に耐えられません。",
+          "en": "The development of computers and internet technology has brought many changes to the way students study, but staring at a computer every day is really too much for the eyes."
+        },
+        "colloquial_translation": {
+          "ko": "컴퓨터로 공부하는 건 편하지만 매일 화면을 보면 눈이 정말 못 버텨요.",
+          "ja": "パソコンで勉強するのは便利ですが、毎日画面を見ると目が本当にきついです。",
+          "en": "Studying on a computer is convenient, but staring at a screen every day is really too much for the eyes."
+        },
+        "context": {
+          "ko": "견디기 어려운 상태를 말할 때",
+          "ja": "耐えにくい状態を言うとき",
+          "en": "Talking about something unbearable"
+        }
+      },
+      "走着走着，突然开过来一辆车，非常危险，<b>接着</b>又梦见我跳到车上，跟警察一起抓住了一个坏人。": {
+        "translation": {
+          "ko": "걷다 보니 갑자기 차 한 대가 달려와서 아주 위험했어요. 이어서 제가 차 위로 뛰어올라 경찰과 함께 나쁜 사람 하나를 붙잡는 꿈을 꿨어요.",
+          "ja": "歩いているうちに突然車が一台走ってきて、とても危険でした。続けて、自分が車に飛び乗り、警察と一緒に悪い人を一人捕まえる夢を見ました。",
+          "en": "As I was walking, a car suddenly drove over. It was very dangerous. Then I dreamed that I jumped onto the car and caught a bad guy together with the police."
+        },
+        "colloquial_translation": {
+          "ko": "걷고 있는데 갑자기 차가 오더니, 이어서 경찰과 나쁜 사람을 잡는 꿈을 꿨어요.",
+          "ja": "歩いていたら突然車が来て、続けて警察と悪い人を捕まえる夢を見ました。",
+          "en": "I was walking when a car suddenly came, and then I dreamed I was catching a bad guy with the police."
+        },
+        "context": {
+          "ko": "바로 이어지는 일을 말할 때",
+          "ja": "すぐ続く出来事を言うとき",
+          "en": "Talking about events in immediate sequence"
+        }
+      },
+      "除此以外，你还可以用它来听音乐、看电影、阅读、玩儿游戏、付款购物等，这大大方便了人们的生活。": {
+        "translation": {
+          "ko": "그 밖에도 휴대전화로 음악을 듣고, 영화를 보고, 독서하고, 게임을 하고, 결제 쇼핑 등을 할 수 있어 사람들의 생활을 크게 편리하게 했습니다.",
+          "ja": "そのほかにも、携帯電話で音楽を聞いたり、映画を見たり、読書をしたり、ゲームで遊んだり、支払いをして買い物をしたりできます。これは人々の生活を大いに便利にしました。",
+          "en": "Besides that, you can use a phone to listen to music, watch movies, read, play games, pay for purchases, and more, which has made people's lives much more convenient."
+        },
+        "colloquial_translation": {
+          "ko": "그 밖에도 휴대폰으로 음악도 듣고 영화도 보고 쇼핑도 해서 생활이 훨씬 편해졌어요.",
+          "ja": "そのほか、スマホで音楽を聞いたり映画を見たり買い物をしたりでき、生活がずっと便利になりました。",
+          "en": "Besides that, phones can play music, show movies, and help you shop, making life much more convenient."
+        },
+        "context": {
+          "ko": "추가 정보를 말할 때",
+          "ja": "追加情報を言うとき",
+          "en": "Adding more information"
+        }
+      },
+      "现代科学技术的发展让世界变得越来越小，所以现在人们都把地球<b>叫作</b>“地球村”。": {
+        "translation": {
+          "ko": "현대 과학 기술의 발전은 세계를 점점 작게 만들었기 때문에, 지금 사람들은 지구를 “지구촌”이라고 부릅니다.",
+          "ja": "現代科学技術の発展は世界をますます小さくしたので、今では人々は地球を「地球村」と呼んでいます。",
+          "en": "The development of modern science and technology has made the world smaller and smaller, so people now call the earth a “global village.”"
+        },
+        "colloquial_translation": {
+          "ko": "과학 기술 덕분에 세계가 점점 가까워져서 사람들은 지구를 “지구촌”이라고 불러요.",
+          "ja": "科学技術によって世界がますます近く感じられるようになり、人々は地球を「地球村」と呼びます。",
+          "en": "Technology has made the world feel closer and closer, so people now call the earth a “global village.”"
+        },
+        "context": {
+          "ko": "이름이나 명칭을 말할 때",
+          "ja": "名前や呼び方を言うとき",
+          "en": "Naming or labeling something"
+        }
+      }
+    },
+    "grammar": {
+      "是否": {
+        "formal_translation": {
+          "ko": "부사 “是否”는 “그런지 아닌지, 여부”라는 뜻으로, 주로 문어체에서 쓰입니다. 동사구나 절 앞에 놓여 어떤 일이 사실인지, 또는 가능한지 확실하지 않을 때 씁니다.",
+          "ja": "副詞「是否」は「そうであるかどうか」という意味で、主に書き言葉で使われます。動詞句や節の前に置き、あることが事実かどうか、または可能かどうかが不確かなときに使います。",
+          "en": "The adverb “是否” means “whether or not” and is usually used in written Chinese. It is placed before a verb phrase or clause to express uncertainty about whether something is true or whether something can happen."
+        },
+        "colloquial_translation": {
+          "ko": "“是否”는 격식 있고 문어적인 느낌입니다. 일상 회화에서는 문장에 따라 “是不是”, “能不能”, “会不会” 같은 표현을 더 자주 씁니다.",
+          "ja": "「是否」は改まった書き言葉の響きがあります。日常会話では、文に応じて「是不是」「能不能」「会不会」などの表現をよりよく使います。",
+          "en": "“是否” sounds formal and written. In everyday speech, people more often use patterns such as “是不是”, “能不能”, or “会不会”, depending on the sentence."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "하지만 아이가 아직 어려서, 이 책을 읽고 이해할 수 있을지 모르겠어요.",
+              "ja": "でも、彼女はまだこんなに小さいので、この本を読んで理解できるかどうかわかりません。",
+              "en": "But she is still so young; I don't know whether she can understand this book."
+            }
+          },
+          {
+            "translation": {
+              "ko": "어떤 사람들은 ‘부부상’이 있는 부부는 가정생활이 행복하다고 생각하지만, 사실 결혼이 행복한지 아닌지는 그것과 관계가 없습니다.",
+              "ja": "「夫婦顔」の夫婦は家庭生活が幸せだと考える人もいますが、実際には、結婚が幸せかどうかはそれとは関係ありません。",
+              "en": "Some people think couples who look alike have happy family lives, but in fact, whether a marriage is happy has nothing to do with that."
+            }
+          },
+          {
+            "translation": {
+              "ko": "요즘 사람들이 직업을 선택할 때 주로 무엇을 고려하는지 묻는다면, 적지 않은 사람들은 수입이 얼마인지를 기준으로 삼을 것입니다. 물론 자신이 그 일을 좋아하는지 여부를 주로 보는 사람도 있습니다.",
+              "ja": "今、人々が職業を選ぶときに主に何を考えるのかを尋ねるなら、少なくない人が収入の多さを基準にするでしょう。もちろん、自分がその仕事を好きかどうかを主に見る人もいます。",
+              "en": "Now, if you ask people what they mainly consider when choosing a career, many use income level as the standard. Of course, some people mainly look at whether they like the job."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "저는 아이가 이 책을 이해할 수 있을지 모르겠어요.",
+              "ja": "彼女がこの本を理解できるかどうかわかりません。",
+              "en": "I don't know if she can understand this book."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그 결혼이 행복한지는 두 사람이 닮았는지와 관계가 없어요.",
+              "ja": "その結婚が幸せかどうかは、二人が似ているかどうかとは関係ありません。",
+              "en": "Whether this marriage is happy has nothing to do with whether the two people look alike."
+            }
+          },
+          {
+            "translation": {
+              "ko": "일자리를 찾을 때 자기 마음에 드는지를 주로 보는 사람도 있어요.",
+              "ja": "仕事を探すとき、自分が好きかどうかを主に見る人もいます。",
+              "en": "When looking for a job, some people mainly care about whether they like it."
+            }
+          }
+        ]
+      },
+      "受不了": {
+        "formal_translation": {
+          "ko": "“受不了”는 통증, 고통, 압박, 불행, 태도, 성질 같은 것을 견딜 수 없거나 참을 수 없다는 뜻입니다. 보통 명사나 명사구 앞에 쓰이거나, 동사구 뒤에서 어떤 상태가 감당하기 어려울 정도가 되었음을 나타냅니다.",
+          "ja": "「受不了」は、痛み、苦しみ、圧力、不幸、態度、気性などに耐えられない、我慢できないという意味です。普通は名詞や名詞句の前に使われたり、動詞句の後ろで、ある状態が耐えられないほどになったことを表します。",
+          "en": "“受不了” means “cannot bear” or “cannot stand” pain, suffering, pressure, misfortune, attitude, temper, and similar things. It is usually used before a noun or noun phrase, or after a verb phrase to describe something that has become unbearable."
+        },
+        "colloquial_translation": {
+          "ko": "“受不了”는 문어와 구어에서 모두 자주 쓰입니다. 일상 회화에서는 “真”이나 “实在”를 앞에 붙여 정말 견디기 어렵다는 느낌을 강조하는 경우가 많습니다.",
+          "ja": "「受不了」は書き言葉でも話し言葉でもよく使われます。日常会話では、前に「真」や「实在」を付けて、本当に耐えられないという感じを強調することが多いです。",
+          "en": "“受不了” is common in both written and spoken Chinese. In everyday speech, people often add “真” or “实在” before it to emphasize that something is really unbearable."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "A: 우리 맞은편 가게도 다시 가서 보자. B: 나 정말 너 못 참겠어. 도대체 얼마나 더 쇼핑할 거야?",
+              "ja": "A：向かいの店にももう一度見に行きましょう。B：本当にあなたには耐えられません。いったいあとどれくらい買い物するつもりですか。",
+              "en": "A: Let's go look at the store across the street too. B: I really can't stand you anymore. How much longer are you going to shop?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "하지만 매일 컴퓨터를 보고 있으면 눈이 정말 견디기 힘들어요.",
+              "ja": "でも毎日コンピューターを見ていると、目が本当に耐えられません。",
+              "en": "But staring at a computer every day is really too much for the eyes."
+            }
+          },
+          {
+            "translation": {
+              "ko": "A: 이런 선생님은 정말 못 참겠어! 간단한 동작 하나를 스무 번, 서른 번씩 연습하게 하다니. B: 너희에게 좀 엄격한 게 좋아. 그래야 기초를 잘 다질 수 있잖아.",
+              "ja": "A：こんな先生、本当に耐えられません。簡単な動作を一つ、二十回も三十回も練習させるんです。B：あなたたちに少し厳しいほうがいいですよ。そうすれば基礎をしっかり作れます。",
+              "en": "A: I really can't stand this kind of teacher! He makes us practice one simple movement twenty or thirty times. B: It's good that he's stricter with you; that way you can build a solid foundation."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "나 정말 너 못 참겠어. 얼마나 더 쇼핑할 거야?",
+              "ja": "本当にあなたには耐えられません。あとどれくらい買い物するんですか。",
+              "en": "I really can't stand you anymore. How much longer are you going to shop?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "매일 컴퓨터만 보고 있으니 눈이 정말 못 버티겠어요.",
+              "ja": "毎日コンピューターを見つめていると、目が本当に耐えられません。",
+              "en": "Staring at a computer every day is really too much for my eyes."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이런 선생님은 정말 못 참겠어요. 동작 하나를 수십 번씩 연습시키잖아요.",
+              "ja": "こういう先生は本当に耐えられません。一つの動作を何十回も練習させるんです。",
+              "en": "I really can't stand this kind of teacher. One movement gets practiced dozens of times."
+            }
+          }
+        ]
+      },
+      "接着": {
+        "formal_translation": {
+          "ko": "부사 “接着”은 시간상 “곧이어, 바로 이어서”라는 뜻입니다. “然后”와 마찬가지로 앞에서 일어난 상황 뒤에 다른 상황이 발생함을 나타냅니다.",
+          "ja": "副詞「接着」は、時間的に「すぐ続いて、引き続き」という意味です。「然后」と同じく、前に起きた状況の後に別の状況が起こることを表します。",
+          "en": "The adverb “接着” means “following immediately” in time. Like “然后”, it indicates that another situation happens after the previous event."
+        },
+        "colloquial_translation": {
+          "ko": "이 뜻을 나타낼 때 “接着”은 부사로, 시간상 바로 이어짐을 강조합니다. 반면 “然后”는 접속사이며 보통 “先……然后（再）……” 구조에서 많이 씁니다. “接着”은 앞뒤 사건의 주어가 같을 수도 다를 수도 있지만, “然后”는 보통 같은 주어가 이어집니다.",
+          "ja": "この意味を表すとき、「接着」は副詞で、時間的にすぐ続くことを強調します。一方「然后」は接続詞で、よく「先……然后（再）……」の構造で使われます。「接着」は前後の出来事の主語が同じ場合も異なる場合もありますが、「然后」は普通、同じ主語を共有します。",
+          "en": "When expressing this meaning, “接着” is an adverb and emphasizes immediate succession in time, while “然后” is a conjunction and is often used in the structure “先……然后（再）……”. With “接着”, the two events may or may not have the same subject; with “然后”, they usually share the same subject."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "이 책 내용이 아주 재미있으니, 다 읽은 뒤에 바로 반납하지 말고 제가 이어서 볼게요.",
+              "ja": "この本の内容はとても面白いので、読み終わったらすぐ返さないでください。私が続けて読みます。",
+              "en": "The content of this book is very interesting. Don't return it right after you finish reading it; I'll read it next."
+            }
+          },
+          {
+            "translation": {
+              "ko": "어젯밤에 정말 이상한 꿈을 꿨어요. 제가 다리 위를 걷고 있었는데, 걷다 보니 갑자기 차 한 대가 달려와서 아주 위험했어요. 이어서 제가 차 위로 뛰어올라 경찰과 함께 나쁜 사람 하나를 붙잡는 꿈을 꿨어요.",
+              "ja": "昨夜、とても変な夢を見ました。自分が橋の上を歩いていて、歩いているうちに突然車が一台走ってきて、とても危険でした。続けて、自分が車に飛び乗り、警察と一緒に悪い人を一人捕まえる夢を見ました。",
+              "en": "Last night I had a really strange dream. I dreamed I was walking on a bridge, and as I was walking, a car suddenly drove over. It was very dangerous. Then I dreamed that I jumped onto the car and caught a bad guy together with the police."
+            }
+          },
+          {
+            "translation": {
+              "ko": "아내가 물었습니다. “여보, 왜 요즘 라오왕이랑 테니스 치는 모습이 안 보여요?” 남편이 말했습니다. “이기면 으스대고 지면 기분 나빠하는 사람하고 공 치고 싶어?” “당연히 싫죠. 알겠어요.” 아내가 이어서 말했습니다. “라오왕도 그런 사람하고 치고 싶지 않은 거군요.”",
+              "ja": "妻が尋ねました。「あなた、どうして最近、老王とテニスをしているのを見かけないのですか。」夫は言いました。「勝つと得意になり、負けると不機嫌になる人と一緒に球技をしたいかい。」「もちろん嫌です。わかりました」と妻は続けて言いました。「老王もそんな人とは打ちたくないんですね。」",
+              "en": "The wife asked, “Honey, why don't I see you playing tennis with Old Wang anymore?” The husband said, “Would you want to play with someone who gets smug when he wins and unhappy when he loses?” “Of course not. I get it,” the wife continued, “Old Wang doesn't want to play with that kind of person either.”"
+            }
+          },
+          {
+            "translation": {
+              "ko": "그는 졸업 후 고향에서 1년 동안 일했고, 이어서/그런 다음 베이징대학교 대학원에 또 합격했습니다.",
+              "ja": "彼は卒業後、故郷で一年働き、続いて／それから北京大学に合格して大学院生になりました。",
+              "en": "After graduating, he worked in his hometown for a year, and then got into Peking University to study as a graduate student."
+            }
+          },
+          {
+            "translation": {
+              "ko": "대학을 졸업한 뒤 그는 이어서 대학원에도 합격했습니다.",
+              "ja": "大学を卒業した後、彼は続けて大学院にも合格しました。",
+              "en": "After graduating from university, he immediately went on to get into graduate school."
+            }
+          },
+          {
+            "translation": {
+              "ko": "우리 먼저 저녁을 먹고, 그런 다음 영화를 보러 가는 게 어때요?",
+              "ja": "私たちは先に夕食を食べて、それから映画を見ませんか。",
+              "en": "Let's go have dinner first and then watch a movie, okay?"
+            }
+          },
+          {
+            "translation": {
+              "ko": "그는 이미 1년 동안 중국어를 배웠고, 내년에도 이어서 배울 예정입니다.",
+              "ja": "彼はすでに一年中国語を学んでいて、来年も続けて学ぶつもりです。",
+              "en": "He has already studied Chinese for a year, and next year he will continue studying it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "이 책은 네가 다 읽고 나면 내가 이어서 볼게.",
+              "ja": "この本はあなたが読み終わったら、私が続けて読みましょう。",
+              "en": "After you finish this book, I'll read it next."
+            }
+          },
+          {
+            "translation": {
+              "ko": "모르는 단어를 만나면 저는 바로 사전을 찾고, 그런 다음 공책에 적습니다.",
+              "ja": "知らない言葉に出会ったら、私はすぐ辞書を引き、それからノートに書きます。",
+              "en": "When I come across words I don't know, I look them up in a dictionary right away and then write them in my notebook."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "다 읽고 나서 바로 반납하지 마세요. 제가 이어서 볼게요.",
+              "ja": "読み終わってもすぐ返さないでください。私が続けて読みます。",
+              "en": "Don't return it after you finish; I'll read it next."
+            }
+          },
+          {
+            "translation": {
+              "ko": "차가 갑자기 달려왔고, 그다음에 제가 차 위로 뛰어오르는 꿈을 또 꿨어요.",
+              "ja": "車が突然走ってきて、それから自分が車の上に飛び乗る夢をまた見ました。",
+              "en": "A car suddenly drove over, and then I dreamed I jumped onto it."
+            }
+          },
+          {
+            "translation": {
+              "ko": "그녀는 이어서 라오왕도 그런 사람과 공 치고 싶지 않다고 말했어요.",
+              "ja": "彼女は続けて、老王もそんな人とは球技をしたくないと言いました。",
+              "en": "She continued, saying Old Wang didn't want to play with that kind of person either."
+            }
+          }
+        ]
+      },
+      "除此以外": {
+        "formal_translation": {
+          "ko": "“除此以外”는 앞에서 말한 내용을 가리키며 “그 밖에도, 이 외에도”라는 뜻입니다. 보통 문어체에서 앞의 내용에 더해 추가 정보를 제시할 때 씁니다.",
+          "ja": "「除此以外」は、前に述べた内容を指して「このほかに、これ以外にも」という意味です。普通は書き言葉で、前の内容に加えて追加情報を述べるときに使います。",
+          "en": "“除此以外” means “besides this”, referring to what has just been mentioned. It is usually used in written Chinese to add more information beyond the previous point."
+        },
+        "colloquial_translation": {
+          "ko": "“除此以外”는 격식 있고 문어적인 표현입니다. 일상 회화에서는 “另外”나 “除了这个以外”가 더 자연스럽게 들리는 경우가 많고, “除此之外”도 흔하지만 약간 격식 있는 느낌입니다.",
+          "ja": "「除此以外」は改まった書き言葉の表現です。日常会話では「另外」や「除了这个以外」のほうが自然に聞こえることが多く、「除此之外」もよく使われますが少し改まった響きがあります。",
+          "en": "“除此以外” is formal and written. In everyday speech, “另外” or “除了这个以外” often sounds more natural, while “除此之外” is also common and slightly formal."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "그와 남동생은 같은 날 태어났고 형제 둘은 아주 닮았지만, 그 밖에는 거의 다른 공통점을 찾을 수 없습니다.",
+              "ja": "彼と弟は同じ日に生まれ、兄弟二人はとてもよく似ていますが、それ以外にはほとんど他の共通点を見つけることができません。",
+              "en": "He and his younger brother were born on the same day, and the two brothers look very alike, but besides that, it is almost impossible to find any other similarities."
+            }
+          },
+          {
+            "translation": {
+              "ko": "북방 사람들이 설에 만두를 즐겨 먹는 것은 만두 맛이 좋기 때문입니다. 그 밖에도 사람들이 1년 동안 바쁘게 지내다가 설에 온 가족이 함께 앉아 만두를 빚는 것이 아주 좋은 소통의 기회이기 때문입니다.",
+              "ja": "北方の人が旧正月に餃子を好んで食べるのは、餃子の味がおいしいからです。それ以外にも、人々が一年忙しく過ごした後、旧正月に家族全員で一緒に餃子を包むことが、とてもよい交流の機会になるからです。",
+              "en": "People in northern China like eating dumplings during the New Year because dumplings taste delicious. Besides that, after being busy for a whole year, the whole family sitting together to make dumplings during the New Year is a very good chance to connect."
+            }
+          },
+          {
+            "translation": {
+              "ko": "전화와 문자 보내기는 이미 사람들이 보편적으로 사용하는 연락 방식이 되었습니다. 그 밖에도 휴대전화로 음악을 듣고, 영화를 보고, 독서하고, 게임을 하고, 결제 쇼핑 등을 할 수 있어 사람들의 생활을 크게 편리하게 했습니다.",
+              "ja": "電話をかけたりショートメッセージを送ったりすることは、すでに人々が広く使う連絡方法になりました。そのほかにも、携帯電話で音楽を聞いたり、映画を見たり、読書をしたり、ゲームで遊んだり、支払いをして買い物をしたりできます。これは人々の生活を大いに便利にしました。",
+              "en": "Making calls and sending text messages have already become common ways for people to stay in touch. Besides that, you can use a phone to listen to music, watch movies, read, play games, pay for purchases, and more, which has made people's lives much more convenient."
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "두 사람은 아주 닮았지만, 그 밖에는 거의 공통점이 없어요.",
+              "ja": "二人はとてもよく似ていますが、それ以外にはほとんど共通点がありません。",
+              "en": "They look very alike, but besides that, they have almost nothing in common."
+            }
+          },
+          {
+            "translation": {
+              "ko": "북방 사람들은 만두를 좋아하고, 또 온 가족이 함께 만두를 빚는 것도 좋은 소통의 기회예요.",
+              "ja": "北方の人は餃子が好きです。また、家族全員で一緒に餃子を包むこともよい交流の機会です。",
+              "en": "People in northern China like eating dumplings. Also, making dumplings together as a family is a good chance to connect."
+            }
+          },
+          {
+            "translation": {
+              "ko": "휴대전화는 전화하고 문자를 보낼 수 있고, 그 밖에도 음악을 듣고 영화를 보고 쇼핑도 할 수 있어요.",
+              "ja": "携帯電話は電話をかけたりメッセージを送ったりでき、そのほかにも音楽を聞いたり映画を見たり買い物をしたりできます。",
+              "en": "Phones can make calls and send texts, and they can also play music, show movies, and let you shop."
+            }
+          }
+        ]
+      },
+      "把……叫作……": {
+        "formal_translation": {
+          "ko": "“把……叫作……” 구조는 “…을/를 …라고 부르다”라는 뜻이며, 뒤쪽 부분은 앞쪽 대상의 이름입니다. “把” 뒤에는 보통 명사, 대명사, 또는 명사구가 옵니다.",
+          "ja": "「把……叫作……」の構造は「…を…と呼ぶ」という意味で、後ろの部分は前の対象の名前です。「把」の後ろには普通、名詞、代名詞、または名詞句が続きます。",
+          "en": "In the structure “把……叫作……”, meaning “to call ... ...”, the latter part is the name of the former part. “把” is usually followed by a noun, pronoun, or noun phrase."
+        },
+        "colloquial_translation": {
+          "ko": "“叫作”과 “叫做”는 모두 어떤 대상을 특정 이름으로 부른다는 뜻입니다. “叫作”은 약간 문어적인 느낌이고, “叫做”나 짧은 “叫”는 일상 회화에서 더 흔합니다.",
+          "ja": "「叫作」と「叫做」はどちらも、あるものを特定の名前で呼ぶという意味です。「叫作」は少し書き言葉寄りで、「叫做」や短い「叫」は日常会話でよりよく使われます。",
+          "en": "“叫作” and “叫做” both mean “to call something by a certain name”. “叫作” is slightly more written, while “叫做” and the shorter “叫” are more common in everyday speech."
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "ko": "현대 과학 기술의 발전은 세계를 점점 작게 만들었기 때문에, 지금 사람들은 지구를 “지구촌”이라고 부릅니다.",
+              "ja": "現代科学技術の発展は世界をますます小さくしたので、今では人々は地球を「地球村」と呼んでいます。",
+              "en": "The development of modern science and technology has made the world smaller and smaller, so people now call the earth a “global village.”"
+            }
+          },
+          {
+            "translation": {
+              "ko": "황허는 중국에서 두 번째로 큰 강으로, 중국 서부에서 동부로 흐르며 전체 길이는 5,464킬로미터입니다. 사람들은 그것을 “어머니의 강”이라고 부릅니다.",
+              "ja": "黄河は中国で二番目に大きな川で、中国西部から東部へ流れ、全長は5464キロメートルです。人々はそれを「母なる川」と呼んでいます。",
+              "en": "The Yellow River is China's second largest river. It flows from western China to eastern China and is 5,464 kilometers long. People call it the “Mother River.”"
+            }
+          },
+          {
+            "translation": {
+              "ko": "중국 사람들은 새집으로 이사한 뒤 보통 친척과 친구를 집으로 초대해 식사를 하며 분위기를 돋웁니다. 사람들은 이 습관을 “난팡”이라고 부릅니다.",
+              "ja": "中国人は新しい家に引っ越した後、普通、親戚や友人を家に招いて食事をし、にぎやかにします。人々はこの習慣を「暖房」と呼んでいます。",
+              "en": "After Chinese people move into a new home, they usually invite relatives and friends over for a meal to make the place lively. People call this custom “warming the house.”"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "ko": "지금은 모두 지구를 “지구촌”이라고 불러요.",
+              "ja": "今ではみんな地球を「地球村」と呼んでいます。",
+              "en": "Now everyone calls the earth the “global village.”"
+            }
+          },
+          {
+            "translation": {
+              "ko": "사람들은 흔히 황허를 “어머니의 강”이라고 불러요.",
+              "ja": "人々はよく黄河を「母なる川」と呼びます。",
+              "en": "People often call the Yellow River the “Mother River.”"
+            }
+          },
+          {
+            "translation": {
+              "ko": "새집으로 이사한 뒤 친구를 불러 밥을 먹는 걸 “난팡”이라고 해요.",
+              "ja": "新しい家に引っ越した後、友人を招いて食事をすることを「暖房」と言います。",
+              "en": "Inviting friends over for a meal after moving into a new home is called “warming the house.”"
+            }
+          }
+        ]
+      }
+    },
+    "texts": {
+      "1": {
+        "title": {
+          "ko": "왕징이 쑨위에에게 책 한 권을 추천하다",
+          "ja": "王静が孫月に本を一冊すすめる",
+          "en": "Wang Jing recommends a book to Sun Yue"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "지난번에 딸이 비행기가 어떻게 이륙하고 착륙하는지 물어봤는데, 정말 어떻게 대답해야 할지 모르겠더라고요. 요즘은 온갖 “왜?”가 끊이질 않아요.",
+              "ja": "この前、娘に飛行機がどうやって離陸して着陸するのか聞かれて、本当にどう答えたらいいかわかりませんでした。最近はいつもいろいろな「どうして？」を聞いてきます。",
+              "en": "Last time my daughter asked me how airplanes take off and land. I really didn't know how to answer her. These days she always has all kinds of \"why\" questions."
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "아이의 눈에 비친 세상은 아름답고 신기하죠. 《신 십만 개의 왜》라는 책이 있는데, 요즘 아주 잘 팔려요. 책 내용은 아이들이 궁금해하는 과학 지식이라, 따님도 분명 좋아할 거예요.",
+              "ja": "子どもの目に映る世界は美しくて不思議なものです。『新十万个为什么』という本があって、今とてもよく売れています。中身は子どもが知りたがる科学知識ばかりなので、きっと娘さんも読むのが好きになると思います。",
+              "en": "The world in a child's eyes is beautiful and full of wonder. There's a book called New One Hundred Thousand Whys, and it's selling really well now. Everything in it is scientific knowledge that children want to know, so I'm sure your daughter will like reading it."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "그럼 우리가 어릴 때 보던 《십만 개의 왜》와 다른 건가요? 저자는 누구예요?",
+              "ja": "それは私たちが子どものころ読んだ『十万个为什么』とは違うんですか。作者は誰ですか。",
+              "en": "Is it different from One Hundred Thousand Whys, the one we read when we were little? Who's the author?"
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "저자 이름은 기억이 안 나요. 《신 십만 개의 왜》는 내용이 더 새롭고, 지구, 동물, 식물, 교통, 과학 기술, 사회와 문화 등 여러 분야의 과학 지식을 소개해요.",
+              "ja": "作者の名前は覚えていません。『新十万个为什么』は内容がより新しく、地球、動物、植物、交通、科学技術、社会、文化など多くの分野の科学知識を紹介しています。",
+              "en": "I don't remember the author's name. New One Hundred Thousand Whys has more up-to-date content and introduces all kinds of scientific knowledge, including the earth, animals, plants, transportation, science and technology, society, culture, and many other areas."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "좋네요! 그런데 아이가 아직 어려서, 읽고 이해할 수 있을지 모르겠어요.",
+              "ja": "いいですね。でも、娘はまだこんなに小さいので、読んで理解できるかどうかわかりません。",
+              "en": "That's great! But she's still so young, so I don't know whether she'll be able to understand it."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "걱정하지 마세요. 이 책은 말이 쉽고 이해하기 쉬워서, 아이의 과학 지식을 늘리는 데 분명 도움이 될 거예요.",
+              "ja": "安心してください。この本の言葉は簡単でわかりやすいので、きっと子どもの科学知識を増やせます。",
+              "en": "Don't worry. The language in this book is simple and easy to understand, and it will definitely help children build their scientific knowledge."
+            }
+          }
+        }
+      },
+      "2": {
+        "title": {
+          "ko": "리 선생님과 가오 선생님이 컴퓨터와 인터넷 기술의 발전에 대해 이야기하다",
+          "ja": "李先生と高先生がコンピューターとインターネット技術の発展について話す",
+          "en": "Teacher Li and Teacher Gao discuss the development of computers and internet technology"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "요즘 대학생들은 모르는 문제가 생기면 바로 인터넷에서 답을 찾아볼 수 있고, 몇 초 만에 문제를 해결하니 우리가 학교 다닐 때보다 훨씬 편리해졌어요.",
+              "ja": "今の大学生は、わからない問題に出会うとすぐにネットで答えを探すことができ、数秒で問題を解決できます。私たちが学生だったころよりずっと便利です。",
+              "en": "College students today can immediately look up answers online whenever they run into something they don't understand. They can solve the problem in just a few seconds, which is much more convenient than when we were in school."
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "요즘 사람들, 특히 대학생들은 컴퓨터를 보편적으로 쓰기 시작했고, 생활에서 컴퓨터를 떼어 놓을 수 없게 됐어요. 조사에 따르면 문제가 생겼을 때 70%의 사람들이 가장 먼저 떠올리는 것이 인터넷에서 답을 찾는 거라고 해요.",
+              "ja": "今の人々、特に大学生はコンピューターを広く使うようになり、生活はすでにコンピューターなしでは成り立たなくなっています。調査によると、70%の人は問題に出会ったとき、まずネットで答えを探すことを思い浮かべるそうです。",
+              "en": "People today, especially college students, have started using computers widely, and their lives can no longer do without them. According to a survey, when 70% of people encounter a problem, the first thing they think of is going online to find the answer."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "컴퓨터와 인터넷 기술의 발전은 학생들의 학습 방식에 많은 변화를 가져왔어요. 다만 매일 컴퓨터를 보고 있으면 눈이 정말 견디기 힘들죠.",
+              "ja": "コンピューターとインターネット技術の発展は、学生たちの学習方法に多くの変化をもたらしました。ただ、毎日コンピューターを見ていると、目が本当に耐えられません。",
+              "en": "The development of computers and internet technology has brought many changes to the way students study, but staring at a computer every day is really too much for the eyes."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "학습 방식뿐만 아니라 생활 방식도 크게 달라졌어요. 요즘 점점 더 많은 학생들이 인터넷에 일기를 쓰는 걸 좋아하는데, 그렇게 하면 친구들이 자기 생활을 제때 알 수 있다고 말해요.",
+              "ja": "学習方法だけでなく、生活方式にも大きな変化が起きています。今ではますます多くの学生がネット上で日記を書くのを好み、そうすれば友達が自分の生活をすぐに知ることができると言っています。",
+              "en": "It isn't just the way they study; even their way of life has changed a lot. More and more students now like writing diaries online. They say this lets their friends keep up with their lives in time."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "그 방법 괜찮네요. 사람들끼리 소통하기도 편하고, 종이도 아껴서 환경도 보호할 수 있잖아요. 하지만 다른 사람들이 제 일기를 다 볼 수 있다면 너무 안전하지 않겠어요!",
+              "ja": "その方法はいいですね。みんなの交流を便利にできるし、紙も節約できて環境を守れます。でも、もし他の人がみんな私の日記を見られるなら、とても危なくないですか。",
+              "en": "That's a good idea. It makes communication easier for everyone, saves paper, and protects the environment. But if everyone else can see my diary, that would be so unsafe!"
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "걱정하지 마세요. 인터넷 일기에 비밀번호를 걸 수 있어요. 그러면 허락을 받은 사람만 볼 수 있죠.",
+              "ja": "安心してください。ネット上の日記にはパスワードをかけられます。そうすれば許可を得た人だけが見ることができます。",
+              "en": "Don't worry. You can add a password to an online diary. That way, other people can only see it if they have permission."
+            }
+          }
+        }
+      },
+      "3": {
+        "title": {
+          "ko": "왕징과 쑨위에가 꿈에 대해 이야기하다",
+          "ja": "王静と孫月が夢について話す",
+          "en": "Wang Jing and Sun Yue talk about dreams"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "어젯밤에 정말 이상한 꿈을 꿨어요. 제가 다리 위를 걷고 있었는데, 걷다 보니 갑자기 차 한 대가 달려와서 아주 위험했어요. 이어서 제가 차 위로 뛰어올라 경찰과 함께 나쁜 사람 하나를 붙잡는 꿈을 꿨어요.",
+              "ja": "昨夜、とても変な夢を見ました。自分が橋の上を歩いていて、歩いているうちに突然車が一台走ってきて、とても危険でした。続けて、自分が車に飛び乗り、警察と一緒に悪い人を一人捕まえる夢を見ました。",
+              "en": "Last night I had a really strange dream. I dreamed I was walking on a bridge, and as I was walking, a car suddenly drove over. It was very dangerous. Then I dreamed that I jumped onto the car and caught a bad guy together with the police."
+            }
+          },
+          "1": {
+            "translation": {
+              "ko": "신기하네요. 어떻게 항상 자기가 무슨 꿈을 꿨는지 기억해요? 저는 마치 한 번도 꿈을 꿔 본 적이 없는 것 같아요.",
+              "ja": "不思議ですね。どうしていつも自分がどんな夢を見たか覚えていられるんですか。私はまるで一度も夢を見たことがないような気がします。",
+              "en": "That's strange. How can you always remember what you dreamed? I feel like I've never had a dream."
+            }
+          },
+          "2": {
+            "translation": {
+              "ko": "사람은 누구나 꿈을 꿔요. 차이는 많고 적음뿐이죠. 어떤 사람은 잠에서 깬 뒤에도 꿈속 일을 기억하지만, 어떤 사람은 잘 기억하지 못해요. 당신이 한 번도 꿈을 꾼 적이 없다고 느끼는 건 그저 잊어버렸기 때문이에요.",
+              "ja": "誰でも夢は見ます。違いは多いか少ないかだけです。目が覚めた後でも夢の中のことを覚えている人もいれば、はっきり覚えていない人もいます。あなたが一度も夢を見たことがないと思うのは、ただ忘れているだけです。",
+              "en": "Everyone dreams; the only difference is how often. Some people still remember what happened in their dreams after waking up, while others can't remember clearly. The reason you feel like you've never dreamed is simply that you've forgotten."
+            }
+          },
+          "3": {
+            "translation": {
+              "ko": "말이 되네요. 저는 보통 한 번 잠들면 날이 밝을 때까지 자요. 많은 사람들은 꿈이 하늘이 앞으로 일어날 일을 알려 주는 거라고 생각하던데, 아마 하늘이 저한테는 알려 주고 싶지 않은가 봐요.",
+              "ja": "言っていることには道理がありますね。私はたいてい一度眠ると朝まで眠ります。多くの人は、夢は天が将来起こることを知らせてくれるものだと考えています。もしかすると天は私に知らせたくないのかもしれません。",
+              "en": "That makes sense. I usually sleep straight through until morning. Many people think dreams are heaven's way of telling them about things that will happen in the future. Maybe heaven just doesn't want me to know."
+            }
+          },
+          "4": {
+            "translation": {
+              "ko": "보통 밤에 잠잘 때 몸이 무엇을 느끼면, 사람은 그와 관련된 내용을 꿈꾸기 쉬워요. 한 번은 저녁을 너무 짜게 먹었는데, 그날 밤 여기저기 가게를 찾아다니며 생수를 사는 꿈을 꿨어요.",
+              "ja": "普通、夜寝ているときに体が何かを感じると、人はその内容を夢に見やすいものです。あるとき、夕食をとても塩辛く食べたら、その夜、自分があちこち店を探してミネラルウォーターを買う夢を見ました。",
+              "en": "Usually, when you're asleep at night, whatever your body senses can easily show up in your dreams. I remember one time I ate food that was too salty for dinner, and that night I dreamed I was looking everywhere for a store to buy mineral water."
+            }
+          },
+          "5": {
+            "translation": {
+              "ko": "많은 사람들이 꿈을 해석하려고 해 왔고, 어떤 사람들은 심지어 이 분야에 관한 책을 따로 쓰기도 했어요. 아쉽게도 지금까지도 과학적인 설명은 아직 없네요.",
+              "ja": "多くの人が夢を解釈しようとしてきましたし、中にはこの方面の本を専門に書いた人さえいます。残念ながら、今でもまだ科学的な説明はありません。",
+              "en": "Many people have tried to interpret dreams, and some have even written books specifically on the topic. Unfortunately, even now there still isn't a scientific explanation."
+            }
+          }
+        }
+      },
+      "4": {
+        "title": {
+          "ko": "휴대전화가 사람들의 생활을 편리하게 하다",
+          "ja": "携帯電話が人々の生活を便利にする",
+          "en": "Mobile phones have made people's lives more convenient"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "요즘 휴대전화는 가격이 낮아졌을 뿐만 아니라 기능도 점점 커졌고, 전화와 문자 보내기는 이미 사람들이 보편적으로 사용하는 연락 방식이 되었습니다. 그 밖에도 휴대전화로 음악을 듣고, 영화를 보고, 독서하고, 게임을 하고, 결제 쇼핑 등을 할 수 있어 사람들의 생활을 크게 편리하게 했습니다. 예를 들어 길을 잃었을 때 휴대전화 지도에서 주소를 한 번 찾아보기만 하면, 그 장소에 어떻게 가야 하는지 바로 알 수 있습니다. 지금의 휴대전화는 손에 들고 다닐 수 있는 컴퓨터에 더 가까우며, 현대인의 생활은 이미 점점 더 휴대전화와 떼려야 뗄 수 없게 되었습니다.",
+              "ja": "現在、携帯電話は価格が下がっただけでなく、役割もますます大きくなり、電話をかけたりショートメッセージを送ったりすることは、すでに人々が広く使う連絡方法になりました。そのほかにも、携帯電話で音楽を聞いたり、映画を見たり、読書をしたり、ゲームで遊んだり、支払いをして買い物をしたりできます。これは人々の生活を大いに便利にしました。例を一つ挙げると、道に迷ったとき、携帯電話の地図で住所を調べるだけで、すぐにその場所へどう行けばよいかわかります。今の携帯電話は手に持てるコンピューターのようなもので、現代人の生活はますます携帯電話なしでは成り立たなくなっています。",
+              "en": "Mobile phones today have not only become cheaper, but also much more useful. Making calls and sending text messages have already become common ways for people to stay in touch. Besides that, you can use a phone to listen to music, watch movies, read, play games, pay for purchases, and more, which has made people's lives much more convenient. For example, when you get lost, you only need to check the address on a mobile map, and you can immediately know how to get to that place. Today's mobile phone is more like a computer you can hold in your hand, and modern life is becoming increasingly inseparable from mobile phones."
+            }
+          }
+        }
+      },
+      "5": {
+        "title": {
+          "ko": "과학 기술이 세계를 작게 만들다",
+          "ja": "科学技術が世界を小さくする",
+          "en": "Science and technology have made the world smaller"
+        },
+        "lines": {
+          "0": {
+            "translation": {
+              "ko": "21세기에 우리의 생활은 거대한 변화를 겪었습니다. 몇천 킬로미터 밖의 나라도 예전에는 배를 타면 몇 달이 걸렸지만, 지금은 비행기를 타면 십여 시간밖에 걸리지 않습니다. 원래 편지를 보내려면 며칠이 필요했지만, 지금은 우체국에 갈 필요도 없이 집에서 인터넷으로 이메일 하나를 보내기만 하면 1분도 걸리지 않아 먼 곳의 친구가 받을 수 있고, 봉투에 편지를 쓰는 시간보다도 짧습니다. 예전에는 외지의 뉴스를 며칠 뒤에야 알 수 있었지만, 지금은 웹사이트를 열기만 하면 어떤 정보든 가장 빠른 시간에 얻을 수 있습니다. 현대 과학 기술의 발전은 세계를 점점 작게 만들었기 때문에, 지금 사람들은 지구를 “지구촌”이라고 부릅니다.",
+              "ja": "21世紀、私たちの生活には大きな変化が起きました。数千キロ離れた国へ行くには、以前は船で数か月かかりましたが、今では飛行機に乗れば十数時間にすぎません。もともと手紙を送るには何日も必要でしたが、今では郵便局に行く必要さえなく、家でインターネットに接続してメールを一通送るだけで、一分もかからず遠くの友達が受け取れます。封筒に手紙を書く時間よりも短いのです。以前は地方のニュースを何日も後になってようやく知ることができましたが、今ではウェブサイトを開くだけで、どんな情報でもすぐに得ることができます。現代科学技術の発展は世界をますます小さくしたので、今では人々は地球を「地球村」と呼んでいます。",
+              "en": "In the 21st century, our lives have changed enormously. For countries thousands of kilometers away, traveling there by boat used to take several months, but now taking a plane takes only a dozen or so hours. Sending a letter used to take several days, but now you don't even need to go to the post office. You only need to send an email online from home, and in less than a minute a friend far away can receive it, which is even faster than the time it takes to write an envelope. In the past, news from other places could only be known days later, but now by opening a website, any information can be obtained immediately. The development of modern science and technology has made the world smaller and smaller, so people now call the earth a \"global village.\""
+            }
+          }
+        }
+      }
+    },
+    "vocabulary": {
+      "降落": {
+        "ko": "착륙하다",
+        "ja": "降下する、着陸する",
+        "en": "v. to descend, to land"
+      },
+      "火": {
+        "ko": "인기 있다",
+        "ja": "人気がある",
+        "en": "adj. hot, popular"
+      },
+      "作者": {
+        "ko": "저자",
+        "ja": "作者",
+        "en": "n. author"
+      },
+      "交通": {
+        "ko": "교통, 통신",
+        "ja": "交通、通信",
+        "en": "n. traffic, communication"
+      },
+      "技术": {
+        "ko": "기술",
+        "ja": "技術",
+        "en": "n. technology"
+      },
+      "是否": {
+        "ko": "~인지 아닌지, 여부",
+        "ja": "〜かどうか",
+        "en": "adv. if, whether"
+      },
+      "秒": {
+        "ko": "초",
+        "ja": "秒",
+        "en": "m. second, 1/60 minute"
+      },
+      "方式": {
+        "ko": "방식",
+        "ja": "方式",
+        "en": "n. way, mode"
+      },
+      "受不了": {
+        "ko": "견딜 수 없다",
+        "ja": "耐えられない",
+        "en": "cannot stand, cannot bear"
+      },
+      "日记": {
+        "ko": "일기",
+        "ja": "日記",
+        "en": "n. diary, journal"
+      },
+      "安全": {
+        "ko": "안전하다",
+        "ja": "安全な",
+        "en": "adj. safe, secure"
+      },
+      "密码": {
+        "ko": "비밀번호",
+        "ja": "パスワード",
+        "en": "n. password"
+      },
+      "允许": {
+        "ko": "허락하다",
+        "ja": "許可する",
+        "en": "v. to allow, to permit"
+      },
+      "座": {
+        "ko": "다리/산/건물 등에 쓰는 양사",
+        "ja": "橋・山・建物などに使う量詞",
+        "en": "m. used for bridges, mountains, buildings, etc."
+      },
+      "桥": {
+        "ko": "다리",
+        "ja": "橋",
+        "en": "n. bridge"
+      },
+      "危险": {
+        "ko": "위험하다",
+        "ja": "危険な",
+        "en": "adj. dangerous"
+      },
+      "接着": {
+        "ko": "이어서, 바로 그다음",
+        "ja": "続いて、その次に",
+        "en": "adv. then, immediately after that"
+      },
+      "警察": {
+        "ko": "경찰",
+        "ja": "警察",
+        "en": "n. police"
+      },
+      "抓": {
+        "ko": "붙잡다, 체포하다",
+        "ja": "捕まえる、逮捕する",
+        "en": "v. to catch, to arrest"
+      },
+      "咸": {
+        "ko": "짜다",
+        "ja": "塩辛い",
+        "en": "adj. salty"
+      },
+      "矿泉水": {
+        "ko": "생수, 미네랄워터",
+        "ja": "ミネラルウォーター",
+        "en": "n. mineral water"
+      },
+      "付款": {
+        "ko": "돈을 지불하다",
+        "ja": "支払う",
+        "en": "to pay a sum of money"
+      },
+      "举": {
+        "ko": "예를 들다, 열거하다",
+        "ja": "挙げる、列挙する",
+        "en": "v. to give, to enumerate"
+      },
+      "迷路": {
+        "ko": "길을 잃다",
+        "ja": "道に迷う",
+        "en": "v. to lose one's way"
+      },
+      "地址": {
+        "ko": "주소",
+        "ja": "住所",
+        "en": "n. address"
+      },
+      "地点": {
+        "ko": "장소",
+        "ja": "場所",
+        "en": "n. place, site"
+      },
+      "世纪": {
+        "ko": "세기",
+        "ja": "世紀",
+        "en": "n. century"
+      },
+      "邮局": {
+        "ko": "우체국",
+        "ja": "郵便局",
+        "en": "n. post office"
+      },
+      "收": {
+        "ko": "받다",
+        "ja": "受け取る",
+        "en": "v. to receive"
+      },
+      "信封": {
+        "ko": "봉투",
+        "ja": "封筒",
+        "en": "n. envelope"
+      },
+      "网站": {
+        "ko": "웹사이트",
+        "ja": "ウェブサイト",
+        "en": "n. website"
+      },
+      "信息": {
+        "ko": "소식, 정보",
+        "ja": "情報",
+        "en": "n. news, information"
+      }
+    },
+    "properNouns": {
+      "孙月": {
+        "ko": "쑨웨, 인명",
+        "ja": "孙月、人名",
+        "en": "Sun Yue, a personal name"
+      },
+      "王静": {
+        "ko": "왕징, 인명",
+        "ja": "王静、人名",
+        "en": "Wang Jing, a personal name"
+      },
+      "新十万个为什么": {
+        "ko": "신 십만 개의 왜, 책 제목",
+        "ja": "新十万个为什么、書名",
+        "en": "New One Hundred Thousand Whys, a book title"
+      },
+      "十万个为什么": {
+        "ko": "십만 개의 왜, 책 제목",
+        "ja": "十万个为什么、書名",
+        "en": "One Hundred Thousand Whys, a book title"
+      },
+      "李老师": {
+        "ko": "리 선생님",
+        "ja": "李先生",
+        "en": "Teacher Li"
+      },
+      "高老师": {
+        "ko": "가오 선생님",
+        "ja": "高先生",
+        "en": "Teacher Gao"
+      }
+    },
+    "textTitles": {
+      "1": {
+        "ko": "왕징이 쑨웨에게 책 한 권을 추천하다",
+        "ja": "王静が孙月に本を一冊勧める",
+        "en": "Wang Jing recommends a book to Sun Yue"
+      },
+      "2": {
+        "ko": "리 선생님과 가오 선생님이 컴퓨터와 인터넷 기술의 발전을 이야기하다",
+        "ja": "李先生と高先生がコンピューターとインターネット技術の発展について話す",
+        "en": "Teacher Li and Teacher Gao discuss the development of computers and internet technology"
+      },
+      "3": {
+        "ko": "왕징과 쑨웨가 꿈에 대해 이야기하다",
+        "ja": "王静と孙月が夢について話す",
+        "en": "Wang Jing and Sun Yue talk about dreams"
+      },
+      "4": {
+        "ko": "휴대전화가 사람들의 생활을 편리하게 하다",
+        "ja": "携帯電話が人々の生活を便利にした",
+        "en": "Mobile phones have made people's lives more convenient"
+      },
+      "5": {
+        "ko": "과학 기술이 세계를 작게 만들다",
+        "ja": "科学技術が世界を小さくした",
+        "en": "Science and technology have made the world smaller"
+      }
+    },
+    "lessonTitle": {
+      "ko": "왕징이 쑨웨에게 책 한 권을 추천하다",
+      "ja": "王静が孙月に本を一冊勧める",
+      "en": "Wang Jing recommends a book to Sun Yue"
+    }
+  }
+}

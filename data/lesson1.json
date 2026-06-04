@@ -465,26 +465,26 @@
       "context": "Expressing intense happiness in a new relationship."
     },
     {
-      "sentence": "两个人共同生活，只有浪漫和新鲜感是不够的。",
+      "sentence": "两个人共同生活，<b>只有</b>浪漫和新鲜感是不够的。",
       "pinyin": "Liǎng gè rén gòngtóng shēnghuó, zhǐyǒu làngmàn hé xīnxiāngǎn shì bùgòu de.",
       "translation": "Living together, romance and a sense of freshness alone are not enough.",
-      "colloquial_equivalent": "过日子嘛，光靠浪漫和新鲜劲儿可撑不下去。",
+      "colloquial_equivalent": "过日子嘛，<b>光靠</b>浪漫和新鲜劲儿可撑不下去。",
       "colloquial_pinyin": "Guò rìzi ma, guāng kào làngmàn hé xīnxiānjìnr kě chēng bù xiàqù.",
       "context": "Giving realistic advice about long-term relationships."
     },
     {
-      "sentence": "我能想到最浪漫的事，就是和你一起慢慢变老。",
+      "sentence": "我能想到最浪漫的事，就是和你一起<b>慢慢变老</b>。",
       "pinyin": "Wǒ néng xiǎngdào zuì làngmàn de shì, jiùshì hé nǐ yīqǐ mànman biàn lǎo.",
       "translation": "The most romantic thing I can think of is growing old with you slowly.",
-      "colloquial_equivalent": "这辈子能跟你一块儿变老，我就知足了。",
+      "colloquial_equivalent": "这辈子能跟你一块儿<b>变老</b>，我就知足了。",
       "colloquial_pinyin": "Zhè bèizi néng gēn nǐ yīkuàir biàn lǎo, wǒ jiù zhīzú le.",
       "context": "Expressing deep, long-term commitment."
     },
     {
-      "sentence": "其实，让我们感动的，就是生活中简单的爱情。",
+      "sentence": "<b>其实</b>，让我们感动的，就是生活中简单的爱情。",
       "pinyin": "Qíshí, ràng wǒmen gǎndòng de, jiùshì shēnghuó zhōng jiǎndān de àiqíng.",
       "translation": "In fact, what moves us is the simple love in life.",
-      "colloquial_equivalent": "说白了，最戳人的还是那些平平淡淡的小确幸。",
+      "colloquial_equivalent": "<b>说白了</b>，最戳人的还是那些平平淡淡的小确幸。",
       "colloquial_pinyin": "Shuō báile, zuì chuōrén de háishì nàxiē píngpíng dàndàn de xiǎo què xìng.",
       "context": "Reflecting on the beauty of simple love."
     }
@@ -1479,7 +1479,7 @@
           "en": "Expressing intense happiness in a new relationship."
         }
       },
-      "两个人共同生活，只有浪漫和新鲜感是不够的。": {
+      "两个人共同生活，<b>只有</b>浪漫和新鲜感是不够的。": {
         "translation": {
           "ko": "두 사람이 함께 살아가려면 낭만과 설렘만으로는 부족하다.",
           "ja": "二人で暮らしていくには、ロマンや新鮮さだけでは足りない。",
@@ -1496,7 +1496,7 @@
           "en": "Giving realistic advice about long-term relationships."
         }
       },
-      "我能想到最浪漫的事，就是和你一起慢慢变老。": {
+      "我能想到最浪漫的事，就是和你一起<b>慢慢变老</b>。": {
         "translation": {
           "ko": "내가 생각할 수 있는 가장 낭만적인 일은 너와 함께 천천히 늙어 가는 것이다.",
           "ja": "私が思ういちばんロマンチックなことは、あなたと一緒にゆっくり年を重ねることだ。",
@@ -1513,7 +1513,7 @@
           "en": "Expressing deep, long-term commitment."
         }
       },
-      "其实，让我们感动的，就是生活中简单的爱情。": {
+      "<b>其实</b>，让我们感动的，就是生活中简单的爱情。": {
         "translation": {
           "ko": "사실 우리를 감동시키는 것은 삶 속의 소박한 사랑이다.",
           "ja": "実は、私たちの心を動かすのは暮らしの中の素朴な愛だ。",

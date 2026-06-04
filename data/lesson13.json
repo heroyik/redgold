@@ -1,0 +1,1755 @@
+{
+  "lessonId": 13,
+  "title": "Lesson 13: 喝着茶看中国 (hē zhe chá kàn zhōngguó) (Seeing China over a cup of tea)",
+  "vocabulary": [
+    {
+      "word": "京剧",
+      "pinyin": "jīngjù",
+      "meaning": "n. Beijing opera"
+    },
+    {
+      "word": "演员",
+      "pinyin": "yǎnyuán",
+      "meaning": "n. actor/actress"
+    },
+    {
+      "word": "观众",
+      "pinyin": "guānzhòng",
+      "meaning": "n. audience"
+    },
+    {
+      "word": "厚",
+      "pinyin": "hòu",
+      "meaning": "adj. deep, profound"
+    },
+    {
+      "word": "演出",
+      "pinyin": "yǎnchū",
+      "meaning": "v. to perform, to put on a show"
+    },
+    {
+      "word": "大概",
+      "pinyin": "dàgài",
+      "meaning": "adv. roughly, approximately"
+    },
+    {
+      "word": "来自",
+      "pinyin": "láizì",
+      "meaning": "v. to be from"
+    },
+    {
+      "word": "遍",
+      "pinyin": "biàn",
+      "meaning": "m. denoting an action from beginning to end"
+    },
+    {
+      "word": "偶尔",
+      "pinyin": "ǒu’ěr",
+      "meaning": "adv. occasionally, once in a while"
+    },
+    {
+      "word": "吃惊",
+      "pinyin": "chī jīng",
+      "meaning": "v. to be surprised, to be shocked"
+    },
+    {
+      "word": "基础",
+      "pinyin": "jīchǔ",
+      "meaning": "n. basis, foundation"
+    },
+    {
+      "word": "表演",
+      "pinyin": "biǎoyǎn",
+      "meaning": "v. to act, to perform"
+    },
+    {
+      "word": "正常",
+      "pinyin": "zhèngcháng",
+      "meaning": "adj. normal, regular"
+    },
+    {
+      "word": "申请",
+      "pinyin": "shēnqǐng",
+      "meaning": "v. to apply for"
+    },
+    {
+      "word": "有趣",
+      "pinyin": "yǒuqù",
+      "meaning": "adj. interesting, fun"
+    },
+    {
+      "word": "开心",
+      "pinyin": "kāixīn",
+      "meaning": "adj. happy, glad"
+    },
+    {
+      "word": "继续",
+      "pinyin": "jìxù",
+      "meaning": "v. to go on, to continue"
+    },
+    {
+      "word": "由",
+      "pinyin": "yóu",
+      "meaning": "prep. by (sb.)"
+    },
+    {
+      "word": "讨论",
+      "pinyin": "tǎolùn",
+      "meaning": "v. to discuss, to talk over"
+    },
+    {
+      "word": "大约",
+      "pinyin": "dàyuē",
+      "meaning": "adv. approximately, about"
+    },
+    {
+      "word": "餐厅",
+      "pinyin": "cāntīng",
+      "meaning": "n. restaurant"
+    },
+    {
+      "word": "纸袋",
+      "pinyin": "zhǐdài",
+      "meaning": "n. paper bag"
+    },
+    {
+      "word": "袋子",
+      "pinyin": "dài zi",
+      "meaning": "n. bag, sack"
+    },
+    {
+      "word": "互联网",
+      "pinyin": "hùliánwǎng",
+      "meaning": "n. Internet"
+    },
+    {
+      "word": "进行",
+      "pinyin": "jìnxíng",
+      "meaning": "v. to conduct, to carry out"
+    },
+    {
+      "word": "错误",
+      "pinyin": "cuòwù",
+      "meaning": "adj. wrong"
+    },
+    {
+      "word": "随着",
+      "pinyin": "suízhe",
+      "meaning": "prep. along with, as"
+    },
+    {
+      "word": "十分",
+      "pinyin": "shífēn",
+      "meaning": "adv. very, extremely"
+    },
+    {
+      "word": "普遍",
+      "pinyin": "pǔbiàn",
+      "meaning": "adj. universal, common"
+    },
+    {
+      "word": "部分",
+      "pinyin": "bùfen",
+      "meaning": "n. part"
+    },
+    {
+      "word": "稍微",
+      "pinyin": "shāowēi",
+      "meaning": "adv. a little, slightly"
+    },
+    {
+      "word": "苦",
+      "pinyin": "kǔ",
+      "meaning": "adj. bitter"
+    },
+    {
+      "word": "省",
+      "pinyin": "shěng",
+      "meaning": "n. province"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "大概",
+      "explanation": "“大概”可以作副词，表示对数量、时间不太精确的估计，也表示对情况的推测，有很大的可能性；也可以作形容词，表示不很准确或者不很详细。",
+      "nuance": "As an adverb, “大概” is used for approximate estimates of amount or time, or for likely guesses about a situation. As an adjective, it means something is general, approximate, or not very detailed.",
+      "formal_examples": [
+        {
+          "chinese": "他8岁就开始上台演出，到现在<b>大概</b>唱了60多年了，他对这门艺术的喜爱从来没有改变过。",
+          "pinyin": "Tā bā suì jiù kāishǐ shàngtái yǎnchū, dào xiànzài <b>dàgài</b> chàng le liùshí duō nián le, tā duì zhè mén yìshù de xǐ'ài cónglái méiyǒu gǎibiàn guo.",
+          "translation": "He started performing on stage when he was eight, and by now he has probably been singing for more than sixty years. His love for this art has never changed."
+        },
+        {
+          "chinese": "你的这个关于举办传统文化节活动的计划，我想校长<b>大概</b>会同意。",
+          "pinyin": "Nǐ de zhè ge guānyú jǔbàn chuántǒng wénhuà jié huódòng de jìhuà, wǒ xiǎng xiàozhǎng <b>dàgài</b> huì tóngyì.",
+          "translation": "As for your plan to hold a traditional culture festival, I think the principal will probably agree."
+        },
+        {
+          "chinese": "经过这段时间的学习，他的汉语水平提高了不少，不但可以听懂一些较短的句子，还可以进行简单的交流，现在即使不用翻译也能理解<b>大概</b>的意思了。",
+          "pinyin": "Jīngguò zhè duàn shíjiān de xuéxí, tā de Hànyǔ shuǐpíng tígāo le bù shǎo, bùdàn kěyǐ tīng dǒng yìxiē jiào duǎn de jùzi, hái kěyǐ jìnxíng jiǎndān de jiāoliú, xiànzài jíshǐ bú yòng fānyì yě néng lǐjiě <b>dàgài</b> de yìsi le.",
+          "translation": "After studying for this period of time, his Chinese has improved a lot. He can not only understand some shorter sentences, but also carry out simple communication; now he can understand the general meaning even without translation."
+        }
+      ],
+      "colloquial_pattern": "差不多 / 大致 / 估计",
+      "colloquial_examples": [
+        {
+          "chinese": "他从小就唱京剧，到现在<b>差不多</b>唱了六十多年了。",
+          "pinyin": "Tā cóng xiǎo jiù chàng jīngjù, dào xiànzài <b>chàbuduō</b> chàng le liùshí duō nián le.",
+          "translation": "He has been singing Beijing opera since he was little, so by now it has been about sixty-plus years."
+        },
+        {
+          "chinese": "这个活动方案挺完整的，校长<b>估计</b>会点头。",
+          "pinyin": "Zhè ge huódòng fāng'àn tǐng wánzhěng de, xiàozhǎng <b>gūjì</b> huì diǎntóu.",
+          "translation": "This event plan is pretty complete, so the principal will probably approve it."
+        }
+      ]
+    },
+    {
+      "point": "大概 vs 也许",
+      "explanation": "相同点：两者都是副词，都可以表示对情况的推测、估计。不同点：1. 表示对情况的推测时，“大概”判断性较强，肯定的意思较重；“也许”表示猜测，把握性较小。2. “大概”可以表示对数量的估计；“也许”没有此用法。3. “也许”可以表示说话人对自己未来的打算不确定；“大概”没有此用法。4. “大概”还可以作形容词或属性词，表示不十分精确或不十分详尽；“也许”没有此用法。",
+      "nuance": "Both “大概” and “也许” can express speculation, but “大概” usually sounds more likely or more certain. “大概” can also estimate quantities and can be an adjective meaning general or not detailed. “也许” is weaker and can express uncertainty about one's own future plans.",
+      "formal_examples": [
+        {
+          "chinese": "他总说自己特别喜欢看书，可是这本书他看了一个月才看到第5页，<b>大概</b>/<b>也许</b>是因为工作太忙吧。但我觉得一个真正爱看书的人总能找出时间来阅读。",
+          "pinyin": "Tā zǒng shuō zìjǐ tèbié xǐhuan kàn shū, kěshì zhè běn shū tā kàn le yí ge yuè cái kàn dào dì wǔ yè, <b>dàgài</b>/<b>yěxǔ</b> shì yīnwèi gōngzuò tài máng ba. Dàn wǒ juéde yí ge zhēnzhèng ài kàn shū de rén zǒng néng zhǎo chū shíjiān lái yuèdú.",
+          "translation": "He always says he especially likes reading, but after reading this book for a month he has only reached page five. It is probably/perhaps because he is too busy with work. But I think someone who truly loves reading can always find time to read."
+        },
+        {
+          "chinese": "老张这个人一直很准时，开会从来不迟到。今天到现在还没来，<b>大概</b>是有什么事情，你打个电话问问他吧。",
+          "pinyin": "Lǎo Zhāng zhè ge rén yìzhí hěn zhǔnshí, kāihuì cónglái bù chídào. Jīntiān dào xiànzài hái méi lái, <b>dàgài</b> shì yǒu shénme shìqing, nǐ dǎ ge diànhuà wènwen tā ba.",
+          "translation": "Old Zhang is always punctual and is never late for meetings. He still has not arrived today, so something has probably happened. Call him and ask."
+        },
+        {
+          "chinese": "这次电影艺术节<b>也许</b>会在北京举行。",
+          "pinyin": "Zhè cì diànyǐng yìshù jié <b>yěxǔ</b> huì zài Běijīng jǔxíng.",
+          "translation": "This film art festival may be held in Beijing."
+        },
+        {
+          "chinese": "<b>大概</b>有三分之二的人反对这样做。",
+          "pinyin": "<b>Dàgài</b> yǒu sānfēn zhī èr de rén fǎnduì zhèyàng zuò.",
+          "translation": "About two-thirds of the people oppose doing this."
+        },
+        {
+          "chinese": "我原来想学习法律，不过后来我发现自己对新闻更感兴趣，<b>也许</b>以后我会成为一名记者。",
+          "pinyin": "Wǒ yuánlái xiǎng xuéxí fǎlǜ, búguò hòulái wǒ fāxiàn zìjǐ duì xīnwén gèng gǎn xìngqù, <b>yěxǔ</b> yǐhòu wǒ huì chéngwéi yì míng jìzhě.",
+          "translation": "I originally wanted to study law, but later I found that I was more interested in news. Maybe I will become a reporter in the future."
+        },
+        {
+          "chinese": "不管做什么事情，最好提前做计划，不用安排得特别详细，但必须有一个<b>大概</b>的想法。",
+          "pinyin": "Bùguǎn zuò shénme shìqing, zuìhǎo tíqián zuò jìhuà, bú yòng ānpái de tèbié xiángxì, dàn bìxū yǒu yí ge <b>dàgài</b> de xiǎngfǎ.",
+          "translation": "No matter what you do, it is best to make a plan in advance. It does not need to be arranged in great detail, but you must have a general idea."
+        }
+      ],
+      "colloquial_pattern": "大概率 / 可能 / 说不定 / 差不多",
+      "colloquial_examples": [
+        {
+          "chinese": "老张平时从不迟到，今天还没到，<b>大概率</b>是真有事。",
+          "pinyin": "Lǎo Zhāng píngshí cóng bù chídào, jīntiān hái méi dào, <b>dà gàilǜ</b> shì zhēn yǒu shì.",
+          "translation": "Old Zhang is never late, so if he still has not arrived today, something most likely really happened."
+        },
+        {
+          "chinese": "我以后<b>说不定</b>会去做记者，反正现在还没定。",
+          "pinyin": "Wǒ yǐhòu <b>shuōbudìng</b> huì qù zuò jìzhě, fǎnzhèng xiànzài hái méi dìng.",
+          "translation": "Maybe I will become a reporter later. Anyway, I have not decided yet."
+        }
+      ]
+    },
+    {
+      "point": "偶尔",
+      "explanation": "“偶尔”，副词，表示情况发生的次数非常少。",
+      "nuance": "“偶尔” is an adverb meaning that something happens only once in a while or very rarely. It is used when an action or situation occurs much less often than usual.",
+      "formal_examples": [
+        {
+          "chinese": "我常常跟着电视学唱京剧，然后一遍一遍地练习，<b>偶尔</b>跟中国人一起唱上几句。",
+          "pinyin": "Wǒ chángcháng gēn zhe diànshì xué chàng jīngjù, ránhòu yí biàn yí biàn de liànxí, <b>ǒu'ěr</b> gēn Zhōngguó rén yìqǐ chàng shàng jǐ jù.",
+          "translation": "I often learn to sing Beijing opera by following along with TV, then practice again and again, and occasionally sing a few lines with Chinese people."
+        },
+        {
+          "chinese": "我们调查的近7000名上班族中，有64%的人经常加班，28%<b>偶尔</b>加班，而每次加班时间超过两小时的竟然有59%。",
+          "pinyin": "Wǒmen diàochá de jìn qīqiān míng shàngbānzú zhōng, yǒu bǎi fēn zhī liùshísì de rén jīngcháng jiābān, bǎi fēn zhī èrshíbā <b>ǒu'ěr</b> jiābān, ér měi cì jiābān shíjiān chāoguò liǎng xiǎoshí de jìngrán yǒu bǎi fēn zhī wǔshíjiǔ.",
+          "translation": "Among the nearly 7,000 office workers we surveyed, 64% often work overtime, 28% occasionally work overtime, and as many as 59% work more than two hours of overtime each time."
+        },
+        {
+          "chinese": "三叶草的叶子一般为三个，但<b>偶尔</b>也会出现四个叶子的，这种四个叶子的叫“四叶草”，因为很少见，所以有人说，找到这种“四叶草”的人会得到幸福。",
+          "pinyin": "Sānyècǎo de yèzi yìbān wéi sān ge, dàn <b>ǒu'ěr</b> yě huì chūxiàn sì ge yèzi de, zhè zhǒng sì ge yèzi de jiào “sìyècǎo”, yīnwèi hěn shǎojiàn, suǒyǐ yǒu rén shuō, zhǎodào zhè zhǒng “sìyècǎo” de rén huì dédào xìngfú.",
+          "translation": "Clover leaves are usually three in number, but occasionally one with four leaves also appears. This kind with four leaves is called a “four-leaf clover.” Because it is very rare, some people say that whoever finds one will receive happiness."
+        }
+      ],
+      "colloquial_pattern": "偶尔 / 偶然 / 有时候",
+      "colloquial_examples": [
+        {
+          "chinese": "我平时都自己练京剧，<b>偶尔</b>也会跟朋友一起唱两句。",
+          "pinyin": "Wǒ píngshí dōu zìjǐ liàn jīngjù, <b>ǒu'ěr</b> yě huì gēn péngyou yìqǐ chàng liǎng jù.",
+          "translation": "I usually practice Beijing opera by myself, but once in a while I also sing a few lines with friends."
+        },
+        {
+          "chinese": "他不常加班，只是项目赶的时候<b>偶尔</b>忙到很晚。",
+          "pinyin": "Tā bù cháng jiābān, zhǐshì xiàngmù gǎn de shíhou <b>ǒu'ěr</b> máng dào hěn wǎn.",
+          "translation": "He does not often work overtime; he only occasionally stays busy until late when a project is urgent."
+        }
+      ]
+    },
+    {
+      "point": "由",
+      "explanation": "“由”，介词，引出负责做某事的人。",
+      "nuance": "The preposition “由” introduces the person who is responsible for doing something. It is formal and often appears in rules, arrangements, work assignments, or written notices.",
+      "formal_examples": [
+        {
+          "chinese": "按照规定，这件事情应该<b>由</b>王大夫负责。",
+          "pinyin": "Ànzhào guīdìng, zhè jiàn shìqing yīnggāi <b>yóu</b> Wáng dàifu fùzé.",
+          "translation": "According to the regulations, Doctor Wang should be responsible for this matter."
+        },
+        {
+          "chinese": "“幽默”这个词最早是<b>由</b>林语堂先生翻译过来的。",
+          "pinyin": "“Yōumò” zhè ge cí zuìzǎo shì <b>yóu</b> Lín Yǔtáng xiānsheng fānyì guòlái de.",
+          "translation": "The word “幽默” was first translated by Mr. Lin Yutang."
+        },
+        {
+          "chinese": "上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续<b>由</b>你们负责，相信也一定会很成功。",
+          "pinyin": "Shàng cì de chūnyóu huódòng nǐmen bàn de fēicháng yǒuqù, dàjiā dōu wánr de hěn kāixīn, zhè cì huódòng jìxù <b>yóu</b> nǐmen fùzé, xiāngxìn yě yídìng huì hěn chénggōng.",
+          "translation": "The spring outing you organized last time was very interesting, and everyone had a great time. This event will continue to be handled by you, and I believe it will also be very successful."
+        }
+      ],
+      "colloquial_pattern": "让……负责 / 交给…… / ……来负责",
+      "colloquial_examples": [
+        {
+          "chinese": "这事儿就<b>让</b>王医生<b>负责</b>吧。",
+          "pinyin": "Zhè shìr jiù <b>ràng</b> Wáng yīshēng <b>fùzé</b> ba.",
+          "translation": "Let's have Doctor Wang handle this."
+        },
+        {
+          "chinese": "这次活动还是<b>交给</b>你们办，我觉得肯定没问题。",
+          "pinyin": "Zhè cì huódòng háishi <b>jiāo gěi</b> nǐmen bàn, wǒ juéde kěndìng méi wèntí.",
+          "translation": "Let's leave this event to you again. I think it will definitely be fine."
+        }
+      ]
+    },
+    {
+      "point": "进行",
+      "explanation": "“进行”，动词，表示从事某种活动、工作等。多用在双音节动词前边，后边的动词表示的一定是比较正式、严肃的行为，暂时性的和日常生活中的行为一般不用“进行”。",
+      "nuance": "“进行” means to engage in or carry out an activity or work. It is usually used before disyllabic verbs for formal or serious actions, such as meetings, investigations, exchanges, or research. Temporary or everyday actions are normally not used with “进行.”",
+      "formal_examples": [
+        {
+          "chinese": "大家请注意，现在休息十五分钟，十点半会议继续<b>进行</b>。",
+          "pinyin": "Dàjiā qǐng zhùyì, xiànzài xiūxi shíwǔ fēnzhōng, shí diǎn bàn huìyì jìxù <b>jìnxíng</b>.",
+          "translation": "Attention, everyone. We will now take a fifteen-minute break, and the meeting will continue at ten thirty."
+        },
+        {
+          "chinese": "有人在互联网上专门<b>进行</b>过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。",
+          "pinyin": "Yǒu rén zài hùliánwǎng shàng zhuānmén <b>jìnxíng</b> guo diàochá, jiéguǒ fāxiàn měi liù ge Zhōngguó rén zhōng jiù yǒu yí ge shǐyòng kuàizi de fāngfǎ shì cuòwù de.",
+          "translation": "Someone once conducted a special survey on the Internet, and the results found that among every six Chinese people, one uses chopsticks incorrectly."
+        },
+        {
+          "chinese": "成功的语言学习者，在学习方面往往都是积极主动的，他们会主动与他人<b>进行</b>交流，并且请别人帮助他们改错。",
+          "pinyin": "Chénggōng de yǔyán xuéxí zhě, zài xuéxí fāngmiàn wǎngwǎng dōu shì jījí zhǔdòng de, tāmen huì zhǔdòng yǔ tārén <b>jìnxíng</b> jiāoliú, bìngqiě qǐng biérén bāngzhù tāmen gǎi cuò.",
+          "translation": "Successful language learners are often proactive in their studies. They actively communicate with others and ask others to help them correct mistakes."
+        }
+      ],
+      "colloquial_pattern": "做 / 开 / 聊 / 交流",
+      "colloquial_examples": [
+        {
+          "chinese": "大家休息十五分钟，十点半我们继续<b>开</b>会。",
+          "pinyin": "Dàjiā xiūxi shíwǔ fēnzhōng, shí diǎn bàn wǒmen jìxù <b>kāi</b> huì.",
+          "translation": "Everyone, take a fifteen-minute break. We will keep having the meeting at ten thirty."
+        },
+        {
+          "chinese": "他们学语言很主动，经常找人<b>聊</b>，也会请别人帮忙改错。",
+          "pinyin": "Tāmen xué yǔyán hěn zhǔdòng, jīngcháng zhǎo rén <b>liáo</b>, yě huì qǐng biérén bāngmáng gǎi cuò.",
+          "translation": "They are very proactive in learning the language, often find people to chat with, and ask others to help correct mistakes."
+        }
+      ]
+    },
+    {
+      "point": "随着",
+      "explanation": "“随着”，介词，表示一件事情是另一件事情发生的条件，后面一般是带修饰语的双音节动词。",
+      "nuance": "“随着” is a preposition meaning that one change or event happens along with, or under the condition of, another change. It is usually followed by a modified disyllabic verb, often in formal explanatory writing.",
+      "formal_examples": [
+        {
+          "chinese": "<b>随着</b>社会的发展，京剧也在改变，以适应不同年龄观众的需要。",
+          "pinyin": "<b>Suízhe</b> shèhuì de fāzhǎn, jīngjù yě zài gǎibiàn, yǐ shìyìng bùtóng niánlíng guānzhòng de xūyào.",
+          "translation": "As society develops, Beijing opera is also changing in order to meet the needs of audiences of different ages."
+        },
+        {
+          "chinese": "有些人喜欢为自己的生活做长远的计划。但是，<b>随着</b>年龄的增长，他们会发现生活总是在不停地变化，生活往往不会按照我们的计划来进行。",
+          "pinyin": "Yǒuxiē rén xǐhuan wèi zìjǐ de shēnghuó zuò chángyuǎn de jìhuà. Dànshì, <b>suízhe</b> niánlíng de zēngzhǎng, tāmen huì fāxiàn shēnghuó zǒng shì zài bùtíng de biànhuà, shēnghuó wǎngwǎng bú huì ànzhào wǒmen de jìhuà lái jìnxíng.",
+          "translation": "Some people like to make long-term plans for their lives. However, as they grow older, they will find that life is always changing and often does not proceed according to our plans."
+        },
+        {
+          "chinese": "最早的时候，茶只是被当作一种药，而不是饮料。后来，<b>随着</b>人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。",
+          "pinyin": "Zuìzǎo de shíhou, chá zhǐshì bèi dàngzuò yì zhǒng yào, ér bú shì yǐnliào. Hòulái, <b>suízhe</b> rénmen duì chá de rènshi de jiāshēn, mànmàn kāishǐ bǎ tā dàngzuò jiěkě de yǐnliào, zhè cái mànmàn yǒu le Zhōngguó de chá wénhuà.",
+          "translation": "In the earliest times, tea was only treated as a kind of medicine, not as a drink. Later, as people's understanding of tea deepened, they gradually began to treat it as a thirst-quenching drink, and only then did Chinese tea culture slowly develop."
+        }
+      ],
+      "colloquial_pattern": "随着 / 越来越 / 后来慢慢",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>随着</b>大家口味变化，京剧也得慢慢变，才能吸引年轻观众。",
+          "pinyin": "<b>Suízhe</b> dàjiā kǒuwèi biànhuà, jīngjù yě děi mànmàn biàn, cái néng xīyǐn niánqīng guānzhòng.",
+          "translation": "As people's tastes change, Beijing opera also has to slowly change in order to attract younger audiences."
+        },
+        {
+          "chinese": "人<b>越来越</b>大，就会发现生活不一定按计划走。",
+          "pinyin": "Rén <b>yuè lái yuè</b> dà, jiù huì fāxiàn shēnghuó bù yídìng àn jìhuà zǒu.",
+          "translation": "As people get older, they realize that life does not necessarily go according to plan."
+        }
+      ]
+    },
+    {
+      "point": "同字词：量",
+      "explanation": "同字词“量”：商量、数量、质量。“商量”表示讨论、交换意见；“数量”表示事物的多少；“质量”表示产品、工作等的优劣程度。",
+      "nuance": "This extension note groups words that share the character “量.” The shared character does not give every word the same meaning: “商量” is about discussing, “数量” is about amount, and “质量” is about quality.",
+      "formal_examples": [
+        {
+          "chinese": "我认真考虑了一个晚上，也打电话和父母<b>商量</b>过了，最后还是决定不去那家公司了。我想继续留在北京，看看还有没有别的机会。",
+          "pinyin": "Wǒ rènzhēn kǎolǜ le yí ge wǎnshang, yě dǎ diànhuà hé fùmǔ <b>shāngliang</b> guo le, zuìhòu háishi juédìng bú qù nà jiā gōngsī le. Wǒ xiǎng jìxù liú zài Běijīng, kànkan hái yǒu méiyǒu bié de jīhuì.",
+          "translation": "I thought it over carefully for a whole evening and also discussed it with my parents by phone. In the end, I still decided not to go to that company. I want to continue staying in Beijing and see whether there are other opportunities."
+        },
+        {
+          "chinese": "广告虽然给我们带来很多方便，但<b>数量</b>太多也会让人觉得讨厌。",
+          "pinyin": "Guǎnggào suīrán gěi wǒmen dàilái hěn duō fāngbiàn, dàn <b>shùliàng</b> tài duō yě huì ràng rén juéde tǎoyàn.",
+          "translation": "Although advertisements bring us a lot of convenience, too many of them can also make people feel annoyed."
+        },
+        {
+          "chinese": "如果一个星期内发现有任何<b>质量</b>问题，我们都可以免费为您换货，但是购物小票一定不能丢。",
+          "pinyin": "Rúguǒ yí ge xīngqī nèi fāxiàn yǒu rènhé <b>zhìliàng</b> wèntí, wǒmen dōu kěyǐ miǎnfèi wèi nín huàn huò, dànshì gòuwù xiǎopiào yídìng bù néng diū.",
+          "translation": "If any quality problem is found within one week, we can replace the product for you free of charge, but you must not lose the receipt."
+        }
+      ],
+      "colloquial_pattern": "商量 / 太多 / 质量有问题",
+      "colloquial_examples": [
+        {
+          "chinese": "这事儿我得先跟爸妈<b>商量</b>一下，再决定去不去。",
+          "pinyin": "Zhè shìr wǒ děi xiān gēn bàmā <b>shāngliang</b> yíxià, zài juédìng qù bú qù.",
+          "translation": "I need to talk this over with my parents first, then decide whether to go."
+        },
+        {
+          "chinese": "广告<b>太多</b>真的很烦，哪怕有时候挺方便。",
+          "pinyin": "Guǎnggào <b>tài duō</b> zhēn de hěn fán, nǎpà yǒu shíhou tǐng fāngbiàn.",
+          "translation": "Too many ads are really annoying, even if they are sometimes convenient."
+        }
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "小雨和小夏在聊小夏的爷爷表演京剧的情况 (xiǎo yǔ hé xiǎo xià zài liáo xiǎo xià de yéye biǎoyǎn jīngjù de qíngkuàng) (Xiaoyu and Xiaoxia are talking about Xiaoxia's grandfather performing Beijing opera)",
+      "audio": "audio/13-1.mp3",
+      "content": [
+        {
+          "speaker": "小雨",
+          "text": "小夏，你爷爷京剧唱得真专业，我还以为他是京剧演员呢。",
+          "pinyin": "Xiǎo Xià, nǐ yéye jīngjù chàng de zhēn zhuānyè, wǒ hái yǐwéi tā shì jīngjù yǎnyuán ne.",
+          "translation": "Xiaoxia, your grandfather sings Beijing opera so professionally. I thought he was a Beijing opera actor."
+        },
+        {
+          "speaker": "小夏",
+          "text": "对呀，他本来就是京剧演员，年轻时在我们那儿很有名，深受观众们的喜爱。",
+          "pinyin": "Duì ya, tā běnlái jiù shì jīngjù yǎnyuán, niánqīng shí zài wǒmen nàr hěn yǒumíng, shēn shòu guānzhòng men de xǐ'ài.",
+          "translation": "Yes. He really was a Beijing opera actor. When he was young, he was very famous where we lived and was deeply loved by audiences."
+        },
+        {
+          "speaker": "小雨",
+          "text": "你爷爷一定对京剧有着很深厚的感情。",
+          "pinyin": "Nǐ yéye yídìng duì jīngjù yǒu zhe hěn shēnhòu de gǎnqíng.",
+          "translation": "Your grandfather must have very deep feelings for Beijing opera."
+        },
+        {
+          "speaker": "小夏",
+          "text": "是呀，他8岁就开始上台演出，到现在大概唱了60多年了，他对这门艺术的喜爱从来没有改变过。",
+          "pinyin": "Shì ya, tā bā suì jiù kāishǐ shàngtái yǎnchū, dào xiànzài dàgài chàng le liùshí duō nián le, tā duì zhè mén yìshù de xǐ'ài cónglái méiyǒu gǎibiàn guo.",
+          "translation": "That's right. He started performing on stage when he was eight, and by now he has probably been singing for more than sixty years. His love for this art has never changed."
+        },
+        {
+          "speaker": "小雨",
+          "text": "这么说你喜欢听京剧也是受了你爷爷的影响？",
+          "pinyin": "Zhème shuō nǐ xǐhuan tīng jīngjù yě shì shòu le nǐ yéye de yǐngxiǎng?",
+          "translation": "So does that mean your liking for listening to Beijing opera was also influenced by your grandfather?"
+        },
+        {
+          "speaker": "小夏",
+          "text": "我小时候经常去看他的演出。平时他还给我讲很多京剧里的历史故事，让我学到了很多知识。",
+          "pinyin": "Wǒ xiǎoshíhou jīngcháng qù kàn tā de yǎnchū. Píngshí tā hái gěi wǒ jiǎng hěn duō jīngjù lǐ de lìshǐ gùshi, ràng wǒ xué dào le hěn duō zhīshi.",
+          "translation": "When I was little, I often went to watch his performances. He also usually told me many historical stories from Beijing opera, which taught me a lot."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "京剧",
+          "pinyin": "jīngjù",
+          "meaning": "n. Beijing opera"
+        },
+        {
+          "word": "演员",
+          "pinyin": "yǎnyuán",
+          "meaning": "n. actor/actress"
+        },
+        {
+          "word": "观众",
+          "pinyin": "guānzhòng",
+          "meaning": "n. audience"
+        },
+        {
+          "word": "厚",
+          "pinyin": "hòu",
+          "meaning": "adj. deep, profound"
+        },
+        {
+          "word": "演出",
+          "pinyin": "yǎnchū",
+          "meaning": "v. to perform, to put on a show"
+        },
+        {
+          "word": "大概",
+          "pinyin": "dàgài",
+          "meaning": "adv. roughly, approximately"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "小雨和马克在聊京剧 (xiǎo yǔ hé mǎkè zài liáo jīngjù) (Xiaoyu and Mark are talking about Beijing opera)",
+      "audio": "audio/13-2.mp3",
+      "content": [
+        {
+          "speaker": "小雨",
+          "text": "真没想到你一个来自美国的外国留学生，能把京剧唱得这么好。",
+          "pinyin": "Zhēn méi xiǎngdào nǐ yí gè láizì Měiguó de wàiguó liúxuéshēng, néng bǎ jīngjù chàng de zhème hǎo.",
+          "translation": "I really did not expect that a foreign student from the United States like you could sing Beijing opera so well."
+        },
+        {
+          "speaker": "马克",
+          "text": "我常常跟着电视学唱京剧，然后一遍一遍地练习，偶尔跟中国人一起唱上几句。",
+          "pinyin": "Wǒ chángcháng gēn zhe diànshì xué chàng jīngjù, ránhòu yí biàn yí biàn de liànxí, ǒu’ěr gēn Zhōngguó rén yìqǐ chàng shàng jǐ jù.",
+          "translation": "I often learn to sing Beijing opera by following along with TV, then practice again and again, and occasionally sing a few lines with Chinese people."
+        },
+        {
+          "speaker": "小雨",
+          "text": "难道你从来没有接受过京剧方面的专门教育吗？",
+          "pinyin": "Nándào nǐ cónglái méiyǒu jiēshòu guo jīngjù fāngmiàn de zhuānmén jiàoyù ma?",
+          "translation": "Have you really never received any specialized education in Beijing opera?"
+        },
+        {
+          "speaker": "马克",
+          "text": "别吃惊，因为我以前学习过音乐，有一些音乐基础，又对京剧这种表演艺术非常感兴趣，所以能比较容易地学会它的唱法。",
+          "pinyin": "Bié chī jīng, yīnwèi wǒ yǐqián xuéxí guo yīnyuè, yǒu yìxiē yīnyuè jīchǔ, yòu duì jīngjù zhè zhǒng biǎoyǎn yìshù fēicháng gǎn xìngqù, suǒyǐ néng bǐjiào róngyì de xuéhuì tā de chàngfǎ.",
+          "translation": "Do not be surprised. Because I studied music before, I have some musical foundation, and I am very interested in Beijing opera as a performing art, so I could learn its singing style relatively easily."
+        },
+        {
+          "speaker": "小雨",
+          "text": "你真厉害！竟然连很多中国人都听不懂的京剧也能学会。我还是比较喜欢听流行音乐。",
+          "pinyin": "Nǐ zhēn lìhai! Jìngrán lián hěn duō Zhōngguó rén dōu tīng bù dǒng de jīngjù yě néng xuéhuì. Wǒ háishi bǐjiào xǐhuan tīng liúxíng yīnyuè.",
+          "translation": "You are really impressive! You even managed to learn Beijing opera, which many Chinese people cannot understand. I still prefer listening to pop music."
+        },
+        {
+          "speaker": "马克",
+          "text": "那是你不了解京剧的唱法。在音乐方面，京剧给了我很多新的想法。我还把京剧的一些特点增加到了自己的音乐中，达到了很好的效果。",
+          "pinyin": "Nà shì nǐ bù liǎojiě jīngjù de chàngfǎ. Zài yīnyuè fāngmiàn, jīngjù gěi le wǒ hěn duō xīn de xiǎngfǎ. Wǒ hái bǎ jīngjù de yìxiē tèdiǎn zēngjiā dào le zìjǐ de yīnyuè zhōng, dádào le hěn hǎo de xiàoguǒ.",
+          "translation": "That is because you do not understand the singing style of Beijing opera. In terms of music, Beijing opera has given me many new ideas. I also added some of its features into my own music, and achieved very good results."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "马克",
+          "pinyin": "Mǎkè",
+          "meaning": "Mark, name of a person"
+        },
+        {
+          "word": "美国",
+          "pinyin": "Měiguó",
+          "meaning": "the United States"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "来自",
+          "pinyin": "láizì",
+          "meaning": "v. to be from"
+        },
+        {
+          "word": "遍",
+          "pinyin": "biàn",
+          "meaning": "m. denoting an action from beginning to end"
+        },
+        {
+          "word": "偶尔",
+          "pinyin": "ǒu’ěr",
+          "meaning": "adv. occasionally, once in a while"
+        },
+        {
+          "word": "吃惊",
+          "pinyin": "chī jīng",
+          "meaning": "v. to be surprised, to be shocked"
+        },
+        {
+          "word": "基础",
+          "pinyin": "jīchǔ",
+          "meaning": "n. basis, foundation"
+        },
+        {
+          "word": "表演",
+          "pinyin": "biǎoyǎn",
+          "meaning": "v. to act, to perform"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "李老师和校长在谈工作 (lǐ lǎoshī hé xiàozhǎng zài tán gōngzuò) (Teacher Li and the principal are discussing work)",
+      "audio": "audio/13-3.mp3",
+      "content": [
+        {
+          "speaker": "李老师",
+          "text": "校长，因为外国留学生不了解中国文化，有时候会影响他们和中国人之间的正常交流，甚至还可能引起误会，带来麻烦，所以我们想申请举办一次中国传统文化节活动。",
+          "pinyin": "Xiàozhǎng, yīnwèi wàiguó liúxuéshēng bù liǎojiě Zhōngguó wénhuà, yǒu shíhou huì yǐngxiǎng tāmen hé Zhōngguó rén zhījiān de zhèngcháng jiāoliú, shènzhì hái kěnéng yǐnqǐ wùhuì, dàilái máfan, suǒyǐ wǒmen xiǎng shēnqǐng jǔbàn yí cì Zhōngguó chuántǒng wénhuà jié huódòng.",
+          "translation": "Principal, because foreign students do not understand Chinese culture, it can sometimes affect normal communication between them and Chinese people, and may even cause misunderstandings and trouble. So we would like to apply to hold a Chinese traditional culture festival event."
+        },
+        {
+          "speaker": "校长",
+          "text": "你们的想法很好，举办文化节活动，一方面能让各国学生更好地了解中国，另一方面也能为学生们提供互相交流和学习的机会。",
+          "pinyin": "Nǐmen de xiǎngfǎ hěn hǎo, jǔbàn wénhuà jié huódòng, yì fāngmiàn néng ràng gè guó xuésheng gèng hǎo de liǎojiě Zhōngguó, lìng yì fāngmiàn yě néng wèi xuésheng men tígōng hùxiāng jiāoliú hé xuéxí de jīhuì.",
+          "translation": "Your idea is very good. Holding a culture festival can, on the one hand, help students from different countries understand China better, and on the other hand, provide students with opportunities to communicate and learn from one another."
+        },
+        {
+          "speaker": "李老师",
+          "text": "谢谢您的支持！",
+          "pinyin": "Xièxie nín de zhīchí!",
+          "translation": "Thank you for your support!"
+        },
+        {
+          "speaker": "校长",
+          "text": "上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续由你负责，相信也一定会很成功。",
+          "pinyin": "Shàng cì de chūnyóu huódòng nǐmen bàn de fēicháng yǒuqù, dàjiā dōu wánr de hěn kāixīn, zhè cì huódòng jìxù yóu nǐ fùzé, xiāngxìn yě yídìng huì hěn chénggōng.",
+          "translation": "The spring outing you organized last time was very interesting, and everyone had a great time. This event will continue to be handled by you, and I believe it will also be very successful."
+        },
+        {
+          "speaker": "李老师",
+          "text": "我们回去就开会讨论，星期五之前把详细的计划书发给您。",
+          "pinyin": "Wǒmen huíqù jiù kāihuì tǎolùn, xīngqīwǔ zhīqián bǎ xiángxì de jìhuàshū fā gěi nín.",
+          "translation": "We will go back and hold a meeting to discuss it, and send you the detailed plan before Friday."
+        },
+        {
+          "speaker": "校长",
+          "text": "好的，准备过程中有什么问题，你们可以直接来找我。",
+          "pinyin": "Hǎo de, zhǔnbèi guòchéng zhōng yǒu shénme wèntí, nǐmen kěyǐ zhíjiē lái zhǎo wǒ.",
+          "translation": "All right. If you have any problems during the preparation process, you can come directly to me."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "李老师",
+          "pinyin": "Lǐ lǎoshī",
+          "meaning": "Teacher Li, name/title of a person"
+        },
+        {
+          "word": "校长",
+          "pinyin": "xiàozhǎng",
+          "meaning": "principal, school head"
+        },
+        {
+          "word": "中国",
+          "pinyin": "Zhōngguó",
+          "meaning": "China"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "正常",
+          "pinyin": "zhèngcháng",
+          "meaning": "adj. normal, regular"
+        },
+        {
+          "word": "申请",
+          "pinyin": "shēnqǐng",
+          "meaning": "v. to apply for"
+        },
+        {
+          "word": "有趣",
+          "pinyin": "yǒuqù",
+          "meaning": "adj. interesting, fun"
+        },
+        {
+          "word": "开心",
+          "pinyin": "kāixīn",
+          "meaning": "adj. happy, glad"
+        },
+        {
+          "word": "继续",
+          "pinyin": "jìxù",
+          "meaning": "v. to go on, to continue"
+        },
+        {
+          "word": "由",
+          "pinyin": "yóu",
+          "meaning": "prep. by (sb.)"
+        },
+        {
+          "word": "讨论",
+          "pinyin": "tǎolùn",
+          "meaning": "v. to discuss, to talk over"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "筷子在中国的历史和使用 (kuàizi zài zhōngguó de lìshǐ hé shǐyòng) (The history and use of chopsticks in China)",
+      "audio": "audio/13-4.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "筷子在中国大约已经有3000多年的历史了。对外国人来说，使用筷子吃饭并不容易，所以，国外的一些中国餐厅在放筷子的纸袋上会提供使用筷子的详细说明。不过，如果你认为每个中国人都会正确使用筷子，那就错了。有人在互联网上专门进行过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。如果你想正确使用筷子，那就好好练习吧。",
+          "pinyin": "Kuàizi zài Zhōngguó dàyuē yǐjīng yǒu sānqiān duō nián de lìshǐ le. Duì wàiguó rén lái shuō, shǐyòng kuàizi chīfàn bìng bù róngyì, suǒyǐ, guówài de yìxiē Zhōngguó cāntīng zài fàng kuàizi de zhǐdài shàng huì tígōng shǐyòng kuàizi de xiángxì shuōmíng. Bùguò, rúguǒ nǐ rènwéi měi gè Zhōngguó rén dōu huì zhèngquè shǐyòng kuàizi, nà jiù cuò le. Yǒu rén zài hùliánwǎng shàng zhuānmén jìnxíng guo diàochá, jiéguǒ fāxiàn měi liù gè Zhōngguó rén zhōng jiù yǒu yí gè shǐyòng kuàizi de fāngfǎ shì cuòwù de. Rúguǒ nǐ xiǎng zhèngquè shǐyòng kuàizi, nà jiù hǎohǎo liànxí ba.",
+          "translation": "Chopsticks have already had a history of more than 3,000 years in China. For foreigners, eating with chopsticks is not easy, so some Chinese restaurants abroad provide detailed instructions for using chopsticks on the paper bags that hold them. However, if you think every Chinese person can use chopsticks correctly, you are wrong. Someone once conducted a special survey on the Internet, and the results found that among every six Chinese people, one uses chopsticks incorrectly. If you want to use chopsticks correctly, then practice well."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "中国",
+          "pinyin": "Zhōngguó",
+          "meaning": "China"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "大约",
+          "pinyin": "dàyuē",
+          "meaning": "adv. approximately, about"
+        },
+        {
+          "word": "餐厅",
+          "pinyin": "cāntīng",
+          "meaning": "n. restaurant"
+        },
+        {
+          "word": "纸袋",
+          "pinyin": "zhǐdài",
+          "meaning": "n. paper bag"
+        },
+        {
+          "word": "袋子",
+          "pinyin": "dài zi",
+          "meaning": "n. bag, sack"
+        },
+        {
+          "word": "互联网",
+          "pinyin": "hùliánwǎng",
+          "meaning": "n. Internet"
+        },
+        {
+          "word": "进行",
+          "pinyin": "jìnxíng",
+          "meaning": "v. to conduct, to carry out"
+        },
+        {
+          "word": "错误",
+          "pinyin": "cuòwù",
+          "meaning": "adj. wrong"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "中国茶文化和凉茶 (zhōngguó chá wénhuà hé liángchá) (Chinese tea culture and herbal tea)",
+      "audio": "audio/13-5.mp3",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "茶在中国有几千年的历史，是中国最常见的饮料。最早的时候，茶只是被当作一种药，而不是饮料。后来，随着人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。在中国，喝茶是一种十分普遍的生活习惯。对很多中国人来说，喝茶已成为他们生活中不可缺少的一部分。但是有的饮料虽然名字叫“茶”，却并不是真正的茶。比如广东省的人爱喝的“凉茶”，它的味道稍微有点儿苦，其实是一种用中药做成的饮料。",
+          "pinyin": "Chá zài Zhōngguó yǒu jǐ qiān nián de lìshǐ, shì Zhōngguó zuì chángjiàn de yǐnliào. Zuìzǎo de shíhou, chá zhǐshì bèi dàngzuò yì zhǒng yào, ér bú shì yǐnliào. Hòulái, suízhe rénmen duì chá de rènshi de jiāshēn, mànmàn kāishǐ bǎ tā dàngzuò jiěkě de yǐnliào, zhè cái mànmàn yǒu le Zhōngguó de chá wénhuà. Zài Zhōngguó, hē chá shì yì zhǒng shífēn pǔbiàn de shēnghuó xíguàn. Duì hěn duō Zhōngguó rén lái shuō, hē chá yǐ chéngwéi tāmen shēnghuó zhōng bùkě quēshǎo de yí bùfen. Dànshì yǒu de yǐnliào suīrán míngzi jiào “chá”, què bìng bú shì zhēnzhèng de chá. Bǐrú Guǎngdōng Shěng de rén ài hē de “liángchá”, tā de wèidào shāowēi yǒu diǎnr kǔ, qíshí shì yì zhǒng yòng zhōngyào zuòchéng de yǐnliào.",
+          "translation": "Tea has a history of several thousand years in China and is the most common drink in China. In the earliest times, tea was only treated as a kind of medicine, not as a drink. Later, as people deepened their understanding of tea, they gradually began to treat it as a thirst-quenching drink, and only then did Chinese tea culture slowly develop. In China, drinking tea is a very common habit of life. For many Chinese people, drinking tea has become an indispensable part of their lives. However, some drinks are called “tea” even though they are not real tea. For example, the “herbal tea” people in Guangdong Province like to drink tastes slightly bitter, and is actually a drink made from Chinese medicine."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "中国",
+          "pinyin": "Zhōngguó",
+          "meaning": "China"
+        },
+        {
+          "word": "广东省",
+          "pinyin": "Guǎngdōng Shěng",
+          "meaning": "Guangdong, a province of China"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "随着",
+          "pinyin": "suízhe",
+          "meaning": "prep. along with, as"
+        },
+        {
+          "word": "十分",
+          "pinyin": "shífēn",
+          "meaning": "adv. very, extremely"
+        },
+        {
+          "word": "普遍",
+          "pinyin": "pǔbiàn",
+          "meaning": "adj. universal, common"
+        },
+        {
+          "word": "部分",
+          "pinyin": "bùfen",
+          "meaning": "n. part"
+        },
+        {
+          "word": "稍微",
+          "pinyin": "shāowēi",
+          "meaning": "adv. a little, slightly"
+        },
+        {
+          "word": "苦",
+          "pinyin": "kǔ",
+          "meaning": "adj. bitter"
+        },
+        {
+          "word": "省",
+          "pinyin": "shěng",
+          "meaning": "n. province"
+        }
+      ]
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "是呀，他8岁就开始上台演出，到现在<b>大概</b>唱了60多年了，他对这门艺术的喜爱从来没有改变过。",
+      "pinyin": "Shì ya, tā bā suì jiù kāishǐ shàngtái yǎnchū, dào xiànzài <b>dàgài</b> chàng le liùshí duō nián le, tā duì zhè mén yìshù de xǐ'ài cónglái méiyǒu gǎibiàn guo.",
+      "translation": "That's right. He started performing on stage when he was eight, and by now he has probably been singing for more than sixty years. His love for this art has never changed.",
+      "colloquial_equivalent": "对啊，他八岁就登台了，到现在<b>差不多</b>唱了六十多年，是真爱了。",
+      "colloquial_pinyin": "Duì a, tā bā suì jiù dēngtái le, dào xiànzài <b>chàbuduō</b> chàng le liùshí duō nián, shì zhēn'ài le.",
+      "colloquial_translation": "Exactly. He started performing at eight, and by now he has sung for about sixty-plus years. That's real love for it.",
+      "context": "오랜 경험을 말할 때"
+    },
+    {
+      "sentence": "我常常跟着电视学唱京剧，然后一遍一遍地练习，<b>偶尔</b>跟中国人一起唱上几句。",
+      "pinyin": "Wǒ chángcháng gēn zhe diànshì xué chàng jīngjù, ránhòu yí biàn yí biàn de liànxí, <b>ǒu'ěr</b> gēn Zhōngguó rén yìqǐ chàng shàng jǐ jù.",
+      "translation": "I often learn to sing Beijing opera by following along with TV, then practice again and again, and occasionally sing a few lines with Chinese people.",
+      "colloquial_equivalent": "我平时就跟着电视学，反复练，<b>偶尔</b>也跟中国朋友唱两句。",
+      "colloquial_pinyin": "Wǒ píngshí jiù gēn zhe diànshì xué, fǎnfù liàn, <b>ǒu'ěr</b> yě gēn Zhōngguó péngyou chàng liǎng jù.",
+      "colloquial_translation": "I usually learn by following TV and practice over and over. Once in a while, I sing a few lines with Chinese friends too.",
+      "context": "드문 빈도를 말할 때"
+    },
+    {
+      "sentence": "上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续<b>由</b>你负责，相信也一定会很成功。",
+      "pinyin": "Shàng cì de chūnyóu huódòng nǐmen bàn de fēicháng yǒuqù, dàjiā dōu wánr de hěn kāixīn, zhè cì huódòng jìxù <b>yóu</b> nǐ fùzé, xiāngxìn yě yídìng huì hěn chénggōng.",
+      "translation": "The spring outing you organized last time was very interesting, and everyone had a great time. This event will continue to be handled by you, and I believe it will also be very successful.",
+      "colloquial_equivalent": "上次春游你办得挺好，这次还是<b>交给</b>你，我觉得肯定稳。",
+      "colloquial_pinyin": "Shàng cì chūnyóu nǐ bàn de tǐng hǎo, zhè cì háishi <b>jiāo gěi</b> nǐ, wǒ juéde kěndìng wěn.",
+      "colloquial_translation": "You did a good job with the spring outing last time, so we'll leave this one to you again. I think it'll definitely be solid.",
+      "context": "업무를 맡길 때"
+    },
+    {
+      "sentence": "有人在互联网上专门<b>进行</b>过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。",
+      "pinyin": "Yǒu rén zài hùliánwǎng shàng zhuānmén <b>jìnxíng</b> guo diàochá, jiéguǒ fāxiàn měi liù ge Zhōngguó rén zhōng jiù yǒu yí ge shǐyòng kuàizi de fāngfǎ shì cuòwù de.",
+      "translation": "Someone once conducted a special survey on the Internet, and the results found that among every six Chinese people, one uses chopsticks incorrectly.",
+      "colloquial_equivalent": "网上有人专门<b>做</b>过调查，发现每六个中国人里就有一个筷子用得不对。",
+      "colloquial_pinyin": "Wǎngshàng yǒu rén zhuānmén <b>zuò</b> guo diàochá, fāxiàn měi liù ge Zhōngguó rén lǐ jiù yǒu yí ge kuàizi yòng de bú duì.",
+      "colloquial_translation": "Someone did a survey online and found that one out of every six Chinese people uses chopsticks the wrong way.",
+      "context": "조사 결과를 말할 때"
+    },
+    {
+      "sentence": "后来，<b>随着</b>人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。",
+      "pinyin": "Hòulái, <b>suízhe</b> rénmen duì chá de rènshi de jiāshēn, mànmàn kāishǐ bǎ tā dàngzuò jiěkě de yǐnliào, zhè cái mànmàn yǒu le Zhōngguó de chá wénhuà.",
+      "translation": "Later, as people's understanding of tea deepened, they gradually began to treat it as a thirst-quenching drink, and only then did Chinese tea culture slowly develop.",
+      "colloquial_equivalent": "后来大家越来越懂茶，才慢慢把它当饮料喝，中国茶文化也就这么发展起来了。",
+      "colloquial_pinyin": "Hòulái dàjiā yuè lái yuè dǒng chá, cái mànmàn bǎ tā dāng yǐnliào hē, Zhōngguó chá wénhuà yě jiù zhème fāzhǎn qǐlái le.",
+      "colloquial_translation": "Later, as people understood tea more and more, they slowly started drinking it as a beverage, and Chinese tea culture developed from there.",
+      "context": "변화 과정을 설명할 때"
+    }
+  ],
+  "translations": {
+    "lessonTitle": {
+      "en": "Xiaoyu and Xiaoxia are talking about Xiaoxia's grandfather performing Beijing opera",
+      "ko": "샤오위와 샤오샤가 샤오샤의 할아버지가 경극을 공연한 일에 대해 이야기하다",
+      "ja": "小雨と小夏が小夏の祖父の京劇公演について話している"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Xiaoyu and Xiaoxia are talking about Xiaoxia's grandfather performing Beijing opera",
+        "ko": "샤오위와 샤오샤가 샤오샤의 할아버지가 경극을 공연한 일에 대해 이야기하다",
+        "ja": "小雨と小夏が小夏の祖父の京劇公演について話している"
+      },
+      "2": {
+        "en": "Xiaoyu and Mark are talking about Beijing opera",
+        "ko": "샤오위와 마크가 경극에 대해 이야기하다",
+        "ja": "小雨とマークが京劇について話している"
+      },
+      "3": {
+        "en": "Teacher Li and the principal are discussing work",
+        "ko": "리 선생님과 교장이 업무에 대해 이야기하다",
+        "ja": "李先生と校長が仕事について話している"
+      },
+      "4": {
+        "en": "The history and use of chopsticks in China",
+        "ko": "중국에서의 젓가락 역사와 사용법",
+        "ja": "中国における箸の歴史と使い方"
+      },
+      "5": {
+        "en": "Chinese tea culture and herbal tea",
+        "ko": "중국 차 문화와 량차",
+        "ja": "中国の茶文化と涼茶"
+      }
+    },
+    "vocabulary": {
+      "京剧": {
+        "en": "n. Beijing opera",
+        "ko": "명. 경극",
+        "ja": "名. 京劇"
+      },
+      "演员": {
+        "en": "n. actor/actress",
+        "ko": "명. 배우",
+        "ja": "名. 俳優、女優"
+      },
+      "观众": {
+        "en": "n. audience",
+        "ko": "명. 관중, 관객",
+        "ja": "名. 観客"
+      },
+      "厚": {
+        "en": "adj. deep, profound",
+        "ko": "형. 깊은, 두터운",
+        "ja": "形. 深い、厚い"
+      },
+      "演出": {
+        "en": "v. to perform, to put on a show",
+        "ko": "동. 공연하다",
+        "ja": "動. 公演する、出演する"
+      },
+      "大概": {
+        "en": "adv. roughly, approximately",
+        "ko": "부. 대략, 아마",
+        "ja": "副. おおよそ、たぶん"
+      },
+      "来自": {
+        "en": "v. to be from",
+        "ko": "동. ~에서 오다, ~출신이다",
+        "ja": "動. 〜から来る、〜出身である"
+      },
+      "遍": {
+        "en": "m. denoting an action from beginning to end",
+        "ko": "양. 처음부터 끝까지 한 번 하는 횟수",
+        "ja": "量. 初めから終わりまで行う回数"
+      },
+      "偶尔": {
+        "en": "adv. occasionally, once in a while",
+        "ko": "부. 가끔, 이따금",
+        "ja": "副. たまに、時々"
+      },
+      "吃惊": {
+        "en": "v. to be surprised, to be shocked",
+        "ko": "동. 놀라다",
+        "ja": "動. 驚く"
+      },
+      "基础": {
+        "en": "n. basis, foundation",
+        "ko": "명. 기초, 기반",
+        "ja": "名. 基礎、土台"
+      },
+      "表演": {
+        "en": "v. to act, to perform",
+        "ko": "동. 공연하다, 연기하다",
+        "ja": "動. 演じる、上演する"
+      },
+      "正常": {
+        "en": "adj. normal, regular",
+        "ko": "형. 정상적인, 보통의",
+        "ja": "形. 正常な、通常の"
+      },
+      "申请": {
+        "en": "v. to apply for",
+        "ko": "동. 신청하다",
+        "ja": "動. 申請する"
+      },
+      "有趣": {
+        "en": "adj. interesting, fun",
+        "ko": "형. 재미있는",
+        "ja": "形. 面白い、興味深い"
+      },
+      "开心": {
+        "en": "adj. happy, glad",
+        "ko": "형. 즐거운, 기쁜",
+        "ja": "形. 楽しい、うれしい"
+      },
+      "继续": {
+        "en": "v. to go on, to continue",
+        "ko": "동. 계속하다",
+        "ja": "動. 続ける"
+      },
+      "由": {
+        "en": "prep. by (sb.)",
+        "ko": "전. ~가 맡아서, ~에 의해",
+        "ja": "前. 〜によって、〜が担当して"
+      },
+      "讨论": {
+        "en": "v. to discuss, to talk over",
+        "ko": "동. 토론하다, 의논하다",
+        "ja": "動. 討論する、話し合う"
+      },
+      "大约": {
+        "en": "adv. approximately, about",
+        "ko": "부. 대략, 약",
+        "ja": "副. おおよそ、約"
+      },
+      "餐厅": {
+        "en": "n. restaurant",
+        "ko": "명. 식당, 레스토랑",
+        "ja": "名. レストラン、食堂"
+      },
+      "纸袋": {
+        "en": "n. paper bag",
+        "ko": "명. 종이봉투",
+        "ja": "名. 紙袋"
+      },
+      "袋子": {
+        "en": "n. bag, sack",
+        "ko": "명. 봉지, 자루",
+        "ja": "名. 袋"
+      },
+      "互联网": {
+        "en": "n. Internet",
+        "ko": "명. 인터넷",
+        "ja": "名. インターネット"
+      },
+      "进行": {
+        "en": "v. to conduct, to carry out",
+        "ko": "동. 진행하다, 실시하다",
+        "ja": "動. 行う、実施する"
+      },
+      "错误": {
+        "en": "adj. wrong",
+        "ko": "형. 잘못된, 틀린",
+        "ja": "形. 間違った、誤った"
+      },
+      "随着": {
+        "en": "prep. along with, as",
+        "ko": "전. ~에 따라, ~와 함께",
+        "ja": "前. 〜につれて、〜に伴って"
+      },
+      "十分": {
+        "en": "adv. very, extremely",
+        "ko": "부. 매우, 아주",
+        "ja": "副. とても、非常に"
+      },
+      "普遍": {
+        "en": "adj. universal, common",
+        "ko": "형. 보편적인, 흔한",
+        "ja": "形. 普遍的な、一般的な"
+      },
+      "部分": {
+        "en": "n. part",
+        "ko": "명. 부분",
+        "ja": "名. 部分"
+      },
+      "稍微": {
+        "en": "adv. a little, slightly",
+        "ko": "부. 조금, 약간",
+        "ja": "副. 少し、わずかに"
+      },
+      "苦": {
+        "en": "adj. bitter",
+        "ko": "형. 쓴",
+        "ja": "形. 苦い"
+      },
+      "省": {
+        "en": "n. province",
+        "ko": "명. 성, 행정구역",
+        "ja": "名. 省"
+      }
+    },
+    "properNouns": {
+      "马克": {
+        "en": "Mark, name of a person",
+        "ko": "마크, 사람 이름",
+        "ja": "マーク、人名"
+      },
+      "美国": {
+        "en": "the United States",
+        "ko": "미국",
+        "ja": "アメリカ"
+      },
+      "李老师": {
+        "en": "Teacher Li, name/title of a person",
+        "ko": "리 선생님, 사람 호칭",
+        "ja": "李先生、人名・敬称"
+      },
+      "校长": {
+        "en": "principal, school head",
+        "ko": "교장",
+        "ja": "校長"
+      },
+      "中国": {
+        "en": "China",
+        "ko": "중국",
+        "ja": "中国"
+      },
+      "广东省": {
+        "en": "Guangdong, a province of China",
+        "ko": "광둥성, 중국의 성",
+        "ja": "広東省、中国の省"
+      }
+    },
+    "grammar": {
+      "大概": {
+        "formal_translation": {
+          "en": "“大概” can be used as an adverb for rough estimates of amount or time and for likely guesses about a situation. It can also be used as an adjective meaning general, approximate, or not very detailed.",
+          "ko": "“大概”는 부사로 수량이나 시간에 대한 대략적인 추정, 또는 상황에 대한 가능성 높은 추측을 나타냅니다. 형용사로는 정확하지 않거나 자세하지 않은, 대략적인 상태를 뜻합니다.",
+          "ja": "「大概」は副詞として、数量や時間のおおよその見積もり、または状況について可能性の高い推測を表します。形容詞としては、正確でない、または詳しくないという意味です。"
+        },
+        "colloquial_translation": {
+          "en": "“大概” sounds more textbook-like and can cover both probability and approximation. In casual speech, “差不多” is common for approximate amounts or time, and “估计” is common for guesses.",
+          "ko": "“大概”는 교과서적인 느낌이 있고 가능성과 대략적인 추정을 모두 나타낼 수 있습니다. 일상 회화에서는 수량이나 시간의 대략적인 추정에는 “差不多”, 상황 추측에는 “估计”를 자주 씁니다.",
+          "ja": "「大概」はやや教科書的で、可能性と概算の両方を表せます。日常会話では、数量や時間のおおよそには「差不多」、推測には「估计」がよく使われます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "He started performing on stage when he was eight, and by now he has probably been singing for more than sixty years. His love for this art has never changed.",
+              "ko": "그는 여덟 살 때부터 무대에 올라 공연하기 시작했고, 지금까지 대략 60년 넘게 노래해 왔습니다. 이 예술에 대한 그의 사랑은 한 번도 변하지 않았습니다.",
+              "ja": "彼は八歳で舞台に立って公演を始め、今までおそらく六十年以上歌ってきました。この芸術への愛はこれまで一度も変わっていません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "As for your plan to hold a traditional culture festival, I think the principal will probably agree.",
+              "ko": "당신의 전통문화제 개최 계획에 대해, 저는 교장 선생님이 아마 동의하실 것이라고 생각합니다.",
+              "ja": "あなたの伝統文化祭を開催する計画について、校長先生はおそらく同意すると思います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "After studying for this period of time, his Chinese has improved a lot. He can not only understand some shorter sentences, but also carry out simple communication; now he can understand the general meaning even without translation.",
+              "ko": "이 기간 동안 공부한 뒤 그의 중국어 수준은 많이 향상되었습니다. 비교적 짧은 문장을 알아들을 수 있을 뿐 아니라 간단한 교류도 할 수 있으며, 이제는 번역이 없어도 대략적인 뜻을 이해할 수 있습니다.",
+              "ja": "この期間の学習を経て、彼の中国語レベルはかなり向上しました。短めの文を聞き取れるだけでなく、簡単な交流もでき、今では翻訳がなくても大体の意味を理解できます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "He has been singing Beijing opera since he was little, so by now it has been about sixty-plus years.",
+              "ko": "그는 어릴 때부터 경극을 불러서, 지금까지 거의 60년이 넘은 셈이에요.",
+              "ja": "彼は小さいころから京劇を歌っていて、今ではだいたい六十年以上になります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This event plan is pretty complete, so the principal will probably approve it.",
+              "ko": "이 행사 계획은 꽤 잘 갖춰져 있어서, 교장 선생님이 아마 승인하실 거예요.",
+              "ja": "このイベント案はかなり整っているので、校長先生はおそらく承認するでしょう。"
+            }
+          }
+        ]
+      },
+      "大概 vs 也许": {
+        "formal_translation": {
+          "en": "Similarities: both are adverbs used for speculation or estimation about a situation. Differences: “大概” expresses a stronger judgment and a more positive likelihood, can estimate quantity, and can also be used as an adjective or attributive meaning not very precise or detailed. “也许” is a weaker guess and can express uncertainty about the speaker's own future plans.",
+          "ko": "공통점: 둘 다 부사로 상황에 대한 추측이나 추정을 나타냅니다. 차이점: “大概”는 판단성이 더 강하고 가능성이 더 높다는 느낌을 주며, 수량 추정에도 쓰이고 정확하거나 자세하지 않다는 뜻의 형용사/관형어로도 쓰입니다. “也许”는 확신이 약한 추측이며, 말하는 사람이 자신의 미래 계획을 확실히 정하지 못했음을 나타낼 수 있습니다.",
+          "ja": "共通点：どちらも副詞で、状況についての推測や見積もりを表します。相違点：「大概」は判断がより強く、可能性が高い感じを表し、数量の見積もりにも使え、正確でない・詳しくないという意味の形容詞/連体修飾語としても使えます。「也许」は確信の弱い推測で、話し手自身の将来の予定が未定であることも表せます。"
+        },
+        "colloquial_translation": {
+          "en": "In everyday speech, “大概率” or “估计” can express a stronger guess like “most likely,” while “可能,” “说不定,” or “没准儿” sound less certain, closer to “maybe.”",
+          "ko": "일상 회화에서는 강한 추측에는 “大概率”나 “估计”를 써서 ‘아마 거의 그럴 것’이라는 느낌을 주고, 확신이 약할 때는 “可能”, “说不定”, “没准儿”가 ‘어쩌면’에 가깝게 들립니다.",
+          "ja": "日常会話では、強めの推測には「大概率」や「估计」を使って「おそらくそうだ」という感じを出し、確信が弱い場合は「可能」「说不定」「没准儿」が「もしかすると」に近く聞こえます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "He always says he especially likes reading, but after reading this book for a month he has only reached page five. It is probably/perhaps because he is too busy with work. But I think someone who truly loves reading can always find time to read.",
+              "ko": "그는 늘 자신이 책 읽기를 아주 좋아한다고 말하지만, 이 책은 한 달 동안 읽고도 겨우 5쪽까지밖에 보지 못했습니다. 아마/어쩌면 일이 너무 바빠서일 것입니다. 하지만 저는 진짜 책을 사랑하는 사람이라면 언제나 시간을 내어 읽을 수 있다고 생각합니다.",
+              "ja": "彼はいつも自分は本を読むのが特に好きだと言いますが、この本は一か月読んでやっと五ページまでしか進んでいません。おそらく/もしかすると仕事が忙しすぎるからでしょう。しかし、本当に読書が好きな人なら、いつでも時間を見つけて読めると思います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Old Zhang is always punctual and is never late for meetings. He still has not arrived today, so something has probably happened. Call him and ask.",
+              "ko": "장 씨는 늘 시간을 잘 지키고 회의에 절대 늦지 않습니다. 오늘은 지금까지도 오지 않았으니 아마 무슨 일이 있는 것 같습니다. 전화해서 물어보세요.",
+              "ja": "張さんはいつも時間に正確で、会議に遅れたことがありません。今日は今になってもまだ来ていないので、おそらく何かあったのでしょう。電話して聞いてみてください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This film art festival may be held in Beijing.",
+              "ko": "이번 영화 예술제는 어쩌면 베이징에서 열릴 수도 있습니다.",
+              "ja": "今回の映画芸術祭は、もしかすると北京で開催されるかもしれません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "About two-thirds of the people oppose doing this.",
+              "ko": "대략 3분의 2의 사람들이 이렇게 하는 것에 반대합니다.",
+              "ja": "およそ三分の二の人がこのようにすることに反対しています。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I originally wanted to study law, but later I found that I was more interested in news. Maybe I will become a reporter in the future.",
+              "ko": "저는 원래 법률을 공부하고 싶었지만, 나중에 제가 뉴스에 더 관심이 있다는 것을 알게 되었습니다. 어쩌면 나중에 기자가 될지도 모릅니다.",
+              "ja": "私はもともと法律を学びたいと思っていましたが、後で自分はニュースにもっと興味があると気づきました。将来は記者になるかもしれません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "No matter what you do, it is best to make a plan in advance. It does not need to be arranged in great detail, but you must have a general idea.",
+              "ko": "무슨 일을 하든 미리 계획을 세우는 것이 좋습니다. 아주 자세하게 안배할 필요는 없지만, 반드시 대략적인 생각은 있어야 합니다.",
+              "ja": "何をするにしても、事前に計画を立てるのがよいです。特に詳しく手配する必要はありませんが、必ず大まかな考えは持っていなければなりません。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Old Zhang is never late, so if he still has not arrived today, something most likely really happened.",
+              "ko": "장 씨는 평소에 절대 늦지 않으니까, 오늘 아직도 안 왔다면 진짜 무슨 일이 생겼을 가능성이 커요.",
+              "ja": "張さんは普段絶対に遅れないので、今日まだ来ていないなら、本当に何かあった可能性が高いです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Maybe I will become a reporter later. Anyway, I have not decided yet.",
+              "ko": "나중에 기자가 될지도 몰라요. 어쨌든 지금은 아직 정하지 않았어요.",
+              "ja": "将来は記者になるかもしれません。とにかく今はまだ決めていません。"
+            }
+          }
+        ]
+      },
+      "偶尔": {
+        "formal_translation": {
+          "en": "“偶尔” is an adverb meaning that something happens very rarely or only once in a while.",
+          "ko": "“偶尔”는 어떤 상황이 매우 드물게, 가끔 발생함을 나타내는 부사입니다.",
+          "ja": "「偶尔」は、あることがめったに起こらない、またはたまに起こることを表す副詞です。"
+        },
+        "colloquial_translation": {
+          "en": "In casual speech, “偶尔” is close to “once in a while.” “有时候” is broader and can mean “sometimes,” while “偶然” emphasizes that something happens by chance.",
+          "ko": "일상 회화에서 “偶尔”는 ‘가끔, 어쩌다 한 번’에 가깝습니다. “有时候”는 더 넓게 ‘때때로’를 뜻하고, “偶然”은 우연히 일어났다는 느낌이 더 강합니다.",
+          "ja": "日常会話で「偶尔」は「たまに、時々」に近い表現です。「有时候」はより広く「時々」を表し、「偶然」は偶然起こったという意味合いが強くなります。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "I often learn to sing Beijing opera by following along with TV, then practice again and again, and occasionally sing a few lines with Chinese people.",
+              "ko": "나는 자주 텔레비전을 보며 경극 부르는 법을 배우고, 그다음 한 번 또 한 번 반복해서 연습합니다. 가끔은 중국 사람들과 함께 몇 구절 부르기도 합니다.",
+              "ja": "私はよくテレビについて京劇を歌う練習をし、それから何度も繰り返し練習します。たまに中国人と一緒に数句歌うこともあります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Among the nearly 7,000 office workers we surveyed, 64% often work overtime, 28% occasionally work overtime, and as many as 59% work more than two hours of overtime each time.",
+              "ko": "우리가 조사한 약 7,000명의 직장인 중 64%는 자주 야근하고, 28%는 가끔 야근하며, 매번 야근 시간이 두 시간을 넘는 사람이 무려 59%였습니다.",
+              "ja": "私たちが調査した約七千人の会社員のうち、64%はよく残業し、28%はたまに残業し、毎回の残業時間が二時間を超える人はなんと59%もいました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Clover leaves are usually three in number, but occasionally one with four leaves also appears. This kind with four leaves is called a “four-leaf clover.” Because it is very rare, some people say that whoever finds one will receive happiness.",
+              "ko": "토끼풀 잎은 보통 세 장이지만, 가끔 네 장짜리 잎도 나타납니다. 이런 네 장짜리 잎을 ‘네잎클로버’라고 하며, 매우 드물기 때문에 이런 ‘네잎클로버’를 찾은 사람은 행복을 얻는다고 말하는 사람도 있습니다.",
+              "ja": "クローバーの葉は普通三枚ですが、たまに四枚の葉が現れることもあります。この四枚の葉のものを「四つ葉のクローバー」と呼び、とても珍しいため、これを見つけた人は幸せになれると言う人もいます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I usually practice Beijing opera by myself, but once in a while I also sing a few lines with friends.",
+              "ko": "나는 보통 혼자 경극을 연습하지만, 가끔은 친구들과 같이 몇 구절 부르기도 해요.",
+              "ja": "私は普段一人で京劇を練習していますが、たまに友だちと一緒に少し歌うこともあります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He does not often work overtime; he only occasionally stays busy until late when a project is urgent.",
+              "ko": "그는 자주 야근하지는 않고, 프로젝트가 급할 때만 가끔 늦게까지 바빠요.",
+              "ja": "彼はあまり残業しませんが、プロジェクトが急ぎの時だけたまに遅くまで忙しくしています。"
+            }
+          }
+        ]
+      },
+      "由": {
+        "formal_translation": {
+          "en": "“由” is a preposition that introduces the person responsible for doing something.",
+          "ko": "“由”는 어떤 일을 책임지고 하는 사람을 이끌어 내는 전치사입니다.",
+          "ja": "「由」は、あることを担当して行う人を導く前置詞です。"
+        },
+        "colloquial_translation": {
+          "en": "“由” is formal and common in written arrangements. In everyday speech, people often use “让……负责,” “交给……,” or “……来负责.”",
+          "ko": "“由”는 격식 있는 표현으로 서면상의 배정이나 업무 분담에서 자주 보입니다. 일상 회화에서는 “让……负责”, “交给……”, “……来负责”를 더 자주 씁니다.",
+          "ja": "「由」は改まった表現で、書面上の手配や業務分担でよく使われます。日常会話では「让……负责」「交给……」「……来负责」がよく使われます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "According to the regulations, Doctor Wang should be responsible for this matter.",
+              "ko": "규정에 따르면, 이 일은 왕 의사가 책임져야 합니다.",
+              "ja": "規定によれば、この件は王先生が責任を持つべきです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The word “幽默” was first translated by Mr. Lin Yutang.",
+              "ko": "“幽默”라는 단어는 최초로 린위탕 선생이 번역해 들여온 것입니다.",
+              "ja": "「幽默」という言葉は、最初に林語堂先生によって翻訳されたものです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The spring outing you organized last time was very interesting, and everyone had a great time. This event will continue to be handled by you, and I believe it will also be very successful.",
+              "ko": "지난번 봄나들이 활동은 여러분이 아주 재미있게 진행했고, 모두가 즐겁게 놀았습니다. 이번 활동도 계속 여러분이 맡게 될 것이며, 분명 성공할 것이라고 믿습니다.",
+              "ja": "前回の春の遠足活動は皆さんがとても面白く行い、みんな楽しく過ごしました。今回の活動も引き続き皆さんが担当し、きっと成功すると信じています。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Let's have Doctor Wang handle this.",
+              "ko": "이 일은 왕 의사에게 맡기죠.",
+              "ja": "この件は王先生に任せましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Let's leave this event to you again. I think it will definitely be fine.",
+              "ko": "이번 행사도 여러분에게 맡길게요. 분명 문제없을 것 같아요.",
+              "ja": "今回のイベントも皆さんに任せます。きっと大丈夫だと思います。"
+            }
+          }
+        ]
+      },
+      "进行": {
+        "formal_translation": {
+          "en": "“进行” is a verb meaning to engage in or carry out an activity or work. It is often used before a disyllabic verb that denotes a formal or serious action. Temporary or everyday actions are usually not used with “进行.”",
+          "ko": "“进行”은 어떤 활동이나 업무를 하다, 진행하다라는 뜻의 동사입니다. 보통 격식 있고 엄숙한 행위를 나타내는 이음절 동사 앞에 쓰이며, 일시적이거나 일상적인 행위에는 일반적으로 쓰지 않습니다.",
+          "ja": "「进行」は、ある活動や仕事に従事する、進めるという意味の動詞です。通常、正式でまじめな行為を表す二音節動詞の前に使われ、一時的な行為や日常生活の行為には普通使いません。"
+        },
+        "colloquial_translation": {
+          "en": "“进行” sounds formal. In casual speech, people often say the action directly, such as “开会,” “做调查,” “聊天,” or “交流,” depending on the context.",
+          "ko": "“进行”은 격식 있는 느낌이 강합니다. 일상 회화에서는 상황에 따라 “开会”, “做调查”, “聊天”, “交流”처럼 동작을 직접 말하는 경우가 많습니다.",
+          "ja": "「进行」は改まった響きがあります。日常会話では、文脈に応じて「开会」「做调查」「聊天」「交流」のように、動作を直接言うことが多いです。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Attention, everyone. We will now take a fifteen-minute break, and the meeting will continue at ten thirty.",
+              "ko": "여러분 주목해 주세요. 지금 15분 쉬고, 10시 30분에 회의를 계속 진행하겠습니다.",
+              "ja": "皆さん、注意してください。今から十五分休憩し、十時半に会議を続けます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Someone once conducted a special survey on the Internet, and the results found that among every six Chinese people, one uses chopsticks incorrectly.",
+              "ko": "누군가 인터넷에서 전문적으로 조사를 진행한 적이 있는데, 그 결과 중국인 여섯 명 중 한 명은 젓가락 사용 방법이 잘못되었다는 사실을 발견했습니다.",
+              "ja": "ある人がインターネット上で専門的に調査を行ったところ、中国人六人のうち一人は箸の使い方が間違っていることが分かりました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Successful language learners are often proactive in their studies. They actively communicate with others and ask others to help them correct mistakes.",
+              "ko": "성공적인 언어 학습자는 학습 면에서 대개 적극적이고 능동적입니다. 그들은 주도적으로 다른 사람과 교류하고, 다른 사람에게 오류를 고쳐 달라고 부탁합니다.",
+              "ja": "成功する言語学習者は、学習面でたいてい積極的で主体的です。彼らは自分から他人と交流し、間違いを直すのを手伝ってもらいます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Everyone, take a fifteen-minute break. We will keep having the meeting at ten thirty.",
+              "ko": "여러분 15분 쉬세요. 10시 30분에 회의를 계속할게요.",
+              "ja": "皆さん、十五分休んでください。十時半に会議を続けます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "They are very proactive in learning the language, often find people to chat with, and ask others to help correct mistakes.",
+              "ko": "그들은 언어를 배울 때 아주 적극적이라 자주 사람을 찾아 대화하고, 다른 사람에게 틀린 부분을 고쳐 달라고 부탁해요.",
+              "ja": "彼らは言語学習にとても積極的で、よく人を見つけて話し、間違いを直してもらいます。"
+            }
+          }
+        ]
+      },
+      "随着": {
+        "formal_translation": {
+          "en": "“随着” is a preposition indicating that one event or change is the condition under which another event or change happens. It is usually followed by a modified disyllabic verb.",
+          "ko": "“随着”는 어떤 일이 다른 일이 일어나는 조건이나 배경이 됨을 나타내는 전치사입니다. 뒤에는 보통 수식어가 붙은 이음절 동사가 옵니다.",
+          "ja": "「随着」は、ある出来事や変化が別の出来事や変化の条件・背景になることを表す前置詞です。後ろには通常、修飾語を伴う二音節動詞が来ます。"
+        },
+        "colloquial_translation": {
+          "en": "“随着” is natural in explanations and written-style speech. In casual speech, people often use simpler patterns like “越来越...” or “后来慢慢...” depending on the sentence.",
+          "ko": "“随着”는 설명문이나 다소 격식 있는 말에서 자연스럽습니다. 일상 회화에서는 문맥에 따라 “越来越...”나 “后来慢慢...” 같은 더 쉬운 패턴을 자주 씁니다.",
+          "ja": "「随着」は説明文ややや改まった話し方で自然です。日常会話では、文脈に応じて「越来越...」や「后来慢慢...」のようなより簡単な表現をよく使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "As society develops, Beijing opera is also changing in order to meet the needs of audiences of different ages.",
+              "ko": "사회가 발전함에 따라 경극도 다양한 연령대 관객의 요구에 맞추기 위해 변화하고 있습니다.",
+              "ja": "社会の発展に伴って、京劇も異なる年齢層の観客のニーズに適応するために変化しています。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Some people like to make long-term plans for their lives. However, as they grow older, they will find that life is always changing and often does not proceed according to our plans.",
+              "ko": "어떤 사람들은 자신의 삶을 위해 장기적인 계획을 세우는 것을 좋아합니다. 하지만 나이가 들면서, 그들은 삶이 늘 끊임없이 변하고 우리의 계획대로 진행되지 않는 경우가 많다는 것을 알게 됩니다.",
+              "ja": "自分の生活について長期的な計画を立てるのが好きな人もいます。しかし、年齢を重ねるにつれて、生活は常に変化しており、たいてい私たちの計画通りには進まないことに気づきます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "In the earliest times, tea was only treated as a kind of medicine, not as a drink. Later, as people's understanding of tea deepened, they gradually began to treat it as a thirst-quenching drink, and only then did Chinese tea culture slowly develop.",
+              "ko": "가장 이른 시기에는 차가 음료가 아니라 일종의 약으로만 여겨졌습니다. 이후 사람들이 차에 대한 인식이 깊어짐에 따라, 점차 그것을 갈증을 해소하는 음료로 여기기 시작했고, 그제야 중국의 차 문화가 서서히 생겨났습니다.",
+              "ja": "最初のころ、茶は飲み物ではなく一種の薬として扱われていました。その後、人々の茶に対する理解が深まるにつれて、徐々にそれを喉の渇きを癒やす飲み物として扱うようになり、そこから中国の茶文化が少しずつ生まれました。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "As people's tastes change, Beijing opera also has to slowly change in order to attract younger audiences.",
+              "ko": "사람들의 취향이 변하면서 경극도 젊은 관객을 끌어들이려면 천천히 변해야 해요.",
+              "ja": "人々の好みが変わるにつれて、京劇も若い観客を引きつけるために少しずつ変わる必要があります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "As people get older, they realize that life does not necessarily go according to plan.",
+              "ko": "사람은 나이가 들수록 삶이 꼭 계획대로 흘러가지는 않는다는 걸 알게 돼요.",
+              "ja": "人は年を取るほど、人生は必ずしも計画通りに進むわけではないと気づきます。"
+            }
+          }
+        ]
+      },
+      "同字词：量": {
+        "formal_translation": {
+          "en": "Words with the same character “量”: 商量, 数量, 质量. “商量” means to discuss, “数量” means quantity or amount, and “质量” means quality.",
+          "ko": "같은 글자 “量”이 들어간 단어: 商量, 数量, 质量. “商量”은 상의하다, “数量”는 수량, “质量”은 품질을 뜻합니다.",
+          "ja": "同じ字「量」を含む語：商量、数量、质量。「商量」は相談する、「数量」は数量、「质量」は品質を意味します。"
+        },
+        "colloquial_translation": {
+          "en": "These words share “量,” but they are learned as separate vocabulary items. In speech, “商量一下,” “太多,” and “质量有问题” are common practical chunks.",
+          "ko": "이 단어들은 모두 “量”을 포함하지만 각각 별개의 어휘로 익히는 것이 좋습니다. 회화에서는 “商量一下”, “太多”, “质量有问题” 같은 덩어리 표현이 실용적입니다.",
+          "ja": "これらの語は「量」を共有していますが、それぞれ別の語彙として覚えるのがよいです。会話では「商量一下」「太多」「质量有问题」のようなまとまりが実用的です。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "I thought it over carefully for a whole evening and also discussed it with my parents by phone. In the end, I still decided not to go to that company. I want to continue staying in Beijing and see whether there are other opportunities.",
+              "ko": "저는 하룻밤 동안 진지하게 생각했고, 부모님과도 전화로 상의했습니다. 결국 그 회사에는 가지 않기로 결정했습니다. 베이징에 계속 남아 다른 기회가 있는지 보고 싶습니다.",
+              "ja": "私は一晩じっくり考え、両親とも電話で相談しました。最後にはやはりその会社には行かないことに決めました。北京に残って、ほかに機会があるか見てみたいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Although advertisements bring us a lot of convenience, too many of them can also make people feel annoyed.",
+              "ko": "광고는 우리에게 많은 편리함을 가져다주지만, 수량이 너무 많으면 사람을 짜증나게 만들기도 합니다.",
+              "ja": "広告は私たちに多くの便利さをもたらしますが、数量が多すぎると人をうんざりさせることもあります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If any quality problem is found within one week, we can replace the product for you free of charge, but you must not lose the receipt.",
+              "ko": "일주일 안에 어떤 품질 문제라도 발견되면 저희가 무료로 교환해 드릴 수 있습니다. 하지만 쇼핑 영수증은 반드시 잃어버리면 안 됩니다.",
+              "ja": "一週間以内に何らかの品質問題が見つかった場合、無料で交換できます。ただし、買い物のレシートは必ずなくしてはいけません。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I need to talk this over with my parents first, then decide whether to go.",
+              "ko": "이 일은 먼저 부모님과 상의해 보고, 갈지 말지 결정해야 해요.",
+              "ja": "この件はまず両親と相談してから、行くかどうか決めます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Too many ads are really annoying, even if they are sometimes convenient.",
+              "ko": "광고가 너무 많으면 정말 짜증나요. 가끔 편리하긴 해도요.",
+              "ja": "広告が多すぎると本当にうっとうしいです。時には便利だとしてもです。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "是呀，他8岁就开始上台演出，到现在<b>大概</b>唱了60多年了，他对这门艺术的喜爱从来没有改变过。": {
+        "translation": {
+          "en": "That's right. He started performing on stage when he was eight, and by now he has probably been singing for more than sixty years. His love for this art has never changed.",
+          "ko": "맞아요. 그는 여덟 살 때부터 무대에 올라 공연하기 시작했고, 지금까지 대략 60년 넘게 노래해 왔습니다. 이 예술에 대한 그의 사랑은 한 번도 변하지 않았습니다.",
+          "ja": "そうです。彼は八歳で舞台に立って公演を始め、今までおそらく六十年以上歌ってきました。この芸術への愛はこれまで一度も変わっていません。"
+        },
+        "colloquial_translation": {
+          "en": "Exactly. He started performing at eight, and by now he has sung for about sixty-plus years. That's real love for it.",
+          "ko": "맞아요. 여덟 살 때부터 무대에 섰고, 지금까지 거의 60년 넘게 부른 거예요. 진짜 애정이죠.",
+          "ja": "そうです。八歳から舞台に立って、今ではだいたい六十年以上歌っています。本当に好きなんですね。"
+        },
+        "context": {
+          "en": "Talking about long experience",
+          "ko": "오랜 경험을 말할 때",
+          "ja": "長い経験を話すとき"
+        }
+      },
+      "我常常跟着电视学唱京剧，然后一遍一遍地练习，<b>偶尔</b>跟中国人一起唱上几句。": {
+        "translation": {
+          "en": "I often learn to sing Beijing opera by following along with TV, then practice again and again, and occasionally sing a few lines with Chinese people.",
+          "ko": "나는 자주 텔레비전을 보며 경극 부르는 법을 배우고, 그다음 한 번 또 한 번 반복해서 연습합니다. 가끔은 중국 사람들과 함께 몇 구절 부르기도 합니다.",
+          "ja": "私はよくテレビについて京劇を歌う練習をし、それから何度も繰り返し練習します。たまに中国人と一緒に数句歌うこともあります。"
+        },
+        "colloquial_translation": {
+          "en": "I usually learn by following TV and practice over and over. Once in a while, I sing a few lines with Chinese friends too.",
+          "ko": "평소엔 텔레비전을 따라 배우고 계속 반복해서 연습해요. 가끔은 중국 친구들과 몇 구절 같이 부르기도 하고요.",
+          "ja": "普段はテレビについて学んで、何度も練習します。たまに中国人の友だちと少し歌うこともあります。"
+        },
+        "context": {
+          "en": "Talking about rare frequency",
+          "ko": "드문 빈도를 말할 때",
+          "ja": "まれな頻度を話すとき"
+        }
+      },
+      "上次的春游活动你们办得非常有趣，大家都玩儿得很开心，这次活动继续<b>由</b>你负责，相信也一定会很成功。": {
+        "translation": {
+          "en": "The spring outing you organized last time was very interesting, and everyone had a great time. This event will continue to be handled by you, and I believe it will also be very successful.",
+          "ko": "지난번 봄나들이 활동은 여러분이 아주 재미있게 진행했고, 모두가 즐겁게 놀았습니다. 이번 활동도 계속 당신이 맡게 될 것이며, 분명 성공할 것이라고 믿습니다.",
+          "ja": "前回の春の遠足活動は皆さんがとても面白く行い、みんな楽しく過ごしました。今回の活動も引き続きあなたが担当し、きっと成功すると信じています。"
+        },
+        "colloquial_translation": {
+          "en": "You did a good job with the spring outing last time, so we'll leave this one to you again. I think it'll definitely be solid.",
+          "ko": "지난번 봄나들이를 잘 진행했으니까, 이번에도 당신에게 맡길게요. 분명 잘될 것 같아요.",
+          "ja": "前回の春の遠足はうまくやってくれたので、今回もあなたに任せます。きっとうまくいくと思います。"
+        },
+        "context": {
+          "en": "Assigning responsibility",
+          "ko": "업무를 맡길 때",
+          "ja": "仕事を任せるとき"
+        }
+      },
+      "有人在互联网上专门<b>进行</b>过调查，结果发现每六个中国人中就有一个使用筷子的方法是错误的。": {
+        "translation": {
+          "en": "Someone once conducted a special survey on the Internet, and the results found that among every six Chinese people, one uses chopsticks incorrectly.",
+          "ko": "누군가 인터넷에서 전문적으로 조사를 진행한 적이 있는데, 그 결과 중국인 여섯 명 중 한 명은 젓가락 사용 방법이 잘못되었다는 사실을 발견했습니다.",
+          "ja": "ある人がインターネット上で専門的に調査を行ったところ、中国人六人のうち一人は箸の使い方が間違っていることが分かりました。"
+        },
+        "colloquial_translation": {
+          "en": "Someone did a survey online and found that one out of every six Chinese people uses chopsticks the wrong way.",
+          "ko": "인터넷에서 누가 조사를 했는데, 중국인 여섯 명 중 한 명은 젓가락을 잘못 쓴다는 결과가 나왔어요.",
+          "ja": "ネットで誰かが調査したところ、中国人六人に一人は箸の使い方が間違っていることが分かりました。"
+        },
+        "context": {
+          "en": "Reporting survey results",
+          "ko": "조사 결과를 말할 때",
+          "ja": "調査結果を話すとき"
+        }
+      },
+      "后来，<b>随着</b>人们对茶的认识的加深，慢慢开始把它当作解渴的饮料，这才慢慢有了中国的茶文化。": {
+        "translation": {
+          "en": "Later, as people's understanding of tea deepened, they gradually began to treat it as a thirst-quenching drink, and only then did Chinese tea culture slowly develop.",
+          "ko": "이후 사람들이 차에 대한 인식이 깊어짐에 따라, 점차 그것을 갈증을 해소하는 음료로 여기기 시작했고, 그제야 중국의 차 문화가 서서히 생겨났습니다.",
+          "ja": "その後、人々の茶に対する理解が深まるにつれて、徐々にそれを喉の渇きを癒やす飲み物として扱うようになり、そこから中国の茶文化が少しずつ生まれました。"
+        },
+        "colloquial_translation": {
+          "en": "Later, as people understood tea more and more, they slowly started drinking it as a beverage, and Chinese tea culture developed from there.",
+          "ko": "나중에 사람들이 차를 점점 더 잘 알게 되면서, 서서히 음료처럼 마시기 시작했고 중국 차 문화도 그렇게 발전한 거예요.",
+          "ja": "その後、人々が茶をだんだん理解するようになり、少しずつ飲み物として飲むようになって、中国の茶文化もそこから発展しました。"
+        },
+        "context": {
+          "en": "Explaining a process of change",
+          "ko": "변화 과정을 설명할 때",
+          "ja": "変化の過程を説明するとき"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Xiaoxia, your grandfather sings Beijing opera so professionally. I thought he was a Beijing opera actor.",
+              "ko": "샤오샤, 네 할아버지 경극을 정말 전문적으로 부르시더라. 난 할아버지가 경극 배우인 줄 알았어.",
+              "ja": "小夏、君のおじいさんは京劇を本当に専門的に歌いますね。私は京劇俳優なのかと思いました。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Yes. He really was a Beijing opera actor. When he was young, he was very famous where we lived and was deeply loved by audiences.",
+              "ko": "맞아. 원래 경극 배우셨어. 젊으셨을 때 우리 쪽에서 아주 유명했고, 관객들에게 깊이 사랑받으셨어.",
+              "ja": "そうです。もともと京劇俳優でした。若いころは私たちの地域でとても有名で、観客に深く愛されていました。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Your grandfather must have very deep feelings for Beijing opera.",
+              "ko": "네 할아버지는 분명 경극에 아주 깊은 애정을 갖고 계시겠네.",
+              "ja": "君のおじいさんはきっと京劇にとても深い思いを持っているのでしょうね。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "That's right. He started performing on stage when he was eight, and by now he has probably been singing for more than sixty years. His love for this art has never changed.",
+              "ko": "맞아. 여덟 살 때부터 무대에 올라 공연하기 시작하셨고, 지금까지 대략 60년 넘게 부르신 거야. 이 예술에 대한 할아버지의 사랑은 한 번도 변한 적이 없어.",
+              "ja": "そうです。八歳で舞台に立って公演を始め、今までおそらく六十年以上歌ってきました。この芸術への愛はこれまで一度も変わったことがありません。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "So does that mean your liking for listening to Beijing opera was also influenced by your grandfather?",
+              "ko": "그럼 네가 경극 듣는 걸 좋아하는 것도 할아버지의 영향을 받은 거네?",
+              "ja": "つまり、君が京劇を聴くのが好きなのも、おじいさんの影響を受けたからということですか。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "When I was little, I often went to watch his performances. He also usually told me many historical stories from Beijing opera, which taught me a lot.",
+              "ko": "어렸을 때 자주 할아버지의 공연을 보러 갔어. 평소에도 할아버지가 경극 속 역사 이야기를 많이 들려주셔서, 정말 많은 지식을 배웠어.",
+              "ja": "子どものころ、よく祖父の公演を見に行きました。普段も祖父は京劇の中の歴史物語をたくさん話してくれて、私は多くの知識を学びました。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "I really did not expect that a foreign student from the United States like you could sing Beijing opera so well.",
+              "ko": "정말 네가 미국에서 온 외국인 유학생인데도 경극을 이렇게 잘 부를 줄은 몰랐어.",
+              "ja": "アメリカから来た外国人留学生の君が、京劇をこんなに上手に歌えるとは本当に思いませんでした。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I often learn to sing Beijing opera by following along with TV, then practice again and again, and occasionally sing a few lines with Chinese people.",
+              "ko": "나는 자주 텔레비전을 보며 경극 부르는 걸 배우고, 그다음 한 번 또 한 번 반복해서 연습해. 가끔은 중국 사람들과 함께 몇 구절 부르기도 해.",
+              "ja": "私はよくテレビについて京劇を歌う練習をし、それから何度も繰り返し練習します。たまに中国人と一緒に数句歌うこともあります。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Have you really never received any specialized education in Beijing opera?",
+              "ko": "설마 경극 쪽으로 전문 교육을 받아 본 적이 전혀 없는 거야?",
+              "ja": "まさか京劇方面の専門教育を受けたことが一度もないのですか。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Do not be surprised. Because I studied music before, I have some musical foundation, and I am very interested in Beijing opera as a performing art, so I could learn its singing style relatively easily.",
+              "ko": "놀라지 마. 예전에 음악을 배운 적이 있어서 음악 기초가 좀 있고, 또 경극이라는 공연 예술에 아주 관심이 많아서 비교적 쉽게 그 창법을 배울 수 있었어.",
+              "ja": "驚かないでください。以前音楽を学んだことがあり、少し音楽の基礎がありますし、京劇という上演芸術にとても興味があるので、その歌い方を比較的簡単に身につけられました。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "You are really impressive! You even managed to learn Beijing opera, which many Chinese people cannot understand. I still prefer listening to pop music.",
+              "ko": "너 정말 대단하다! 많은 중국 사람들도 알아듣지 못하는 경극까지 배웠다니. 나는 그래도 유행음악 듣는 걸 더 좋아해.",
+              "ja": "本当にすごいですね！多くの中国人でさえ聞き取れない京劇まで身につけたなんて。私はやはりポップ音楽を聴くほうが好きです。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "That is because you do not understand the singing style of Beijing opera. In terms of music, Beijing opera has given me many new ideas. I also added some of its features into my own music, and achieved very good results.",
+              "ko": "그건 네가 경극의 창법을 잘 몰라서 그래. 음악 면에서 경극은 나에게 많은 새로운 생각을 줬어. 나는 경극의 몇 가지 특징을 내 음악에 더해 아주 좋은 효과를 얻기도 했어.",
+              "ja": "それは君が京劇の歌い方を理解していないからです。音楽の面で、京劇は私に多くの新しい発想を与えてくれました。私は京劇のいくつかの特徴を自分の音楽にも加え、とてもよい効果を得ました。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Principal, because foreign students do not understand Chinese culture, it can sometimes affect normal communication between them and Chinese people, and may even cause misunderstandings and trouble. So we would like to apply to hold a Chinese traditional culture festival event.",
+              "ko": "교장 선생님, 외국인 유학생들이 중국 문화를 잘 모르기 때문에 때로는 중국 사람들과의 정상적인 교류에 영향을 줄 수 있고, 심지어 오해를 일으켜 번거로움을 가져올 수도 있습니다. 그래서 저희는 중국 전통문화제 행사를 한 번 개최하고 싶어 신청하려고 합니다.",
+              "ja": "校長先生、外国人留学生は中国文化を理解していないため、時には中国人との正常な交流に影響し、誤解を招いて面倒を引き起こす可能性もあります。そこで私たちは中国伝統文化祭の活動を一度開催する申請をしたいと思っています。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Your idea is very good. Holding a culture festival can, on the one hand, help students from different countries understand China better, and on the other hand, provide students with opportunities to communicate and learn from one another.",
+              "ko": "여러분의 생각은 아주 좋습니다. 문화제 행사를 열면 한편으로는 각국 학생들이 중국을 더 잘 이해하게 할 수 있고, 다른 한편으로는 학생들에게 서로 교류하고 배울 기회를 제공할 수 있습니다.",
+              "ja": "皆さんの考えはとても良いです。文化祭活動を開催すれば、一方では各国の学生に中国をよりよく理解してもらえ、もう一方では学生たちに互いに交流し学ぶ機会を提供できます。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Thank you for your support!",
+              "ko": "지원해 주셔서 감사합니다!",
+              "ja": "ご支援ありがとうございます！"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "The spring outing you organized last time was very interesting, and everyone had a great time. This event will continue to be handled by you, and I believe it will also be very successful.",
+              "ko": "지난번 봄나들이 행사는 여러분이 아주 재미있게 진행했고, 모두가 즐겁게 놀았습니다. 이번 행사도 계속 당신이 맡아 주세요. 분명히 아주 성공적일 것이라고 믿습니다.",
+              "ja": "前回の春の遠足活動は皆さんがとても面白く運営し、みんな楽しく遊びました。今回の活動も引き続きあなたが担当してください。きっと大成功すると思います。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "We will go back and hold a meeting to discuss it, and send you the detailed plan before Friday.",
+              "ko": "저희가 돌아가서 바로 회의를 열어 논의하고, 금요일 전까지 상세한 계획서를 보내드리겠습니다.",
+              "ja": "戻ったらすぐ会議を開いて話し合い、金曜日までに詳しい計画書をお送りします。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "All right. If you have any problems during the preparation process, you can come directly to me.",
+              "ko": "좋습니다. 준비 과정에서 문제가 있으면 여러분은 직접 저를 찾아오면 됩니다.",
+              "ja": "分かりました。準備の過程で何か問題があれば、直接私のところに来てください。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Chopsticks have already had a history of more than 3,000 years in China. For foreigners, eating with chopsticks is not easy, so some Chinese restaurants abroad provide detailed instructions for using chopsticks on the paper bags that hold them. However, if you think every Chinese person can use chopsticks correctly, you are wrong. Someone once conducted a special survey on the Internet, and the results found that among every six Chinese people, one uses chopsticks incorrectly. If you want to use chopsticks correctly, then practice well.",
+              "ko": "젓가락은 중국에서 이미 대략 3000년이 넘는 역사를 가지고 있습니다. 외국인에게 젓가락으로 밥을 먹는 것은 쉽지 않기 때문에, 해외의 일부 중국 식당에서는 젓가락을 담는 종이봉투에 젓가락 사용법에 대한 자세한 설명을 제공합니다. 하지만 모든 중국인이 젓가락을 정확하게 사용할 줄 안다고 생각한다면 그것은 틀렸습니다. 누군가 인터넷에서 전문적으로 조사를 한 적이 있는데, 결과에 따르면 중국인 여섯 명 중 한 명은 젓가락 사용 방법이 잘못되어 있었습니다. 젓가락을 정확하게 사용하고 싶다면 열심히 연습하세요.",
+              "ja": "箸は中国でおよそ三千年以上の歴史があります。外国人にとって、箸を使って食事をするのは簡単ではありません。そのため、海外の一部の中国料理店では、箸を入れる紙袋に箸の使い方の詳しい説明を載せています。しかし、すべての中国人が箸を正しく使えると思っているなら、それは間違いです。ある人がインターネットで専門的に調査を行ったところ、中国人六人のうち一人は箸の使い方が間違っていることが分かりました。箸を正しく使いたいなら、しっかり練習しましょう。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Tea has a history of several thousand years in China and is the most common drink in China. In the earliest times, tea was only treated as a kind of medicine, not as a drink. Later, as people deepened their understanding of tea, they gradually began to treat it as a thirst-quenching drink, and only then did Chinese tea culture slowly develop. In China, drinking tea is a very common habit of life. For many Chinese people, drinking tea has become an indispensable part of their lives. However, some drinks are called “tea” even though they are not real tea. For example, the “herbal tea” people in Guangdong Province like to drink tastes slightly bitter, and is actually a drink made from Chinese medicine.",
+              "ko": "차는 중국에서 몇천 년의 역사를 가지고 있으며, 중국에서 가장 흔히 볼 수 있는 음료입니다. 가장 이른 시기에는 차가 단지 약의 한 종류로 여겨졌고, 음료는 아니었습니다. 이후 사람들이 차에 대한 인식이 깊어지면서 점차 그것을 갈증을 해소하는 음료로 여기기 시작했고, 그제야 천천히 중국의 차 문화가 생겨났습니다. 중국에서 차를 마시는 것은 매우 보편적인 생활 습관입니다. 많은 중국인에게 차를 마시는 일은 이미 생활에서 없어서는 안 될 한 부분이 되었습니다. 하지만 어떤 음료는 이름에 “차”가 들어가더라도 진짜 차는 아닙니다. 예를 들어 광둥성 사람들이 즐겨 마시는 “량차”는 맛이 약간 쓰며, 사실은 한약재로 만든 음료입니다.",
+              "ja": "茶は中国で数千年の歴史があり、中国で最もよく見られる飲み物です。最も早い時期には、茶はただ薬の一種と見なされており、飲み物ではありませんでした。その後、人々の茶に対する理解が深まるにつれて、次第にそれを喉の渇きを癒す飲み物として扱うようになり、こうしてゆっくりと中国の茶文化が生まれました。中国では、お茶を飲むことは非常に一般的な生活習慣です。多くの中国人にとって、お茶を飲むことは生活に欠かせない一部分になっています。しかし、名前は「茶」と呼ばれていても、本当の茶ではない飲み物もあります。例えば、広東省の人々が好んで飲む「涼茶」は、味が少し苦く、実は漢方薬で作られた飲み物です。"
+            }
+          }
+        }
+      }
+    }
+  },
+  "proper_nouns": [
+    {
+      "word": "马克",
+      "pinyin": "Mǎkè",
+      "meaning": "Mark, name of a person"
+    },
+    {
+      "word": "美国",
+      "pinyin": "Měiguó",
+      "meaning": "the United States"
+    },
+    {
+      "word": "李老师",
+      "pinyin": "Lǐ lǎoshī",
+      "meaning": "Teacher Li, name/title of a person"
+    },
+    {
+      "word": "校长",
+      "pinyin": "xiàozhǎng",
+      "meaning": "principal, school head"
+    },
+    {
+      "word": "中国",
+      "pinyin": "Zhōngguó",
+      "meaning": "China"
+    },
+    {
+      "word": "广东省",
+      "pinyin": "Guǎngdōng Shěng",
+      "meaning": "Guangdong, a province of China"
+    }
+  ]
+}

@@ -1,0 +1,1806 @@
+{
+  "lessonId": 9,
+  "title": "Lesson 9: 阳光总在风雨后 (yángguāng zǒng zài fēngyǔ hòu) (Sunshine always comes after the rain)",
+  "vocabulary": [
+    {
+      "word": "饼干",
+      "pinyin": "bǐnggān",
+      "meaning": "n. biscuit"
+    },
+    {
+      "word": "难道",
+      "pinyin": "nándào",
+      "meaning": "adv. used in a rhetorical question for emphasis"
+    },
+    {
+      "word": "得",
+      "pinyin": "děi",
+      "meaning": "mod. must, have to"
+    },
+    {
+      "word": "坚持",
+      "pinyin": "jiānchí",
+      "meaning": "v. to insist, to persist"
+    },
+    {
+      "word": "放弃",
+      "pinyin": "fàngqì",
+      "meaning": "v. to give up"
+    },
+    {
+      "word": "主意",
+      "pinyin": "zhǔyi",
+      "meaning": "n. idea, plan"
+    },
+    {
+      "word": "网球",
+      "pinyin": "wǎngqiú",
+      "meaning": "n. tennis"
+    },
+    {
+      "word": "国际",
+      "pinyin": "guójì",
+      "meaning": "n. international"
+    },
+    {
+      "word": "轻松",
+      "pinyin": "qīngsōng",
+      "meaning": "adj. relaxed, effortless"
+    },
+    {
+      "word": "赢",
+      "pinyin": "yíng",
+      "meaning": "v. to win"
+    },
+    {
+      "word": "随便",
+      "pinyin": "suíbiàn",
+      "meaning": "adj. casual, at random"
+    },
+    {
+      "word": "汗",
+      "pinyin": "hàn",
+      "meaning": "n. sweat, perspiration"
+    },
+    {
+      "word": "通过",
+      "pinyin": "tōngguò",
+      "meaning": "prep. through, by means of"
+    },
+    {
+      "word": "篇",
+      "pinyin": "piān",
+      "meaning": "m. used for writings, papers or articles"
+    },
+    {
+      "word": "作家",
+      "pinyin": "zuòjiā",
+      "meaning": "n. writer"
+    },
+    {
+      "word": "当时",
+      "pinyin": "dāngshí",
+      "meaning": "n. then, at that time"
+    },
+    {
+      "word": "可是",
+      "pinyin": "kěshì",
+      "meaning": "conj. but, however"
+    },
+    {
+      "word": "正确",
+      "pinyin": "zhèngquè",
+      "meaning": "adj. right, correct"
+    },
+    {
+      "word": "理想",
+      "pinyin": "lǐxiǎng",
+      "meaning": "n. ideal"
+    },
+    {
+      "word": "勇敢",
+      "pinyin": "yǒnggǎn",
+      "meaning": "adj. brave, courageous"
+    },
+    {
+      "word": "结果",
+      "pinyin": "jiéguǒ",
+      "meaning": "n. result"
+    },
+    {
+      "word": "失败",
+      "pinyin": "shībài",
+      "meaning": "v. to fail"
+    },
+    {
+      "word": "过程",
+      "pinyin": "guòchéng",
+      "meaning": "n. course, process"
+    },
+    {
+      "word": "至少",
+      "pinyin": "zhìshǎo",
+      "meaning": "adv. at least"
+    },
+    {
+      "word": "总结",
+      "pinyin": "zǒngjié",
+      "meaning": "v. to sum up"
+    },
+    {
+      "word": "取",
+      "pinyin": "qǔ",
+      "meaning": "v. to gain, to seek"
+    },
+    {
+      "word": "经历",
+      "pinyin": "jīnglì",
+      "meaning": "v. to go through, to experience"
+    },
+    {
+      "word": "许多",
+      "pinyin": "xǔduō",
+      "meaning": "num. many, plenty of"
+    },
+    {
+      "word": "区别",
+      "pinyin": "qūbié",
+      "meaning": "n. difference, distinction"
+    },
+    {
+      "word": "暂时",
+      "pinyin": "zànshí",
+      "meaning": "n. temporary, for the time being"
+    },
+    {
+      "word": "面对",
+      "pinyin": "miànduì",
+      "meaning": "v. to face, to confront"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "难道",
+      "explanation": "The adverb “难道” emphasizes the tone of a rhetorical question. In a positive rhetorical question, it indicates a negative meaning; in a negative rhetorical question, it indicates a positive meaning. For example, “难道汉语真的这么难吗？” emphasizes that Chinese is not difficult.",
+      "formal_examples": [
+        {
+          "chinese": "怎么又买了这么多饼干和巧克力？<b>难道</b>你不减肥了？",
+          "pinyin": "Zěnme yòu mǎi le zhème duō bǐnggān hé qiǎokèlì? Nándào nǐ bù jiǎnféi le?",
+          "translation": "Why did you buy so many biscuits and chocolates again? Don’t tell me you’re not trying to lose weight anymore?"
+        },
+        {
+          "chinese": "A：喂，都十点了，你怎么还不来？\nB：<b>难道</b>你没看短信？我今天有事去不了了。",
+          "pinyin": "A: Wèi, dōu shí diǎn le, nǐ zěnme hái bù lái?\nB: Nándào nǐ méi kàn duǎnxìn? Wǒ jīntiān yǒu shì qù bù liǎo le.",
+          "translation": "A: Hey, it’s already ten. Why still haven’t you come?\nB: Didn’t you see the text message? I have something today and can’t go anymore."
+        },
+        {
+          "chinese": "A：你不是两点就出发了吗？<b>难道</b>路上花了两个多小时？\nB：我那辆车出了点儿问题，刚才把车送去修了。",
+          "pinyin": "A: Nǐ bú shì liǎng diǎn jiù chūfā le ma? Nándào lù shang huā le liǎng ge duō xiǎoshí?\nB: Wǒ nà liàng chē chū le diǎnr wèntí, gāngcái bǎ chē sòng qù xiū le.",
+          "translation": "A: Didn’t you leave at two? Did it really take more than two hours on the road?\nB: My car had a small problem, and I just sent it to be repaired."
+        }
+      ],
+      "colloquial_pattern": "难道……吗？ / 难道……？",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>难道</b>你不知道这件事吗？",
+          "pinyin": "Nándào nǐ bù zhīdào zhè jiàn shì ma?",
+          "translation": "Don’t tell me you don’t know about this?"
+        },
+        {
+          "chinese": "<b>难道</b>这样还不够清楚吗？",
+          "pinyin": "Nándào zhèyàng hái bù gòu qīngchu ma?",
+          "translation": "Isn’t this already clear enough?"
+        },
+        {
+          "chinese": "<b>难道</b>你真的要放弃？",
+          "pinyin": "Nándào nǐ zhēn de yào fàngqì?",
+          "translation": "Are you really going to give up?"
+        }
+      ],
+      "nuance": "“难道” does not ask for neutral information; it pushes the listener toward the opposite conclusion. It is common with “吗”, but can also appear without “吗” in spoken rhetorical questions."
+    },
+    {
+      "point": "通过",
+      "explanation": "“通过” can be used as a preposition to express attaining a result by means of someone or something. It can also be used as a verb meaning to pass through a place from one end or side to another, or to have reached a certain standard or met a requirement.",
+      "formal_examples": [
+        {
+          "chinese": "任何成功都要<b>通过</b>努力才能得到。",
+          "pinyin": "Rènhé chénggōng dōu yào tōngguò nǔlì cái néng dédào.",
+          "translation": "Any success can only be gained through hard work."
+        },
+        {
+          "chinese": "这个节目我一直在看，它介绍了很多生活中的小知识。很多以前我没有注意到的问题，现在<b>通过</b>它了解了不少。",
+          "pinyin": "Zhè ge jiémù wǒ yìzhí zài kàn, tā jièshào le hěn duō shēnghuó zhōng de xiǎo zhīshi. Hěn duō yǐqián wǒ méiyǒu zhùyì dào de wèntí, xiànzài tōngguò tā liǎojiě le bù shǎo.",
+          "translation": "I have been watching this program. It introduces a lot of little knowledge from daily life. Many issues I never noticed before, I now understand quite a bit about through it."
+        },
+        {
+          "chinese": "这条街只能步行<b>通过</b>。",
+          "pinyin": "Zhè tiáo jiē zhǐ néng bùxíng tōngguò.",
+          "translation": "This street can only be passed through on foot."
+        },
+        {
+          "chinese": "我<b>通过</b>那家公司的面试了。经理对我印象不错，他要我明天就正式去上班。",
+          "pinyin": "Wǒ tōngguò nà jiā gōngsī de miànshì le. Jīnglǐ duì wǒ yìnxiàng búcuò, tā yào wǒ míngtiān jiù zhèngshì qù shàngbān.",
+          "translation": "I passed that company’s interview. The manager had a good impression of me, and he wants me to officially start work tomorrow."
+        }
+      ],
+      "colloquial_pattern": "通过…… / 通过了……",
+      "colloquial_examples": [
+        {
+          "chinese": "我<b>通过</b>朋友认识了他。",
+          "pinyin": "Wǒ tōngguò péngyou rènshi le tā.",
+          "translation": "I got to know him through a friend."
+        },
+        {
+          "chinese": "这条路现在不能<b>通过</b>。",
+          "pinyin": "Zhè tiáo lù xiànzài bù néng tōngguò.",
+          "translation": "This road cannot be passed through right now."
+        },
+        {
+          "chinese": "我终于<b>通过</b>考试了。",
+          "pinyin": "Wǒ zhōngyú tōngguò kǎoshì le.",
+          "translation": "I finally passed the exam."
+        }
+      ],
+      "nuance": "As a preposition, “通过” points to the means or channel used to reach a result. As a verb, it can describe physically passing through a place or passing an exam, interview, standard, or requirement."
+    },
+    {
+      "point": "通过 vs 经过",
+      "explanation": "Similarity: Both “通过” and “经过” can indicate the attainment of a certain goal via somebody or by means of something. Differences: 1) In this meaning, “通过” is a preposition and “经过” is a verb. “通过” emphasizes the method or means, while “经过” emphasizes the process. 2) When used as verbs, “通过” means to pass through somewhere from one end or side to another, while “经过” means to go by way of somewhere without the meaning of passing through. 3) “经过” can also be used as a noun to indicate the development process of something, while “通过” has no such usage.",
+      "formal_examples": [
+        {
+          "chinese": "<b>通过/经过</b>大家的努力，公司的生意越做越大。",
+          "pinyin": "Tōngguò/jīngguò dàjiā de nǔlì, gōngsī de shēngyi yuè zuò yuè dà.",
+          "translation": "Through everyone’s efforts, the company’s business has grown bigger and bigger."
+        },
+        {
+          "chinese": "希望<b>通过</b>这次活动引起大家的兴趣，让大家更了解我们公司。",
+          "pinyin": "Xīwàng tōngguò zhè cì huódòng yǐnqǐ dàjiā de xìngqù, ràng dàjiā gèng liǎojiě wǒmen gōngsī.",
+          "translation": "We hope to arouse everyone’s interest through this event and help everyone understand our company better."
+        },
+        {
+          "chinese": "<b>经过</b>一次次失败之后，他终于成功了。",
+          "pinyin": "Jīngguò yí cì cì shībài zhī hòu, tā zhōngyú chénggōng le.",
+          "translation": "After going through failure again and again, he finally succeeded."
+        },
+        {
+          "chinese": "这里正在修路，汽车无法<b>通过</b>。",
+          "pinyin": "Zhèli zhèngzài xiū lù, qìchē wúfǎ tōngguò.",
+          "translation": "The road is being repaired here, so cars cannot pass through."
+        },
+        {
+          "chinese": "我正好<b>经过</b>这儿，顺便过来看看你。",
+          "pinyin": "Wǒ zhènghǎo jīngguò zhèr, shùnbiàn guòlái kàn kan nǐ.",
+          "translation": "I happened to pass by here, so I came over to see you."
+        },
+        {
+          "chinese": "小王把事情的<b>经过</b>告诉我了，原来这件事真的跟你没关系。",
+          "pinyin": "Xiǎo Wáng bǎ shìqing de jīngguò gàosu wǒ le, yuánlái zhè jiàn shì zhēn de gēn nǐ méi guānxi.",
+          "translation": "Xiao Wang told me the whole course of the matter. It turns out this really has nothing to do with you."
+        }
+      ],
+      "colloquial_pattern": "通过 / 经过",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>通过</b>努力拿到结果，强调办法。",
+          "pinyin": "Tōngguò nǔlì ná dào jiéguǒ, qiángdiào bànfǎ.",
+          "translation": "Using “通过” with effort emphasizes the method used to get a result."
+        },
+        {
+          "chinese": "<b>经过</b>很多失败才成功，强调过程。",
+          "pinyin": "Jīngguò hěn duō shībài cái chénggōng, qiángdiào guòchéng.",
+          "translation": "Using “经过” with many failures before success emphasizes the process."
+        },
+        {
+          "chinese": "可以说事情的<b>经过</b>，不能说事情的“通过”。",
+          "pinyin": "Kěyǐ shuō shìqing de jīngguò, bù néng shuō shìqing de “tōngguò”.",
+          "translation": "You can say “the course of the matter” with “经过”, but not with “通过”."
+        }
+      ],
+      "nuance": "Use “通过” when the focus is the means, channel, or method. Use “经过” when the focus is the process, route, or course of events. As a noun, only “经过” can mean the course or development process of something."
+    },
+    {
+      "point": "可是",
+      "explanation": "The conjunction “可是” is used in the second clause of a complex sentence to indicate a transition in meaning. It often coordinates with a previous clause introduced by “虽然”.",
+      "formal_examples": [
+        {
+          "chinese": "A：你怎么又想换工作了，这儿的收入不是挺高的吗？\nB：<b>虽然</b>收入高，<b>可是</b>经常要加班，很少有时间和家人在一起。",
+          "pinyin": "A: Nǐ zěnme yòu xiǎng huàn gōngzuò le, zhèr de shōurù bú shì tǐng gāo de ma?\nB: Suīrán shōurù gāo, kěshì jīngcháng yào jiābān, hěn shǎo yǒu shíjiān hé jiārén zài yìqǐ.",
+          "translation": "A: Why do you want to change jobs again? Isn’t the income here pretty high?\nB: Although the income is high, I often have to work overtime and rarely have time to be with my family."
+        },
+        {
+          "chinese": "小时候，大家都说我像我妈，尤其是性格。<b>可是</b>长大后，他们说我更像爸爸。",
+          "pinyin": "Xiǎoshíhou, dàjiā dōu shuō wǒ xiàng wǒ mā, yóuqí shì xìnggé. Kěshì zhǎng dà hòu, tāmen shuō wǒ gèng xiàng bàba.",
+          "translation": "When I was little, everyone said I was like my mother, especially in personality. But after I grew up, they said I looked more like my father."
+        },
+        {
+          "chinese": "当时她的父母和亲戚都不支持她，<b>可是</b>她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。",
+          "pinyin": "Dāngshí tā de fùmǔ hé qīnqi dōu bù zhīchí tā, kěshì tā jiānchí zìjǐ de xuǎnzé, xiànzài zhōngyú xiàng suǒyǒu rén zhèngmíng le tā de xuǎnzé shì zhèngquè de.",
+          "translation": "At that time, her parents and relatives did not support her, but she stuck to her own choice. Now she has finally proven to everyone that her choice was correct."
+        }
+      ],
+      "colloquial_pattern": "虽然……可是…… / 可是",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>虽然</b>这份工作不错，<b>可是</b>我还是想试试新的机会。",
+          "pinyin": "Suīrán zhè fèn gōngzuò búcuò, kěshì wǒ háishì xiǎng shìshi xīn de jīhuì.",
+          "translation": "Although this job is good, I still want to try a new opportunity."
+        },
+        {
+          "chinese": "我很想去，<b>可是</b>今天真的没时间。",
+          "pinyin": "Wǒ hěn xiǎng qù, kěshì jīntiān zhēn de méi shíjiān.",
+          "translation": "I really want to go, but I truly don’t have time today."
+        },
+        {
+          "chinese": "他看起来很轻松，<b>可是</b>背后练了很多年。",
+          "pinyin": "Tā kàn qǐlái hěn qīngsōng, kěshì bèihòu liàn le hěn duō nián.",
+          "translation": "He looks relaxed, but behind the scenes he practiced for many years."
+        }
+      ],
+      "nuance": "“可是” is close to “但是”, but it often sounds a bit more conversational. It marks a contrast or turn after the first clause, and “虽然” can appear in the first clause but is not always required."
+    },
+    {
+      "point": "结果",
+      "explanation": "“结果” can be used as a noun to indicate the final state that something has developed into. It can also be used as a conjunction to indicate a cause-effect relationship, usually in the second clause of a complex sentence, introducing the result of the situation mentioned in the first clause.",
+      "formal_examples": [
+        {
+          "chinese": "小张，你这份计划书写得不错，就按照这个计划去做市场调查吧。下个月把调查<b>结果</b>交上来。",
+          "pinyin": "Xiǎo Zhāng, nǐ zhè fèn jìhuàshū xiě de búcuò, jiù ànzhào zhè ge jìhuà qù zuò shìchǎng diàochá ba. Xià ge yuè bǎ diàochá jiéguǒ jiāo shànglai.",
+          "translation": "Xiao Zhang, this plan you wrote is pretty good. Do the market research according to this plan. Hand in the survey results next month."
+        },
+        {
+          "chinese": "如果你想做什么事情，那就勇敢地去做，不要担心<b>结果</b>，不要考虑会不会失败。",
+          "pinyin": "Rúguǒ nǐ xiǎng zuò shénme shìqing, nà jiù yǒnggǎn de qù zuò, bú yào dānxīn jiéguǒ, bú yào kǎolǜ huì bú huì shībài.",
+          "translation": "If you want to do something, then do it bravely. Don’t worry about the result, and don’t think about whether you will fail."
+        },
+        {
+          "chinese": "我妻子想减肥，所以她每天早上都去骑马。<b>结果</b>马竟然在一个月之内瘦了二十斤。",
+          "pinyin": "Wǒ qīzi xiǎng jiǎnféi, suǒyǐ tā měi tiān zǎoshang dōu qù qí mǎ. Jiéguǒ mǎ jìngrán zài yí ge yuè zhī nèi shòu le èrshí jīn.",
+          "translation": "My wife wanted to lose weight, so she went horseback riding every morning. As a result, the horse unexpectedly lost twenty jin within one month."
+        },
+        {
+          "chinese": "有些人爱说“差不多”。例如，每天的工作都是完成得差不多，<b>结果</b>，积累下来，就变成差很多了。",
+          "pinyin": "Yǒu xiē rén ài shuō “chàbuduō”. Lìrú, měi tiān de gōngzuò dōu shì wánchéng de chàbuduō, jiéguǒ, jīlěi xiàlai, jiù biàn chéng chà hěn duō le.",
+          "translation": "Some people like to say “close enough”. For example, if every day’s work is only completed “more or less”, as a result, after it accumulates, it becomes far from enough."
+        }
+      ],
+      "colloquial_pattern": "结果 / 结果是……",
+      "colloquial_examples": [
+        {
+          "chinese": "别只看<b>结果</b>，也要看过程。",
+          "pinyin": "Bié zhǐ kàn jiéguǒ, yě yào kàn guòchéng.",
+          "translation": "Don’t only look at the result; also look at the process."
+        },
+        {
+          "chinese": "他没好好准备，<b>结果</b>考试没通过。",
+          "pinyin": "Tā méi hǎohǎo zhǔnbèi, jiéguǒ kǎoshì méi tōngguò.",
+          "translation": "He didn’t prepare well, and as a result he didn’t pass the exam."
+        },
+        {
+          "chinese": "我以为会很简单，<b>结果</b>花了两个小时。",
+          "pinyin": "Wǒ yǐwéi huì hěn jiǎndān, jiéguǒ huā le liǎng ge xiǎoshí.",
+          "translation": "I thought it would be simple, but it ended up taking two hours."
+        }
+      ],
+      "nuance": "As a noun, “结果” names the final outcome. As a conjunction, it introduces what actually happened afterward, often with a slightly unexpected or contrasting result."
+    },
+    {
+      "point": "上",
+      "explanation": "The verb “上” means to achieve or reach a certain quantity or degree. It is often followed by an object indicating quantity.",
+      "formal_examples": [
+        {
+          "chinese": "这个城市的地铁已经有<b>上</b>百年的历史了。",
+          "pinyin": "Zhè ge chéngshì de dìtiě yǐjīng yǒu shàng bǎi nián de lìshǐ le.",
+          "translation": "This city’s subway already has a history of over a hundred years."
+        },
+        {
+          "chinese": "每年有成千<b>上</b>万的高中毕业生参加艺术考试。",
+          "pinyin": "Měi nián yǒu chéng qiān shàng wàn de gāozhōng bìyèshēng cānjiā yìshù kǎoshì.",
+          "translation": "Every year, tens of thousands of high school graduates take art exams."
+        },
+        {
+          "chinese": "爱迪生就是在找了<b>上</b>千种材料后才找到了能点亮电灯的材料。",
+          "pinyin": "Àidíshēng jiù shì zài zhǎo le shàng qiān zhǒng cáiliào hòu cái zhǎo dào le néng diǎnliàng diàndēng de cáiliào.",
+          "translation": "Edison found the material that could light an electric lamp only after searching through over a thousand materials."
+        }
+      ],
+      "colloquial_pattern": "上百 / 上千 / 成千上万",
+      "colloquial_examples": [
+        {
+          "chinese": "这个问题已经讨论了<b>上</b>百次。",
+          "pinyin": "Zhè ge wèntí yǐjīng tǎolùn le shàng bǎi cì.",
+          "translation": "This issue has already been discussed over a hundred times."
+        },
+        {
+          "chinese": "他看过<b>上</b>千本书。",
+          "pinyin": "Tā kàn guo shàng qiān běn shū.",
+          "translation": "He has read over a thousand books."
+        },
+        {
+          "chinese": "现场来了成千<b>上</b>万的人。",
+          "pinyin": "Xiànchǎng lái le chéng qiān shàng wàn de rén.",
+          "translation": "Tens of thousands of people came to the scene."
+        }
+      ],
+      "nuance": "This use of “上” appears before approximate large numbers and means the amount has reached or exceeded that level. It is common in expressions like “上百”, “上千”, and “成千上万”."
+    },
+    {
+      "point": "同字词：果",
+      "explanation": "Words with the same character “果”: 如果, 结果, 效果. These words share the character “果”, but their meanings and usages are different: “如果” means if, “结果” means result or as a result, and “效果” means effect or result of an action.",
+      "formal_examples": [
+        {
+          "chinese": "现在朋友之间流行发各种幽默短信，这给我们的生活带来一些快乐。但是<b>如果</b>同样的短信你收到了三四遍，再幽默的短信你也笑不出来了。",
+          "pinyin": "Xiànzài péngyou zhījiān liúxíng fā gè zhǒng yōumò duǎnxìn, zhè gěi wǒmen de shēnghuó dài lái yìxiē kuàilè. Dànshì rúguǒ tóngyàng de duǎnxìn nǐ shōu dào le sān sì biàn, zài yōumò de duǎnxìn nǐ yě xiào bù chūlái le.",
+          "translation": "Nowadays it is popular among friends to send all kinds of humorous text messages, which brings some happiness to our lives. But if you receive the same message three or four times, even the funniest text message will no longer make you laugh."
+        },
+        {
+          "chinese": "A：没有你的帮助，我肯定不能按时完成任务，真是太谢谢你了！\nB：你太客气了，我不过是说了一点儿想法，这一切都是你自己辛苦努力的<b>结果</b>。",
+          "pinyin": "A: Méiyǒu nǐ de bāngzhù, wǒ kěndìng bù néng ànshí wánchéng rènwu, zhēn shì tài xièxie nǐ le!\nB: Nǐ tài kèqi le, wǒ búguò shì shuō le yì diǎnr xiǎngfǎ, zhè yíqiè dōu shì nǐ zìjǐ xīnkǔ nǔlì de jiéguǒ.",
+          "translation": "A: Without your help, I definitely couldn’t have completed the task on time. Thank you so much!\nB: You’re too kind. I only shared a few thoughts. All of this is the result of your own hard work."
+        },
+        {
+          "chinese": "尽管很辛苦，但他还是坚持每天做运动，几个月下来，减肥的<b>效果</b>很不错。",
+          "pinyin": "Jǐnguǎn hěn xīnkǔ, dàn tā háishì jiānchí měi tiān zuò yùndòng, jǐ ge yuè xiàlai, jiǎnféi de xiàoguǒ hěn búcuò.",
+          "translation": "Although it was hard, he still kept exercising every day. After a few months, the effect of losing weight was very good."
+        }
+      ],
+      "colloquial_pattern": "如果 / 结果 / 效果",
+      "colloquial_examples": [
+        {
+          "chinese": "<b>如果</b>你愿意，我们明天就开始。",
+          "pinyin": "Rúguǒ nǐ yuànyì, wǒmen míngtiān jiù kāishǐ.",
+          "translation": "If you are willing, we will start tomorrow."
+        },
+        {
+          "chinese": "这是大家一起努力的<b>结果</b>。",
+          "pinyin": "Zhè shì dàjiā yìqǐ nǔlì de jiéguǒ.",
+          "translation": "This is the result of everyone’s joint effort."
+        },
+        {
+          "chinese": "这个方法<b>效果</b>不错。",
+          "pinyin": "Zhè ge fāngfǎ xiàoguǒ búcuò.",
+          "translation": "This method has a pretty good effect."
+        }
+      ],
+      "nuance": "This same-character note groups common words containing “果”. “如果” is a conjunction introducing a condition, “结果” is a noun or conjunction about the final outcome, and “效果” is a noun referring to the effect produced by an action or method."
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "如果你想减肥，就<b>得</b>少吃东西，而且要多运动。",
+      "pinyin": "Rúguǒ nǐ xiǎng jiǎnféi, jiù děi shǎo chī dōngxi, érqiě yào duō yùndòng.",
+      "translation": "If you want to lose weight, you have to eat less, and you also need to exercise more.",
+      "colloquial_equivalent": "想瘦的话，<b>就得</b>少吃点儿，多动一动。",
+      "colloquial_pinyin": "Xiǎng shòu de huà, jiù děi shǎo chī diǎnr, duō dòng yi dòng.",
+      "context": "Giving practical advice about losing weight."
+    },
+    {
+      "sentence": "任何成功都要<b>通过</b>努力才能得到。",
+      "pinyin": "Rènhé chénggōng dōu yào tōngguò nǔlì cái néng dédào.",
+      "translation": "Any success can only be gained through hard work.",
+      "colloquial_equivalent": "想成功，就得<b>靠自己努力</b>。",
+      "colloquial_pinyin": "Xiǎng chénggōng, jiù děi kào zìjǐ nǔlì.",
+      "context": "Emphasizing that success requires effort."
+    },
+    {
+      "sentence": "<b>可是</b>她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。",
+      "pinyin": "Kěshì tā jiānchí zìjǐ de xuǎnzé, xiànzài zhōngyú xiàng suǒyǒu rén zhèngmíng le tā de xuǎnzé shì zhèngquè de.",
+      "translation": "But she stuck to her own choice, and now she has finally proven to everyone that her choice was correct.",
+      "colloquial_equivalent": "<b>但</b>她还是坚持了自己的选择，现在终于证明自己选对了。",
+      "colloquial_pinyin": "Dàn tā háishì jiānchí le zìjǐ de xuǎnzé, xiànzài zhōngyú zhèngmíng zìjǐ xuǎn duì le.",
+      "context": "Describing persistence despite opposition."
+    },
+    {
+      "sentence": "<b>即使</b>最后失败了<b>也</b>没有关系，因为<b>至少</b>你已经努力过。",
+      "pinyin": "Jíshǐ zuìhòu shībài le yě méiyǒu guānxi, yīnwèi zhìshǎo nǐ yǐjīng nǔlì guo.",
+      "translation": "Even if you fail in the end, it does not matter, because at least you have worked hard.",
+      "colloquial_equivalent": "<b>就算</b>最后没成也没关系，<b>至少</b>你真的努力过。",
+      "colloquial_pinyin": "Jiùsuàn zuìhòu méi chéng yě méi guānxi, zhìshǎo nǐ zhēn de nǔlì guo.",
+      "context": "Encouraging someone to value effort even after failure."
+    },
+    {
+      "sentence": "<b>只有</b>我们勇敢地<b>面对</b>困难，<b>才</b>能有希望取得成功。",
+      "pinyin": "Zhǐyǒu wǒmen yǒnggǎn de miànduì kùnnan, cái néng yǒu xīwàng qǔdé chénggōng.",
+      "translation": "Only when we bravely face difficulties can we have hope of achieving success.",
+      "colloquial_equivalent": "<b>只有</b>敢面对困难，<b>才</b>有可能成功。",
+      "colloquial_pinyin": "Zhǐyǒu gǎn miànduì kùnnan, cái yǒu kěnéng chénggōng.",
+      "context": "Summarizing the attitude needed to overcome difficulties."
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "王静和孙月聊孙月减肥的事情 (wáng jìng hé sūn yuè liáo sūn yuè jiǎnféi de shìqing) (Wang Jing and Sun Yue talk about Sun Yue losing weight)",
+      "content": [
+        {
+          "speaker": "王静",
+          "text": "怎么又买了这么多饼干和巧克力？难道你不减肥了？",
+          "pinyin": "Zěnme yòu mǎi le zhème duō bǐnggān hé qiǎokèlì? Nándào nǐ bù jiǎnféi le?",
+          "translation": "Why did you buy so many biscuits and chocolates again? Don’t tell me you’re not trying to lose weight anymore?"
+        },
+        {
+          "speaker": "孙月",
+          "text": "减了一个月都没瘦下来，我实在没有信心了。",
+          "pinyin": "Jiǎn le yí ge yuè dōu méi shòu xiàlai, wǒ shízài méiyǒu xìnxīn le.",
+          "translation": "I dieted for a whole month and still didn’t slim down. I’ve really lost confidence."
+        },
+        {
+          "speaker": "王静",
+          "text": "如果你想减肥，就<b>得</b>少吃东西，而且要多运动。",
+          "pinyin": "Rúguǒ nǐ xiǎng jiǎnféi, jiù děi shǎo chī dōngxi, érqiě yào duō yùndòng.",
+          "translation": "If you want to lose weight, you have to eat less, and you also need to exercise more."
+        },
+        {
+          "speaker": "孙月",
+          "text": "我就是这么做的，但这一个月下来，我只轻了一公斤。",
+          "pinyin": "Wǒ jiù shì zhème zuò de, dàn zhè yí ge yuè xiàlai, wǒ zhǐ qīng le yì gōngjīn.",
+          "translation": "That’s exactly what I did, but after this month, I only lost one kilogram."
+        },
+        {
+          "speaker": "王静",
+          "text": "一个月太短了。要想减肥成功，只能坚持，才会慢慢有效果。",
+          "pinyin": "Yí ge yuè tài duǎn le. Yào xiǎng jiǎnféi chénggōng, zhǐ néng jiānchí, cái huì mànmàn yǒu xiàoguǒ.",
+          "translation": "One month is too short. If you want to lose weight successfully, you can only keep at it; then it will slowly show results."
+        },
+        {
+          "speaker": "孙月",
+          "text": "我本来已经打算放弃了，但是你刚才的话让我改变了主意。这些饼干和巧克力送给你了。",
+          "pinyin": "Wǒ běnlái yǐjīng dǎsuàn fàngqì le, dànshì nǐ gāngcái de huà ràng wǒ gǎibiàn le zhǔyi. Zhèxiē bǐnggān hé qiǎokèlì sòng gěi nǐ le.",
+          "translation": "I had originally already planned to give up, but what you just said made me change my mind. I’ll give these biscuits and chocolates to you."
+        }
+      ],
+      "audio": "audio/09-1.mp3",
+      "proper_nouns": [
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, name of a person"
+        },
+        {
+          "word": "孙月",
+          "pinyin": "Sūn Yuè",
+          "meaning": "Sun Yue, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "饼干",
+          "pinyin": "bǐnggān",
+          "meaning": "n. biscuit"
+        },
+        {
+          "word": "难道",
+          "pinyin": "nándào",
+          "meaning": "adv. used in a rhetorical question for emphasis"
+        },
+        {
+          "word": "得",
+          "pinyin": "děi",
+          "meaning": "mod. must, have to"
+        },
+        {
+          "word": "坚持",
+          "pinyin": "jiānchí",
+          "meaning": "v. to insist, to persist"
+        },
+        {
+          "word": "放弃",
+          "pinyin": "fàngqì",
+          "meaning": "v. to give up"
+        },
+        {
+          "word": "主意",
+          "pinyin": "zhǔyi",
+          "meaning": "n. idea, plan"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "李进和张远聊张远的成功经历 (lǐ jìn hé zhāng yuǎn liáo zhāng yuǎn de chénggōng jīnglì) (Li Jin and Zhang Yuan talk about Zhang Yuan’s experience of success)",
+      "content": [
+        {
+          "speaker": "李进",
+          "text": "你网球打得真好，还得过那么多国际大奖！每次看你比赛，感觉你轻轻松松就赢了。",
+          "pinyin": "Nǐ wǎngqiú dǎ de zhēn hǎo, hái dé guo nàme duō guójì dàjiǎng! Měi cì kàn nǐ bǐsài, gǎnjué nǐ qīngqīngsōngsōng jiù yíng le.",
+          "translation": "You play tennis so well and have won so many international awards! Every time I watch your matches, it feels like you win effortlessly."
+        },
+        {
+          "speaker": "张远",
+          "text": "哪里啊！那是你没看到我辛苦练习的一面，没有人随随便便就能成功的。",
+          "pinyin": "Nǎli a! Nà shì nǐ méi kàn dào wǒ xīnkǔ liànxí de yí miàn, méiyǒu rén suí suí biàn biàn jiù néng chénggōng de.",
+          "translation": "Not at all! That’s because you haven’t seen the side of me that practiced hard. No one can succeed casually."
+        },
+        {
+          "speaker": "李进",
+          "text": "我从小也对网球感兴趣，但是到现在还是打得不怎么样。",
+          "pinyin": "Wǒ cóng xiǎo yě duì wǎngqiú gǎn xìngqù, dànshì dào xiànzài háishì dǎ de bù zěnmeyàng.",
+          "translation": "I’ve also been interested in tennis since I was little, but even now I still don’t play very well."
+        },
+        {
+          "speaker": "张远",
+          "text": "你知道吗？<b>不管</b>春夏秋冬，我练球从来没有休息过一天。",
+          "pinyin": "Nǐ zhīdào ma? Bùguǎn chūn xià qiū dōng, wǒ liàn qiú cónglái méiyǒu xiūxi guo yì tiān.",
+          "translation": "Do you know? No matter whether it was spring, summer, autumn, or winter, I never took a single day off from practicing."
+        },
+        {
+          "speaker": "李进",
+          "text": "真是不容易啊！看来我只看到了你成功时获得的鲜花，却没注意到你成功前流下的汗水。",
+          "pinyin": "Zhēn shì bù róngyì a! Kànlái wǒ zhǐ kàn dào le nǐ chénggōng shí huòdé de xiānhuā, què méi zhùyì dào nǐ chénggōng qián liú xià de hànshuǐ.",
+          "translation": "That really wasn’t easy! It seems I only saw the flowers you received when you succeeded, but didn’t notice the sweat you shed before your success."
+        },
+        {
+          "speaker": "张远",
+          "text": "任何成功都要通过努力才能得到。<b>只要</b>你坚持练习，我相信你也会越打越好的。",
+          "pinyin": "Rènhé chénggōng dōu yào tōngguò nǔlì cái néng dédào. Zhǐyào nǐ jiānchí liànxí, wǒ xiāngxìn nǐ yě huì yuè dǎ yuè hǎo de.",
+          "translation": "Any success can only be gained through hard work. As long as you keep practicing, I believe you will also play better and better."
+        }
+      ],
+      "audio": "audio/09-2.mp3",
+      "proper_nouns": [
+        {
+          "word": "李进",
+          "pinyin": "Lǐ Jìn",
+          "meaning": "Li Jin, name of a person"
+        },
+        {
+          "word": "张远",
+          "pinyin": "Zhāng Yuǎn",
+          "meaning": "Zhang Yuan, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "网球",
+          "pinyin": "wǎngqiú",
+          "meaning": "n. tennis"
+        },
+        {
+          "word": "国际",
+          "pinyin": "guójì",
+          "meaning": "n. international"
+        },
+        {
+          "word": "轻松",
+          "pinyin": "qīngsōng",
+          "meaning": "adj. relaxed, effortless"
+        },
+        {
+          "word": "赢",
+          "pinyin": "yíng",
+          "meaning": "v. to win"
+        },
+        {
+          "word": "随便",
+          "pinyin": "suíbiàn",
+          "meaning": "adj. casual, at random"
+        },
+        {
+          "word": "汗",
+          "pinyin": "hàn",
+          "meaning": "n. sweat, perspiration"
+        },
+        {
+          "word": "通过",
+          "pinyin": "tōngguò",
+          "meaning": "prep. through, by means of"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "小林和小李谈王红的成功经历 (xiǎo lín hé xiǎo lǐ tán wáng hóng de chénggōng jīnglì) (Xiao Lin and Xiao Li talk about Wang Hong’s experience of success)",
+      "content": [
+        {
+          "speaker": "小林",
+          "text": "你还记得王红吗？我在报纸上看到一篇关于她的新闻，她现在已经是一个有名的作家了。",
+          "pinyin": "Nǐ hái jìde Wáng Hóng ma? Wǒ zài bàozhǐ shàng kàn dào yì piān guānyú tā de xīnwén, tā xiànzài yǐjīng shì yí ge yǒumíng de zuòjiā le.",
+          "translation": "Do you still remember Wang Hong? I saw an article about her in the newspaper. She is already a famous writer now."
+        },
+        {
+          "speaker": "小李",
+          "text": "听说她毕业后放弃了律师的工作，开始专门写小说，没想到她竟然成功了。",
+          "pinyin": "Tīngshuō tā bìyè hòu fàngqì le lǜshī de gōngzuò, kāishǐ zhuānmén xiě xiǎoshuō, méi xiǎng dào tā jìngrán chénggōng le.",
+          "translation": "I heard that after graduating she gave up her job as a lawyer and started writing novels full-time. I didn’t expect she would actually succeed."
+        },
+        {
+          "speaker": "小林",
+          "text": "<b>当时</b>她的父母和亲戚都不支持她，<b>可是</b>她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。",
+          "pinyin": "Dāngshí tā de fùmǔ hé qīnqi dōu bù zhīchí tā, kěshì tā jiānchí zìjǐ de xuǎnzé, xiànzài zhōngyú xiàng suǒyǒu rén zhèngmíng le tā de xuǎnzé shì zhèngquè de.",
+          "translation": "At that time, her parents and relatives did not support her, but she stuck to her own choice. Now she has finally proven to everyone that her choice was correct."
+        },
+        {
+          "speaker": "小李",
+          "text": "看来为了自己的理想，放弃一些东西也是值得的。",
+          "pinyin": "Kànlái wèile zìjǐ de lǐxiǎng, fàngqì yìxiē dōngxi yě shì zhíde de.",
+          "translation": "It seems that for the sake of your own ideals, giving up some things is also worth it."
+        },
+        {
+          "speaker": "小林",
+          "text": "一个人只有两只手，不可能得到所有想要的东西，所以有时候放弃是一种聪明的选择。",
+          "pinyin": "Yí ge rén zhǐ yǒu liǎng zhī shǒu, bù kěnéng dédào suǒyǒu xiǎng yào de dōngxi, suǒyǐ yǒu shíhou fàngqì shì yì zhǒng cōngmíng de xuǎnzé.",
+          "translation": "A person only has two hands and cannot get everything they want, so sometimes giving something up is a smart choice."
+        },
+        {
+          "speaker": "小李",
+          "text": "是啊，<b>只有</b>学会放弃，<b>才能</b>把自己的能力用到最该做的事情上，最后获得成功。",
+          "pinyin": "Shì a, zhǐyǒu xuéhuì fàngqì, cái néng bǎ zìjǐ de nénglì yòng dào zuì gāi zuò de shìqing shàng, zuìhòu huòdé chénggōng.",
+          "translation": "Yes. Only by learning to give up can you use your abilities on the things you should do most and finally achieve success."
+        }
+      ],
+      "audio": "audio/09-3.mp3",
+      "proper_nouns": [
+        {
+          "word": "小林",
+          "pinyin": "Xiǎo Lín",
+          "meaning": "Xiao Lin, name of a person"
+        },
+        {
+          "word": "小李",
+          "pinyin": "Xiǎo Lǐ",
+          "meaning": "Xiao Li, name of a person"
+        },
+        {
+          "word": "王红",
+          "pinyin": "Wáng Hóng",
+          "meaning": "Wang Hong, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "篇",
+          "pinyin": "piān",
+          "meaning": "m. used for writings, papers or articles"
+        },
+        {
+          "word": "作家",
+          "pinyin": "zuòjiā",
+          "meaning": "n. writer"
+        },
+        {
+          "word": "当时",
+          "pinyin": "dāngshí",
+          "meaning": "n. then, at that time"
+        },
+        {
+          "word": "可是",
+          "pinyin": "kěshì",
+          "meaning": "conj. but, however"
+        },
+        {
+          "word": "正确",
+          "pinyin": "zhèngquè",
+          "meaning": "adj. right, correct"
+        },
+        {
+          "word": "理想",
+          "pinyin": "lǐxiǎng",
+          "meaning": "n. ideal"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "关于勇敢面对失败的短文 (guānyú yǒnggǎn miànduì shībài de duǎnwén) (A short passage about bravely facing failure)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "如果你想做什么事情，那就勇敢地去做，不要担心结果，不要考虑会不会失败。要是太看重结果，失败就会给人们带来很多烦恼。我们应该把注意力放在做事情的过程上，这样你会在做的过程中发现解决问题的快乐，这是其他任何东西都给不了的。<b>即使</b>最后失败了<b>也</b>没有关系，因为<b>至少</b>你已经努力过，<b>而且</b>我们还可以从失败中总结出有用的经验，有了这些积累，成功自然离我们越来越近。",
+          "pinyin": "Rúguǒ nǐ xiǎng zuò shénme shìqing, nà jiù yǒnggǎn de qù zuò, bú yào dānxīn jiéguǒ, bú yào kǎolǜ huì bú huì shībài. Yàoshi tài kànzhòng jiéguǒ, shībài jiù huì gěi rénmen dài lái hěn duō fánnǎo. Wǒmen yīnggāi bǎ zhùyìlì fàng zài zuò shìqing de guòchéng shàng, zhèyàng nǐ huì zài zuò de guòchéng zhōng fāxiàn jiějué wèntí de kuàilè, zhè shì qítā rènhé dōngxi dōu gěi bù liǎo de. Jíshǐ zuìhòu shībài le yě méiyǒu guānxi, yīnwèi zhìshǎo nǐ yǐjīng nǔlì guo, érqiě wǒmen hái kěyǐ cóng shībài zhōng zǒngjié chū yǒuyòng de jīngyàn, yǒu le zhèxiē jīlěi, chénggōng zìrán lí wǒmen yuè lái yuè jìn.",
+          "translation": "If you want to do something, then do it bravely. Don’t worry about the result, and don’t think about whether you will fail. If you care too much about the result, failure will bring people many worries. We should put our attention on the process of doing things. That way, during the process, you will discover the joy of solving problems, something nothing else can give you. Even if you fail in the end, it does not matter, because at least you have worked hard. Moreover, we can still sum up useful experience from failure. With this accumulation, success will naturally get closer and closer to us."
+        }
+      ],
+      "audio": "audio/09-4.mp3",
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "勇敢",
+          "pinyin": "yǒnggǎn",
+          "meaning": "adj. brave, courageous"
+        },
+        {
+          "word": "结果",
+          "pinyin": "jiéguǒ",
+          "meaning": "n. result"
+        },
+        {
+          "word": "失败",
+          "pinyin": "shībài",
+          "meaning": "v. to fail"
+        },
+        {
+          "word": "过程",
+          "pinyin": "guòchéng",
+          "meaning": "n. course, process"
+        },
+        {
+          "word": "至少",
+          "pinyin": "zhìshǎo",
+          "meaning": "adv. at least"
+        },
+        {
+          "word": "总结",
+          "pinyin": "zǒngjié",
+          "meaning": "v. to sum up"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "关于面对困难取得成功的短文 (guānyú miànduì kùnnan qǔdé chénggōng de duǎnwén) (A short passage about facing difficulties and achieving success)",
+      "content": [
+        {
+          "speaker": "独白",
+          "text": "每一个人都希望成功，可是很多时候，在成功之前会遇到很多困难。有些人遇到困难就放弃，而有些人遇到困难却想办法解决它。对困难的态度不同，结果也是不一样的。爱迪生就是在找了上千种材料后才找到了能点亮电灯的材料。取得成功的人<b>往往</b>都经历过许多失败，他们和普通人的区别就是他们都坚持了下来。所以就算只有1%的希望，我们也要做出100%的努力。困难只是暂时的，“阳光总在风雨后”，<b>只有</b>我们勇敢地<b>面对</b>困难，<b>才</b>能有希望取得成功。",
+          "pinyin": "Měi yí ge rén dōu xīwàng chénggōng, kěshì hěn duō shíhou, zài chénggōng zhī qián huì yù dào hěn duō kùnnan. Yǒu xiē rén yù dào kùnnan jiù fàngqì, ér yǒu xiē rén yù dào kùnnan què xiǎng bànfǎ jiějué tā. Duì kùnnan de tàidu bùtóng, jiéguǒ yě shì bù yíyàng de. Àidíshēng jiù shì zài zhǎo le shàng qiān zhǒng cáiliào hòu cái zhǎo dào le néng diǎnliàng diàndēng de cáiliào. Qǔdé chénggōng de rén wǎngwǎng dōu jīnglì guo xǔduō shībài, tāmen hé pǔtōng rén de qūbié jiù shì tāmen dōu jiānchí le xiàlai. Suǒyǐ jiùsuàn zhǐ yǒu bǎi fēn zhī yī de xīwàng, wǒmen yě yào zuò chū bǎi fēn zhī bǎi de nǔlì. Kùnnan zhǐ shì zànshí de, “yángguāng zǒng zài fēngyǔ hòu”, zhǐyǒu wǒmen yǒnggǎn de miànduì kùnnan, cái néng yǒu xīwàng qǔdé chénggōng.",
+          "translation": "Everyone hopes to succeed, but often, before success, they encounter many difficulties. Some people give up when they meet difficulties, while others try to find ways to solve them. Different attitudes toward difficulties lead to different results. Edison found the material that could light an electric lamp only after searching through over a thousand materials. People who achieve success often have experienced many failures. The difference between them and ordinary people is that they all persisted. So even if there is only 1% hope, we should still make 100% effort. Difficulties are only temporary: “Sunshine always comes after wind and rain.” Only when we bravely face difficulties can we have hope of achieving success."
+        }
+      ],
+      "audio": "audio/09-5.mp3",
+      "proper_nouns": [
+        {
+          "word": "爱迪生",
+          "pinyin": "Àidíshēng",
+          "meaning": "Thomas Alva Edison (1847-1931), an American inventor"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "取",
+          "pinyin": "qǔ",
+          "meaning": "v. to gain, to seek"
+        },
+        {
+          "word": "经历",
+          "pinyin": "jīnglì",
+          "meaning": "v. to go through, to experience"
+        },
+        {
+          "word": "许多",
+          "pinyin": "xǔduō",
+          "meaning": "num. many, plenty of"
+        },
+        {
+          "word": "区别",
+          "pinyin": "qūbié",
+          "meaning": "n. difference, distinction"
+        },
+        {
+          "word": "暂时",
+          "pinyin": "zànshí",
+          "meaning": "n. temporary, for the time being"
+        },
+        {
+          "word": "面对",
+          "pinyin": "miànduì",
+          "meaning": "v. to face, to confront"
+        }
+      ]
+    }
+  ],
+  "translations": {
+    "vocabulary": {
+      "饼干": {
+        "en": "biscuit",
+        "ko": "비스킷",
+        "ja": "ビスケット"
+      },
+      "难道": {
+        "en": "used in a rhetorical question for emphasis",
+        "ko": "설의문에서 강조할 때 쓰는 부사",
+        "ja": "反語疑問で強調に使う副詞"
+      },
+      "得": {
+        "en": "must, have to",
+        "ko": "~해야 하다",
+        "ja": "〜しなければならない"
+      },
+      "坚持": {
+        "en": "to insist, to persist",
+        "ko": "견지하다, 꾸준히 하다",
+        "ja": "やり通す、堅持する"
+      },
+      "放弃": {
+        "en": "to give up",
+        "ko": "포기하다",
+        "ja": "諦める、放棄する"
+      },
+      "主意": {
+        "en": "idea, plan",
+        "ko": "생각, 방법",
+        "ja": "考え、案"
+      },
+      "网球": {
+        "en": "tennis",
+        "ko": "테니스",
+        "ja": "テニス"
+      },
+      "国际": {
+        "en": "international",
+        "ko": "국제",
+        "ja": "国際"
+      },
+      "轻松": {
+        "en": "relaxed, effortless",
+        "ko": "가볍다, 수월하다",
+        "ja": "気楽な、楽な"
+      },
+      "赢": {
+        "en": "to win",
+        "ko": "이기다",
+        "ja": "勝つ"
+      },
+      "随便": {
+        "en": "casual, at random",
+        "ko": "마음대로, 아무렇게나",
+        "ja": "適当に、気ままに"
+      },
+      "汗": {
+        "en": "sweat, perspiration",
+        "ko": "땀",
+        "ja": "汗"
+      },
+      "通过": {
+        "en": "through, by means of",
+        "ko": "~을 통해",
+        "ja": "〜を通じて、〜によって"
+      },
+      "篇": {
+        "en": "used for writings, papers or articles",
+        "ko": "편, 글을 세는 양사",
+        "ja": "編、文章を数える量詞"
+      },
+      "作家": {
+        "en": "writer",
+        "ko": "작가",
+        "ja": "作家"
+      },
+      "当时": {
+        "en": "then, at that time",
+        "ko": "당시, 그때",
+        "ja": "当時、その時"
+      },
+      "可是": {
+        "en": "but, however",
+        "ko": "하지만, 그러나",
+        "ja": "しかし、でも"
+      },
+      "正确": {
+        "en": "right, correct",
+        "ko": "정확하다, 옳다",
+        "ja": "正しい、正確な"
+      },
+      "理想": {
+        "en": "ideal",
+        "ko": "이상",
+        "ja": "理想"
+      },
+      "勇敢": {
+        "en": "brave, courageous",
+        "ko": "용감하다",
+        "ja": "勇敢な"
+      },
+      "结果": {
+        "en": "result",
+        "ko": "결과",
+        "ja": "結果"
+      },
+      "失败": {
+        "en": "to fail",
+        "ko": "실패하다",
+        "ja": "失敗する"
+      },
+      "过程": {
+        "en": "course, process",
+        "ko": "과정",
+        "ja": "過程、プロセス"
+      },
+      "至少": {
+        "en": "at least",
+        "ko": "적어도",
+        "ja": "少なくとも"
+      },
+      "总结": {
+        "en": "to sum up",
+        "ko": "총괄하다, 정리하다",
+        "ja": "総括する、まとめる"
+      },
+      "取": {
+        "en": "to gain, to seek",
+        "ko": "얻다, 구하다",
+        "ja": "得る、求める"
+      },
+      "经历": {
+        "en": "to go through, to experience",
+        "ko": "겪다, 경험하다",
+        "ja": "経験する、経る"
+      },
+      "许多": {
+        "en": "many, plenty of",
+        "ko": "많은, 허다한",
+        "ja": "多くの、たくさんの"
+      },
+      "区别": {
+        "en": "difference, distinction",
+        "ko": "차이, 구별",
+        "ja": "違い、区別"
+      },
+      "暂时": {
+        "en": "temporary, for the time being",
+        "ko": "일시적인, 잠시",
+        "ja": "一時的な、しばらく"
+      },
+      "面对": {
+        "en": "to face, to confront",
+        "ko": "마주하다, 직면하다",
+        "ja": "向き合う、直面する"
+      }
+    },
+    "properNouns": {
+      "王静": {
+        "en": "Wang Jing, name of a person",
+        "ko": "왕징, 사람 이름",
+        "ja": "王静、人名"
+      },
+      "孙月": {
+        "en": "Sun Yue, name of a person",
+        "ko": "쑨웨, 사람 이름",
+        "ja": "孫月、人名"
+      },
+      "李进": {
+        "en": "Li Jin, name of a person",
+        "ko": "리진, 사람 이름",
+        "ja": "李進、人名"
+      },
+      "张远": {
+        "en": "Zhang Yuan, name of a person",
+        "ko": "장위안, 사람 이름",
+        "ja": "張遠、人名"
+      },
+      "小林": {
+        "en": "Xiao Lin, name of a person",
+        "ko": "샤오린, 사람 이름",
+        "ja": "小林、人名"
+      },
+      "小李": {
+        "en": "Xiao Li, name of a person",
+        "ko": "샤오리, 사람 이름",
+        "ja": "小李、人名"
+      },
+      "王红": {
+        "en": "Wang Hong, name of a person",
+        "ko": "왕훙, 사람 이름",
+        "ja": "王紅、人名"
+      },
+      "爱迪生": {
+        "en": "Thomas Alva Edison (1847-1931), an American inventor",
+        "ko": "토머스 앨바 에디슨(1847-1931), 미국의 발명가",
+        "ja": "トーマス・アルバ・エジソン（1847-1931）、アメリカの発明家"
+      }
+    },
+    "lessonTitle": {
+      "en": "Lesson 9: Wang Jing and Sun Yue talk about Sun Yue losing weight",
+      "ko": "Lesson 9: 왕징과 쑨웨가 쑨웨의 다이어트에 대해 이야기하다",
+      "ja": "Lesson 9: 王静と孫月が孫月のダイエットについて話す"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Wang Jing and Sun Yue talk about Sun Yue losing weight",
+        "ko": "왕징과 쑨웨가 쑨웨의 다이어트에 대해 이야기하다",
+        "ja": "王静と孫月が孫月のダイエットについて話す"
+      },
+      "2": {
+        "en": "Li Jin and Zhang Yuan talk about Zhang Yuan’s experience of success",
+        "ko": "리진과 장위안이 장위안의 성공 경험에 대해 이야기하다",
+        "ja": "李進と張遠が張遠の成功経験について話す"
+      },
+      "3": {
+        "en": "Xiao Lin and Xiao Li talk about Wang Hong’s experience of success",
+        "ko": "샤오린과 샤오리가 왕훙의 성공 경험에 대해 이야기하다",
+        "ja": "小林と小李が王紅の成功経験について話す"
+      },
+      "4": {
+        "en": "A short passage about bravely facing failure",
+        "ko": "실패를 용감하게 마주하는 것에 관한 짧은 글",
+        "ja": "勇敢に失敗と向き合うことについての短文"
+      },
+      "5": {
+        "en": "A short passage about facing difficulties and achieving success",
+        "ko": "어려움을 마주하고 성공을 얻는 것에 관한 짧은 글",
+        "ja": "困難に向き合い成功を得ることについての短文"
+      }
+    },
+    "grammar": {
+      "难道": {
+        "formal_translation": {
+          "en": "The adverb “难道” emphasizes the tone of a rhetorical question. In a positive rhetorical question, it indicates a negative meaning; in a negative rhetorical question, it indicates a positive meaning. For example, “难道汉语真的这么难吗？” emphasizes that Chinese is not difficult.",
+          "ko": "부사 “难道”는 반문문의 어기를 강화합니다. 긍정형 반문문에서는 부정의 뜻을 나타내고, 부정형 반문문에서는 긍정의 뜻을 나타냅니다. 예를 들어 “难道汉语真的这么难吗？”는 중국어가 어렵지 않다는 점을 강조합니다.",
+          "ja": "副詞「难道」は反語疑問の語気を強めます。肯定形の反語疑問では否定の意味を表し、否定形の反語疑問では肯定の意味を表します。たとえば「难道汉语真的这么难吗？」は、中国語は難しくないということを強調します。"
+        },
+        "colloquial_translation": {
+          "en": "“难道” does not ask for neutral information; it pushes the listener toward the opposite conclusion. It is common with “吗”, but can also appear without “吗” in spoken rhetorical questions.",
+          "ko": "“难道”는 중립적으로 정보를 묻는 표현이 아니라, 상대가 반대 결론을 받아들이도록 밀어붙이는 반문 표현입니다. “吗”와 함께 자주 쓰지만, 구어에서는 “吗” 없이도 쓸 수 있습니다.",
+          "ja": "「难道」は中立的に情報を尋ねる表現ではなく、相手に反対の結論を意識させる反語表現です。「吗」と一緒によく使いますが、話し言葉では「吗」なしでも使えます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Why did you buy so many biscuits and chocolates again? Don’t tell me you’re not trying to lose weight anymore?",
+              "ko": "왜 또 이렇게 많은 비스킷과 초콜릿을 샀어? 설마 다이어트 안 하려는 거야?",
+              "ja": "どうしてまたこんなにたくさんのビスケットとチョコレートを買ったの？まさかダイエットをやめたの？"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Hey, it’s already ten. Why still haven’t you come?\nB: Didn’t you see the text message? I have something today and can’t go anymore.",
+              "ko": "A: 여보세요, 벌써 10시인데 왜 아직 안 와?\nB: 설마 문자 못 봤어? 나 오늘 일이 있어서 못 가게 됐어.",
+              "ja": "A: もしもし、もう10時だよ。どうしてまだ来ないの？\nB: まさかメッセージを見ていないの？今日は用事があって行けなくなったんだ。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Didn’t you leave at two? Did it really take more than two hours on the road?\nB: My car had a small problem, and I just sent it to be repaired.",
+              "ko": "A: 너 2시에 출발한 거 아니었어? 설마 길에서 두 시간 넘게 걸린 거야?\nB: 내 차에 문제가 좀 생겨서 방금 수리하러 보냈어.",
+              "ja": "A: 2時に出発したんじゃなかったの？まさか道で2時間以上かかったの？\nB: 私の車に少し問題が出て、さっき修理に出したんだ。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Don’t tell me you don’t know about this?",
+              "ko": "설마 너 이 일을 모르는 거야?",
+              "ja": "まさかこのことを知らないの？"
+            }
+          },
+          {
+            "translation": {
+              "en": "Isn’t this already clear enough?",
+              "ko": "설마 이렇게 해도 아직 충분히 분명하지 않은 거야?",
+              "ja": "まさかこれでもまだ十分にはっきりしていないの？"
+            }
+          },
+          {
+            "translation": {
+              "en": "Are you really going to give up?",
+              "ko": "설마 정말 포기하려는 거야?",
+              "ja": "まさか本当に諦めるつもりなの？"
+            }
+          }
+        ]
+      },
+      "通过": {
+        "formal_translation": {
+          "en": "“通过” can be used as a preposition to express attaining a result by means of someone or something. It can also be used as a verb meaning to pass through a place from one end or side to another, or to have reached a certain standard or met a requirement.",
+          "ko": "“通过”는 전치사로 쓰여 사람이나 사물을 어떤 수단으로 삼아 특정 결과에 도달함을 나타낼 수 있습니다. 또한 동사로도 쓰여 어떤 장소를 한쪽에서 다른 쪽으로 지나가다, 또는 일정한 기준이나 요구에 도달하다라는 뜻을 나타낼 수 있습니다.",
+          "ja": "「通过」は前置詞として、人や物を手段としてある結果に達することを表せます。また動詞として、ある場所を一方から他方へ通り抜けること、または一定の基準や要求に達することも表せます。"
+        },
+        "colloquial_translation": {
+          "en": "As a preposition, “通过” points to the means or channel used to reach a result. As a verb, it can describe physically passing through a place or passing an exam, interview, standard, or requirement.",
+          "ko": "전치사일 때 “通过”는 결과에 이르는 수단이나 경로를 가리킵니다. 동사일 때는 장소를 통과하거나 시험, 면접, 기준, 요구를 통과한다는 뜻을 나타냅니다.",
+          "ja": "前置詞としての「通过」は、結果に至る手段やルートを示します。動詞としては、場所を通り抜けることや、試験・面接・基準・要求に合格することを表します。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Any success can only be gained through hard work.",
+              "ko": "어떤 성공이든 노력을 통해서야 얻을 수 있습니다.",
+              "ja": "どんな成功も努力を通して初めて得られます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I have been watching this program. It introduces a lot of little knowledge from daily life. Many issues I never noticed before, I now understand quite a bit about through it.",
+              "ko": "이 프로그램을 저는 계속 보고 있습니다. 이 프로그램은 생활 속의 작은 지식을 많이 소개합니다. 예전에 제가 주의하지 못했던 많은 문제들을 지금은 그것을 통해 꽤 많이 알게 되었습니다.",
+              "ja": "この番組を私はずっと見ています。生活の中のちょっとした知識をたくさん紹介しています。以前は気づかなかった多くの問題を、今ではそれを通してかなり理解しました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This street can only be passed through on foot.",
+              "ko": "이 거리는 걸어서만 통과할 수 있습니다.",
+              "ja": "この通りは歩いて通ることしかできません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I passed that company’s interview. The manager had a good impression of me, and he wants me to officially start work tomorrow.",
+              "ko": "저는 그 회사의 면접에 통과했습니다. 매니저가 저를 좋게 보아서 내일 바로 정식으로 출근하라고 했습니다.",
+              "ja": "私はその会社の面接に合格しました。マネージャーは私に良い印象を持ち、明日正式に出勤するように言いました。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I got to know him through a friend.",
+              "ko": "저는 친구를 통해 그를 알게 되었습니다.",
+              "ja": "私は友だちを通して彼と知り合いました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This road cannot be passed through right now.",
+              "ko": "이 길은 지금 통과할 수 없습니다.",
+              "ja": "この道は今通れません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I finally passed the exam.",
+              "ko": "저는 드디어 시험에 통과했습니다.",
+              "ja": "私はついに試験に合格しました。"
+            }
+          }
+        ]
+      },
+      "通过 vs 经过": {
+        "formal_translation": {
+          "en": "Similarity: Both “通过” and “经过” can indicate the attainment of a certain goal via somebody or by means of something. Differences: 1) In this meaning, “通过” is a preposition and “经过” is a verb. “通过” emphasizes the method or means, while “经过” emphasizes the process. 2) When used as verbs, “通过” means to pass through somewhere from one end or side to another, while “经过” means to go by way of somewhere without the meaning of passing through. 3) “经过” can also be used as a noun to indicate the development process of something, while “通过” has no such usage.",
+          "ko": "공통점: “通过”와 “经过”는 모두 사람이나 사물을 어떤 수단으로 삼아 특정 목적에 도달함을 나타낼 수 있습니다. 차이점: 1) 이 뜻을 나타낼 때 “通过”는 전치사이고 “经过”는 동사입니다. “通过”는 방법이나 수단을 강조하고, “经过”는 일의 과정을 강조합니다. 2) 둘 다 동사로 쓰일 때 “通过”는 한쪽에서 다른 쪽으로 통과한다는 뜻이고, “经过”는 어떤 곳을 지나간다는 뜻으로 통과의 의미는 없습니다. 3) “经过”는 명사로도 쓰여 일의 발전 과정을 나타낼 수 있지만 “通过”에는 이런 용법이 없습니다.",
+          "ja": "共通点：「通过」と「经过」はどちらも、人や物を手段としてある目的に達することを表せます。違い：1) この意味を表すとき、「通过」は前置詞で、「经过」は動詞です。「通过」は方法や手段を強調し、「经过」は物事の過程を強調します。2) どちらも動詞として使う場合、「通过」は一方から他方へ通り抜けることを表し、「经过」はある場所を経由することを表し、通り抜ける意味はありません。3) 「经过」は名詞として物事の発展過程を表すこともできますが、「通过」にはその用法はありません。"
+        },
+        "colloquial_translation": {
+          "en": "Use “通过” when the focus is the means, channel, or method. Use “经过” when the focus is the process, route, or course of events. As a noun, only “经过” can mean the course or development process of something.",
+          "ko": "수단, 경로, 방법에 초점이 있으면 “通过”를 씁니다. 과정, 지나온 길, 사건의 전개에 초점이 있으면 “经过”를 씁니다. 명사로 “일의 경과/과정”을 말할 때는 “经过”만 쓸 수 있습니다.",
+          "ja": "手段・ルート・方法に焦点があるときは「通过」を使います。過程・通ってきた道・出来事の展開に焦点があるときは「经过」を使います。名詞として「事の経過・過程」を表す場合は「经过」だけが使えます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Through everyone’s efforts, the company’s business has grown bigger and bigger.",
+              "ko": "모두의 노력을 통해 회사의 장사가 점점 커졌습니다.",
+              "ja": "みんなの努力を通して、会社の商売はますます大きくなりました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "We hope to arouse everyone’s interest through this event and help everyone understand our company better.",
+              "ko": "이번 행사를 통해 모두의 흥미를 불러일으키고, 모두가 우리 회사를 더 잘 이해하게 되기를 바랍니다.",
+              "ja": "今回のイベントを通してみんなの興味を引き、私たちの会社をもっと理解してもらいたいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "After going through failure again and again, he finally succeeded.",
+              "ko": "여러 차례의 실패를 겪은 뒤에 그는 마침내 성공했습니다.",
+              "ja": "何度もの失敗を経た後、彼はついに成功しました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The road is being repaired here, so cars cannot pass through.",
+              "ko": "여기는 도로 공사 중이라 자동차가 통과할 수 없습니다.",
+              "ja": "ここは道路工事中で、車は通り抜けることができません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I happened to pass by here, so I came over to see you.",
+              "ko": "마침 이곳을 지나가다가 들러서 너를 보러 왔습니다.",
+              "ja": "ちょうどここを通りかかったので、ついでにあなたに会いに来ました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Xiao Wang told me the whole course of the matter. It turns out this really has nothing to do with you.",
+              "ko": "샤오왕이 일의 경과를 나에게 알려 주었고, 알고 보니 이 일은 정말 너와 관계가 없었습니다.",
+              "ja": "小王が事の経過を教えてくれました。実はこの件は本当にあなたとは関係ありませんでした。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Using “通过” with effort emphasizes the method used to get a result.",
+              "ko": "노력을 통해 결과를 얻는다고 할 때는 방법을 강조합니다.",
+              "ja": "努力を通して結果を得ると言うときは、方法を強調します。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Using “经过” with many failures before success emphasizes the process.",
+              "ko": "많은 실패를 겪고 나서 성공했다고 할 때는 과정을 강조합니다.",
+              "ja": "多くの失敗を経て成功したと言うときは、過程を強調します。"
+            }
+          },
+          {
+            "translation": {
+              "en": "You can say “the course of the matter” with “经过”, but not with “通过”.",
+              "ko": "“事情的经过”라고는 할 수 있지만 “事情的通过”이라고는 할 수 없습니다.",
+              "ja": "「事情的经过」とは言えますが、「事情的通过」とは言えません。"
+            }
+          }
+        ]
+      },
+      "可是": {
+        "formal_translation": {
+          "en": "The conjunction “可是” is used in the second clause of a complex sentence to indicate a transition in meaning. It often coordinates with a previous clause introduced by “虽然”.",
+          "ko": "접속사 “可是”는 복문의 뒤 절에서 쓰여 의미의 전환을 나타냅니다. 앞 절의 “虽然”과 함께 쓰이는 경우가 많습니다.",
+          "ja": "接続詞「可是」は複文の後半の節で使われ、意味の転換を表します。前の節の「虽然」と組み合わせて使われることがよくあります。"
+        },
+        "colloquial_translation": {
+          "en": "“可是” is close to “但是”, but it often sounds a bit more conversational. It marks a contrast or turn after the first clause, and “虽然” can appear in the first clause but is not always required.",
+          "ko": "“可是”는 “但是”와 가깝지만 조금 더 구어적인 느낌이 있습니다. 앞 절 뒤에 대조나 전환을 표시하며, “虽然”은 앞 절에 올 수 있지만 반드시 필요한 것은 아닙니다.",
+          "ja": "「可是」は「但是」に近いですが、やや口語的な響きがあります。前の節の後で対比や転換を示し、「虽然」は前の節に置くことができますが、必須ではありません。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "A: Why do you want to change jobs again? Isn’t the income here pretty high?\nB: Although the income is high, I often have to work overtime and rarely have time to be with my family.",
+              "ko": "A: 왜 또 직장을 바꾸려고 해? 여기 수입이 꽤 높은 거 아니야?\nB: 수입은 높지만, 자주 야근해야 해서 가족과 함께할 시간이 거의 없어.",
+              "ja": "A: どうしてまた転職したいの？ここの収入はかなり高いんじゃないの？\nB: 収入は高いけれど、よく残業しなければならず、家族と一緒にいる時間がほとんどありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When I was little, everyone said I was like my mother, especially in personality. But after I grew up, they said I looked more like my father.",
+              "ko": "어릴 때 모두 내가 엄마를 닮았다고 했어, 특히 성격이. 그런데 자란 뒤에는 내가 아빠를 더 닮았다고 하더라.",
+              "ja": "子どもの頃、みんな私が母に似ていると言っていました。特に性格です。でも大きくなってからは、父にもっと似ていると言われました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "At that time, her parents and relatives did not support her, but she stuck to her own choice. Now she has finally proven to everyone that her choice was correct.",
+              "ko": "당시 그녀의 부모님과 친척들은 모두 그녀를 지지하지 않았지만, 그녀는 자신의 선택을 끝까지 지켰고, 지금은 마침내 모든 사람에게 자신의 선택이 옳았다는 것을 증명했어.",
+              "ja": "当時、彼女の両親や親戚はみな彼女を支持しませんでしたが、彼女は自分の選択を貫き、今ではついに全ての人に自分の選択が正しかったことを証明しました。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Although this job is good, I still want to try a new opportunity.",
+              "ko": "이 일은 괜찮지만, 그래도 새로운 기회를 한번 시도해 보고 싶어요.",
+              "ja": "この仕事は悪くありませんが、それでも新しいチャンスを試してみたいです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I really want to go, but I truly don’t have time today.",
+              "ko": "정말 가고 싶지만, 오늘은 정말 시간이 없어요.",
+              "ja": "本当に行きたいのですが、今日は本当に時間がありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He looks relaxed, but behind the scenes he practiced for many years.",
+              "ko": "그는 보기에는 아주 수월해 보이지만, 뒤에서는 여러 해 동안 연습했어요.",
+              "ja": "彼は楽そうに見えますが、裏では何年も練習しています。"
+            }
+          }
+        ]
+      },
+      "结果": {
+        "formal_translation": {
+          "en": "“结果” can be used as a noun to indicate the final state that something has developed into. It can also be used as a conjunction to indicate a cause-effect relationship, usually in the second clause of a complex sentence, introducing the result of the situation mentioned in the first clause.",
+          "ko": "“结果”는 명사로 쓰여 일이 발전하여 도달한 마지막 상태를 나타낼 수 있습니다. 또한 접속사로도 쓰여 인과 관계를 나타내며, 보통 복문의 뒤 절에서 앞 절의 상황이 마지막에 어떤 결과로 이어졌는지를 말합니다.",
+          "ja": "「结果」は名詞として、物事が発展して到達した最終状態を表せます。また接続詞として因果関係を表すこともでき、通常は複文の後半の節で、前の節で述べた状況が最終的にどのような結果になったかを導きます。"
+        },
+        "colloquial_translation": {
+          "en": "As a noun, “结果” names the final outcome. As a conjunction, it introduces what actually happened afterward, often with a slightly unexpected or contrasting result.",
+          "ko": "명사로는 최종 결과를 가리킵니다. 접속사로는 뒤에 실제로 일어난 일을 이끌며, 예상 밖이거나 앞 내용과 대조되는 결과를 나타내는 경우가 많습니다.",
+          "ja": "名詞としては最終的な結果を指します。接続詞としては、その後実際に起こったことを導き、予想外または前の内容と対照的な結果を表すことがよくあります。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Xiao Zhang, this plan you wrote is pretty good. Do the market research according to this plan. Hand in the survey results next month.",
+              "ko": "샤오장, 네가 쓴 이 계획서는 괜찮아. 이 계획에 따라 시장 조사를 해 봐. 다음 달에 조사 결과를 제출해.",
+              "ja": "小張、この計画書はよく書けています。この計画に従って市場調査をしてください。来月、調査結果を提出してください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If you want to do something, then do it bravely. Don’t worry about the result, and don’t think about whether you will fail.",
+              "ko": "무언가를 하고 싶다면 용감하게 하세요. 결과를 걱정하지 말고 실패할지 아닐지도 너무 생각하지 마세요.",
+              "ja": "何かをしたいなら、勇敢にやってみましょう。結果を心配せず、失敗するかどうかも考えすぎないでください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "My wife wanted to lose weight, so she went horseback riding every morning. As a result, the horse unexpectedly lost twenty jin within one month.",
+              "ko": "제 아내는 살을 빼고 싶어서 매일 아침 말을 타러 갔습니다. 그 결과 말이 뜻밖에도 한 달 안에 20근이나 빠졌습니다.",
+              "ja": "妻はダイエットしたかったので、毎朝乗馬に行きました。その結果、馬がなんと一か月以内に二十斤痩せました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Some people like to say “close enough”. For example, if every day’s work is only completed “more or less”, as a result, after it accumulates, it becomes far from enough.",
+              "ko": "어떤 사람들은 “대충 비슷해”라고 말하기를 좋아합니다. 예를 들어 매일의 일을 대충 끝내면, 그 결과 쌓이고 쌓여 크게 차이가 나게 됩니다.",
+              "ja": "「だいたい同じ」と言うのが好きな人がいます。たとえば、毎日の仕事をだいたいで終わらせていると、その結果、積み重なって大きな差になってしまいます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Don’t only look at the result; also look at the process.",
+              "ko": "결과만 보지 말고 과정도 봐야 합니다.",
+              "ja": "結果だけを見ず、過程も見るべきです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He didn’t prepare well, and as a result he didn’t pass the exam.",
+              "ko": "그는 제대로 준비하지 않았고, 그 결과 시험에 통과하지 못했습니다.",
+              "ja": "彼はきちんと準備しなかったので、その結果、試験に合格しませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I thought it would be simple, but it ended up taking two hours.",
+              "ko": "간단할 줄 알았는데, 결과적으로 두 시간이 걸렸습니다.",
+              "ja": "簡単だと思っていたのに、結果的に二時間かかりました。"
+            }
+          }
+        ]
+      },
+      "上": {
+        "formal_translation": {
+          "en": "The verb “上” means to achieve or reach a certain quantity or degree. It is often followed by an object indicating quantity.",
+          "ko": "동사 “上”은 일정한 수량이나 정도에 도달하다라는 뜻입니다. 뒤에는 보통 수량을 나타내는 목적어가 옵니다.",
+          "ja": "動詞「上」は、一定の数量や程度に達するという意味です。後ろには通常、数量を表す目的語が続きます。"
+        },
+        "colloquial_translation": {
+          "en": "This use of “上” appears before approximate large numbers and means the amount has reached or exceeded that level. It is common in expressions like “上百”, “上千”, and “成千上万”.",
+          "ko": "이 용법의 “上”은 대략적인 큰 숫자 앞에 쓰여 그 수량에 도달했거나 넘어섰다는 뜻을 나타냅니다. “上百”, “上千”, “成千上万” 같은 표현에서 자주 보입니다.",
+          "ja": "この用法の「上」は、おおよその大きな数の前に置かれ、その数量に達した、またはそれを超えたことを表します。「上百」「上千」「成千上万」などの表現でよく使われます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "This city’s subway already has a history of over a hundred years.",
+              "ko": "이 도시의 지하철은 이미 백 년이 넘는 역사를 가지고 있습니다.",
+              "ja": "この都市の地下鉄はすでに百年以上の歴史があります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Every year, tens of thousands of high school graduates take art exams.",
+              "ko": "매년 수만 명의 고등학교 졸업생이 예술 시험에 참가합니다.",
+              "ja": "毎年、何万もの高校卒業生が芸術試験を受けます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Edison found the material that could light an electric lamp only after searching through over a thousand materials.",
+              "ko": "에디슨도 수천 가지 재료를 찾아본 뒤에야 전등을 밝힐 수 있는 재료를 찾았습니다.",
+              "ja": "エジソンは千種類以上の材料を探した後、ようやく電灯をともすことのできる材料を見つけました。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "This issue has already been discussed over a hundred times.",
+              "ko": "이 문제는 이미 백 번 넘게 토론되었습니다.",
+              "ja": "この問題はすでに百回以上議論されました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "He has read over a thousand books.",
+              "ko": "그는 천 권이 넘는 책을 읽었습니다.",
+              "ja": "彼は千冊以上の本を読みました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Tens of thousands of people came to the scene.",
+              "ko": "현장에는 수만 명의 사람이 왔습니다.",
+              "ja": "現場には何万もの人が来ました。"
+            }
+          }
+        ]
+      },
+      "同字词：果": {
+        "formal_translation": {
+          "en": "Words with the same character “果”: 如果, 结果, 效果. These words share the character “果”, but their meanings and usages are different: “如果” means if, “结果” means result or as a result, and “效果” means effect or result of an action.",
+          "ko": "같은 글자 “果”가 들어간 단어: 如果, 结果, 效果. 모두 “果”를 포함하지만 뜻과 용법은 다릅니다. “如果”는 만약, “结果”는 결과 또는 그 결과, “效果”는 효과나 어떤 행동의 결과를 뜻합니다.",
+          "ja": "同じ字「果」を含む語：如果、结果、效果。どれも「果」を含みますが、意味と用法は異なります。「如果」はもし、「结果」は結果またはその結果、「效果」は効果やある行動によって生じた結果を意味します。"
+        },
+        "colloquial_translation": {
+          "en": "This same-character note groups common words containing “果”. “如果” is a conjunction introducing a condition, “结果” is a noun or conjunction about the final outcome, and “效果” is a noun referring to the effect produced by an action or method.",
+          "ko": "이 同字词 노트는 “果”가 들어간 자주 쓰는 단어들을 묶은 것입니다. “如果”는 조건을 이끄는 접속사, “结果”는 최종 결과를 말하는 명사 또는 접속사, “效果”는 행동이나 방법이 만들어 낸 효과를 가리키는 명사입니다.",
+          "ja": "この同字詞ノートは、「果」を含むよく使う語をまとめたものです。「如果」は条件を導く接続詞、「结果」は最終的な結果を表す名詞または接続詞、「效果」は行動や方法によって生じた効果を指す名詞です。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Nowadays it is popular among friends to send all kinds of humorous text messages, which brings some happiness to our lives. But if you receive the same message three or four times, even the funniest text message will no longer make you laugh.",
+              "ko": "요즘 친구들 사이에서는 여러 가지 유머 문자를 보내는 것이 유행해서 우리 생활에 약간의 즐거움을 가져다줍니다. 하지만 같은 문자를 세네 번 받으면 아무리 웃긴 문자라도 웃음이 나오지 않습니다.",
+              "ja": "今、友だち同士でいろいろなユーモアのあるメッセージを送るのが流行しており、私たちの生活に少し楽しさをもたらしています。しかし同じメッセージを三、四回受け取ったら、どんなに面白いメッセージでも笑えなくなります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Without your help, I definitely couldn’t have completed the task on time. Thank you so much!\nB: You’re too kind. I only shared a few thoughts. All of this is the result of your own hard work.",
+              "ko": "A: 네 도움이 없었으면 나는 분명 제시간에 임무를 끝내지 못했을 거야. 정말 고마워!\nB: 너무 예의 차리지 마. 나는 그저 생각을 조금 말했을 뿐이고, 이 모든 것은 네가 스스로 고생하며 노력한 결과야.",
+              "ja": "A: あなたの助けがなければ、私はきっと期限どおりに任務を終えられませんでした。本当にありがとうございます！\nB: そんなに遠慮しないでください。私は少し考えを言っただけで、これはすべてあなた自身が苦労して努力した結果です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Although it was hard, he still kept exercising every day. After a few months, the effect of losing weight was very good.",
+              "ko": "비록 힘들었지만 그는 여전히 매일 운동을 계속했고, 몇 달이 지나자 다이어트 효과가 꽤 좋았습니다.",
+              "ja": "大変ではありましたが、彼は毎日運動を続けました。数か月たって、ダイエットの効果はかなりよかったです。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "If you are willing, we will start tomorrow.",
+              "ko": "네가 원한다면 우리는 내일부터 시작하자.",
+              "ja": "あなたがよければ、私たちは明日から始めましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This is the result of everyone’s joint effort.",
+              "ko": "이것은 모두가 함께 노력한 결과입니다.",
+              "ja": "これはみんなで一緒に努力した結果です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "This method has a pretty good effect.",
+              "ko": "이 방법은 효과가 꽤 좋습니다.",
+              "ja": "この方法は効果がなかなかよいです。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "如果你想减肥，就<b>得</b>少吃东西，而且要多运动。": {
+        "translation": {
+          "en": "If you want to lose weight, you have to eat less, and you also need to exercise more.",
+          "ko": "살을 빼고 싶으면 적게 먹어야 하고, 운동도 많이 해야 해.",
+          "ja": "痩せたいなら、食べる量を減らして、しかもたくさん運動しなければならないよ。"
+        },
+        "colloquial_translation": {
+          "en": "If you want to slim down, you have to eat a little less and move more.",
+          "ko": "살 빼고 싶으면 좀 덜 먹고 더 움직여야 해.",
+          "ja": "痩せたいなら、少し食べる量を減らしてもっと動かないとね。"
+        },
+        "context": {
+          "en": "Giving practical advice about losing weight.",
+          "ko": "다이어트에 대한 현실적인 조언을 할 때.",
+          "ja": "ダイエットについて現実的な助言をするとき。"
+        }
+      },
+      "任何成功都要<b>通过</b>努力才能得到。": {
+        "translation": {
+          "en": "Any success can only be gained through hard work.",
+          "ko": "어떤 성공이든 노력을 통해서야 얻을 수 있습니다.",
+          "ja": "どんな成功も努力を通して初めて得られます。"
+        },
+        "colloquial_translation": {
+          "en": "If you want to succeed, you have to rely on your own effort.",
+          "ko": "성공하고 싶으면 결국 자기 노력이 필요해요.",
+          "ja": "成功したいなら、結局は自分の努力に頼るしかありません。"
+        },
+        "context": {
+          "en": "Emphasizing that success requires effort.",
+          "ko": "성공에는 노력이 필요하다는 점을 강조할 때.",
+          "ja": "成功には努力が必要だと強調するとき。"
+        }
+      },
+      "<b>可是</b>她坚持自己的选择，现在终于向所有人证明了她的选择是正确的。": {
+        "translation": {
+          "en": "But she stuck to her own choice, and now she has finally proven to everyone that her choice was correct.",
+          "ko": "하지만 그녀는 자신의 선택을 끝까지 지켰고, 지금은 마침내 모든 사람에게 자신의 선택이 옳았다는 것을 증명했습니다.",
+          "ja": "しかし彼女は自分の選択を貫き、今ではついに全ての人に自分の選択が正しかったことを証明しました。"
+        },
+        "colloquial_translation": {
+          "en": "But she still stuck with her choice, and now she has finally proven she chose right.",
+          "ko": "그래도 그녀는 자기 선택을 밀고 나갔고, 결국 자신이 맞았다는 걸 증명했어요.",
+          "ja": "それでも彼女は自分の選択を貫き、ついに自分の選択が正しかったことを証明しました。"
+        },
+        "context": {
+          "en": "Describing persistence despite opposition.",
+          "ko": "반대 속에서도 자신의 선택을 지켰음을 말할 때.",
+          "ja": "反対されても自分の選択を貫いたことを述べるとき。"
+        }
+      },
+      "<b>即使</b>最后失败了<b>也</b>没有关系，因为<b>至少</b>你已经努力过。": {
+        "translation": {
+          "en": "Even if you fail in the end, it does not matter, because at least you have worked hard.",
+          "ko": "마지막에 실패하더라도 괜찮습니다. 적어도 이미 노력했기 때문입니다.",
+          "ja": "たとえ最後に失敗しても関係ありません。少なくとも努力したのですから。"
+        },
+        "colloquial_translation": {
+          "en": "Even if it does not work out in the end, it is okay; at least you truly tried.",
+          "ko": "끝내 안 되더라도 괜찮아요. 적어도 정말 노력했잖아요.",
+          "ja": "最後にうまくいかなくても大丈夫です。少なくとも本当に努力したのですから。"
+        },
+        "context": {
+          "en": "Encouraging someone to value effort even after failure.",
+          "ko": "실패 후에도 노력의 가치를 인정하며 격려할 때.",
+          "ja": "失敗しても努力の価値を認めて励ますとき。"
+        }
+      },
+      "<b>只有</b>我们勇敢地<b>面对</b>困难，<b>才</b>能有希望取得成功。": {
+        "translation": {
+          "en": "Only when we bravely face difficulties can we have hope of achieving success.",
+          "ko": "우리가 용감하게 어려움에 맞서야만 성공을 얻을 희망이 있습니다.",
+          "ja": "私たちが勇敢に困難に向き合ってこそ、成功を得る希望があります。"
+        },
+        "colloquial_translation": {
+          "en": "Only by daring to face difficulties do we have a chance to succeed.",
+          "ko": "어려움에 맞설 용기가 있어야 성공할 가능성이 생겨요.",
+          "ja": "困難に向き合う勇気があってこそ、成功する可能性が生まれます。"
+        },
+        "context": {
+          "en": "Summarizing the attitude needed to overcome difficulties.",
+          "ko": "어려움을 극복하는 데 필요한 태도를 요약할 때.",
+          "ja": "困難を乗り越えるために必要な態度をまとめるとき。"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Why did you buy so many biscuits and chocolates again? Don’t tell me you’re not trying to lose weight anymore?",
+              "ko": "왜 또 이렇게 많은 비스킷과 초콜릿을 샀어? 설마 다이어트 안 하려는 거야?",
+              "ja": "どうしてまたこんなにたくさんのビスケットとチョコレートを買ったの？まさかダイエットをやめたの？"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I dieted for a whole month and still didn’t slim down. I’ve really lost confidence.",
+              "ko": "한 달이나 다이어트했는데도 살이 빠지지 않아서 정말 자신감이 없어졌어.",
+              "ja": "一か月ダイエットしたのに全然痩せなくて、本当に自信がなくなった。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "If you want to lose weight, you have to eat less, and you also need to exercise more.",
+              "ko": "살을 빼고 싶으면 적게 먹어야 하고, 운동도 많이 해야 해.",
+              "ja": "痩せたいなら、食べる量を減らして、しかもたくさん運動しなければならないよ。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "That’s exactly what I did, but after this month, I only lost one kilogram.",
+              "ko": "나도 바로 그렇게 했어. 그런데 한 달 동안 겨우 1킬로그램만 줄었어.",
+              "ja": "まさにそうしていたんだけど、この一か月で一キロしか減らなかった。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "One month is too short. If you want to lose weight successfully, you can only keep at it; then it will slowly show results.",
+              "ko": "한 달은 너무 짧아. 다이어트에 성공하려면 꾸준히 해야만 천천히 효과가 나타나.",
+              "ja": "一か月は短すぎるよ。ダイエットに成功したいなら、続けるしかない。そうすれば少しずつ効果が出るよ。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "I had originally already planned to give up, but what you just said made me change my mind. I’ll give these biscuits and chocolates to you.",
+              "ko": "원래는 이미 포기하려고 했는데, 방금 네 말 때문에 생각을 바꿨어. 이 비스킷과 초콜릿은 너에게 줄게.",
+              "ja": "もともとはもう諦めるつもりだったけど、さっきのあなたの言葉で考えが変わった。このビスケットとチョコレートはあなたにあげる。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "You play tennis so well and have won so many international awards! Every time I watch your matches, it feels like you win effortlessly.",
+              "ko": "테니스를 정말 잘 치시네요. 게다가 그렇게 많은 국제 대회 상도 받으셨고요! 매번 경기를 볼 때마다 아주 가볍게 이기는 것처럼 느껴져요.",
+              "ja": "テニスが本当に上手ですね。しかもそんなに多くの国際的な賞も取っています！試合を見るたびに、軽々と勝っているように感じます。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Not at all! That’s because you haven’t seen the side of me that practiced hard. No one can succeed casually.",
+              "ko": "아니에요! 그건 제가 힘들게 연습한 모습을 보지 못해서 그래요. 아무나 대충 해서 성공할 수는 없어요.",
+              "ja": "そんなことありません！それは私が苦労して練習した面を見ていないからです。誰も適当に成功できるわけではありません。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "I’ve also been interested in tennis since I was little, but even now I still don’t play very well.",
+              "ko": "저도 어릴 때부터 테니스에 관심이 있었지만, 지금까지도 실력이 별로예요.",
+              "ja": "私も小さい頃からテニスに興味がありましたが、今でもあまり上手ではありません。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Do you know? No matter whether it was spring, summer, autumn, or winter, I never took a single day off from practicing.",
+              "ko": "아세요? 봄, 여름, 가을, 겨울을 막론하고 저는 공 연습을 하루도 쉰 적이 없어요.",
+              "ja": "知っていますか。春夏秋冬を問わず、私は球の練習を一日も休んだことがありません。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "That really wasn’t easy! It seems I only saw the flowers you received when you succeeded, but didn’t notice the sweat you shed before your success.",
+              "ko": "정말 쉽지 않았겠네요! 저는 당신이 성공했을 때 받은 꽃만 보고, 성공하기 전에 흘린 땀은 보지 못했던 것 같아요.",
+              "ja": "本当に大変だったんですね。私はあなたが成功したときに得た花だけを見て、成功前に流した汗には気づいていなかったようです。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Any success can only be gained through hard work. As long as you keep practicing, I believe you will also play better and better.",
+              "ko": "어떤 성공이든 노력을 통해서야 얻을 수 있어요. 꾸준히 연습하기만 하면, 당신도 점점 더 잘 치게 될 거라고 믿어요.",
+              "ja": "どんな成功も努力を通して初めて得られます。練習を続けさえすれば、あなたもますます上手になると信じています。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Do you still remember Wang Hong? I saw an article about her in the newspaper. She is already a famous writer now.",
+              "ko": "왕훙을 아직 기억해? 내가 신문에서 그녀에 관한 기사 한 편을 봤는데, 지금은 이미 유명한 작가가 되었더라.",
+              "ja": "王紅をまだ覚えている？新聞で彼女についての記事を見たんだけど、今ではもう有名な作家になっているよ。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I heard that after graduating she gave up her job as a lawyer and started writing novels full-time. I didn’t expect she would actually succeed.",
+              "ko": "그녀가 졸업 후 변호사 일을 포기하고 소설 쓰기에 전념하기 시작했다고 들었어. 그녀가 정말 성공할 줄은 몰랐어.",
+              "ja": "卒業後、弁護士の仕事を諦めて、小説を書くことに専念し始めたそうだね。まさか本当に成功するとは思わなかった。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "At that time, her parents and relatives did not support her, but she stuck to her own choice. Now she has finally proven to everyone that her choice was correct.",
+              "ko": "당시 그녀의 부모님과 친척들은 모두 그녀를 지지하지 않았지만, 그녀는 자신의 선택을 끝까지 지켰고, 지금은 마침내 모든 사람에게 자신의 선택이 옳았다는 것을 증명했어.",
+              "ja": "当時、彼女の両親や親戚はみな彼女を支持しませんでしたが、彼女は自分の選択を貫き、今ではついに全ての人に自分の選択が正しかったことを証明しました。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "It seems that for the sake of your own ideals, giving up some things is also worth it.",
+              "ko": "자신의 이상을 위해서라면 어떤 것들을 포기하는 것도 가치 있는 일인 것 같아.",
+              "ja": "自分の理想のためなら、何かを諦めることも価値があるようですね。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "A person only has two hands and cannot get everything they want, so sometimes giving something up is a smart choice.",
+              "ko": "사람은 손이 두 개뿐이라 원하는 모든 것을 얻을 수는 없어. 그래서 때로 포기는 현명한 선택이야.",
+              "ja": "人には手が二本しかなく、欲しいものすべてを得ることはできません。だから、時には諦めることも賢い選択です。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Yes. Only by learning to give up can you use your abilities on the things you should do most and finally achieve success.",
+              "ko": "맞아. 포기하는 법을 배워야 자신의 능력을 가장 해야 할 일에 쓸 수 있고, 마지막에 성공을 얻을 수 있어.",
+              "ja": "そうですね。諦めることを学んでこそ、自分の能力を最もすべきことに使い、最後に成功を得ることができます。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "If you want to do something, then do it bravely. Don’t worry about the result, and don’t think about whether you will fail. If you care too much about the result, failure will bring people many worries. We should put our attention on the process of doing things. That way, during the process, you will discover the joy of solving problems, something nothing else can give you. Even if you fail in the end, it does not matter, because at least you have worked hard. Moreover, we can still sum up useful experience from failure. With this accumulation, success will naturally get closer and closer to us.",
+              "ko": "무언가를 하고 싶다면 용감하게 하세요. 결과를 걱정하지 말고 실패할지 아닐지도 너무 생각하지 마세요. 결과를 지나치게 중요하게 여기면 실패가 사람들에게 많은 고민을 가져다줍니다. 우리는 주의를 일을 하는 과정에 두어야 합니다. 그러면 그 과정에서 문제를 해결하는 즐거움을 발견할 수 있고, 이것은 다른 어떤 것도 줄 수 없는 것입니다. 마지막에 실패하더라도 괜찮습니다. 적어도 이미 노력했기 때문이고, 또한 우리는 실패에서 유용한 경험을 정리해 낼 수 있습니다. 이런 축적이 있으면 성공은 자연스럽게 우리에게 점점 가까워질 것입니다.",
+              "ja": "何かをしたいなら、勇敢にやってみましょう。結果を心配せず、失敗するかどうかも考えすぎないでください。結果を重く見すぎると、失敗は人々に多くの悩みをもたらします。私たちは物事を行う過程に注意を向けるべきです。そうすれば、その過程で問題を解決する楽しさを見つけられます。それは他のどんなものにも与えられないものです。たとえ最後に失敗しても関係ありません。少なくとも努力したのですし、さらに失敗から役に立つ経験をまとめることもできます。こうした積み重ねがあれば、成功は自然と私たちにますます近づいてきます。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Everyone hopes to succeed, but often, before success, they encounter many difficulties. Some people give up when they meet difficulties, while others try to find ways to solve them. Different attitudes toward difficulties lead to different results. Edison found the material that could light an electric lamp only after searching through over a thousand materials. People who achieve success often have experienced many failures. The difference between them and ordinary people is that they all persisted. So even if there is only 1% hope, we should still make 100% effort. Difficulties are only temporary: “Sunshine always comes after wind and rain.” Only when we bravely face difficulties can we have hope of achieving success.",
+              "ko": "모든 사람은 성공을 바라지만, 많은 경우 성공하기 전에는 많은 어려움을 만나게 됩니다. 어떤 사람은 어려움을 만나면 포기하고, 어떤 사람은 어려움을 만나도 그것을 해결할 방법을 생각합니다. 어려움에 대한 태도가 다르면 결과도 다릅니다. 에디슨도 수천 가지 재료를 찾아본 뒤에야 전등을 밝힐 수 있는 재료를 찾았습니다. 성공을 얻은 사람들은 흔히 많은 실패를 겪었고, 그들과 보통 사람의 차이는 그들이 모두 끝까지 버텼다는 데 있습니다. 그러므로 설령 희망이 1%뿐이라도 우리는 100%의 노력을 해야 합니다. 어려움은 잠시일 뿐이고, “햇빛은 언제나 비바람 뒤에 있습니다.” 우리가 용감하게 어려움에 맞서야만 성공을 얻을 희망이 있습니다.",
+              "ja": "誰もが成功を望みますが、多くの場合、成功の前には多くの困難に出会います。困難に出会うと諦める人もいれば、困難に出会っても解決する方法を考える人もいます。困難に対する態度が違えば、結果も違います。エジソンは千種類以上の材料を探した後、ようやく電灯をともすことのできる材料を見つけました。成功を収めた人は、しばしば多くの失敗を経験しています。彼らと普通の人との違いは、彼らがみな最後まで続けたことです。だから、たとえ希望が1%しかなくても、私たちは100%の努力をしなければなりません。困難は一時的なものにすぎません。「陽光はいつも風雨の後にある」。私たちが勇敢に困難に向き合ってこそ、成功を得る希望があります。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

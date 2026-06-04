@@ -1,0 +1,1607 @@
+{
+  "lessonId": 15,
+  "title": "Lesson 15: 教育孩子的艺术 (jiàoyù háizi de yìshù) (The art of educating children)",
+  "vocabulary": [
+    {
+      "word": "弹钢琴",
+      "pinyin": "tán gāngqín",
+      "meaning": "to play the piano"
+    },
+    {
+      "word": "棒",
+      "pinyin": "bàng",
+      "meaning": "adj. excellent, amazing"
+    },
+    {
+      "word": "孙子",
+      "pinyin": "sūnzi",
+      "meaning": "n. grandson"
+    },
+    {
+      "word": "寒假",
+      "pinyin": "hánjià",
+      "meaning": "n. winter vacation"
+    },
+    {
+      "word": "父亲",
+      "pinyin": "fùqīn",
+      "meaning": "n. father"
+    },
+    {
+      "word": "闹钟",
+      "pinyin": "nàozhōng",
+      "meaning": "n. alarm clock"
+    },
+    {
+      "word": "响",
+      "pinyin": "xiǎng",
+      "meaning": "v. to sound, to ring"
+    },
+    {
+      "word": "醒",
+      "pinyin": "xǐng",
+      "meaning": "v. to wake up, to be awake"
+    },
+    {
+      "word": "赶",
+      "pinyin": "gǎn",
+      "meaning": "v. to rush for, to hurry"
+    },
+    {
+      "word": "厕所",
+      "pinyin": "cèsuǒ",
+      "meaning": "n. lavatory, toilet"
+    },
+    {
+      "word": "批评",
+      "pinyin": "pīpíng",
+      "meaning": "v. to criticize"
+    },
+    {
+      "word": "弄",
+      "pinyin": "nòng",
+      "meaning": "v. to do, to make"
+    },
+    {
+      "word": "管理",
+      "pinyin": "guǎnlǐ",
+      "meaning": "v. to manage, to administer"
+    },
+    {
+      "word": "打针",
+      "pinyin": "dǎ zhēn",
+      "meaning": "v. to give or have an injection"
+    },
+    {
+      "word": "护士",
+      "pinyin": "hùshi",
+      "meaning": "n. nurse"
+    },
+    {
+      "word": "表扬",
+      "pinyin": "biǎoyáng",
+      "meaning": "v. to praise, to commend"
+    },
+    {
+      "word": "千万",
+      "pinyin": "qiānwàn",
+      "meaning": "adv. must, to be sure to"
+    },
+    {
+      "word": "怀疑",
+      "pinyin": "huáiyí",
+      "meaning": "v. to suspect, to doubt"
+    },
+    {
+      "word": "故意",
+      "pinyin": "gùyì",
+      "meaning": "adv. intentionally, on purpose"
+    },
+    {
+      "word": "敲",
+      "pinyin": "qiāo",
+      "meaning": "v. to knock, to beat, to strike"
+    },
+    {
+      "word": "整理",
+      "pinyin": "zhěnglǐ",
+      "meaning": "v. to tidy up, to arrange"
+    },
+    {
+      "word": "合适",
+      "pinyin": "héshì",
+      "meaning": "adj. fit, suitable"
+    },
+    {
+      "word": "骗",
+      "pinyin": "piàn",
+      "meaning": "v. to cheat, to deceive"
+    },
+    {
+      "word": "儿童",
+      "pinyin": "értóng",
+      "meaning": "n. children"
+    },
+    {
+      "word": "假",
+      "pinyin": "jiǎ",
+      "meaning": "adj. false, fake"
+    },
+    {
+      "word": "左右",
+      "pinyin": "zuǒyòu",
+      "meaning": "n. around, or so"
+    },
+    {
+      "word": "懒",
+      "pinyin": "lǎn",
+      "meaning": "adj. lazy"
+    },
+    {
+      "word": "笨",
+      "pinyin": "bèn",
+      "meaning": "adj. stupid, foolish"
+    },
+    {
+      "word": "粗心",
+      "pinyin": "cūxīn",
+      "meaning": "adj. careless, thoughtless"
+    },
+    {
+      "word": "骄傲",
+      "pinyin": "jiāo'ào",
+      "meaning": "adj. arrogant, conceited"
+    },
+    {
+      "word": "害羞",
+      "pinyin": "hàixiū",
+      "meaning": "v. to be shy, to be timid"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "想起来",
+      "formal": "V + 起来",
+      "colloquial": "想起来",
+      "explanation": "“起来” can be used after another verb as a complement of direction or possibility, indicating an upward movement. When “起来” is used after “想”, it means to recall somebody or something from the past.",
+      "nuance": "After most verbs, “起来” points upward or shows the action starting upward, such as sitting or standing up. In “想起来”, it means something comes back to mind.",
+      "formal_examples": [
+        {
+          "zh": "你这样躺着看书对眼睛不好，快坐起来！",
+          "pinyin": "Nǐ zhèyàng tǎngzhe kàn shū duì yǎnjing bù hǎo, kuài zuò qǐlai!",
+          "translation": "Reading while lying like this is bad for your eyes. Sit up quickly!"
+        },
+        {
+          "zh": "需要长时间坐着工作的人，一小时左右一定要站起来活动活动。",
+          "pinyin": "Xūyào cháng shíjiān zuòzhe gōngzuò de rén, yì xiǎoshí zuǒyòu yídìng yào zhàn qǐlai huódòng huódòng.",
+          "translation": "People who need to sit and work for a long time should stand up and move around about every hour."
+        },
+        {
+          "zh": "我突然想起来得去银行，所以不能陪你去大使馆了。",
+          "pinyin": "Wǒ tūrán xiǎng qǐlai děi qù yínháng, suǒyǐ bù néng péi nǐ qù dàshǐguǎn le.",
+          "translation": "I suddenly remembered that I have to go to the bank, so I can't go with you to the embassy."
+        },
+        {
+          "zh": "我想起来了，这孩子又聪明又可爱，你们教育得真好！",
+          "pinyin": "Wǒ xiǎng qǐlai le, zhè háizi yòu cōngming yòu kě'ài, nǐmen jiàoyù de zhēn hǎo!",
+          "translation": "I remember now. This child is both smart and cute. You have educated him really well!"
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "快坐起来，别躺着看书。",
+          "pinyin": "Kuài zuò qǐlai, bié tǎngzhe kàn shū.",
+          "translation": "Sit up. Don't read lying down."
+        },
+        {
+          "zh": "我突然想起来，我还得去银行。",
+          "pinyin": "Wǒ tūrán xiǎng qǐlai, wǒ hái děi qù yínháng.",
+          "translation": "I suddenly remembered that I still have to go to the bank."
+        }
+      ]
+    },
+    {
+      "point": "弄",
+      "formal": "弄",
+      "colloquial": "弄",
+      "explanation": "The verb “弄” means “to do, to make”. It is often used in spoken Chinese instead of certain other verbs.",
+      "nuance": "In everyday speech, “弄” is a flexible stand-in for verbs such as prepare, break, or criticize when the exact action is clear from context.",
+      "formal_examples": [
+        {
+          "zh": "关于那个新闻的材料你准备好了吗？我们开会时要用。",
+          "pinyin": "Guānyú nà ge xīnwén de cáiliào nǐ zhǔnbèi hǎo le ma? Wǒmen kāihuì shí yào yòng.",
+          "translation": "Have you prepared the materials about that news item? We will need them during the meeting."
+        },
+        {
+          "zh": "都弄（准备）好了，马上给您送过去。",
+          "pinyin": "Dōu nòng (zhǔnbèi) hǎo le, mǎshàng gěi nín sòng guòqu.",
+          "translation": "Everything has been prepared. I'll send it to you right away."
+        },
+        {
+          "zh": "一会儿搬沙发的时候要小心点儿，别弄（碰）坏了。",
+          "pinyin": "Yíhuìr bān shāfā de shíhou yào xiǎoxīn diǎnr, bié nòng (pèng) huài le.",
+          "translation": "Be careful when moving the sofa later. Don't damage it by bumping it."
+        },
+        {
+          "zh": "每天因为这些小事批评她，弄（批评）得我俩心情都不好。",
+          "pinyin": "Měitiān yīnwèi zhèxiē xiǎo shì pīpíng tā, nòng (pīpíng) de wǒ liǎ xīnqíng dōu bù hǎo.",
+          "translation": "Criticizing her every day over these little things makes both of us feel bad."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "材料都弄好了，马上发给您。",
+          "pinyin": "Cáiliào dōu nòng hǎo le, mǎshàng fā gěi nín.",
+          "translation": "The materials are all ready. I'll send them to you right away."
+        },
+        {
+          "zh": "搬沙发小心点儿，别弄坏了。",
+          "pinyin": "Bān shāfā xiǎoxīn diǎnr, bié nòng huài le.",
+          "translation": "Be careful moving the sofa. Don't break it."
+        }
+      ]
+    },
+    {
+      "point": "千万",
+      "formal": "千万 + negative structure",
+      "colloquial": "千万别 / 千万不要",
+      "explanation": "The adverb “千万” means “must” or “to be sure to”. It is usually followed by a negative structure.",
+      "nuance": "“千万” strongly reminds or warns someone not to do something. In speech, “千万别...” and “千万不要...” are very common.",
+      "formal_examples": [
+        {
+          "zh": "不过表扬也是一门艺术，表扬千万不要太多，过多的表扬可能会给孩子带来压力。",
+          "pinyin": "Búguò biǎoyáng yě shì yì mén yìshù, biǎoyáng qiānwàn bú yào tài duō, guòduō de biǎoyáng kěnéng huì gěi háizi dàilái yālì.",
+          "translation": "But praise is also an art. You absolutely shouldn't praise too much; excessive praise may bring pressure to children."
+        },
+        {
+          "zh": "我要等她生日那天再送给她这个礼物，你现在千万别告诉她。",
+          "pinyin": "Wǒ yào děng tā shēngrì nà tiān zài sòng gěi tā zhè ge lǐwù, nǐ xiànzài qiānwàn bié gàosu tā.",
+          "translation": "I want to wait until her birthday to give her this gift, so you must not tell her now."
+        },
+        {
+          "zh": "每个人都应该记住这句话：“开车千万别喝酒，喝酒千万别开车。”",
+          "pinyin": "Měi ge rén dōu yīnggāi jìzhù zhè jù huà: “Kāichē qiānwàn bié hējiǔ, hējiǔ qiānwàn bié kāichē.”",
+          "translation": "Everyone should remember this saying: “Never drink when driving, and never drive after drinking.”"
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "这事你千万别告诉她。",
+          "pinyin": "Zhè shì nǐ qiānwàn bié gàosu tā.",
+          "translation": "You absolutely must not tell her about this."
+        },
+        {
+          "zh": "开车千万别喝酒。",
+          "pinyin": "Kāichē qiānwàn bié hējiǔ.",
+          "translation": "Never drink when driving."
+        }
+      ]
+    },
+    {
+      "point": "千万——一定",
+      "formal": "Compare: 千万——一定",
+      "colloquial": "千万 vs 一定",
+      "explanation": "Both “千万” and “一定” are adverbs used to give a requirement or exhortation. “千万” is more often used in negative sentences with “别”, “要/不要”, or “不能”, while “一定” is more often used in affirmative sentences with “要/不要” or “能/不能”. “千万” is milder and more tactful, often expressing hope or advice, while “一定” is stronger and can sound commanding. “一定” can also express the speaker's determination in first-person sentences, mean “surely” or “not necessarily” in “不一定”, be used as an adjective meaning “certain” or “proper”, and appear alone as a short reply; “千万” does not have these uses.",
+      "nuance": "Use “千万” when softly but seriously warning someone not to do something. Use “一定” when saying something must happen, when showing determination, or when saying something is certain or not necessarily true.",
+      "formal_examples": [
+        {
+          "zh": "通过失败你能获得别人没有的经验，千万/一定不要因为失败就不努力了。",
+          "pinyin": "Tōngguò shībài nǐ néng huòdé biérén méiyǒu de jīngyàn, qiānwàn/yídìng bú yào yīnwèi shībài jiù bù nǔlì le.",
+          "translation": "Through failure you can gain experience others do not have, so you must not stop trying just because you failed."
+        },
+        {
+          "zh": "工作只是生活的一部分，出去工作是为了让生活变得更好，因此，千万不要把工作中的不愉快带到生活中来。",
+          "pinyin": "Gōngzuò zhǐ shì shēnghuó de yí bùfen, chūqù gōngzuò shì wèile ràng shēnghuó biàn de gèng hǎo, yīncǐ, qiānwàn bú yào bǎ gōngzuò zhōng de bù yúkuài dài dào shēnghuó zhōng lái.",
+          "translation": "Work is only one part of life, and working is meant to make life better, so you must not bring unhappiness from work into your life."
+        },
+        {
+          "zh": "找工作的人一定要到这里看一看，这里提供的工作机会是最多的。",
+          "pinyin": "Zhǎo gōngzuò de rén yídìng yào dào zhèlǐ kàn yi kàn, zhèlǐ tígōng de gōngzuò jīhuì shì zuì duō de.",
+          "translation": "People looking for work must come here and have a look; this place offers the most job opportunities."
+        },
+        {
+          "zh": "当机会到来时，千万不要放手，有什么想做的事就马上去做吧。",
+          "pinyin": "Dāng jīhuì dàolái shí, qiānwàn bú yào fàngshǒu, yǒu shénme xiǎng zuò de shì jiù mǎshàng qù zuò ba.",
+          "translation": "When an opportunity comes, don't let it go; if there is something you want to do, do it right away."
+        },
+        {
+          "zh": "这几个动作你做得还是不太标准，在正式比赛前一定要练好。",
+          "pinyin": "Zhè jǐ ge dòngzuò nǐ zuò de háishi bú tài biāozhǔn, zài zhèngshì bǐsài qián yídìng yào liàn hǎo.",
+          "translation": "You still are not doing these movements very standardly, so you must practice them well before the official competition."
+        },
+        {
+          "zh": "感谢您的支持和鼓励，我一定会继续努力。",
+          "pinyin": "Gǎnxiè nín de zhīchí hé gǔlì, wǒ yídìng huì jìxù nǔlì.",
+          "translation": "Thank you for your support and encouragement. I will definitely keep working hard."
+        },
+        {
+          "zh": "只要你不放弃希望，不怕辛苦，能够一直坚持努力学习，提高自己的水平和能力，就一定能成功。",
+          "pinyin": "Zhǐyào nǐ bú fàngqì xīwàng, bú pà xīnkǔ, nénggòu yìzhí jiānchí nǔlì xuéxí, tígāo zìjǐ de shuǐpíng hé nénglì, jiù yídìng néng chénggōng.",
+          "translation": "As long as you do not give up hope, are not afraid of hardship, keep studying hard, and improve your level and abilities, you will surely succeed."
+        },
+        {
+          "zh": "人们常说：“便宜没好货，好货不便宜。”其实不一定都是这样，有时候质量很好的东西也会很便宜。",
+          "pinyin": "Rénmen cháng shuō: “Piányi méi hǎo huò, hǎo huò bù piányi.” Qíshí bù yídìng dōu shì zhèyàng, yǒu shíhou zhìliàng hěn hǎo de dōngxi yě huì hěn piányi.",
+          "translation": "People often say, “Cheap goods are not good, and good goods are not cheap.” Actually, it is not necessarily always like that; sometimes very good-quality things can also be inexpensive."
+        },
+        {
+          "zh": "如果你有一定的语言基础和经济条件，那么出国学习外语是最好的选择，因为语言环境对学习语言有重要的作用。",
+          "pinyin": "Rúguǒ nǐ yǒu yídìng de yǔyán jīchǔ hé jīngjì tiáojiàn, nàme chūguó xuéxí wàiyǔ shì zuì hǎo de xuǎnzé, yīnwèi yǔyán huánjìng duì xuéxí yǔyán yǒu zhòngyào de zuòyòng.",
+          "translation": "If you have a certain language foundation and financial conditions, then going abroad to study a foreign language is the best choice, because the language environment plays an important role in language learning."
+        },
+        {
+          "zh": "A：王老师您刚来这儿工作三年就当了教授，这次你得请客啊。B：一定（请客）。",
+          "pinyin": "A: Wáng lǎoshī nín gāng lái zhèr gōngzuò sān nián jiù dāng le jiàoshòu, zhè cì nǐ děi qǐngkè a. B: Yídìng (qǐngkè).",
+          "translation": "A: Teacher Wang, you became a professor after working here for only three years. You have to treat us this time. B: Definitely."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "千万别因为失败就放弃。",
+          "pinyin": "Qiānwàn bié yīnwèi shībài jiù fàngqì.",
+          "translation": "Don't give up just because you failed."
+        },
+        {
+          "zh": "我一定会继续努力。",
+          "pinyin": "Wǒ yídìng huì jìxù nǔlì.",
+          "translation": "I will definitely keep working hard."
+        }
+      ]
+    },
+    {
+      "point": "来",
+      "formal": "来 + V",
+      "colloquial": "来 + verb",
+      "explanation": "The verb “来” can be used before another verb to mean “to be going to do something”. It is usually used in spoken Chinese. If “来” is omitted, the meaning of the sentence does not change.",
+      "nuance": "“来” before a verb adds a spoken, proactive feeling: the speaker or subject is taking the initiative to do the action. The core meaning remains the same without it.",
+      "formal_examples": [
+        {
+          "zh": "这个沙发这么大，你们两个肯定抬不动，我来帮你们一起抬。",
+          "pinyin": "Zhè ge shāfā zhème dà, nǐmen liǎng ge kěndìng tái bu dòng, wǒ lái bāng nǐmen yìqǐ tái.",
+          "translation": "This sofa is so big that the two of you definitely cannot lift it. I'll help you lift it together."
+        },
+        {
+          "zh": "小王经验比较丰富，并且做事认真，这次就让他来负责吧。",
+          "pinyin": "Xiǎo Wáng jīngyàn bǐjiào fēngfù, bìngqiě zuò shì rènzhēn, zhè cì jiù ràng tā lái fùzé ba.",
+          "translation": "Xiao Wang has relatively rich experience and works seriously, so let him be responsible for this time."
+        },
+        {
+          "zh": "有的孩子在得不到自己想要的东西的时候，会通过哭、扔东西或者故意敲打来引起父母的注意。",
+          "pinyin": "Yǒu de háizi zài dé bu dào zìjǐ xiǎngyào de dōngxi de shíhou, huì tōngguò kū, rēng dōngxi huòzhě gùyì qiāo dǎ lái yǐnqǐ fùmǔ de zhùyì.",
+          "translation": "When some children cannot get what they want, they draw their parents' attention by crying, throwing things, or deliberately knocking and hitting."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "我来帮你们抬。",
+          "pinyin": "Wǒ lái bāng nǐmen tái.",
+          "translation": "I'll help you lift it."
+        },
+        {
+          "zh": "这次让他来负责吧。",
+          "pinyin": "Zhè cì ràng tā lái fùzé ba.",
+          "translation": "Let him handle it this time."
+        }
+      ]
+    },
+    {
+      "point": "左右",
+      "formal": "numeral + 左右",
+      "colloquial": "number + 左右",
+      "explanation": "The noun “左右” can only be used after numerals, indicating being slightly more or less than a certain quantity.",
+      "nuance": "“左右” means “around” or “about” after a number. It gives an approximate amount, time, distance, or age rather than an exact number.",
+      "formal_examples": [
+        {
+          "zh": "网上买的那本书估计三天左右就能到，你收到了记得给我打个电话说一声。",
+          "pinyin": "Wǎngshàng mǎi de nà běn shū gūjì sān tiān zuǒyòu jiù néng dào, nǐ shōu dào le jìde gěi wǒ dǎ ge diànhuà shuō yi shēng.",
+          "translation": "The book bought online will probably arrive in about three days. Remember to call and let me know when you receive it."
+        },
+        {
+          "zh": "这儿不能停车，前方500米左右有个免费停车场，您可以把车停到那儿。",
+          "pinyin": "Zhèr bù néng tíngchē, qiánfāng wǔbǎi mǐ zuǒyòu yǒu ge miǎnfèi tíngchēchǎng, nín kěyǐ bǎ chē tíng dào nàr.",
+          "translation": "You cannot park here. There is a free parking lot about 500 meters ahead, and you can park your car there."
+        },
+        {
+          "zh": "七岁左右的儿童普遍好动，坐不住，所以老师在教这个年龄段的孩子时，一定要想办法引起他们的兴趣。",
+          "pinyin": "Qī suì zuǒyòu de értóng pǔbiàn hàodòng, zuò bu zhù, suǒyǐ lǎoshī zài jiāo zhè ge niánlíngduàn de háizi shí, yídìng yào xiǎng bànfǎ yǐnqǐ tāmen de xìngqù.",
+          "translation": "Children around seven years old are generally active and cannot sit still, so when teachers teach children in this age group, they must find ways to arouse their interest."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "三天左右能到。",
+          "pinyin": "Sān tiān zuǒyòu néng dào.",
+          "translation": "It can arrive in about three days."
+        },
+        {
+          "zh": "前面500米左右有停车场。",
+          "pinyin": "Qiánmian wǔbǎi mǐ zuǒyòu yǒu tíngchēchǎng.",
+          "translation": "There is a parking lot about 500 meters ahead."
+        }
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "李老师建议王静让孩子养成好习惯 (lǐ lǎoshī jiànyì wáng jìng ràng háizi yǎngchéng hǎo xíguàn) (Teacher Li suggests that Wang Jing help her child develop good habits)",
+      "audio": "audio/15-1.mp3",
+      "content": [
+        {
+          "speaker": "王静",
+          "text": "那个一边弹钢琴一边唱歌的男孩子是谁？表演得真棒！",
+          "pinyin": "Nà ge yìbiān tán gāngqín yìbiān chànggē de nán háizi shì shéi? Biǎoyǎn de zhēn bàng!",
+          "translation": "Who is that boy playing the piano while singing? His performance is really amazing!"
+        },
+        {
+          "speaker": "李老师",
+          "text": "是我孙子。去年寒假前的新年晚会他也表演过一次。",
+          "pinyin": "Shì wǒ sūnzi. Qùnián hánjià qián de xīnnián wǎnhuì tā yě biǎoyǎn guo yí cì.",
+          "translation": "He's my grandson. He also performed once at the New Year party before winter vacation last year."
+        },
+        {
+          "speaker": "王静",
+          "text": "我想起来了，这孩子又聪明又可爱，你们教育得真好！",
+          "pinyin": "Wǒ xiǎng qǐlai le, zhè háizi yòu cōngming yòu kě'ài, nǐmen jiàoyù de zhēn hǎo!",
+          "translation": "I remember now. This child is both smart and cute. You have educated him really well!"
+        },
+        {
+          "speaker": "李老师",
+          "text": "是他父母教育得好。父母是孩子最重要的老师。他父母不仅教他知识，而且还花了很长时间帮助他养成了非常好的习惯，现在他每天都自己练习弹钢琴。",
+          "pinyin": "Shì tā fùmǔ jiàoyù de hǎo. Fùmǔ shì háizi zuì zhòngyào de lǎoshī. Tā fùmǔ bùjǐn jiāo tā zhīshi, érqiě hái huā le hěn cháng shíjiān bāngzhù tā yǎngchéng le fēicháng hǎo de xíguàn, xiànzài tā měitiān dōu zìjǐ liànxí tán gāngqín.",
+          "translation": "It's because his parents educated him well. Parents are a child's most important teachers. His parents not only taught him knowledge, but also spent a long time helping him develop very good habits. Now he practices playing the piano by himself every day."
+        },
+        {
+          "speaker": "王静",
+          "text": "让孩子养成一个好习惯实在太重要了，看来我得向他父母好好儿学习。",
+          "pinyin": "Ràng háizi yǎngchéng yí ge hǎo xíguàn shízài tài zhòngyào le, kànlái wǒ děi xiàng tā fùmǔ hǎohāor xuéxí.",
+          "translation": "Helping a child develop a good habit is really important. It looks like I need to learn properly from his parents."
+        },
+        {
+          "speaker": "李老师",
+          "text": "对。如果希望有一个优秀的孩子，你就要先成为一位优秀的父亲或者母亲。",
+          "pinyin": "Duì. Rúguǒ xīwàng yǒu yí ge yōuxiù de háizi, nǐ jiù yào xiān chéngwéi yí wèi yōuxiù de fùqīn huòzhě mǔqīn.",
+          "translation": "Right. If you hope to have an outstanding child, you must first become an outstanding father or mother."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "李老师",
+          "pinyin": "Lǐ lǎoshī",
+          "meaning": "Teacher Li, name/title of a person"
+        },
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "弹钢琴",
+          "pinyin": "tán gāngqín",
+          "meaning": "to play the piano"
+        },
+        {
+          "word": "棒",
+          "pinyin": "bàng",
+          "meaning": "adj. excellent, amazing"
+        },
+        {
+          "word": "孙子",
+          "pinyin": "sūnzi",
+          "meaning": "n. grandson"
+        },
+        {
+          "word": "寒假",
+          "pinyin": "hánjià",
+          "meaning": "n. winter vacation"
+        },
+        {
+          "word": "父亲",
+          "pinyin": "fùqīn",
+          "meaning": "n. father"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "王静建议孙月教育孩子学会安排时间 (wáng jìng jiànyì sūn yuè jiàoyù háizi xuéhuì ānpái shíjiān) (Wang Jing suggests that Sun Yue teach her child to arrange time)",
+      "audio": "audio/15-2.mp3",
+      "content": [
+        {
+          "speaker": "王静",
+          "text": "看你脸色不太好，是不是昨晚没休息好？",
+          "pinyin": "Kàn nǐ liǎnsè bú tài hǎo, shì bú shì zuówǎn méi xiūxi hǎo?",
+          "translation": "You don't look very well. Did you not rest well last night?"
+        },
+        {
+          "speaker": "孙月",
+          "text": "别提了。我女儿昨晚做作业又做到11点。",
+          "pinyin": "Bié tí le. Wǒ nǚ'ér zuówǎn zuò zuòyè yòu zuò dào shíyī diǎn.",
+          "translation": "Don't even mention it. My daughter did homework until 11 again last night."
+        },
+        {
+          "speaker": "王静",
+          "text": "睡觉太晚对孩子的身体没有好处。最近孩子作业是不是太多了？",
+          "pinyin": "Shuìjiào tài wǎn duì háizi de shēntǐ méiyǒu hǎochù. Zuìjìn háizi zuòyè shì bú shì tài duō le?",
+          "translation": "Going to bed too late is not good for a child's health. Has she had too much homework recently?"
+        },
+        {
+          "speaker": "孙月",
+          "text": "主要是她做事情比较慢，比如早上闹钟响了她不醒，我赶时间送她上学，她又急着上厕所。每天因为这些小事批评她，弄得我俩心情都不好。",
+          "pinyin": "Zhǔyào shì tā zuò shìqing bǐjiào màn, bǐrú zǎoshang nàozhōng xiǎng le tā bù xǐng, wǒ gǎn shíjiān sòng tā shàngxué, tā yòu jízhe shàng cèsuǒ. Měitiān yīnwèi zhèxiē xiǎo shì pīpíng tā, nòng de wǒ liǎ xīnqíng dōu bù hǎo.",
+          "translation": "The main thing is that she does things rather slowly. For example, in the morning the alarm clock rings but she doesn't wake up; I'm rushing to take her to school, and then she's in a hurry to use the bathroom. Criticizing her every day over these little things makes both of us feel bad."
+        },
+        {
+          "speaker": "王静",
+          "text": "孩子做事慢，往往是因为他们不会安排自己的时间。你应该让孩子学会管理时间。",
+          "pinyin": "Háizi zuò shì màn, wǎngwǎng shì yīnwèi tāmen bú huì ānpái zìjǐ de shíjiān. Nǐ yīnggāi ràng háizi xuéhuì guǎnlǐ shíjiān.",
+          "translation": "When children do things slowly, it is often because they don't know how to arrange their own time. You should help your child learn to manage time."
+        },
+        {
+          "speaker": "孙月",
+          "text": "看来还是我的教育方法有问题。平时看她做事情慢，总想替她做，以后得让她学会安排时间，自己的事情自己做。",
+          "pinyin": "Kànlái háishi wǒ de jiàoyù fāngfǎ yǒu wèntí. Píngshí kàn tā zuò shìqing màn, zǒng xiǎng tì tā zuò, yǐhòu děi ràng tā xuéhuì ānpái shíjiān, zìjǐ de shìqing zìjǐ zuò.",
+          "translation": "It seems there is still a problem with my way of educating her. Usually, when I see her doing things slowly, I always want to do them for her. From now on, I need to let her learn to arrange time and do her own things herself."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "孙月",
+          "pinyin": "Sūn Yuè",
+          "meaning": "Sun Yue, name of a person"
+        },
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "闹钟",
+          "pinyin": "nàozhōng",
+          "meaning": "n. alarm clock"
+        },
+        {
+          "word": "响",
+          "pinyin": "xiǎng",
+          "meaning": "v. to sound, to ring"
+        },
+        {
+          "word": "醒",
+          "pinyin": "xǐng",
+          "meaning": "v. to wake up, to be awake"
+        },
+        {
+          "word": "赶",
+          "pinyin": "gǎn",
+          "meaning": "v. to rush for, to hurry"
+        },
+        {
+          "word": "厕所",
+          "pinyin": "cèsuǒ",
+          "meaning": "n. lavatory, toilet"
+        },
+        {
+          "word": "批评",
+          "pinyin": "pīpíng",
+          "meaning": "v. to criticize"
+        },
+        {
+          "word": "弄",
+          "pinyin": "nòng",
+          "meaning": "v. to do, to make"
+        },
+        {
+          "word": "管理",
+          "pinyin": "guǎnlǐ",
+          "meaning": "v. to manage, to administer"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "王静和孙月讨论表扬孩子的方法 (wáng jìng hé sūn yuè tǎolùn biǎoyáng háizi de fāngfǎ) (Wang Jing and Sun Yue discuss ways to praise children)",
+      "audio": "audio/15-3.mp3",
+      "content": [
+        {
+          "speaker": "王静",
+          "text": "明天又要带我儿子去医院打针，想想我就头疼。他就怕打针，每次打针都哭得特别厉害。",
+          "pinyin": "Míngtiān yòu yào dài wǒ érzi qù yīyuàn dǎ zhēn, xiǎngxiang wǒ jiù tóuténg. Tā jiù pà dǎ zhēn, měi cì dǎ zhēn dōu kū de tèbié lìhai.",
+          "translation": "Tomorrow I have to take my son to the hospital for an injection again. Just thinking about it gives me a headache. He's afraid of injections, and every time he gets one he cries terribly."
+        },
+        {
+          "speaker": "孙月",
+          "text": "记得我女儿小时候，带她去医院打针，刚开始，她害怕得要哭。我就小声地和护士说我女儿很勇敢，一点儿也不怕打针，女儿听了以后马上就不哭了。",
+          "pinyin": "Jìde wǒ nǚ'ér xiǎoshíhou, dài tā qù yīyuàn dǎ zhēn, gāng kāishǐ, tā hàipà de yào kū. Wǒ jiù xiǎoshēng de hé hùshi shuō wǒ nǚ'ér hěn yǒnggǎn, yìdiǎnr yě bù pà dǎ zhēn, nǚ'ér tīng le yǐhòu mǎshàng jiù bù kū le.",
+          "translation": "I remember when my daughter was little, I took her to the hospital for an injection. At first she was so scared she was about to cry. I quietly told the nurse that my daughter was very brave and wasn't afraid of injections at all. After my daughter heard that, she immediately stopped crying."
+        },
+        {
+          "speaker": "王静",
+          "text": "原来鼓励和表扬对小孩儿挺有用的，下次我也试试。",
+          "pinyin": "Yuánlái gǔlì hé biǎoyáng duì xiǎoháir tǐng yǒuyòng de, xià cì wǒ yě shìshi.",
+          "translation": "So encouragement and praise are actually quite useful for children. I'll try it next time too."
+        },
+        {
+          "speaker": "孙月",
+          "text": "不过表扬也是一门艺术，表扬千万不要太多，过多的表扬可能会给孩子带来压力。不仅起不到鼓励的作用，还可能让孩子怀疑自己的能力，变得没有信心。",
+          "pinyin": "Búguò biǎoyáng yě shì yì mén yìshù, biǎoyáng qiānwàn bú yào tài duō, guòduō de biǎoyáng kěnéng huì gěi háizi dàilái yālì. Bùjǐn qǐ bú dào gǔlì de zuòyòng, hái kěnéng ràng háizi huáiyí zìjǐ de nénglì, biàn de méiyǒu xìnxīn.",
+          "translation": "But praise is also an art. You absolutely shouldn't praise too much; excessive praise may bring pressure to children. Not only may it fail to encourage them, it may also make children doubt their own abilities and become unconfident."
+        },
+        {
+          "speaker": "王静",
+          "text": "那怎么表扬孩子才会更有效果呢？",
+          "pinyin": "Nà zěnme biǎoyáng háizi cái huì gèng yǒu xiàoguǒ ne?",
+          "translation": "Then how should we praise children for it to be more effective?"
+        },
+        {
+          "speaker": "孙月",
+          "text": "我认为表扬要及时，而且表扬不仅仅要看结果，更要看过程，这样才能鼓励他的积极性，让他变得勇敢，不怕困难。",
+          "pinyin": "Wǒ rènwéi biǎoyáng yào jíshí, érqiě biǎoyáng bùjǐn jǐn yào kàn jiéguǒ, gèng yào kàn guòchéng, zhèyàng cái néng gǔlì tā de jījíxìng, ràng tā biàn de yǒnggǎn, bù pà kùnnan.",
+          "translation": "I think praise should be timely, and it should not only look at the result, but even more at the process. Only in this way can we encourage his initiative and make him brave and unafraid of difficulties."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "王静",
+          "pinyin": "Wáng Jìng",
+          "meaning": "Wang Jing, name of a person"
+        },
+        {
+          "word": "孙月",
+          "pinyin": "Sūn Yuè",
+          "meaning": "Sun Yue, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "打针",
+          "pinyin": "dǎ zhēn",
+          "meaning": "v. to give or have an injection"
+        },
+        {
+          "word": "护士",
+          "pinyin": "hùshi",
+          "meaning": "n. nurse"
+        },
+        {
+          "word": "表扬",
+          "pinyin": "biǎoyáng",
+          "meaning": "v. to praise, to commend"
+        },
+        {
+          "word": "千万",
+          "pinyin": "qiānwàn",
+          "meaning": "adv. must, to be sure to"
+        },
+        {
+          "word": "怀疑",
+          "pinyin": "huáiyí",
+          "meaning": "v. to suspect, to doubt"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "孩子故意哭闹时的教育方法 (háizi gùyì kūnào shí de jiàoyù fāngfǎ) (Educational methods when children cry or act up on purpose)",
+      "audio": "audio/15-4.mp3",
+      "content": [
+        {
+          "speaker": "",
+          "text": "有的孩子在得不到自己想要的东西的时候，会通过哭、扔东西或者故意敲打来引起父母的注意。在这种情况下，建议父母先不要生气，应该停下手中的事情，陪孩子整理整理东西，和他们聊聊天儿，弄清楚他们的问题。父母的关心，可以让孩子心情愉快起来。教育孩子应该选择合适的教育方法，最好不要为了解决问题而骗孩子，这是因为儿童缺少判断能力，看到父母骗人，他们也会学着说假话。",
+          "pinyin": "Yǒu de háizi zài dé bu dào zìjǐ xiǎngyào de dōngxi de shíhou, huì tōngguò kū, rēng dōngxi huòzhě gùyì qiāo dǎ lái yǐnqǐ fùmǔ de zhùyì. Zài zhè zhǒng qíngkuàng xià, jiànyì fùmǔ xiān bú yào shēngqì, yīnggāi tíng xià shǒu zhōng de shìqing, péi háizi zhěnglǐ zhěnglǐ dōngxi, hé tāmen liáo liáotiānr, nòng qīngchu tāmen de wèntí. Fùmǔ de guānxīn, kěyǐ ràng háizi xīnqíng yúkuài qǐlai. Jiàoyù háizi yīnggāi xuǎnzé héshì de jiàoyù fāngfǎ, zuìhǎo bú yào wèile jiějué wèntí ér piàn háizi, zhè shì yīnwèi értóng quēshǎo pànduàn nénglì, kàndào fùmǔ piàn rén, tāmen yě huì xuézhe shuō jiǎhuà.",
+          "translation": "When some children cannot get what they want, they draw their parents' attention by crying, throwing things, or deliberately knocking and hitting. In this situation, parents are advised not to get angry first. They should stop what they are doing, help the child tidy things up, chat with them, and clarify what the problem is. Parents' care can make children feel happier. When educating children, parents should choose suitable methods. It is best not to deceive children just to solve a problem, because children lack judgment. When they see their parents deceive others, they will also learn to tell lies."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "故意",
+          "pinyin": "gùyì",
+          "meaning": "adv. intentionally, on purpose"
+        },
+        {
+          "word": "敲",
+          "pinyin": "qiāo",
+          "meaning": "v. to knock, to beat, to strike"
+        },
+        {
+          "word": "整理",
+          "pinyin": "zhěnglǐ",
+          "meaning": "v. to tidy up, to arrange"
+        },
+        {
+          "word": "合适",
+          "pinyin": "héshì",
+          "meaning": "adj. fit, suitable"
+        },
+        {
+          "word": "骗",
+          "pinyin": "piàn",
+          "meaning": "v. to cheat, to deceive"
+        },
+        {
+          "word": "儿童",
+          "pinyin": "értóng",
+          "meaning": "n. children"
+        },
+        {
+          "word": "假",
+          "pinyin": "jiǎ",
+          "meaning": "adj. false, fake"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "七岁左右儿童的教育方法 (qī suì zuǒyòu értóng de jiàoyù fāngfǎ) (Educational methods for children around seven years old)",
+      "audio": "audio/15-5.mp3",
+      "content": [
+        {
+          "speaker": "",
+          "text": "七岁左右的儿童普遍好动，坐不住，所以老师在教这个年龄段的孩子时，一定要想办法引起他们的兴趣。只有让他们觉得你教的内容有趣，他们才会愿意努力学习。当孩子不明白时，应该多鼓励他，不要用“懒”“笨”“粗心”这种词批评他，这样对他们的正常发展不好。而且，对不同性格的孩子要使用不同的教育方法。如果孩子比较骄傲，应该让他明白还有很多知识需要学习；要是孩子性格有些害羞，就要经常鼓励他说出自己的看法，这样才能让每一个孩子都健康地发展。",
+          "pinyin": "Qī suì zuǒyòu de értóng pǔbiàn hàodòng, zuò bu zhù, suǒyǐ lǎoshī zài jiāo zhè ge niánlíngduàn de háizi shí, yídìng yào xiǎng bànfǎ yǐnqǐ tāmen de xìngqù. Zhǐyǒu ràng tāmen juéde nǐ jiāo de nèiróng yǒuqù, tāmen cái huì yuànyì nǔlì xuéxí. Dāng háizi bù míngbai shí, yīnggāi duō gǔlì tā, bú yào yòng \"lǎn\" \"bèn\" \"cūxīn\" zhè zhǒng cí pīpíng tā, zhèyàng duì tāmen de zhèngcháng fāzhǎn bù hǎo. Érqiě, duì bùtóng xìnggé de háizi yào shǐyòng bùtóng de jiàoyù fāngfǎ. Rúguǒ háizi bǐjiào jiāo'ào, yīnggāi ràng tā míngbai hái yǒu hěn duō zhīshi xūyào xuéxí; yàoshi háizi xìnggé yǒuxiē hàixiū, jiù yào jīngcháng gǔlì tā shuō chū zìjǐ de kànfǎ, zhèyàng cái néng ràng měi yí ge háizi dōu jiànkāng de fāzhǎn.",
+          "translation": "Children around seven years old are generally active and cannot sit still, so when teachers teach children in this age group, they must find ways to arouse their interest. Only when children feel that what you teach is interesting will they be willing to study hard. When a child does not understand, you should encourage them more and not criticize them with words like \"lazy,\" \"stupid,\" or \"careless,\" because this is not good for their normal development. Also, different educational methods should be used for children with different personalities. If a child is rather arrogant, you should help them understand that there is still a lot of knowledge to learn. If a child is somewhat shy, you should often encourage them to express their own opinions. Only in this way can every child develop healthily."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "左右",
+          "pinyin": "zuǒyòu",
+          "meaning": "n. around, or so"
+        },
+        {
+          "word": "懒",
+          "pinyin": "lǎn",
+          "meaning": "adj. lazy"
+        },
+        {
+          "word": "笨",
+          "pinyin": "bèn",
+          "meaning": "adj. stupid, foolish"
+        },
+        {
+          "word": "粗心",
+          "pinyin": "cūxīn",
+          "meaning": "adj. careless, thoughtless"
+        },
+        {
+          "word": "骄傲",
+          "pinyin": "jiāo'ào",
+          "meaning": "adj. arrogant, conceited"
+        },
+        {
+          "word": "害羞",
+          "pinyin": "hàixiū",
+          "meaning": "v. to be shy, to be timid"
+        }
+      ]
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "他是我大学时的同学，毕业后我们就再也没联系过，没想到中午我去取<b>护照</b>时竟然遇到他了。",
+      "pinyin": "Tā shì wǒ dàxué shí de tóngxué, bìyè hòu wǒmen jiù zài yě méi liánxì guo, méi xiǎngdào zhōngwǔ wǒ qù qǔ <b>hùzhào</b> shí jìngrán yùdào tā le.",
+      "translation": "He was my classmate in college. After graduation we never contacted each other again, but unexpectedly I ran into him at noon when I went to pick up my passport.",
+      "colloquial_equivalent": "他是我大学同学，毕业后就没联系了，没想到中午去拿<b>护照</b>时碰到他了。",
+      "colloquial_pinyin": "Tā shì wǒ dàxué tóngxué, bìyè hòu jiù méi liánxì le, méi xiǎngdào zhōngwǔ qù ná <b>hùzhào</b> shí pèngdào tā le.",
+      "colloquial_translation": "He was my college classmate. We lost contact after graduation, but I unexpectedly ran into him at noon when I went to pick up my passport.",
+      "context": "护가 들어간 단어 护照를 익힐 때"
+    },
+    {
+      "sentence": "<b>保护</b>地球环境，并不是离我们很远、很难做到的事情。实际上，我们只需注意一下身边的小事就可以。",
+      "pinyin": "<b>Bǎohù</b> dìqiú huánjìng, bìng bú shì lí wǒmen hěn yuǎn, hěn nán zuòdào de shìqing. Shíjì shang, wǒmen zhǐ xū zhùyì yíxià shēnbiān de xiǎo shì jiù kěyǐ.",
+      "translation": "Protecting the earth's environment is not something far away from us or very difficult to do. In fact, we only need to pay attention to small things around us.",
+      "colloquial_equivalent": "<b>保护</b>环境其实没那么远、也没那么难，我们注意身边的小事就行。",
+      "colloquial_pinyin": "<b>Bǎohù</b> huánjìng qíshí méi nàme yuǎn, yě méi nàme nán, wǒmen zhùyì shēnbiān de xiǎo shì jiù xíng.",
+      "colloquial_translation": "Protecting the environment is not actually that distant or difficult. We just need to pay attention to small things around us.",
+      "context": "护가 들어간 단어 保护를 익힐 때"
+    },
+    {
+      "sentence": "这本小说的作者是医院的一位<b>护士</b>，她通过小说告诉我们发生在医院里的许多有趣的故事，让我们对<b>护士</b>、医生这些职业有了更多的了解。",
+      "pinyin": "Zhè běn xiǎoshuō de zuòzhě shì yīyuàn de yí wèi <b>hùshi</b>, tā tōngguò xiǎoshuō gàosu wǒmen fāshēng zài yīyuàn lǐ de xǔduō yǒuqù de gùshi, ràng wǒmen duì <b>hùshi</b>, yīshēng zhèxiē zhíyè yǒu le gèng duō de liǎojiě.",
+      "translation": "The author of this novel is a nurse at a hospital. Through the novel, she tells us many interesting stories that happen in the hospital, helping us understand more about professions such as nurses and doctors.",
+      "colloquial_equivalent": "这本小说的作者是一名<b>护士</b>，她写了很多医院里的有趣故事，让我们更了解<b>护士</b>和医生这些职业。",
+      "colloquial_pinyin": "Zhè běn xiǎoshuō de zuòzhě shì yì míng <b>hùshi</b>, tā xiě le hěn duō yīyuàn lǐ de yǒuqù gùshi, ràng wǒmen gèng liǎojiě <b>hùshi</b> hé yīshēng zhèxiē zhíyè.",
+      "colloquial_translation": "The author of this novel is a nurse. She wrote many interesting stories from the hospital, helping us understand professions like nurses and doctors better.",
+      "context": "护가 들어간 단어 护士를 익힐 때"
+    }
+  ],
+  "translations": {
+    "lessonTitle": {
+      "en": "Teacher Li suggests that Wang Jing help her child develop good habits",
+      "ko": "리 선생님이 왕징에게 아이가 좋은 습관을 기르도록 하라고 조언하다",
+      "ja": "李先生が王静に、子どもによい習慣を身につけさせるよう助言する"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Teacher Li suggests that Wang Jing help her child develop good habits",
+        "ko": "리 선생님이 왕징에게 아이가 좋은 습관을 기르도록 하라고 조언하다",
+        "ja": "李先生が王静に、子どもによい習慣を身につけさせるよう助言する"
+      },
+      "2": {
+        "en": "Wang Jing suggests that Sun Yue teach her child to arrange time",
+        "ko": "왕징이 쑨웨에게 아이가 시간을 배분하는 법을 배우도록 교육하라고 조언하다",
+        "ja": "王静が孫月に、子どもに時間の安排を学ばせるよう助言する"
+      },
+      "3": {
+        "en": "Wang Jing and Sun Yue discuss ways to praise children",
+        "ko": "왕징과 쑨웨가 아이를 칭찬하는 방법에 대해 이야기하다",
+        "ja": "王静と孫月が子どもの褒め方について話している"
+      },
+      "4": {
+        "en": "Educational methods when children cry or act up on purpose",
+        "ko": "아이가 일부러 울거나 소란을 피울 때의 교육 방법",
+        "ja": "子どもがわざと泣いたり騒いだりするときの教育方法"
+      },
+      "5": {
+        "en": "Educational methods for children around seven years old",
+        "ko": "일곱 살 전후 아동의 교육 방법",
+        "ja": "七歳前後の児童への教育方法"
+      }
+    },
+    "vocabulary": {
+      "弹钢琴": {
+        "en": "to play the piano",
+        "ko": "피아노를 치다",
+        "ja": "ピアノを弾く"
+      },
+      "棒": {
+        "en": "adj. excellent, amazing",
+        "ko": "형. 훌륭한, 대단한",
+        "ja": "形. すばらしい、すごい"
+      },
+      "孙子": {
+        "en": "n. grandson",
+        "ko": "명. 손자",
+        "ja": "名. 孫息子"
+      },
+      "寒假": {
+        "en": "n. winter vacation",
+        "ko": "명. 겨울방학",
+        "ja": "名. 冬休み"
+      },
+      "父亲": {
+        "en": "n. father",
+        "ko": "명. 아버지",
+        "ja": "名. 父親"
+      },
+      "闹钟": {
+        "en": "n. alarm clock",
+        "ko": "명. 알람시계",
+        "ja": "名. 目覚まし時計"
+      },
+      "响": {
+        "en": "v. to sound, to ring",
+        "ko": "동. 울리다, 소리 나다",
+        "ja": "動. 鳴る、響く"
+      },
+      "醒": {
+        "en": "v. to wake up, to be awake",
+        "ko": "동. 깨다, 깨어 있다",
+        "ja": "動. 目が覚める、起きている"
+      },
+      "赶": {
+        "en": "v. to rush for, to hurry",
+        "ko": "동. 서두르다, 시간에 맞추다",
+        "ja": "動. 急ぐ、間に合わせる"
+      },
+      "厕所": {
+        "en": "n. lavatory, toilet",
+        "ko": "명. 화장실",
+        "ja": "名. トイレ"
+      },
+      "批评": {
+        "en": "v. to criticize",
+        "ko": "동. 비판하다, 꾸짖다",
+        "ja": "動. 批判する、叱る"
+      },
+      "弄": {
+        "en": "v. to do, to make",
+        "ko": "동. 하다, 만들다",
+        "ja": "動. する、いじる"
+      },
+      "管理": {
+        "en": "v. to manage, to administer",
+        "ko": "동. 관리하다",
+        "ja": "動. 管理する"
+      },
+      "打针": {
+        "en": "v. to give or have an injection",
+        "ko": "동. 주사를 맞다/놓다",
+        "ja": "動. 注射をする、注射を受ける"
+      },
+      "护士": {
+        "en": "n. nurse",
+        "ko": "명. 간호사",
+        "ja": "名. 看護師"
+      },
+      "表扬": {
+        "en": "v. to praise, to commend",
+        "ko": "동. 칭찬하다",
+        "ja": "動. 褒める、表彰する"
+      },
+      "千万": {
+        "en": "adv. must, to be sure to",
+        "ko": "부. 반드시, 꼭",
+        "ja": "副. 必ず、くれぐれも"
+      },
+      "怀疑": {
+        "en": "v. to suspect, to doubt",
+        "ko": "동. 의심하다",
+        "ja": "動. 疑う"
+      },
+      "故意": {
+        "en": "adv. intentionally, on purpose",
+        "ko": "부. 고의로, 일부러",
+        "ja": "副. わざと、故意に"
+      },
+      "敲": {
+        "en": "v. to knock, to beat, to strike",
+        "ko": "동. 두드리다, 치다",
+        "ja": "動. たたく、打つ"
+      },
+      "整理": {
+        "en": "v. to tidy up, to arrange",
+        "ko": "동. 정리하다",
+        "ja": "動. 整理する、片づける"
+      },
+      "合适": {
+        "en": "adj. fit, suitable",
+        "ko": "형. 알맞은, 적합한",
+        "ja": "形. 適切な、ふさわしい"
+      },
+      "骗": {
+        "en": "v. to cheat, to deceive",
+        "ko": "동. 속이다",
+        "ja": "動. だます"
+      },
+      "儿童": {
+        "en": "n. children",
+        "ko": "명. 아동, 어린이",
+        "ja": "名. 児童、子ども"
+      },
+      "假": {
+        "en": "adj. false, fake",
+        "ko": "형. 거짓의, 가짜의",
+        "ja": "形. 偽の、うその"
+      },
+      "左右": {
+        "en": "n. around, or so",
+        "ko": "명. 정도, 쯤",
+        "ja": "名. 前後、くらい"
+      },
+      "懒": {
+        "en": "adj. lazy",
+        "ko": "형. 게으른",
+        "ja": "形. 怠けている"
+      },
+      "笨": {
+        "en": "adj. stupid, foolish",
+        "ko": "형. 어리석은, 둔한",
+        "ja": "形. 愚かな、不器用な"
+      },
+      "粗心": {
+        "en": "adj. careless, thoughtless",
+        "ko": "형. 부주의한, 덤벙대는",
+        "ja": "形. 不注意な、そそっかしい"
+      },
+      "骄傲": {
+        "en": "adj. arrogant, conceited",
+        "ko": "형. 교만한, 자만하는",
+        "ja": "形. 傲慢な、思い上がった"
+      },
+      "害羞": {
+        "en": "v. to be shy, to be timid",
+        "ko": "동. 부끄러워하다, 수줍어하다",
+        "ja": "動. 恥ずかしがる、内気である"
+      }
+    },
+    "properNouns": {
+      "李老师": {
+        "en": "Teacher Li, name/title of a person",
+        "ko": "리 선생님, 사람 호칭",
+        "ja": "李先生、人名・敬称"
+      },
+      "王静": {
+        "en": "Wang Jing, name of a person",
+        "ko": "왕징, 사람 이름",
+        "ja": "王静、人名"
+      },
+      "孙月": {
+        "en": "Sun Yue, name of a person",
+        "ko": "쑨웨, 사람 이름",
+        "ja": "孫月、人名"
+      }
+    },
+    "grammar": {
+      "想起来": {
+        "formal_translation": {
+          "en": "“起来” can be used after another verb as a complement of direction or possibility, indicating an upward movement. When “起来” is used after “想”, it means to recall somebody or something from the past.",
+          "ko": "“起来”는 다른 동사 뒤에 방향보어 또는 가능보어로 쓰여 동작의 방향이 아래에서 위로 향함을 나타낼 수 있다. “想” 뒤에 쓰인 “想起来”는 과거의 사람이나 일을 기억해 내다, 떠올리다라는 뜻이다.",
+          "ja": "「起来」はほかの動詞の後ろに置かれ、方向補語または可能補語として、動作の方向が下から上へ向かうことを表すことができます。「想」の後ろで「想起来」となると、過去の人や物事を思い出すという意味になります。"
+        },
+        "colloquial_translation": {
+          "en": "After most verbs, “起来” points upward or shows the action starting upward, such as sitting or standing up. In “想起来”, it means something comes back to mind.",
+          "ko": "대부분의 동사 뒤에서 “起来”는 위로 향하는 움직임이나 일어나는 동작을 나타낸다. “想起来”에서는 어떤 일이 머릿속에 다시 떠오른다는 뜻이다.",
+          "ja": "多くの動詞の後ろでは、「起来」は上向きの動きや起き上がる動作を表します。「想起来」では、何かが頭に浮かぶ、思い出されるという意味です。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Reading while lying like this is bad for your eyes. Sit up quickly!",
+              "ko": "이렇게 누워서 책을 보면 눈에 좋지 않아. 빨리 앉아!",
+              "ja": "このように横になって本を読むのは目によくありません。早く起き上がって座りなさい。"
+            }
+          },
+          {
+            "translation": {
+              "en": "People who need to sit and work for a long time should stand up and move around about every hour.",
+              "ko": "오랫동안 앉아서 일해야 하는 사람은 한 시간쯤마다 반드시 일어나서 몸을 좀 움직여야 한다.",
+              "ja": "長時間座って仕事をする必要がある人は、一時間くらいごとに必ず立ち上がって体を動かすべきです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I suddenly remembered that I have to go to the bank, so I can't go with you to the embassy.",
+              "ko": "갑자기 은행에 가야 한다는 것이 생각나서, 너와 함께 대사관에 갈 수 없게 됐어.",
+              "ja": "突然、銀行へ行かなければならないことを思い出したので、あなたと一緒に大使館へ行けなくなりました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I remember now. This child is both smart and cute. You have educated him really well!",
+              "ko": "생각났어. 이 아이는 똑똑하기도 하고 귀엽기도 해. 정말 잘 교육하셨네요!",
+              "ja": "思い出しました。この子は賢くてかわいいですね。教育が本当に上手ですね。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Sit up. Don't read lying down.",
+              "ko": "얼른 앉아. 누워서 책 보지 마.",
+              "ja": "早く起き上がって座って。寝転んで本を読まないで。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I suddenly remembered that I still have to go to the bank.",
+              "ko": "갑자기 생각났는데, 나 아직 은행에 가야 해.",
+              "ja": "急に思い出したけど、まだ銀行へ行かなければなりません。"
+            }
+          }
+        ]
+      },
+      "弄": {
+        "formal_translation": {
+          "en": "The verb “弄” means “to do, to make”. It is often used in spoken Chinese instead of certain other verbs.",
+          "ko": "“弄”은 ‘하다, 만들다’라는 뜻의 동사로, 구어에서 다른 일부 동사의 의미를 대신해 자주 쓰인다.",
+          "ja": "「弄」は「する、作る」という意味の動詞で、話し言葉では一部のほかの動詞の代わりによく使われます。"
+        },
+        "colloquial_translation": {
+          "en": "In everyday speech, “弄” is a flexible stand-in for verbs such as prepare, break, or criticize when the exact action is clear from context.",
+          "ko": "일상 회화에서 “弄”은 문맥상 동작이 분명할 때 ‘준비하다’, ‘망가뜨리다’, ‘비판하다’ 같은 동사를 유연하게 대신한다.",
+          "ja": "日常会話では、文脈から動作が明らかな場合、「弄」は「準備する」「壊す」「批判する」などの動詞を柔軟に代用します。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Have you prepared the materials about that news item? We will need them during the meeting.",
+              "ko": "그 뉴스에 관한 자료는 준비됐나요? 회의할 때 사용할 겁니다.",
+              "ja": "あのニュースに関する資料は準備できましたか。会議のときに使います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Everything has been prepared. I'll send it to you right away.",
+              "ko": "다 준비됐습니다. 바로 보내 드리겠습니다.",
+              "ja": "全部準備できました。すぐにお送りします。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Be careful when moving the sofa later. Don't damage it by bumping it.",
+              "ko": "이따가 소파를 옮길 때 조심하세요. 부딪혀서 망가뜨리지 마세요.",
+              "ja": "あとでソファを運ぶときは気をつけてください。ぶつけて壊さないでください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Criticizing her every day over these little things makes both of us feel bad.",
+              "ko": "매일 이런 작은 일들 때문에 아이를 꾸짖다 보니 우리 둘 다 기분이 좋지 않게 됐다.",
+              "ja": "毎日こうした小さなことで彼女を叱るので、私たち二人とも気分が悪くなりました。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "The materials are all ready. I'll send them to you right away.",
+              "ko": "자료는 다 준비됐어요. 바로 보내 드릴게요.",
+              "ja": "資料は全部できています。すぐに送ります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Be careful moving the sofa. Don't break it.",
+              "ko": "소파 옮길 때 조심해요. 망가뜨리지 마세요.",
+              "ja": "ソファを運ぶときは気をつけて。壊さないでください。"
+            }
+          }
+        ]
+      },
+      "千万": {
+        "formal_translation": {
+          "en": "The adverb “千万” means “must” or “to be sure to”. It is usually followed by a negative structure.",
+          "ko": "부사 “千万”은 ‘반드시, 꼭’이라는 뜻이며, 뒤에는 보통 부정 형식이 온다.",
+          "ja": "副詞「千万」は「必ず、ぜひ」という意味で、後ろには通常、否定表現が続きます。"
+        },
+        "colloquial_translation": {
+          "en": "“千万” strongly reminds or warns someone not to do something. In speech, “千万别...” and “千万不要...” are very common.",
+          "ko": "“千万”은 상대에게 어떤 일을 절대 하지 말라고 강하게 당부하거나 경고할 때 쓴다. 회화에서는 “千万别...”, “千万不要...”가 매우 흔하다.",
+          "ja": "「千万」は、相手に何かを絶対にしないよう強く念を押したり警告したりするときに使います。会話では「千万别...」「千万不要...」がよく使われます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "But praise is also an art. You absolutely shouldn't praise too much; excessive praise may bring pressure to children.",
+              "ko": "하지만 칭찬도 하나의 기술이다. 칭찬은 절대 너무 많이 해서는 안 되며, 지나친 칭찬은 아이에게 부담을 줄 수 있다.",
+              "ja": "しかし、褒めることも一つの技術です。褒めすぎてはいけません。過度な褒め言葉は子どもにプレッシャーを与える可能性があります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I want to wait until her birthday to give her this gift, so you must not tell her now.",
+              "ko": "그녀의 생일날에 이 선물을 주려고 하니, 지금은 절대 그녀에게 말하지 마.",
+              "ja": "彼女の誕生日の日にこのプレゼントを渡したいので、今は絶対に彼女に言わないでください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Everyone should remember this saying: “Never drink when driving, and never drive after drinking.”",
+              "ko": "모든 사람은 이 말을 기억해야 한다. “운전할 때는 절대 술을 마시지 말고, 술을 마셨으면 절대 운전하지 마라.”",
+              "ja": "誰もがこの言葉を覚えておくべきです。「運転するときは絶対に酒を飲まず、酒を飲んだら絶対に運転しない。」"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "You absolutely must not tell her about this.",
+              "ko": "이 일은 절대 그녀에게 말하지 마.",
+              "ja": "このことは絶対に彼女に言わないでください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Never drink when driving.",
+              "ko": "운전할 때는 절대 술 마시지 마.",
+              "ja": "運転するときは絶対にお酒を飲まないでください。"
+            }
+          }
+        ]
+      },
+      "千万——一定": {
+        "formal_translation": {
+          "en": "Both “千万” and “一定” are adverbs used to give a requirement or exhortation. “千万” is more often used in negative sentences with “别”, “要/不要”, or “不能”, while “一定” is more often used in affirmative sentences with “要/不要” or “能/不能”. “千万” is milder and more tactful, often expressing hope or advice, while “一定” is stronger and can sound commanding. “一定” can also express the speaker's determination in first-person sentences, mean “surely” or “not necessarily” in “不一定”, be used as an adjective meaning “certain” or “proper”, and appear alone as a short reply; “千万” does not have these uses.",
+          "ko": "“千万”과 “一定”은 모두 요구나 당부를 나타내는 부사이다. “千万”은 보통 “别”, “要/不要”, “不能”과 함께 부정문에서 더 자주 쓰이고, “一定”은 보통 “要/不要”, “能/不能”과 함께 긍정문에서 더 자주 쓰인다. “千万”은 비교적 완곡하고 부드러워 부탁이나 당부의 느낌이 강하고, “一定”은 어기가 더 강해 명령처럼 들릴 수 있다. 또한 “一定”은 1인칭 문장에서 결심을 나타내거나, ‘반드시/확실히’ 또는 “不一定”의 ‘꼭 그런 것은 아니다’를 나타내거나, 형용사로 ‘일정한/적당한’의 뜻을 나타내거나, 짧은 대답으로 단독 사용될 수 있지만 “千万”에는 이런 용법이 없다.",
+          "ja": "「千万」と「一定」はどちらも要求や念押しを表す副詞です。「千万」は通常、「别」「要/不要」「不能」などとともに否定文で多く使われ、「一定」は通常、「要/不要」「能/不能」などとともに肯定文で多く使われます。「千万」は比較的婉曲で穏やかで、希望や助言の意味合いが強い一方、「一定」は語気が強く、命令のように響くことがあります。また「一定」は一人称文で話し手の決意を表したり、「必ず、確かに」や「不一定」の「必ずしもそうではない」を表したり、形容詞として「一定の、適切な」を表したり、短い返答として単独で使えますが、「千万」にはこれらの用法はありません。"
+        },
+        "colloquial_translation": {
+          "en": "Use “千万” when softly but seriously warning someone not to do something. Use “一定” when saying something must happen, when showing determination, or when saying something is certain or not necessarily true.",
+          "ko": "누군가에게 어떤 일을 하지 말라고 부드럽지만 진지하게 당부할 때는 “千万”을 쓴다. 어떤 일이 반드시 일어난다고 하거나, 결심을 보이거나, 확실함 또는 ‘꼭 그렇지는 않음’을 말할 때는 “一定”을 쓴다.",
+          "ja": "誰かに何かをしないよう穏やかに、しかし強く注意するときは「千万」を使います。何かが必ず起こると言うとき、決意を示すとき、確実さや「必ずしもそうではない」ことを言うときは「一定」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Through failure you can gain experience others do not have, so you must not stop trying just because you failed.",
+              "ko": "실패를 통해 다른 사람이 갖지 못한 경험을 얻을 수 있으니, 실패했다고 해서 절대 노력을 멈추면 안 된다.",
+              "ja": "失敗を通じて、他の人にはない経験を得ることができます。だから、失敗したからといって絶対に努力をやめてはいけません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Work is only one part of life, and working is meant to make life better, so you must not bring unhappiness from work into your life.",
+              "ko": "일은 생활의 일부일 뿐이고, 일하러 나가는 것은 생활을 더 좋게 만들기 위한 것이므로, 일에서 생긴 불쾌함을 생활로 가져오면 절대 안 된다.",
+              "ja": "仕事は生活の一部にすぎず、外で働くのは生活をよりよくするためです。したがって、仕事での不愉快さを生活に持ち込んではいけません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "People looking for work must come here and have a look; this place offers the most job opportunities.",
+              "ko": "일자리를 찾는 사람은 반드시 이곳에 와서 한번 봐야 한다. 이곳에서 제공하는 취업 기회가 가장 많다.",
+              "ja": "仕事を探している人は必ずここに来て見てみるべきです。ここで提供される仕事の機会が最も多いです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When an opportunity comes, don't let it go; if there is something you want to do, do it right away.",
+              "ko": "기회가 왔을 때 절대 놓치지 말고, 하고 싶은 일이 있으면 바로 하라.",
+              "ja": "チャンスが来たときは絶対に手放さず、やりたいことがあればすぐにやりましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "You still are not doing these movements very standardly, so you must practice them well before the official competition.",
+              "ko": "이 몇 가지 동작은 아직 그다지 표준적이지 않으니, 정식 경기 전에 반드시 잘 연습해야 한다.",
+              "ja": "これらの動作はまだあまり標準的ではありません。正式な試合の前に必ずしっかり練習しなければなりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Thank you for your support and encouragement. I will definitely keep working hard.",
+              "ko": "지지와 격려에 감사드립니다. 저는 반드시 계속 노력하겠습니다.",
+              "ja": "ご支援と励ましに感謝します。私は必ず努力を続けます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "As long as you do not give up hope, are not afraid of hardship, keep studying hard, and improve your level and abilities, you will surely succeed.",
+              "ko": "희망을 포기하지 않고 고생을 두려워하지 않으며, 계속 열심히 공부하고 자신의 수준과 능력을 높일 수 있다면 반드시 성공할 수 있다.",
+              "ja": "希望を捨てず、苦労を恐れず、努力して学び続け、自分のレベルと能力を高めれば、必ず成功できます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "People often say, “Cheap goods are not good, and good goods are not cheap.” Actually, it is not necessarily always like that; sometimes very good-quality things can also be inexpensive.",
+              "ko": "사람들은 흔히 “싼 게 비지떡이고, 좋은 물건은 싸지 않다”고 말한다. 사실 꼭 모두 그런 것은 아니며, 때로는 품질이 아주 좋은 물건도 매우 저렴할 수 있다.",
+              "ja": "人々はよく「安物に良い物はなく、良い物は安くない」と言います。実は必ずしもすべてがそうとは限らず、品質のよいものが安いこともあります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If you have a certain language foundation and financial conditions, then going abroad to study a foreign language is the best choice, because the language environment plays an important role in language learning.",
+              "ko": "일정한 언어 기초와 경제적 조건이 있다면, 외국에 나가 외국어를 배우는 것이 가장 좋은 선택이다. 언어 환경은 언어 학습에 중요한 작용을 하기 때문이다.",
+              "ja": "一定の語学基礎と経済条件があるなら、海外で外国語を学ぶことが最良の選択です。言語環境は言語学習に重要な役割を果たすからです。"
+            }
+          },
+          {
+            "translation": {
+              "en": "A: Teacher Wang, you became a professor after working here for only three years. You have to treat us this time. B: Definitely.",
+              "ko": "A: 왕 선생님, 이곳에 온 지 겨우 3년 만에 교수가 되셨으니 이번에는 한턱내셔야죠. B: 물론이죠.",
+              "ja": "A: 王先生、ここで働き始めて三年で教授になられたのですから、今回はごちそうしてくださいね。B: もちろんです。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Don't give up just because you failed.",
+              "ko": "실패했다고 절대 포기하지 마.",
+              "ja": "失敗したからといって絶対に諦めないでください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I will definitely keep working hard.",
+              "ko": "나는 반드시 계속 노력할 거야.",
+              "ja": "私は必ず努力を続けます。"
+            }
+          }
+        ]
+      },
+      "来": {
+        "formal_translation": {
+          "en": "The verb “来” can be used before another verb to mean “to be going to do something”. It is usually used in spoken Chinese. If “来” is omitted, the meaning of the sentence does not change.",
+          "ko": "동사 “来”는 다른 동사 앞에 쓰여 ‘무엇을 하려고 하다’라는 뜻을 나타낼 수 있으며, 주로 구어에서 쓰인다. “来”를 생략해도 문장의 의미는 변하지 않는다.",
+          "ja": "動詞「来」はほかの動詞の前に置かれ、「何かをしようとする」という意味を表すことができ、主に話し言葉で使われます。「来」を省略しても文の意味は変わりません。"
+        },
+        "colloquial_translation": {
+          "en": "“来” before a verb adds a spoken, proactive feeling: the speaker or subject is taking the initiative to do the action. The core meaning remains the same without it.",
+          "ko": "동사 앞의 “来”는 말하는 사람이나 주어가 그 행동을 주도적으로 하겠다는 구어적 느낌을 더한다. 없어도 핵심 의미는 같다.",
+          "ja": "動詞の前の「来」は、話し手や主語がその動作を主体的に行うという口語的な感じを加えます。なくても中心的な意味は同じです。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "This sofa is so big that the two of you definitely cannot lift it. I'll help you lift it together.",
+              "ko": "이 소파는 이렇게 커서 너희 둘은 분명 들 수 없을 거야. 내가 와서 같이 들어 줄게.",
+              "ja": "このソファはこんなに大きいので、あなたたち二人ではきっと持ち上げられません。私が一緒に持つのを手伝います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Xiao Wang has relatively rich experience and works seriously, so let him be responsible for this time.",
+              "ko": "샤오왕은 경험이 비교적 풍부하고 일을 성실하게 하니, 이번에는 그가 맡게 하자.",
+              "ja": "王さんは経験が比較的豊富で、仕事もまじめなので、今回は彼に担当してもらいましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When some children cannot get what they want, they draw their parents' attention by crying, throwing things, or deliberately knocking and hitting.",
+              "ko": "어떤 아이들은 자신이 원하는 것을 얻지 못할 때 울거나 물건을 던지거나 일부러 두드리고 때리는 방식으로 부모의 관심을 끌려고 한다.",
+              "ja": "一部の子どもは、自分の欲しいものが得られないとき、泣いたり、物を投げたり、わざとたたいたりして親の注意を引こうとします。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I'll help you lift it.",
+              "ko": "내가 들어 줄게.",
+              "ja": "私が持つのを手伝います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Let him handle it this time.",
+              "ko": "이번에는 그가 맡게 하자.",
+              "ja": "今回は彼に任せましょう。"
+            }
+          }
+        ]
+      },
+      "左右": {
+        "formal_translation": {
+          "en": "The noun “左右” can only be used after numerals, indicating being slightly more or less than a certain quantity.",
+          "ko": "명사 “左右”는 수량사 뒤에만 쓰이며, 어떤 수량보다 조금 많거나 조금 적은 대략적인 정도를 나타낸다.",
+          "ja": "名詞「左右」は数量詞の後ろにだけ使われ、ある数量より少し多い、または少し少ないおおよその程度を表します。"
+        },
+        "colloquial_translation": {
+          "en": "“左右” means “around” or “about” after a number. It gives an approximate amount, time, distance, or age rather than an exact number.",
+          "ko": "“左右”는 숫자 뒤에서 ‘쯤, 정도’를 뜻한다. 정확한 숫자가 아니라 수량, 시간, 거리, 나이 등의 대략적인 범위를 나타낸다.",
+          "ja": "「左右」は数字の後ろで「くらい、前後」を意味します。正確な数ではなく、数量・時間・距離・年齢などのおおよその範囲を表します。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "The book bought online will probably arrive in about three days. Remember to call and let me know when you receive it.",
+              "ko": "인터넷에서 산 그 책은 아마 사흘쯤이면 도착할 거야. 받으면 나에게 전화해서 알려 줘.",
+              "ja": "ネットで買ったあの本は、おそらく三日くらいで届きます。受け取ったら電話で知らせてください。"
+            }
+          },
+          {
+            "translation": {
+              "en": "You cannot park here. There is a free parking lot about 500 meters ahead, and you can park your car there.",
+              "ko": "여기에는 주차할 수 없습니다. 앞쪽 500미터쯤에 무료 주차장이 있으니, 차를 그곳에 세우시면 됩니다.",
+              "ja": "ここには駐車できません。前方五百メートルくらいのところに無料駐車場がありますので、そこに車を停めることができます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Children around seven years old are generally active and cannot sit still, so when teachers teach children in this age group, they must find ways to arouse their interest.",
+              "ko": "일곱 살 전후의 아동은 보통 활동적이고 가만히 앉아 있지 못하므로, 교사가 이 연령대의 아이를 가르칠 때는 반드시 그들의 흥미를 끌 방법을 생각해야 한다.",
+              "ja": "七歳前後の児童は一般的に活発で、じっと座っていられません。そのため、教師がこの年齢層の子どもを教えるときは、必ず彼らの興味を引く方法を考えなければなりません。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "It can arrive in about three days.",
+              "ko": "사흘쯤이면 도착할 수 있어.",
+              "ja": "三日くらいで届きます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "There is a parking lot about 500 meters ahead.",
+              "ko": "앞쪽 500미터쯤에 주차장이 있어.",
+              "ja": "前方五百メートルくらいのところに駐車場があります。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "他是我大学时的同学，毕业后我们就再也没联系过，没想到中午我去取<b>护照</b>时竟然遇到他了。": {
+        "translation": {
+          "en": "He was my classmate in college. After graduation we never contacted each other again, but unexpectedly I ran into him at noon when I went to pick up my passport.",
+          "ko": "그는 내 대학 시절 동창이다. 졸업 후 우리는 다시는 연락하지 않았는데, 점심때 여권을 찾으러 갔다가 뜻밖에 그를 만났다.",
+          "ja": "彼は私の大学時代の同級生です。卒業後、私たちは二度と連絡を取っていませんでしたが、昼にパスポートを受け取りに行ったとき、思いがけず彼に会いました。"
+        },
+        "colloquial_translation": {
+          "en": "He was my college classmate. We lost contact after graduation, but I unexpectedly ran into him at noon when I went to pick up my passport.",
+          "ko": "그는 내 대학 동창이야. 졸업 후 연락이 끊겼는데, 점심때 여권을 찾으러 갔다가 뜻밖에 만났어.",
+          "ja": "彼は私の大学の同級生です。卒業後は連絡が途絶えていましたが、昼にパスポートを受け取りに行ったとき、思いがけず会いました。"
+        },
+        "context": {
+          "en": "Learning the word 护照 with the character 护",
+          "ko": "护가 들어간 단어 护照를 익힐 때",
+          "ja": "「护」を含む語「护照」を学ぶとき"
+        }
+      },
+      "<b>保护</b>地球环境，并不是离我们很远、很难做到的事情。实际上，我们只需注意一下身边的小事就可以。": {
+        "translation": {
+          "en": "Protecting the earth's environment is not something far away from us or very difficult to do. In fact, we only need to pay attention to small things around us.",
+          "ko": "지구 환경을 보호하는 것은 우리와 아주 멀리 떨어져 있거나 실천하기 어려운 일이 아니다. 실제로 우리는 주변의 작은 일에 조금만 주의하면 된다.",
+          "ja": "地球環境を守ることは、私たちから遠く離れたことでも、実行するのがとても難しいことでもありません。実際には、身の回りの小さなことに少し注意するだけでよいのです。"
+        },
+        "colloquial_translation": {
+          "en": "Protecting the environment is not actually that distant or difficult. We just need to pay attention to small things around us.",
+          "ko": "환경 보호는 사실 그렇게 멀거나 어려운 일이 아니야. 주변의 작은 일에 주의하면 돼.",
+          "ja": "環境を守ることは、実はそれほど遠いことでも難しいことでもありません。身の回りの小さなことに注意すればよいのです。"
+        },
+        "context": {
+          "en": "Learning the word 保护 with the character 护",
+          "ko": "护가 들어간 단어 保护를 익힐 때",
+          "ja": "「护」を含む語「保护」を学ぶとき"
+        }
+      },
+      "这本小说的作者是医院的一位<b>护士</b>，她通过小说告诉我们发生在医院里的许多有趣的故事，让我们对<b>护士</b>、医生这些职业有了更多的了解。": {
+        "translation": {
+          "en": "The author of this novel is a nurse at a hospital. Through the novel, she tells us many interesting stories that happen in the hospital, helping us understand more about professions such as nurses and doctors.",
+          "ko": "이 소설의 작가는 병원의 한 간호사이다. 그녀는 소설을 통해 병원에서 일어나는 많은 흥미로운 이야기를 우리에게 들려주어, 우리가 간호사와 의사 같은 직업에 대해 더 많이 이해하게 해 준다.",
+          "ja": "この小説の作者は病院の看護師です。彼女は小説を通して、病院で起こる多くの面白い話を私たちに伝え、看護師や医師といった職業についてより深く理解させてくれます。"
+        },
+        "colloquial_translation": {
+          "en": "The author of this novel is a nurse. She wrote many interesting stories from the hospital, helping us understand professions like nurses and doctors better.",
+          "ko": "이 소설의 작가는 간호사야. 병원에서 있었던 재미있는 이야기를 많이 써서, 우리가 간호사와 의사 같은 직업을 더 잘 이해하게 해 줘.",
+          "ja": "この小説の作者は看護師です。病院での面白い話をたくさん書き、看護師や医師のような職業をよりよく理解できるようにしてくれます。"
+        },
+        "context": {
+          "en": "Learning the word 护士 with the character 护",
+          "ko": "护가 들어간 단어 护士를 익힐 때",
+          "ja": "「护」を含む語「护士」を学ぶとき"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Who is that boy playing the piano while singing? His performance is really amazing!",
+              "ko": "저기 피아노를 치면서 노래하는 남자아이는 누구야? 공연을 정말 잘하네!",
+              "ja": "あのピアノを弾きながら歌っている男の子は誰ですか。演奏が本当にすばらしいですね。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "He's my grandson. He also performed once at the New Year party before winter vacation last year.",
+              "ko": "내 손자야. 작년 겨울방학 전 신년 파티에서도 한 번 공연했어.",
+              "ja": "私の孫です。去年の冬休み前の新年パーティーでも一度発表したことがあります。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "I remember now. This child is both smart and cute. You have educated him really well!",
+              "ko": "생각났어. 이 아이는 똑똑하기도 하고 귀엽기도 해. 정말 잘 교육하셨네요!",
+              "ja": "思い出しました。この子は賢くてかわいいですね。教育が本当に上手ですね。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "It's because his parents educated him well. Parents are a child's most important teachers. His parents not only taught him knowledge, but also spent a long time helping him develop very good habits. Now he practices playing the piano by himself every day.",
+              "ko": "그건 그의 부모가 잘 교육한 거야. 부모는 아이에게 가장 중요한 선생님이지. 그의 부모는 지식만 가르친 것이 아니라, 아주 오랜 시간을 들여 그가 매우 좋은 습관을 기르도록 도와줬어. 지금은 매일 스스로 피아노 연습을 해.",
+              "ja": "それは彼の両親の教育がよかったからです。両親は子どもにとって最も重要な先生です。彼の両親は知識を教えただけでなく、長い時間をかけて彼によい習慣を身につけさせました。今では彼は毎日自分でピアノを練習しています。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Helping a child develop a good habit is really important. It looks like I need to learn properly from his parents.",
+              "ko": "아이에게 좋은 습관을 기르게 하는 건 정말 중요하네요. 저도 그의 부모에게 제대로 배워야 할 것 같아요.",
+              "ja": "子どもによい習慣を身につけさせることは本当に大切ですね。私も彼の両親からしっかり学ばなければならないようです。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Right. If you hope to have an outstanding child, you must first become an outstanding father or mother.",
+              "ko": "맞아. 훌륭한 아이를 원한다면 먼저 훌륭한 아버지나 어머니가 되어야 해.",
+              "ja": "そうです。優秀な子どもを望むなら、まず優秀な父親または母親にならなければなりません。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "You don't look very well. Did you not rest well last night?",
+              "ko": "얼굴빛이 별로 안 좋아 보이네. 어젯밤에 잘 못 쉬었어?",
+              "ja": "顔色があまりよくありませんね。昨晩よく休めなかったのですか。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Don't even mention it. My daughter did homework until 11 again last night.",
+              "ko": "말도 마. 내 딸이 어젯밤에도 숙제를 11시까지 했어.",
+              "ja": "その話はしないでください。娘は昨晩も宿題を十一時までしていました。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Going to bed too late is not good for a child's health. Has she had too much homework recently?",
+              "ko": "너무 늦게 자는 건 아이 몸에 좋지 않아. 요즘 아이 숙제가 너무 많은 거 아니야?",
+              "ja": "寝るのが遅すぎるのは子どもの体によくありません。最近、子どもの宿題が多すぎるのではありませんか。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "The main thing is that she does things rather slowly. For example, in the morning the alarm clock rings but she doesn't wake up; I'm rushing to take her to school, and then she's in a hurry to use the bathroom. Criticizing her every day over these little things makes both of us feel bad.",
+              "ko": "주로 아이가 일을 비교적 느리게 해서 그래. 예를 들어 아침에 알람이 울려도 안 깨고, 나는 시간에 맞춰 학교에 데려다줘야 하는데 아이는 또 급하게 화장실에 가려고 해. 매일 이런 작은 일들 때문에 아이를 꾸짖다 보니 우리 둘 다 기분이 좋지 않아.",
+              "ja": "主な理由は、彼女が物事をするのが比較的遅いことです。例えば、朝、目覚まし時計が鳴っても起きず、私は時間に間に合わせて学校へ送らなければならないのに、彼女はまた急いでトイレに行きます。毎日こうした小さなことで彼女を叱るので、私たち二人とも気分がよくありません。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "When children do things slowly, it is often because they don't know how to arrange their own time. You should help your child learn to manage time.",
+              "ko": "아이가 일을 느리게 하는 것은 대개 자기 시간을安排할 줄 모르기 때문이야. 아이가 시간을 관리하는 법을 배우도록 해야 해.",
+              "ja": "子どもが物事をするのが遅いのは、たいてい自分の時間を安排できないからです。子どもに時間管理を学ばせるべきです。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "It seems there is still a problem with my way of educating her. Usually, when I see her doing things slowly, I always want to do them for her. From now on, I need to let her learn to arrange time and do her own things herself.",
+              "ko": "아무래도 내 교육 방식에 문제가 있는 것 같아. 평소에 아이가 일을 느리게 하는 걸 보면 늘 대신 해 주고 싶었거든. 앞으로는 아이가 시간을安排하고 자기 일은 스스로 하도록 해야겠어.",
+              "ja": "やはり私の教育方法に問題があるようです。普段、彼女が物事をするのが遅いのを見ると、いつも代わりにやってあげたくなります。これからは彼女に時間を安排することを学ばせ、自分のことは自分でさせなければなりません。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Tomorrow I have to take my son to the hospital for an injection again. Just thinking about it gives me a headache. He's afraid of injections, and every time he gets one he cries terribly.",
+              "ko": "내일 또 아들을 데리고 병원에 주사를 맞으러 가야 해. 생각만 해도 머리가 아파. 아이가 주사를 무서워해서, 주사 맞을 때마다 정말 심하게 울어.",
+              "ja": "明日また息子を病院へ注射に連れて行かなければなりません。考えるだけで頭が痛くなります。彼は注射を怖がって、毎回注射のたびにひどく泣きます。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I remember when my daughter was little, I took her to the hospital for an injection. At first she was so scared she was about to cry. I quietly told the nurse that my daughter was very brave and wasn't afraid of injections at all. After my daughter heard that, she immediately stopped crying.",
+              "ko": "내 딸이 어렸을 때가 기억나. 병원에 데리고 가서 주사를 맞힐 때 처음에는 무서워서 울려고 했어. 그래서 내가 간호사에게 작은 목소리로 우리 딸은 아주 용감하고 주사를 조금도 무서워하지 않는다고 말했더니, 딸이 듣고 나서 바로 울지 않았어.",
+              "ja": "娘が小さいころ、病院へ注射に連れて行ったことを覚えています。最初、彼女は怖くて泣きそうでした。私は小声で看護師に、娘はとても勇敢で注射を少しも怖がらないと言いました。娘はそれを聞いてすぐに泣かなくなりました。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "So encouragement and praise are actually quite useful for children. I'll try it next time too.",
+              "ko": "그렇구나, 격려와 칭찬이 아이에게 꽤 효과가 있네. 다음번에 나도 한번 해 봐야겠다.",
+              "ja": "なるほど、励ましと褒めることは子どもにかなり役立つのですね。次は私も試してみます。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "But praise is also an art. You absolutely shouldn't praise too much; excessive praise may bring pressure to children. Not only may it fail to encourage them, it may also make children doubt their own abilities and become unconfident.",
+              "ko": "하지만 칭찬도 하나의 기술이야. 칭찬은 절대 너무 많이 해서는 안 돼. 지나친 칭찬은 아이에게 부담을 줄 수 있어. 격려의 효과를 내지 못할 뿐만 아니라, 아이가 자기 능력을 의심하게 하고 자신감을 잃게 만들 수도 있어.",
+              "ja": "でも、褒めることも一つの技術です。褒めすぎてはいけません。過度な褒め言葉は子どもにプレッシャーを与える可能性があります。励ましの効果がないだけでなく、子どもに自分の能力を疑わせ、自信をなくさせることもあります。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Then how should we praise children for it to be more effective?",
+              "ko": "그럼 어떻게 아이를 칭찬해야 더 효과가 있을까?",
+              "ja": "では、どう褒めれば子どもにより効果があるのでしょうか。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "I think praise should be timely, and it should not only look at the result, but even more at the process. Only in this way can we encourage his initiative and make him brave and unafraid of difficulties.",
+              "ko": "나는 칭찬은 제때 해야 하고, 결과만 볼 것이 아니라 과정도 더 중요하게 봐야 한다고 생각해. 그래야 아이의 적극성을 북돋우고, 아이가 용감해져서 어려움을 두려워하지 않게 할 수 있어.",
+              "ja": "私は、褒めることはタイミングが大切で、結果だけでなく、さらに過程を見るべきだと思います。そうしてこそ子どもの積極性を励まし、勇敢になり、困難を恐れないようにできます。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "When some children cannot get what they want, they draw their parents' attention by crying, throwing things, or deliberately knocking and hitting. In this situation, parents are advised not to get angry first. They should stop what they are doing, help the child tidy things up, chat with them, and clarify what the problem is. Parents' care can make children feel happier. When educating children, parents should choose suitable methods. It is best not to deceive children just to solve a problem, because children lack judgment. When they see their parents deceive others, they will also learn to tell lies.",
+              "ko": "어떤 아이들은 자신이 원하는 것을 얻지 못할 때 울거나 물건을 던지거나 일부러 두드리고 때리는 방식으로 부모의 관심을 끌려고 한다. 이런 상황에서는 부모가 먼저 화내지 말고, 하던 일을 멈춘 뒤 아이와 함께 물건을 정리하고 대화를 나누며 아이의 문제가 무엇인지 분명히 알아보는 것이 좋다. 부모의 관심은 아이의 기분을 즐겁게 만들 수 있다. 아이를 교육할 때는 적절한 교육 방법을 선택해야 하며, 문제를 해결하기 위해 아이를 속이지 않는 것이 가장 좋다. 이는 아동에게 판단 능력이 부족해서, 부모가 남을 속이는 것을 보면 아이들도 거짓말을 배우게 되기 때문이다.",
+              "ja": "一部の子どもは、自分の欲しいものが得られないとき、泣いたり、物を投げたり、わざとたたいたりして親の注意を引こうとします。このような場合、親はまず怒らず、手元のことを止めて、子どもと一緒に物を整理し、話をして、子どもの問題をはっきりさせることが勧められます。親の関心は子どもの気持ちを楽しくすることができます。子どもを教育するときは、適切な教育方法を選ぶべきで、問題を解決するために子どもをだますのは避けたほうがよいです。これは、子どもは判断能力が不足しており、親が人をだますのを見ると、子どもも嘘を言うことを学んでしまうからです。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Children around seven years old are generally active and cannot sit still, so when teachers teach children in this age group, they must find ways to arouse their interest. Only when children feel that what you teach is interesting will they be willing to study hard. When a child does not understand, you should encourage them more and not criticize them with words like \"lazy,\" \"stupid,\" or \"careless,\" because this is not good for their normal development. Also, different educational methods should be used for children with different personalities. If a child is rather arrogant, you should help them understand that there is still a lot of knowledge to learn. If a child is somewhat shy, you should often encourage them to express their own opinions. Only in this way can every child develop healthily.",
+              "ko": "일곱 살 전후의 아동은 보통 활동적이고 가만히 앉아 있지 못하므로, 교사가 이 연령대의 아이를 가르칠 때는 반드시 그들의 흥미를 끌 방법을 생각해야 한다. 아이들이 가르치는 내용이 재미있다고 느껴야만 기꺼이 열심히 공부하게 된다. 아이가 이해하지 못할 때는 많이 격려해야 하며, “게으르다”, “멍청하다”, “부주의하다” 같은 말로 비판해서는 안 된다. 이는 아이들의 정상적인 발달에 좋지 않다. 또한 성격이 다른 아이에게는 서로 다른 교육 방법을 사용해야 한다. 아이가 비교적 교만하다면 아직 배워야 할 지식이 많다는 것을 알게 해야 하고, 아이의 성격이 조금 수줍다면 자주 격려해서 자신의 생각을 말하게 해야 한다. 그래야 모든 아이가 건강하게 성장할 수 있다.",
+              "ja": "七歳前後の児童は一般的に活発で、じっと座っていられません。そのため、教師がこの年齢層の子どもを教えるときは、必ず彼らの興味を引く方法を考えなければなりません。教える内容が面白いと感じて初めて、子どもたちは進んで努力して学びます。子どもが理解できないときは、もっと励ますべきで、「怠けている」「愚かだ」「不注意だ」といった言葉で批判してはいけません。これは子どもの正常な発達によくありません。また、性格の異なる子どもには異なる教育方法を用いる必要があります。子どもがやや傲慢なら、まだ学ぶべき知識がたくさんあることを理解させるべきです。もし子どもが少し恥ずかしがり屋なら、自分の考えを言うように日ごろから励ます必要があります。そうしてこそ、一人ひとりの子どもが健康に成長できます。"
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1711 @@
+{
+  "lessonId": 16,
+  "title": "Lesson 16: 小夏出国留学遇到了问题 (xiǎo xià chūguó liúxué yùdào le wèntí) (Xiao Xia runs into a problem while preparing to study abroad)",
+  "vocabulary": [
+    {
+      "word": "博士",
+      "pinyin": "bóshì",
+      "meaning": "n. doctor (academic degree)"
+    },
+    {
+      "word": "签证",
+      "pinyin": "qiānzhèng",
+      "meaning": "n. visa"
+    },
+    {
+      "word": "报名",
+      "pinyin": "bào míng",
+      "meaning": "v. to apply, to sign up"
+    },
+    {
+      "word": "表格",
+      "pinyin": "biǎogé",
+      "meaning": "n. form, table"
+    },
+    {
+      "word": "传真",
+      "pinyin": "chuánzhēn",
+      "meaning": "v. to send by fax"
+    },
+    {
+      "word": "号码",
+      "pinyin": "hàomǎ",
+      "meaning": "n. number"
+    },
+    {
+      "word": "参观",
+      "pinyin": "cānguān",
+      "meaning": "v. to visit, to look around"
+    },
+    {
+      "word": "激动",
+      "pinyin": "jīdòng",
+      "meaning": "adj. excited, emotional"
+    },
+    {
+      "word": "小伙子",
+      "pinyin": "xiǎohuǒzi",
+      "meaning": "n. young man"
+    },
+    {
+      "word": "记者",
+      "pinyin": "jìzhě",
+      "meaning": "n. journalist, reporter"
+    },
+    {
+      "word": "代表",
+      "pinyin": "dàibiǎo",
+      "meaning": "v. to represent, to stand for"
+    },
+    {
+      "word": "恐怕",
+      "pinyin": "kǒngpà",
+      "meaning": "adv. I guess, perhaps"
+    },
+    {
+      "word": "失望",
+      "pinyin": "shīwàng",
+      "meaning": "v. to be disappointed"
+    },
+    {
+      "word": "郊区",
+      "pinyin": "jiāoqū",
+      "meaning": "n. suburb, outskirts"
+    },
+    {
+      "word": "到底",
+      "pinyin": "dàodǐ",
+      "meaning": "adv. on earth, after all"
+    },
+    {
+      "word": "呀",
+      "pinyin": "ya",
+      "meaning": "part. used at the end of a question to soften the tone"
+    },
+    {
+      "word": "导游",
+      "pinyin": "dǎoyóu",
+      "meaning": "n. tour guide"
+    },
+    {
+      "word": "礼貌",
+      "pinyin": "lǐmào",
+      "meaning": "n. politeness"
+    },
+    {
+      "word": "原谅",
+      "pinyin": "yuánliàng",
+      "meaning": "v. to forgive"
+    },
+    {
+      "word": "挂",
+      "pinyin": "guà",
+      "meaning": "v. to hang, to put up"
+    },
+    {
+      "word": "同情",
+      "pinyin": "tóngqíng",
+      "meaning": "v. to show sympathy for"
+    },
+    {
+      "word": "推",
+      "pinyin": "tuī",
+      "meaning": "v. to put off, to postpone"
+    },
+    {
+      "word": "预习",
+      "pinyin": "yùxí",
+      "meaning": "v. to prepare lessons before class"
+    },
+    {
+      "word": "重点",
+      "pinyin": "zhòngdiǎn",
+      "meaning": "n. focal point, emphasis"
+    },
+    {
+      "word": "马虎",
+      "pinyin": "mǎhu",
+      "meaning": "adj. careless, slipshod"
+    },
+    {
+      "word": "自信",
+      "pinyin": "zìxìn",
+      "meaning": "adj. self-confident"
+    },
+    {
+      "word": "冷静",
+      "pinyin": "lěngjìng",
+      "meaning": "adj. calm, composed"
+    },
+    {
+      "word": "输",
+      "pinyin": "shū",
+      "meaning": "v. to lose, to suffer defeat"
+    },
+    {
+      "word": "重视",
+      "pinyin": "zhòngshì",
+      "meaning": "v. to attach importance to"
+    },
+    {
+      "word": "敢",
+      "pinyin": "gǎn",
+      "meaning": "v. to dare"
+    },
+    {
+      "word": "尊重",
+      "pinyin": "zūnzhòng",
+      "meaning": "v. to respect"
+    }
+  ],
+  "grammar": [
+    {
+      "point": "可",
+      "formal": "可 + predicate",
+      "colloquial": "可 + sentence",
+      "explanation": "The adverb “可” is used for emphasis. When used in a rhetorical question, it strengthens the tone.",
+      "nuance": "“可” makes the speaker's feeling stronger, like “really”, “definitely”, or “you know” in English. In questions, it can make the question sound more urgent or emphatic.",
+      "formal_examples": [
+        {
+          "zh": "这可是个大问题，我也不太清楚。",
+          "pinyin": "Zhè kě shì ge dà wèntí, wǒ yě bú tài qīngchu.",
+          "translation": "This really is a big problem. I'm not too sure either."
+        },
+        {
+          "zh": "下个星期就要去使馆办签证了，这可怎么办？",
+          "pinyin": "Xià ge xīngqī jiù yào qù shǐguǎn bàn qiānzhèng le, zhè kě zěnme bàn?",
+          "translation": "I'm going to the embassy next week to apply for the visa. What on earth should I do?"
+        },
+        {
+          "zh": "我办了一张那个理发店的会员卡，理发可节约了不少钱。",
+          "pinyin": "Wǒ bàn le yì zhāng nà ge lǐfàdiàn de huìyuán kǎ, lǐfà kě jiéyuē le bù shǎo qián.",
+          "translation": "I got a membership card for that hair salon, and it really saved me quite a lot of money on haircuts."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "这可不是小事。",
+          "pinyin": "Zhè kě bú shì xiǎo shì.",
+          "translation": "This really is not a small matter."
+        },
+        {
+          "zh": "这可怎么办？",
+          "pinyin": "Zhè kě zěnme bàn?",
+          "translation": "What on earth should we do?"
+        }
+      ]
+    },
+    {
+      "point": "恐怕",
+      "formal": "恐怕",
+      "colloquial": "恐怕 / 可能 / 估计",
+      "explanation": "“恐怕” can be used as a verb meaning “to be afraid” or “to worry”. It can also be used as an adverb meaning “according to estimation, with some worry”, or as an adverb indicating an estimate or guess, meaning “probably” or “perhaps”.",
+      "nuance": "As a verb, “恐怕” means being worried that something may happen. As an adverb, it often makes an estimate sound cautious, uncertain, or slightly worried.",
+      "formal_examples": [
+        {
+          "zh": "我的工作经验还比较少，那份工作我恐怕完成不了。",
+          "pinyin": "Wǒ de gōngzuò jīngyàn hái bǐjiào shǎo, nà fèn gōngzuò wǒ kǒngpà wánchéng bù liǎo.",
+          "translation": "I still have relatively little work experience, so I'm afraid I won't be able to complete that job."
+        },
+        {
+          "zh": "这几个动作我恐怕做得不标准，所以比赛前要多多练习。",
+          "pinyin": "Zhè jǐ ge dòngzuò wǒ kǒngpà zuò de bù biāozhǔn, suǒyǐ bǐsài qián yào duōduō liànxí.",
+          "translation": "I'm afraid I may not do these movements correctly, so I need to practice a lot before the competition."
+        },
+        {
+          "zh": "这个会议室的座位恐怕不够，还是换到旁边那个大的吧。",
+          "pinyin": "Zhè ge huìyìshì de zuòwèi kǒngpà bú gòu, háishi huàn dào pángbiān nà ge dà de ba.",
+          "translation": "I'm afraid the seats in this meeting room may not be enough, so let's move to the bigger one next door."
+        },
+        {
+          "zh": "有些事情如果你一定要找一个正确答案，恐怕会让简单的生活变得复杂。",
+          "pinyin": "Yǒuxiē shìqing rúguǒ nǐ yídìng yào zhǎo yí ge zhèngquè dá'àn, kǒngpà huì ràng jiǎndān de shēnghuó biàn de fùzá.",
+          "translation": "For some things, if you insist on finding one correct answer, it may make simple life complicated."
+        },
+        {
+          "zh": "听完我的回答，恐怕你已经知道我的答案了吧。",
+          "pinyin": "Tīng wán wǒ de huídá, kǒngpà nǐ yǐjīng zhīdào wǒ de dá'àn le ba.",
+          "translation": "After hearing my answer, I guess you already know my answer."
+        },
+        {
+          "zh": "京剧演出7点就开始了，现在恐怕已经结束了。",
+          "pinyin": "Jīngjù yǎnchū qī diǎn jiù kāishǐ le, xiànzài kǒngpà yǐjīng jiéshù le.",
+          "translation": "The Peking opera performance started at seven, so it has probably already ended by now."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "这事恐怕办不了。",
+          "pinyin": "Zhè shì kǒngpà bàn bù liǎo.",
+          "translation": "I'm afraid this probably can't be done."
+        },
+        {
+          "zh": "现在恐怕已经结束了。",
+          "pinyin": "Xiànzài kǒngpà yǐjīng jiéshù le.",
+          "translation": "It has probably already ended by now."
+        }
+      ]
+    },
+    {
+      "point": "恐怕——怕",
+      "formal": "Compare: 恐怕——怕",
+      "colloquial": "恐怕 vs 怕",
+      "explanation": "Both “恐怕” and “怕” can be used as verbs meaning “to be afraid” or “to worry”, and both can also be used as adverbs indicating estimation, often with a worried implication. When expressing worry, “恐怕” can only be used before a verb, while “怕” can be used before either a verb or a noun. When expressing estimation, “恐怕” can appear either before or after the subject, while “怕” is only used after the subject. As a verb, “怕” can take an object and mean “to fear somebody, something, or a situation”; “恐怕” does not have this use. As an adverb, “恐怕” can also mean an estimate or guess and can often be replaced by “也许” or “大概”; “怕” does not have this use.",
+      "nuance": "Use “恐怕” for a cautious estimate or a worried guess. Use “怕” when talking about being afraid of a person, thing, or situation, or in simpler spoken expressions of worry.",
+      "formal_examples": [
+        {
+          "zh": "从这儿坐地铁到那儿至少得五十分钟，马克恐怕/怕来不及了。",
+          "pinyin": "Cóng zhèr zuò dìtiě dào nàr zhìshǎo děi wǔshí fēnzhōng, Mǎkè kǒngpà/pà lái bu jí le.",
+          "translation": "It takes at least fifty minutes to get there by subway from here, so Mark may not make it in time."
+        },
+        {
+          "zh": "如果说一对夫妻缺少或者没有共同语言，那问题恐怕/怕就大了。",
+          "pinyin": "Rúguǒ shuō yí duì fūqī quēshǎo huòzhě méiyǒu gòngtóng yǔyán, nà wèntí kǒngpà/pà jiù dà le.",
+          "translation": "If a married couple lacks or has no common language, then the problem may be serious."
+        },
+        {
+          "zh": "我恐怕/怕忘了这件事，所以把这件事记在本子上。",
+          "pinyin": "Wǒ kǒngpà/pà wàng le zhè jiàn shì, suǒyǐ bǎ zhè jiàn shì jì zài běnzi shang.",
+          "translation": "I was afraid I would forget this matter, so I wrote it down in my notebook."
+        },
+        {
+          "zh": "我怕你忘了这件事，所以打电话提醒你一下。",
+          "pinyin": "Wǒ pà nǐ wàng le zhè jiàn shì, suǒyǐ dǎ diànhuà tíxǐng nǐ yíxià.",
+          "translation": "I was afraid you would forget this matter, so I called to remind you."
+        },
+        {
+          "zh": "刚才听广播说明天可能会下大雨，恐怕足球比赛不能举行了。",
+          "pinyin": "Gāngcái tīng guǎngbō shuō míngtiān kěnéng huì xià dàyǔ, kǒngpà zúqiú bǐsài bù néng jǔxíng le.",
+          "translation": "I just heard on the radio that it may rain heavily tomorrow, so the football match may not be able to take place."
+        },
+        {
+          "zh": "刚才听广播说明天可能会下大雨，足球比赛恐怕/怕不能举行了。",
+          "pinyin": "Gāngcái tīng guǎngbō shuō míngtiān kěnéng huì xià dàyǔ, zúqiú bǐsài kǒngpà/pà bù néng jǔxíng le.",
+          "translation": "I just heard on the radio that it may rain heavily tomorrow, so the football match may not be able to take place."
+        },
+        {
+          "zh": "找工作关键还是看能力，有能力的人不怕找不到好工作。",
+          "pinyin": "Zhǎo gōngzuò guānjiàn háishi kàn nénglì, yǒu nénglì de rén bú pà zhǎo bù dào hǎo gōngzuò.",
+          "translation": "When looking for work, the key still depends on ability. Capable people are not afraid of being unable to find a good job."
+        },
+        {
+          "zh": "好久没见过他了，他离开这里恐怕有二十天了。",
+          "pinyin": "Hǎo jiǔ méi jiàn guo tā le, tā líkāi zhèlǐ kǒngpà yǒu èrshí tiān le.",
+          "translation": "I haven't seen him for a long time. He has probably been away from here for twenty days."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "恐怕来不及了。",
+          "pinyin": "Kǒngpà lái bu jí le.",
+          "translation": "I'm afraid there won't be enough time."
+        },
+        {
+          "zh": "我怕你忘了，所以打电话提醒你。",
+          "pinyin": "Wǒ pà nǐ wàng le, suǒyǐ dǎ diànhuà tíxǐng nǐ.",
+          "translation": "I was afraid you would forget, so I called to remind you."
+        }
+      ]
+    },
+    {
+      "point": "到底",
+      "formal": "The verb and adverb “到底”",
+      "colloquial": "到底: to the end; on earth",
+      "explanation": "As a verb, “到底” means “to continue until the end” or “to reach the final point”. As an adverb, it is used in interrogative sentences or sentences with interrogative pronouns to probe further, similar to “on earth” or “after all”. It cannot be used in a yes-no question with “吗”. When the subject is an interrogative pronoun, “到底” should be placed before the subject.",
+      "nuance": "Use “到底” as a verb when something is carried through to the end. Use adverbial “到底” in questions to ask more directly or press for the real answer.",
+      "formal_examples": [
+        {
+          "zh": "今天我一定陪你逛街逛到底，保证让你买到合适的衣服。",
+          "pinyin": "Jīntiān wǒ yídìng péi nǐ guàngjiē guàng dào dǐ, bǎozhèng ràng nǐ mǎi dào héshì de yīfu.",
+          "translation": "Today I will definitely go shopping with you until the end and make sure you buy suitable clothes."
+        },
+        {
+          "zh": "要是你觉得情人节只送巧克力还不够浪漫，那就再带她看《将爱情进行到底》这个爱情电影吧。",
+          "pinyin": "Yàoshi nǐ juéde Qíngrén Jié zhǐ sòng qiǎokèlì hái bù gòu làngmàn, nà jiù zài dài tā kàn “Jiāng Àiqíng Jìnxíng Dào Dǐ” zhè ge àiqíng diànyǐng ba.",
+          "translation": "If you think giving only chocolate on Valentine's Day is not romantic enough, then take her to watch the romance film “Carry Love Through to the End”."
+        },
+        {
+          "zh": "你不是已经买好火车票了吗？你到底怎么打算的呀？",
+          "pinyin": "Nǐ bú shì yǐjīng mǎi hǎo huǒchēpiào le ma? Nǐ dàodǐ zěnme dǎsuàn de ya?",
+          "translation": "Didn't you already buy the train ticket? What exactly are you planning?"
+        },
+        {
+          "zh": "我给他打了好几次电话了，可是一直没人接，也不知道他到底是怎么回事。",
+          "pinyin": "Wǒ gěi tā dǎ le hǎo jǐ cì diànhuà le, kěshì yìzhí méi rén jiē, yě bù zhīdào tā dàodǐ shì zěnme huí shì.",
+          "translation": "I called him several times, but no one answered, and I still do not know what exactly is going on with him."
+        },
+        {
+          "zh": "到底谁去参加比赛，大家还没决定。",
+          "pinyin": "Dàodǐ shéi qù cānjiā bǐsài, dàjiā hái méi juédìng.",
+          "translation": "Everyone still has not decided who exactly will participate in the competition."
+        },
+        {
+          "zh": "每个人都希望自己健康，那么到底什么是健康呢？不同的人有不同的理解。",
+          "pinyin": "Měi ge rén dōu xīwàng zìjǐ jiànkāng, nàme dàodǐ shénme shì jiànkāng ne? Bùtóng de rén yǒu bùtóng de lǐjiě.",
+          "translation": "Everyone hopes to be healthy, so what exactly is health? Different people have different understandings."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "你到底怎么打算的？",
+          "pinyin": "Nǐ dàodǐ zěnme dǎsuàn de?",
+          "translation": "What exactly are you planning?"
+        },
+        {
+          "zh": "到底谁去参加比赛？",
+          "pinyin": "Dàodǐ shéi qù cānjiā bǐsài?",
+          "translation": "Who exactly is going to participate in the competition?"
+        }
+      ]
+    },
+    {
+      "point": "拿……来说",
+      "formal": "The structure “拿……来说”",
+      "colloquial": "taking ... as an example",
+      "explanation": "In the structure “拿……来说”, “拿” is used as a preposition to introduce the matter, person, or situation that will be used for explanation. The structure means “taking ... as an example” or “speaking in terms of ...”.",
+      "nuance": "Use “拿……来说” when you want to narrow a general topic to one concrete example before explaining your point.",
+      "formal_examples": [
+        {
+          "zh": "这次招聘很多人符合公司的要求，拿他来说，他不仅专业符合职业要求，而且还有工作经验。",
+          "pinyin": "Zhè cì zhāopìn hěn duō rén fúhé gōngsī de yāoqiú, ná tā lái shuō, tā bùjǐn zhuānyè fúhé zhíyè yāoqiú, érqiě hái yǒu gōngzuò jīngyàn.",
+          "translation": "Many people in this recruitment meet the company's requirements. Take him as an example: not only does his major meet the job requirements, but he also has work experience."
+        },
+        {
+          "zh": "如果一个汉字中有“氵”这个部分，说明这个字的意思很可能和水有关系，拿“河、流、洗、汁”这几个字来说，它们都跟水有关。",
+          "pinyin": "Rúguǒ yí ge Hànzì zhōng yǒu “sān diǎn shuǐ” zhè ge bùfen, shuōmíng zhè ge zì de yìsi hěn kěnéng hé shuǐ yǒu guānxi, ná “hé, liú, xǐ, zhī” zhè jǐ ge zì lái shuō, tāmen dōu gēn shuǐ yǒu guān.",
+          "translation": "If a Chinese character has the “氵” component, it shows that the meaning of the character is probably related to water. Take the characters “河, 流, 洗, 汁” as examples: they are all related to water."
+        },
+        {
+          "zh": "所以不要把什么事情都推到“明天”，一切从现在做起。就拿学汉语来说吧，首先要注意课前预习，找出第二天要学习的重点……",
+          "pinyin": "Suǒyǐ bú yào bǎ shénme shìqing dōu tuī dào “míngtiān”, yíqiè cóng xiànzài zuò qǐ. Jiù ná xué Hànyǔ lái shuō ba, shǒuxiān yào zhùyì kè qián yùxí, zhǎo chū dì èr tiān yào xuéxí de zhòngdiǎn...",
+          "translation": "So do not put everything off until “tomorrow”; start everything from now. Take studying Chinese as an example: first, pay attention to previewing before class and find the key points to study the next day..."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "拿他来说，他不仅专业合适，而且还有工作经验。",
+          "pinyin": "Ná tā lái shuō, tā bùjǐn zhuānyè héshì, érqiě hái yǒu gōngzuò jīngyàn.",
+          "translation": "Take him as an example: not only is his major suitable, but he also has work experience."
+        },
+        {
+          "zh": "就拿学汉语来说吧，课前预习很重要。",
+          "pinyin": "Jiù ná xué Hànyǔ lái shuō ba, kè qián yùxí hěn zhòngyào.",
+          "translation": "Take studying Chinese as an example: previewing before class is very important."
+        }
+      ]
+    },
+    {
+      "point": "敢",
+      "formal": "The modal verb “敢”",
+      "colloquial": "dare to; be confident enough to",
+      "explanation": "The modal verb “敢” is used before a verb to indicate having the courage, confidence, or assurance to do something. It is often used with “不” or in conditional contexts to describe whether someone dares or is confident enough to act.",
+      "nuance": "Use “敢” when the focus is whether someone has enough courage or confidence to do something, especially when facing pressure, risk, or uncertainty.",
+      "formal_examples": [
+        {
+          "zh": "我们应该把那些敢说真话的人当成“镜子”，这样才能及时发现自己的缺点。",
+          "pinyin": "Wǒmen yīnggāi bǎ nàxiē gǎn shuō zhēnhuà de rén dàng chéng “jìngzi”, zhèyàng cái néng jíshí fāxiàn zìjǐ de quēdiǎn.",
+          "translation": "We should regard those who dare to tell the truth as “mirrors”; only in this way can we discover our own shortcomings in time."
+        },
+        {
+          "zh": "小时候我总喜欢躺在床上看书，结果眼睛越来越不好，所以从那儿以后我就不敢再躺着看书了。",
+          "pinyin": "Xiǎoshíhou wǒ zǒng xǐhuan tǎng zài chuáng shang kàn shū, jiéguǒ yǎnjing yuè lái yuè bù hǎo, suǒyǐ cóng nàr yǐhòu wǒ jiù bù gǎn zài tǎng zhe kàn shū le.",
+          "translation": "When I was little, I always liked lying in bed to read, and my eyesight got worse and worse, so after that I did not dare to read while lying down anymore."
+        },
+        {
+          "zh": "如果你敢诚实地说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。",
+          "pinyin": "Rúguǒ nǐ gǎn chéngshí de shuō chū zìjǐ duì nǎ fāngmiàn bù liǎojiě, bìng bù shuōmíng zìjǐ bǐ biérén chà, xiāngfǎn, zhèyàng zuò gèng néng dédào biérén de zūnzhòng.",
+          "translation": "If you dare to honestly say what you do not understand, it does not show that you are worse than others. On the contrary, doing so can earn more respect from others."
+        }
+      ],
+      "colloquial_examples": [
+        {
+          "zh": "我不敢再躺着看书了。",
+          "pinyin": "Wǒ bù gǎn zài tǎng zhe kàn shū le.",
+          "translation": "I don't dare to read while lying down anymore."
+        },
+        {
+          "zh": "你敢说真话吗？",
+          "pinyin": "Nǐ gǎn shuō zhēnhuà ma?",
+          "translation": "Do you dare to tell the truth?"
+        }
+      ]
+    }
+  ],
+  "texts": [
+    {
+      "id": 1,
+      "title": "小夏出国留学遇到了问题 (xiǎo xià chūguó liúxué yùdào le wèntí) (Xiao Xia runs into a problem while preparing to study abroad)",
+      "audio": "audio/16-1.mp3",
+      "content": [
+        {
+          "speaker": "小雨",
+          "text": "你马上就要硕士毕业了吧？将来有什么打算？",
+          "pinyin": "Nǐ mǎshàng jiù yào shuòshì bìyè le ba? Jiānglái yǒu shénme dǎsuàn?",
+          "translation": "You're about to graduate with your master's degree, right? What are your plans for the future?"
+        },
+        {
+          "speaker": "小夏",
+          "text": "我想出国读博士，一直在准备办签证需要的材料。",
+          "pinyin": "Wǒ xiǎng chūguó dú bóshì, yìzhí zài zhǔnbèi bàn qiānzhèng xūyào de cáiliào.",
+          "translation": "I want to go abroad to study for a doctorate, and I've been preparing the materials needed for the visa."
+        },
+        {
+          "speaker": "小雨",
+          "text": "现在材料准备得怎么样了？",
+          "pinyin": "Xiànzài cáiliào zhǔnbèi de zěnmeyàng le?",
+          "translation": "How is the preparation of the materials going now?"
+        },
+        {
+          "speaker": "小夏",
+          "text": "成绩证明和护照已经准备好了，另外，还跟国外的大学取得了联系，填写了报名表格。",
+          "pinyin": "Chéngjì zhèngmíng hé hùzhào yǐjīng zhǔnbèi hǎo le, lìngwài, hái gēn guówài de dàxué qǔdé le liánxì, tiánxiě le bàomíng biǎogé.",
+          "translation": "My transcript certificate and passport are already prepared. In addition, I've contacted universities abroad and filled out the application form."
+        },
+        {
+          "speaker": "小雨",
+          "text": "还应该有国外大学给你的邀请信吧？他们把邀请信传真给你了吗？",
+          "pinyin": "Hái yīnggāi yǒu guówài dàxué gěi nǐ de yāoqǐng xìn ba? Tāmen bǎ yāoqǐng xìn chuánzhēn gěi nǐ le ma?",
+          "translation": "There should also be an invitation letter from the foreign university, right? Did they fax the invitation letter to you?"
+        },
+        {
+          "speaker": "小夏",
+          "text": "没有啊，下个星期我就要去使馆办签证了，这可怎么办？",
+          "pinyin": "Méiyǒu a, xià ge xīngqī wǒ jiù yào qù shǐguǎn bàn qiānzhèng le, zhè kě zěnme bàn?",
+          "translation": "No. I'm going to the embassy next week to apply for the visa. What should I do?"
+        },
+        {
+          "speaker": "小雨",
+          "text": "这可是个大问题，我也不太清楚。我帮你查一下学校的电话号码，你打电话问一下吧。",
+          "pinyin": "Zhè kě shì ge dà wèntí, wǒ yě bú tài qīngchu. Wǒ bāng nǐ chá yíxià xuéxiào de diànhuà hàomǎ, nǐ dǎ diànhuà wèn yíxià ba.",
+          "translation": "That is a big problem. I'm not too sure either. I'll help you look up the school's phone number; call and ask them."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "小雨",
+          "pinyin": "Xiǎo Yǔ",
+          "meaning": "Xiao Yu, name of a person"
+        },
+        {
+          "word": "小夏",
+          "pinyin": "Xiǎo Xià",
+          "meaning": "Xiao Xia, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "博士",
+          "pinyin": "bóshì",
+          "meaning": "n. doctor (academic degree)"
+        },
+        {
+          "word": "签证",
+          "pinyin": "qiānzhèng",
+          "meaning": "n. visa"
+        },
+        {
+          "word": "报名",
+          "pinyin": "bào míng",
+          "meaning": "v. to apply, to sign up"
+        },
+        {
+          "word": "表格",
+          "pinyin": "biǎogé",
+          "meaning": "n. form, table"
+        },
+        {
+          "word": "传真",
+          "pinyin": "chuánzhēn",
+          "meaning": "v. to send by fax"
+        },
+        {
+          "word": "号码",
+          "pinyin": "hàomǎ",
+          "meaning": "n. number"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "王老板告诉李进自己成功的经验 (wáng lǎobǎn gàosu lǐ jìn zìjǐ chénggōng de jīngyàn) (Boss Wang tells Li Jin about his experience of success)",
+      "audio": "audio/16-2.mp3",
+      "content": [
+        {
+          "speaker": "李进",
+          "text": "谢谢您带我参观您的公司。在参观过程中我很激动，有个问题一直想问您。",
+          "pinyin": "Xièxie nín dài wǒ cānguān nín de gōngsī. Zài cānguān guòchéng zhōng wǒ hěn jīdòng, yǒu ge wèntí yìzhí xiǎng wèn nín.",
+          "translation": "Thank you for showing me around your company. I was very excited during the visit, and there is a question I've wanted to ask you."
+        },
+        {
+          "speaker": "王老板",
+          "text": "好啊！小伙子，咱们一边吃西瓜，一边聊。",
+          "pinyin": "Hǎo a! Xiǎohuǒzi, zánmen yìbiān chī xīguā, yìbiān liáo.",
+          "translation": "Sure! Young man, let's eat watermelon while we talk."
+        },
+        {
+          "speaker": "李进",
+          "text": "您从大学毕业开始工作，到现在才十年时间，怎么给公司赚了这么多钱？这让我非常吃惊。我想向您学习一下成功的经验。",
+          "pinyin": "Nín cóng dàxué bìyè kāishǐ gōngzuò, dào xiànzài cái shí nián shíjiān, zěnme gěi gōngsī zhuàn le zhème duō qián? Zhè ràng wǒ fēicháng chījīng. Wǒ xiǎng xiàng nín xuéxí yíxià chénggōng de jīngyàn.",
+          "translation": "You started working after graduating from university, and it has only been ten years. How did you make so much money for the company? That really surprises me. I'd like to learn from your experience of success."
+        },
+        {
+          "speaker": "王老板",
+          "text": "这个问题以前一个记者也问过我。做生意时虽然会遇到各种压力和困难，但是大家的机会都是相同的。你看，这里有三块大小不同的西瓜，我们用西瓜的大小代表钱的多少，要是我们一起开始吃，你会先选哪块？",
+          "pinyin": "Zhè ge wèntí yǐqián yí ge jìzhě yě wèn guo wǒ. Zuò shēngyi shí suīrán huì yùdào gè zhǒng yālì hé kùnnan, dànshì dàjiā de jīhuì dōu shì xiāngtóng de. Nǐ kàn, zhèlǐ yǒu sān kuài dàxiǎo bù tóng de xīguā, wǒmen yòng xīguā de dàxiǎo dàibiǎo qián de duōshǎo, yàoshi wǒmen yìqǐ kāishǐ chī, nǐ huì xiān xuǎn nǎ kuài?",
+          "translation": "A journalist asked me this question before. Although doing business brings all kinds of pressure and difficulties, everyone's opportunities are the same. Look, here are three pieces of watermelon of different sizes. If we use the size of the watermelon to represent the amount of money, and we start eating together, which piece would you choose first?"
+        },
+        {
+          "speaker": "李进",
+          "text": "我肯定先吃最大的一块了，难道您会先吃小的，放弃吃大块的机会吗？",
+          "pinyin": "Wǒ kěndìng xiān chī zuì dà de yí kuài le, nándào nín huì xiān chī xiǎo de, fàngqì chī dà kuài de jīhuì ma?",
+          "translation": "I would definitely eat the biggest piece first. Would you really eat the small one first and give up the chance to eat the big piece?"
+        },
+        {
+          "speaker": "王老板",
+          "text": "我会先吃最小的一块，因为在你没吃完最大的那块时，我还有时间再多吃一块，最后一定比你吃的西瓜多。听完我的回答，恐怕你已经知道我的答案了吧。",
+          "pinyin": "Wǒ huì xiān chī zuì xiǎo de yí kuài, yīnwèi zài nǐ méi chī wán zuì dà de nà kuài shí, wǒ hái yǒu shíjiān zài duō chī yí kuài, zuìhòu yídìng bǐ nǐ chī de xīguā duō. Tīng wán wǒ de huídá, kǒngpà nǐ yǐjīng zhīdào wǒ de dá'àn le ba.",
+          "translation": "I would eat the smallest piece first, because while you haven't finished the biggest piece, I still have time to eat another one. In the end, I will definitely have eaten more watermelon than you. After hearing my answer, I guess you already know my answer."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "李进",
+          "pinyin": "Lǐ Jìn",
+          "meaning": "Li Jin, name of a person"
+        },
+        {
+          "word": "王老板",
+          "pinyin": "Wáng lǎobǎn",
+          "meaning": "Boss Wang, name/title of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "参观",
+          "pinyin": "cānguān",
+          "meaning": "v. to visit, to look around"
+        },
+        {
+          "word": "激动",
+          "pinyin": "jīdòng",
+          "meaning": "adj. excited, emotional"
+        },
+        {
+          "word": "小伙子",
+          "pinyin": "xiǎohuǒzi",
+          "meaning": "n. young man"
+        },
+        {
+          "word": "记者",
+          "pinyin": "jìzhě",
+          "meaning": "n. journalist, reporter"
+        },
+        {
+          "word": "代表",
+          "pinyin": "dàibiǎo",
+          "meaning": "v. to represent, to stand for"
+        },
+        {
+          "word": "恐怕",
+          "pinyin": "kǒngpà",
+          "meaning": "adv. I guess, perhaps"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "小林不好意思拒绝朋友 (xiǎo lín bù hǎoyìsi jùjué péngyou) (Xiao Lin feels embarrassed to refuse a friend)",
+      "audio": "audio/16-3.mp3",
+      "content": [
+        {
+          "speaker": "小林",
+          "text": "今年放假我又回不了家了，这次我父母又要失望了。你有什么计划？",
+          "pinyin": "Jīnnián fàngjià wǒ yòu huí bu liǎo jiā le, zhè cì wǒ fùmǔ yòu yào shīwàng le. Nǐ yǒu shénme jìhuà?",
+          "translation": "I won't be able to go home during the holiday again this year, so my parents will be disappointed again. What plans do you have?"
+        },
+        {
+          "speaker": "小李",
+          "text": "我计划去郊区住一个月。你不是已经买好火车票了吗？你到底怎么打算的呀？",
+          "pinyin": "Wǒ jìhuà qù jiāoqū zhù yí ge yuè. Nǐ bú shì yǐjīng mǎi hǎo huǒchē piào le ma? Nǐ dàodǐ zěnme dǎsuàn de ya?",
+          "translation": "I plan to stay in the suburbs for a month. Didn't you already buy your train ticket? What exactly are you planning?"
+        },
+        {
+          "speaker": "小林",
+          "text": "昨天一个外地的好朋友打电话说要来旅游，让我当导游，我实在不好意思拒绝。",
+          "pinyin": "Zuótiān yí ge wàidì de hǎo péngyou dǎ diànhuà shuō yào lái lǚyóu, ràng wǒ dāng dǎoyóu, wǒ shízài bù hǎoyìsi jùjué.",
+          "translation": "Yesterday a good friend from out of town called and said he wanted to come travel here and asked me to be his tour guide. I really feel too embarrassed to refuse."
+        },
+        {
+          "speaker": "小李",
+          "text": "其实拒绝并不表示不愿意帮忙。遇到解决不了的问题或者无法完成的任务时，拒绝正好说明你对朋友负责。这也是对你父母负责的态度。",
+          "pinyin": "Qíshí jùjué bìng bù biǎoshì bú yuànyì bāngmáng. Yùdào jiějué bù liǎo de wèntí huòzhě wúfǎ wánchéng de rènwu shí, jùjué zhènghǎo shuōmíng nǐ duì péngyou fùzé. Zhè yě shì duì nǐ fùmǔ fùzé de tàidù.",
+          "translation": "Actually, refusing doesn't mean you are unwilling to help. When you encounter a problem you cannot solve or a task you cannot complete, refusing shows that you are being responsible to your friend. It is also a responsible attitude toward your parents."
+        },
+        {
+          "speaker": "小林",
+          "text": "既然别人找我帮忙，说明他真的很需要我的帮助。我担心要是说“不”的话，会让他误会和伤心。",
+          "pinyin": "Jìrán biérén zhǎo wǒ bāngmáng, shuōmíng tā zhēn de hěn xūyào wǒ de bāngzhù. Wǒ dānxīn yàoshi shuō “bù” de huà, huì ràng tā wùhuì hé shāngxīn.",
+          "translation": "Since someone asked me for help, it means he really needs my help. I'm worried that if I say no, he will misunderstand and feel hurt."
+        },
+        {
+          "speaker": "小李",
+          "text": "别担心！如果你用一个既合适又礼貌的方法告诉朋友，他一定会原谅你的。",
+          "pinyin": "Bié dānxīn! Rúguǒ nǐ yòng yí ge jì héshì yòu lǐmào de fāngfǎ gàosu péngyou, tā yídìng huì yuánliàng nǐ de.",
+          "translation": "Don't worry. If you tell your friend in a way that is both appropriate and polite, he will definitely forgive you."
+        }
+      ],
+      "proper_nouns": [
+        {
+          "word": "小林",
+          "pinyin": "Xiǎo Lín",
+          "meaning": "Xiao Lin, name of a person"
+        },
+        {
+          "word": "小李",
+          "pinyin": "Xiǎo Lǐ",
+          "meaning": "Xiao Li, name of a person"
+        }
+      ],
+      "vocabulary": [
+        {
+          "word": "失望",
+          "pinyin": "shīwàng",
+          "meaning": "v. to be disappointed"
+        },
+        {
+          "word": "郊区",
+          "pinyin": "jiāoqū",
+          "meaning": "n. suburb, outskirts"
+        },
+        {
+          "word": "到底",
+          "pinyin": "dàodǐ",
+          "meaning": "adv. on earth, after all"
+        },
+        {
+          "word": "呀",
+          "pinyin": "ya",
+          "meaning": "part. used at the end of a question to soften the tone"
+        },
+        {
+          "word": "导游",
+          "pinyin": "dǎoyóu",
+          "meaning": "n. tour guide"
+        },
+        {
+          "word": "礼貌",
+          "pinyin": "lǐmào",
+          "meaning": "n. politeness"
+        },
+        {
+          "word": "原谅",
+          "pinyin": "yuánliàng",
+          "meaning": "v. to forgive"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "不要把事情都推到明天 (bú yào bǎ shìqing dōu tuī dào míngtiān) (Do not put everything off until tomorrow)",
+      "audio": "audio/16-4.mp3",
+      "content": [
+        {
+          "speaker": "",
+          "text": "有些同学经常把“明天”和“将来”挂在嘴边，常说作业明天再完成，下次考试一定好好儿复习，等等。这种态度会浪费时间，不但会让你到最后什么事情都做不成，而且还得不到别人的同情。所以不要把什么事情都推到“明天”，一切从现在做起。就拿学汉语来说吧，首先要注意课前预习，找出第二天要学习的重点；其次，上课时要认真听，不能马虎；最后，课后要记得复习。只要这样，汉语就能越学越好，越说越自信。",
+          "pinyin": "Yǒuxiē tóngxué jīngcháng bǎ “míngtiān” hé “jiānglái” guà zài zuǐbiān, cháng shuō zuòyè míngtiān zài wánchéng, xià cì kǎoshì yídìng hǎohāor fùxí, děngděng. Zhè zhǒng tàidù huì làngfèi shíjiān, bùdàn huì ràng nǐ dào zuìhòu shénme shìqing dōu zuò bù chéng, érqiě hái dé bu dào biérén de tóngqíng. Suǒyǐ bú yào bǎ shénme shìqing dōu tuī dào “míngtiān”, yíqiè cóng xiànzài zuò qǐ. Jiù ná xué Hànyǔ lái shuō ba, shǒuxiān yào zhùyì kè qián yùxí, zhǎo chū dì èr tiān yào xuéxí de zhòngdiǎn; qícì, shàngkè shí yào rènzhēn tīng, bù néng mǎhu; zuìhòu, kè hòu yào jìde fùxí. Zhǐyào zhèyàng, Hànyǔ jiù néng yuè xué yuè hǎo, yuè shuō yuè zìxìn.",
+          "translation": "Some students often keep saying “tomorrow” and “the future,” saying things like they will finish their homework tomorrow or review properly for the next exam. This kind of attitude wastes time. Not only will it make you unable to accomplish anything in the end, but it also will not earn other people's sympathy. So do not put everything off until “tomorrow”; start everything from now. Take learning Chinese as an example. First, pay attention to previewing before class and find the key points to be learned the next day. Second, listen carefully in class and do not be careless. Finally, remember to review after class. As long as you do this, your Chinese will get better and better, and you will speak with more and more confidence."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "挂",
+          "pinyin": "guà",
+          "meaning": "v. to hang, to put up"
+        },
+        {
+          "word": "同情",
+          "pinyin": "tóngqíng",
+          "meaning": "v. to show sympathy for"
+        },
+        {
+          "word": "推",
+          "pinyin": "tuī",
+          "meaning": "v. to put off, to postpone"
+        },
+        {
+          "word": "预习",
+          "pinyin": "yùxí",
+          "meaning": "v. to prepare lessons before class"
+        },
+        {
+          "word": "重点",
+          "pinyin": "zhòngdiǎn",
+          "meaning": "n. focal point, emphasis"
+        },
+        {
+          "word": "马虎",
+          "pinyin": "mǎhu",
+          "meaning": "adj. careless, slipshod"
+        },
+        {
+          "word": "自信",
+          "pinyin": "zìxìn",
+          "meaning": "adj. self-confident"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "优秀时也要冷静 (yōuxiù shí yě yào lěngjìng) (Stay calm even when you are excellent)",
+      "audio": "audio/16-5.mp3",
+      "content": [
+        {
+          "speaker": "",
+          "text": "当你认为自己在哪方面很优秀时，千万要冷静，不要骄傲。因为这个世界很大，“天外有天，人外有人”，很可能有人在这方面比你更厉害。你现在是第一，并不表示你永远都是第一。就像比赛一样，没有人会永远输，也没有人会一直赢。我们知道的越多，就会发现自己不懂的也越多。我们应该重视平时的积累，多向周围的人学习。如果你敢诚实地说出自己对哪方面不了解，并不说明自己比别人差，相反，这样做更能得到别人的尊重。",
+          "pinyin": "Dāng nǐ rènwéi zìjǐ zài nǎ fāngmiàn hěn yōuxiù shí, qiānwàn yào lěngjìng, bú yào jiāo'ào. Yīnwèi zhè ge shìjiè hěn dà, “tiān wài yǒu tiān, rén wài yǒu rén”, hěn kěnéng yǒu rén zài zhè fāngmiàn bǐ nǐ gèng lìhai. Nǐ xiànzài shì dì yī, bìng bù biǎoshì nǐ yǒngyuǎn dōu shì dì yī. Jiù xiàng bǐsài yíyàng, méiyǒu rén huì yǒngyuǎn shū, yě méiyǒu rén huì yìzhí yíng. Wǒmen zhīdào de yuè duō, jiù huì fāxiàn zìjǐ bù dǒng de yě yuè duō. Wǒmen yīnggāi zhòngshì píngshí de jīlěi, duō xiàng zhōuwéi de rén xuéxí. Rúguǒ nǐ gǎn chéngshí de shuō chū zìjǐ duì nǎ fāngmiàn bù liǎojiě, bìng bù shuōmíng zìjǐ bǐ biérén chà, xiāngfǎn, zhèyàng zuò gèng néng dédào biérén de zūnzhòng.",
+          "translation": "When you think you are excellent in some area, you must stay calm and not be arrogant. The world is very big, and as the saying goes, there is always someone better; someone may very likely be stronger than you in that area. Being first now does not mean you will always be first. Just like in a competition, no one loses forever, and no one keeps winning forever. The more we know, the more we discover what we do not understand. We should value everyday accumulation and learn more from the people around us. If you dare to honestly say what you do not understand, it does not mean you are worse than others. On the contrary, doing this can earn more respect from others."
+        }
+      ],
+      "proper_nouns": [],
+      "vocabulary": [
+        {
+          "word": "冷静",
+          "pinyin": "lěngjìng",
+          "meaning": "adj. calm, composed"
+        },
+        {
+          "word": "输",
+          "pinyin": "shū",
+          "meaning": "v. to lose, to suffer defeat"
+        },
+        {
+          "word": "重视",
+          "pinyin": "zhòngshì",
+          "meaning": "v. to attach importance to"
+        },
+        {
+          "word": "敢",
+          "pinyin": "gǎn",
+          "meaning": "v. to dare"
+        },
+        {
+          "word": "尊重",
+          "pinyin": "zūnzhòng",
+          "meaning": "v. to respect"
+        }
+      ]
+    }
+  ],
+  "key_sentences": [
+    {
+      "sentence": "没有啊，下个星期我就要去使馆办签证了，这<b>可</b>怎么办？",
+      "pinyin": "Méiyǒu a, xià ge xīngqī wǒ jiù yào qù shǐguǎn bàn qiānzhèng le, zhè <b>kě</b> zěnme bàn?",
+      "translation": "No. I'm going to the embassy next week to apply for the visa. What on earth should I do?",
+      "context": "곤란한 상황을 강조할 때",
+      "colloquial_equivalent": "没有啊，我下周就要去办签证了，这可咋办啊？",
+      "colloquial_pinyin": "Méiyǒu a, wǒ xià zhōu jiù yào qù bàn qiānzhèng le, zhè kě zǎ bàn a?",
+      "colloquial_translation": "No, I have to apply for the visa next week. What am I supposed to do now?"
+    },
+    {
+      "sentence": "听完我的回答，<b>恐怕</b>你已经知道我的答案了吧。",
+      "pinyin": "Tīng wán wǒ de huídá, <b>kǒngpà</b> nǐ yǐjīng zhīdào wǒ de dá'àn le ba.",
+      "translation": "After hearing my answer, you probably already know my answer, right?",
+      "context": "조심스럽게 추측할 때",
+      "colloquial_equivalent": "我这么一说，你估计已经知道我的答案了吧。",
+      "colloquial_pinyin": "Wǒ zhème yì shuō, nǐ gūjì yǐjīng zhīdào wǒ de dá’àn le ba.",
+      "colloquial_translation": "After I put it that way, you can probably guess my answer."
+    },
+    {
+      "sentence": "你不是已经买好火车票了吗？你<b>到底</b>怎么打算的呀？",
+      "pinyin": "Nǐ bú shì yǐjīng mǎi hǎo huǒchēpiào le ma? Nǐ <b>dàodǐ</b> zěnme dǎsuàn de ya?",
+      "translation": "Didn't you already buy the train ticket? What exactly are you planning?",
+      "context": "상대의 진짜 계획을 물을 때",
+      "colloquial_equivalent": "你票都买好了，到底想怎么安排啊？",
+      "colloquial_pinyin": "Nǐ piào dōu mǎi hǎo le, dàodǐ xiǎng zěnme ānpái a?",
+      "colloquial_translation": "You already bought the ticket, so what exactly are you planning?"
+    },
+    {
+      "sentence": "就<b>拿</b>学汉语<b>来说</b>吧，首先要注意课前预习，找出第二天要学习的重点。",
+      "pinyin": "Jiù <b>ná</b> xué Hànyǔ <b>lái shuō</b> ba, shǒuxiān yào zhùyì kè qián yùxí, zhǎo chū dì èr tiān yào xuéxí de zhòngdiǎn.",
+      "translation": "Take studying Chinese as an example: first, pay attention to previewing before class and find the key points for the next day's study.",
+      "context": "구체적인 예를 들어 설명할 때",
+      "colloquial_equivalent": "拿学中文来说吧，课前先预习，把重点找出来。",
+      "colloquial_pinyin": "Ná xué Zhōngwén lái shuō ba, kè qián xiān yùxí, bǎ zhòngdiǎn zhǎo chūlai.",
+      "colloquial_translation": "Take learning Chinese, for example: preview before class and pick out the key points."
+    },
+    {
+      "sentence": "如果你<b>敢</b>诚实地说出自己对哪方面不了解，并不说明自己比别人差。",
+      "pinyin": "Rúguǒ nǐ <b>gǎn</b> chéngshí de shuō chū zìjǐ duì nǎ fāngmiàn bù liǎojiě, bìng bù shuōmíng zìjǐ bǐ biérén chà.",
+      "translation": "If you dare to honestly say what you do not understand, it does not mean that you are worse than others.",
+      "context": "용기 있게 인정할 때",
+      "colloquial_equivalent": "敢说自己哪里不懂，不代表你比别人差。",
+      "colloquial_pinyin": "Gǎn shuō zìjǐ nǎli bù dǒng, bù dàibiǎo nǐ bǐ biérén chà.",
+      "colloquial_translation": "Daring to say what you don't understand does not mean you are worse than others."
+    }
+  ],
+  "translations": {
+    "lessonTitle": {
+      "en": "Xiao Xia runs into a problem while preparing to study abroad",
+      "ko": "샤오샤가 출국 유학을 준비하다가 문제를 만나다",
+      "ja": "小夏が海外留学の準備中に問題に遭う"
+    },
+    "textTitles": {
+      "1": {
+        "en": "Xiao Xia runs into a problem while preparing to study abroad",
+        "ko": "샤오샤가 출국 유학을 준비하다가 문제를 만나다",
+        "ja": "小夏が海外留学の準備中に問題に遭う"
+      },
+      "2": {
+        "en": "Boss Wang tells Li Jin about his experience of success",
+        "ko": "왕 사장이 리진에게 자신의 성공 경험을 들려주다",
+        "ja": "王社長が李進に自分の成功経験を語る"
+      },
+      "3": {
+        "en": "Xiao Lin feels embarrassed to refuse a friend",
+        "ko": "샤오린이 친구를 거절하기 어려워하다",
+        "ja": "小林が友人を断るのを申し訳なく思う"
+      },
+      "4": {
+        "en": "Do not put everything off until tomorrow",
+        "ko": "모든 일을 내일로 미루지 말자",
+        "ja": "すべてのことを明日に延ばさない"
+      },
+      "5": {
+        "en": "Stay calm even when you are excellent",
+        "ko": "뛰어날 때도 냉정함을 유지하자",
+        "ja": "優れているときも冷静でいる"
+      }
+    },
+    "vocabulary": {
+      "博士": {
+        "en": "n. doctor (academic degree)",
+        "ko": "명. 박사",
+        "ja": "名. 博士"
+      },
+      "签证": {
+        "en": "n. visa",
+        "ko": "명. 비자",
+        "ja": "名. ビザ"
+      },
+      "报名": {
+        "en": "v. to apply, to sign up",
+        "ko": "동. 신청하다, 등록하다",
+        "ja": "動. 申し込む、登録する"
+      },
+      "表格": {
+        "en": "n. form, table",
+        "ko": "명. 양식, 표",
+        "ja": "名. フォーム、表"
+      },
+      "传真": {
+        "en": "v. to send by fax",
+        "ko": "동. 팩스로 보내다",
+        "ja": "動. ファックスで送る"
+      },
+      "号码": {
+        "en": "n. number",
+        "ko": "명. 번호",
+        "ja": "名. 番号"
+      },
+      "参观": {
+        "en": "v. to visit, to look around",
+        "ko": "동. 참관하다, 둘러보다",
+        "ja": "動. 見学する、見て回る"
+      },
+      "激动": {
+        "en": "adj. excited, emotional",
+        "ko": "형. 감격한, 흥분한",
+        "ja": "形. 感激した、興奮した"
+      },
+      "小伙子": {
+        "en": "n. young man",
+        "ko": "명. 젊은이, 청년",
+        "ja": "名. 若者、青年"
+      },
+      "记者": {
+        "en": "n. journalist, reporter",
+        "ko": "명. 기자",
+        "ja": "名. 記者"
+      },
+      "代表": {
+        "en": "v. to represent, to stand for",
+        "ko": "동. 대표하다, 나타내다",
+        "ja": "動. 代表する、表す"
+      },
+      "恐怕": {
+        "en": "adv. I guess, perhaps",
+        "ko": "부. 아마, 어쩌면",
+        "ja": "副. おそらく、たぶん"
+      },
+      "失望": {
+        "en": "v. to be disappointed",
+        "ko": "동. 실망하다",
+        "ja": "動. 失望する"
+      },
+      "郊区": {
+        "en": "n. suburb, outskirts",
+        "ko": "명. 교외, 외곽",
+        "ja": "名. 郊外"
+      },
+      "到底": {
+        "en": "adv. on earth, after all",
+        "ko": "부. 도대체, 결국",
+        "ja": "副. いったい、結局"
+      },
+      "呀": {
+        "en": "part. used at the end of a question to soften the tone",
+        "ko": "조. 의문문 끝에서 어기를 부드럽게 하는 말",
+        "ja": "助. 疑問文の末尾で語気を和らげる語"
+      },
+      "导游": {
+        "en": "n. tour guide",
+        "ko": "명. 관광 가이드",
+        "ja": "名. ガイド"
+      },
+      "礼貌": {
+        "en": "n. politeness",
+        "ko": "명. 예의, 예절",
+        "ja": "名. 礼儀、礼貌"
+      },
+      "原谅": {
+        "en": "v. to forgive",
+        "ko": "동. 용서하다",
+        "ja": "動. 許す"
+      },
+      "挂": {
+        "en": "v. to hang, to put up",
+        "ko": "동. 걸다, 붙이다",
+        "ja": "動. 掛ける、掲げる"
+      },
+      "同情": {
+        "en": "v. to show sympathy for",
+        "ko": "동. 동정하다",
+        "ja": "動. 同情する"
+      },
+      "推": {
+        "en": "v. to put off, to postpone",
+        "ko": "동. 미루다",
+        "ja": "動. 延ばす、延期する"
+      },
+      "预习": {
+        "en": "v. to prepare lessons before class",
+        "ko": "동. 예습하다",
+        "ja": "動. 予習する"
+      },
+      "重点": {
+        "en": "n. focal point, emphasis",
+        "ko": "명. 중점, 핵심",
+        "ja": "名. 重点、要点"
+      },
+      "马虎": {
+        "en": "adj. careless, slipshod",
+        "ko": "형. 대충 하는, 부주의한",
+        "ja": "形. いい加減な、不注意な"
+      },
+      "自信": {
+        "en": "adj. self-confident",
+        "ko": "형. 자신 있는",
+        "ja": "形. 自信がある"
+      },
+      "冷静": {
+        "en": "adj. calm, composed",
+        "ko": "형. 냉정한, 침착한",
+        "ja": "形. 冷静な、落ち着いた"
+      },
+      "输": {
+        "en": "v. to lose, to suffer defeat",
+        "ko": "동. 지다, 패하다",
+        "ja": "動. 負ける"
+      },
+      "重视": {
+        "en": "v. to attach importance to",
+        "ko": "동. 중시하다",
+        "ja": "動. 重視する"
+      },
+      "敢": {
+        "en": "v. to dare",
+        "ko": "동. 감히 하다, 용기 내다",
+        "ja": "動. あえてする、勇気がある"
+      },
+      "尊重": {
+        "en": "v. to respect",
+        "ko": "동. 존중하다",
+        "ja": "動. 尊重する"
+      }
+    },
+    "properNouns": {
+      "小雨": {
+        "en": "Xiao Yu, name of a person",
+        "ko": "샤오위, 사람 이름",
+        "ja": "小雨、人名"
+      },
+      "小夏": {
+        "en": "Xiao Xia, name of a person",
+        "ko": "샤오샤, 사람 이름",
+        "ja": "小夏、人名"
+      },
+      "李进": {
+        "en": "Li Jin, name of a person",
+        "ko": "리진, 사람 이름",
+        "ja": "李進、人名"
+      },
+      "王老板": {
+        "en": "Boss Wang, name/title of a person",
+        "ko": "왕 사장, 사람 호칭",
+        "ja": "王社長、人名・敬称"
+      },
+      "小林": {
+        "en": "Xiao Lin, name of a person",
+        "ko": "샤오린, 사람 이름",
+        "ja": "小林、人名"
+      },
+      "小李": {
+        "en": "Xiao Li, name of a person",
+        "ko": "샤오리, 사람 이름",
+        "ja": "小李、人名"
+      }
+    },
+    "grammar": {
+      "可": {
+        "formal_translation": {
+          "en": "The adverb “可” is used for emphasis. When used in a rhetorical question, it strengthens the tone.",
+          "ko": "부사 “可”는 강조를 나타내며, 반문문에서 쓰이면 어기를 더 강하게 만든다.",
+          "ja": "副詞「可」は強調を表します。反語的な疑問文で使われると、語気を強めます。"
+        },
+        "colloquial_translation": {
+          "en": "“可” makes the speaker's feeling stronger, like “really”, “definitely”, or “you know” in English. In questions, it can make the question sound more urgent or emphatic.",
+          "ko": "“可”는 말하는 사람의 느낌을 더 강하게 만들어 ‘정말’, ‘확실히’, ‘알다시피’ 같은 뉘앙스를 준다. 의문문에서는 질문을 더 절박하거나 강조된 느낌으로 만든다.",
+          "ja": "「可」は話し手の気持ちを強め、「本当に」「確かに」といったニュアンスを加えます。疑問文では、質問をより切実または強調された響きにします。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "This really is a big problem. I'm not too sure either.",
+              "ko": "이건 정말 큰 문제야. 나도 잘 모르겠어.",
+              "ja": "これは本当に大きな問題です。私もよくわかりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I'm going to the embassy next week to apply for the visa. What on earth should I do?",
+              "ko": "다음 주에 대사관에 가서 비자를 신청해야 하는데, 도대체 어떻게 하지?",
+              "ja": "来週、大使館へ行ってビザを申請しなければならないのに、いったいどうしたらいいでしょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I got a membership card for that hair salon, and it really saved me quite a lot of money on haircuts.",
+              "ko": "그 이발소 회원카드를 만들었더니, 이발 비용을 정말 많이 절약했어.",
+              "ja": "あの理髪店の会員カードを作ったら、散髪代が本当にかなり節約できました。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "This really is not a small matter.",
+              "ko": "이건 정말 작은 일이 아니야.",
+              "ja": "これは本当に小さなことではありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "What on earth should we do?",
+              "ko": "도대체 어떻게 해야 하지?",
+              "ja": "いったいどうしたらいいでしょう。"
+            }
+          }
+        ]
+      },
+      "恐怕": {
+        "formal_translation": {
+          "en": "“恐怕” can be used as a verb meaning “to be afraid” or “to worry”. It can also be used as an adverb meaning “according to estimation, with some worry”, or as an adverb indicating an estimate or guess, meaning “probably” or “perhaps”.",
+          "ko": "“恐怕”는 동사로 쓰이면 ‘걱정하다, 두려워하다’라는 뜻이다. 또한 부사로 쓰여 ‘추측하건대, 약간 걱정스럽게’라는 뜻을 나타내거나, ‘아마, 대략, 어쩌면’이라는 추측의 의미를 나타낼 수 있다.",
+          "ja": "「恐怕」は動詞として使うと「心配する、恐れる」という意味です。また副詞として、「推測によれば、少し心配しながら」という意味や、「おそらく、たぶん」という推測の意味を表すこともできます。"
+        },
+        "colloquial_translation": {
+          "en": "As a verb, “恐怕” means being worried that something may happen. As an adverb, it often makes an estimate sound cautious, uncertain, or slightly worried.",
+          "ko": "동사로는 어떤 일이 일어날까 걱정한다는 뜻이고, 부사로는 추측을 조심스럽고 불확실하거나 약간 걱정스러운 느낌으로 말할 때 자주 쓴다.",
+          "ja": "動詞としては、何かが起こるのではないかと心配する意味です。副詞としては、推測を慎重で不確か、または少し心配そうに表すときによく使われます。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "I still have relatively little work experience, so I'm afraid I won't be able to complete that job.",
+              "ko": "내 업무 경험이 아직 비교적 적어서, 그 일을 완성하지 못할까 걱정돼.",
+              "ja": "私の仕事経験はまだ比較的少ないので、その仕事を完成できないのではないかと心配です。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I'm afraid I may not do these movements correctly, so I need to practice a lot before the competition.",
+              "ko": "이 몇 가지 동작을 내가 표준적으로 하지 못할까 걱정돼서, 경기 전에 많이 연습해야 해.",
+              "ja": "これらの動作を標準的にできないのではないかと心配なので、試合前にたくさん練習しなければなりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I'm afraid the seats in this meeting room may not be enough, so let's move to the bigger one next door.",
+              "ko": "이 회의실의 좌석이 부족할 것 같으니, 옆의 큰 회의실로 옮기자.",
+              "ja": "この会議室の席は足りないかもしれません。隣の大きい会議室に移りましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "For some things, if you insist on finding one correct answer, it may make simple life complicated.",
+              "ko": "어떤 일들은 네가 반드시 하나의 정답을 찾으려고 하면, 단순한 생활을 복잡하게 만들 수도 있다.",
+              "ja": "ある物事について、必ず一つの正しい答えを探そうとすると、シンプルな生活を複雑にしてしまうかもしれません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "After hearing my answer, I guess you already know my answer.",
+              "ko": "내 대답을 듣고 나면, 아마 너는 이미 내 답을 알았을 거야.",
+              "ja": "私の答えを聞けば、おそらくもう私の答えがわかったでしょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "The Peking opera performance started at seven, so it has probably already ended by now.",
+              "ko": "경극 공연은 7시에 시작했으니, 지금은 아마 이미 끝났을 거야.",
+              "ja": "京劇の公演は七時に始まったので、今はおそらくもう終わっているでしょう。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I'm afraid this probably can't be done.",
+              "ko": "이 일은 아마 처리하기 어려울 것 같아.",
+              "ja": "この件はおそらくできないと思います。"
+            }
+          },
+          {
+            "translation": {
+              "en": "It has probably already ended by now.",
+              "ko": "지금은 아마 이미 끝났을 거야.",
+              "ja": "今はおそらくもう終わっているでしょう。"
+            }
+          }
+        ]
+      },
+      "恐怕——怕": {
+        "formal_translation": {
+          "en": "Both “恐怕” and “怕” can be used as verbs meaning “to be afraid” or “to worry”, and both can also be used as adverbs indicating estimation, often with a worried implication. When expressing worry, “恐怕” can only be used before a verb, while “怕” can be used before either a verb or a noun. When expressing estimation, “恐怕” can appear either before or after the subject, while “怕” is only used after the subject. As a verb, “怕” can take an object and mean “to fear somebody, something, or a situation”; “恐怕” does not have this use. As an adverb, “恐怕” can also mean an estimate or guess and can often be replaced by “也许” or “大概”; “怕” does not have this use.",
+          "ko": "“恐怕”와 “怕”는 모두 동사로 쓰여 ‘걱정하다, 두려워하다’라는 뜻을 나타낼 수 있고, 둘 다 부사로 쓰여 추측을 나타내며 보통 걱정의 뉘앙스를 가진다. 걱정의 뜻을 나타낼 때 “恐怕”는 동사 앞에만 쓸 수 있지만, “怕”는 동사 앞에도 명사 앞에도 쓸 수 있다. 추측을 나타낼 때 “恐怕”는 주어 앞이나 뒤에 모두 올 수 있지만, “怕”는 주어 뒤에만 온다. 동사로 쓰일 때 “怕”는 목적어를 취해 사람, 사물, 상황을 두려워한다는 뜻을 나타낼 수 있지만 “恐怕”에는 이런 용법이 없다. 부사로 쓰일 때 “恐怕”는 추측을 나타내며 보통 “也许”, “大概”로 바꿀 수 있지만 “怕”에는 이런 용법이 없다.",
+          "ja": "「恐怕」と「怕」はどちらも動詞として「心配する、恐れる」という意味を表すことができ、またどちらも副詞として推測を表し、しばしば心配のニュアンスを含みます。心配の意味を表す場合、「恐怕」は動詞の前にしか使えませんが、「怕」は動詞の前にも名詞の前にも使えます。推測を表す場合、「恐怕」は主語の前後どちらにも置けますが、「怕」は主語の後ろにしか置けません。動詞として使う場合、「怕」は目的語を取り、人・物・状況を恐れるという意味を表せますが、「恐怕」にはこの用法はありません。副詞として使う場合、「恐怕」は推測を表し、通常「也许」「大概」に置き換えられますが、「怕」にはこの用法はありません。"
+        },
+        "colloquial_translation": {
+          "en": "Use “恐怕” for a cautious estimate or a worried guess. Use “怕” when talking about being afraid of a person, thing, or situation, or in simpler spoken expressions of worry.",
+          "ko": "조심스러운 추측이나 걱정이 섞인 추측에는 “恐怕”를 쓴다. 어떤 사람, 사물, 상황을 두려워한다고 말하거나 더 일상적인 걱정을 표현할 때는 “怕”를 쓴다.",
+          "ja": "慎重な推測や心配を含む推測には「恐怕」を使います。人・物・状況を恐れると言うときや、より日常的な心配を表すときは「怕」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "It takes at least fifty minutes to get there by subway from here, so Mark may not make it in time.",
+              "ko": "여기서 지하철을 타고 거기까지 가려면 적어도 50분은 걸리니, 마크는 아마 제시간에 못 올 것 같다.",
+              "ja": "ここから地下鉄でそこまで行くには少なくとも五十分かかるので、マークは間に合わないかもしれません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If a married couple lacks or has no common language, then the problem may be serious.",
+              "ko": "부부 사이에 공통 화제가 부족하거나 없다면, 그 문제는 아마 클 것이다.",
+              "ja": "夫婦に共通の話題が少ない、またはないなら、その問題は大きいかもしれません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I was afraid I would forget this matter, so I wrote it down in my notebook.",
+              "ko": "이 일을 잊어버릴까 걱정돼서, 이 일을 공책에 적어 두었다.",
+              "ja": "このことを忘れるのではないかと心配だったので、ノートに書いておきました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I was afraid you would forget this matter, so I called to remind you.",
+              "ko": "네가 이 일을 잊어버릴까 걱정돼서 전화로 한번 알려 줬어.",
+              "ja": "あなたがこのことを忘れるのではないかと心配だったので、電話して知らせました。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I just heard on the radio that it may rain heavily tomorrow, so the football match may not be able to take place.",
+              "ko": "방금 라디오에서 내일 큰비가 올 수 있다고 들었으니, 축구 경기는 아마 열리지 못할 것 같다.",
+              "ja": "先ほどラジオで明日は大雨になるかもしれないと聞いたので、サッカーの試合は行えないかもしれません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I just heard on the radio that it may rain heavily tomorrow, so the football match may not be able to take place.",
+              "ko": "방금 라디오에서 내일 큰비가 올 수 있다고 들었으니, 축구 경기는 아마 열리지 못할 것 같다.",
+              "ja": "先ほどラジオで明日は大雨になるかもしれないと聞いたので、サッカーの試合は行えないかもしれません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When looking for work, the key still depends on ability. Capable people are not afraid of being unable to find a good job.",
+              "ko": "일자리를 찾는 데 중요한 것은 역시 능력이다. 능력이 있는 사람은 좋은 일을 찾지 못할까 두려워하지 않는다.",
+              "ja": "仕事探しで大切なのはやはり能力です。能力のある人は、よい仕事が見つからないことを恐れません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I haven't seen him for a long time. He has probably been away from here for twenty days.",
+              "ko": "그를 못 본 지 오래됐다. 그는 아마 이곳을 떠난 지 20일쯤 됐을 것이다.",
+              "ja": "彼には長い間会っていません。彼がここを離れてから、おそらく二十日ほどになります。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I'm afraid there won't be enough time.",
+              "ko": "아마 시간이 늦을 것 같아.",
+              "ja": "おそらく間に合わないでしょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I was afraid you would forget, so I called to remind you.",
+              "ko": "네가 잊어버릴까 봐 전화로 알려 줬어.",
+              "ja": "あなたが忘れるのではないかと思って、電話で知らせました。"
+            }
+          }
+        ]
+      },
+      "到底": {
+        "formal_translation": {
+          "en": "As a verb, “到底” means “to continue until the end” or “to reach the final point”. As an adverb, it is used in interrogative sentences or sentences with interrogative pronouns to probe further, similar to “on earth” or “after all”. It cannot be used in a yes-no question with “吗”. When the subject is an interrogative pronoun, “到底” should be placed before the subject.",
+          "ko": "“到底”는 동사로 쓰이면 ‘끝까지 하다, 마지막 지점까지 이르다’라는 뜻이다. 부사로 쓰이면 의문문이나 의문대명사가 있는 비의문문에서 더 깊이 따져 묻는 뜻을 나타내며, ‘도대체, 결국’에 가깝다. “吗”가 붙는 예/아니오 의문문에는 쓸 수 없다. 의문대명사가 주어일 때는 “到底”를 그 주어 앞에 놓아야 한다.",
+          "ja": "「到底」は動詞として使うと、「最後まで続ける、終点まで至る」という意味を表します。副詞として使うと、疑問文や疑問代名詞を含む文でさらに問いただす意味を表し、「いったい、結局」に近い働きをします。「吗」を伴うはい・いいえ疑問文には使えません。疑問代名詞が主語の場合、「到底」はその主語の前に置きます。"
+        },
+        "colloquial_translation": {
+          "en": "Use “到底” as a verb when something is carried through to the end. Use adverbial “到底” in questions to ask more directly or press for the real answer.",
+          "ko": "무언가를 끝까지 해낸다는 뜻이면 동사 “到底”를 쓴다. 질문에서 더 직접적으로 묻거나 진짜 답을 따져 물을 때는 부사 “到底”를 쓴다.",
+          "ja": "何かを最後までやり通す意味では動詞の「到底」を使います。質問でより直接的に尋ねたり、本当の答えを問いただしたりするときは副詞の「到底」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Today I will definitely go shopping with you until the end and make sure you buy suitable clothes.",
+              "ko": "오늘은 내가 반드시 너와 끝까지 쇼핑을 같이해서, 네가 잘 맞는 옷을 사도록 보장할게.",
+              "ja": "今日は必ず最後まであなたの買い物に付き合って、あなたに合う服を買えるようにします。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If you think giving only chocolate on Valentine's Day is not romantic enough, then take her to watch the romance film “Carry Love Through to the End”.",
+              "ko": "밸런타인데이에 초콜릿만 주는 것이 아직 충분히 낭만적이지 않다고 생각한다면, 그녀를 데리고 사랑 영화 《将爱情进行到底》도 보러 가세요.",
+              "ja": "バレンタインデーにチョコレートを贈るだけではまだロマンチックさが足りないと思うなら、彼女を連れて恋愛映画『将爱情进行到底』を見に行きましょう。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Didn't you already buy the train ticket? What exactly are you planning?",
+              "ko": "너 이미 기차표를 산 거 아니야? 도대체 어떻게 할 생각이야?",
+              "ja": "あなたはもう列車の切符を買ったのではありませんか。いったいどうするつもりなのですか。"
+            }
+          },
+          {
+            "translation": {
+              "en": "I called him several times, but no one answered, and I still do not know what exactly is going on with him.",
+              "ko": "그에게 전화를 여러 번 했지만 계속 아무도 받지 않아서, 그가 도대체 어떻게 된 일인지도 모르겠다.",
+              "ja": "彼に何度も電話しましたが、ずっと誰も出ず、彼がいったいどうしたのかも分かりません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Everyone still has not decided who exactly will participate in the competition.",
+              "ko": "도대체 누가 경기에 참가할지는 모두 아직 결정하지 않았다.",
+              "ja": "いったい誰が試合に参加するのか、みんなまだ決めていません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Everyone hopes to be healthy, so what exactly is health? Different people have different understandings.",
+              "ko": "모든 사람은 자신이 건강하기를 바라는데, 그렇다면 도대체 무엇이 건강일까? 사람마다 이해가 다르다.",
+              "ja": "誰もが自分の健康を望んでいます。では、いったい健康とは何でしょうか。人によって理解は異なります。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "What exactly are you planning?",
+              "ko": "도대체 어떻게 할 생각이야?",
+              "ja": "いったいどうするつもりですか。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Who exactly is going to participate in the competition?",
+              "ko": "도대체 누가 경기에 참가하는 거야?",
+              "ja": "いったい誰が試合に参加するのですか。"
+            }
+          }
+        ]
+      },
+      "拿……来说": {
+        "formal_translation": {
+          "en": "In the structure “拿……来说”, “拿” is used as a preposition to introduce the matter, person, or situation that will be used for explanation. The structure means “taking ... as an example” or “speaking in terms of ...”.",
+          "ko": "“拿……来说” 구조에서 “拿”는 전치사로 쓰여 설명하려는 사물, 사람, 상황을 끌어낸다. 이 구조는 ‘…을 예로 들면’, ‘…에 대해 말하자면’이라는 뜻이다.",
+          "ja": "「拿……来说」の構文では、「拿」は前置詞として使われ、説明の対象となる事柄・人・状況を導きます。この構文は「…を例に取ると」「…について言えば」という意味を表します。"
+        },
+        "colloquial_translation": {
+          "en": "Use “拿……来说” when you want to narrow a general topic to one concrete example before explaining your point.",
+          "ko": "일반적인 주제를 구체적인 한 예로 좁혀 설명하고 싶을 때 “拿……来说”를 쓴다.",
+          "ja": "一般的な話題を一つの具体例に絞って説明したいときに「拿……来说」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "Many people in this recruitment meet the company's requirements. Take him as an example: not only does his major meet the job requirements, but he also has work experience.",
+              "ko": "이번 채용에서는 많은 사람이 회사의 요구에 부합한다. 그를 예로 들면, 그는 전공이 직무 요구에 맞을 뿐 아니라 업무 경험도 있다.",
+              "ja": "今回の採用では多くの人が会社の条件に合っています。彼を例に取ると、専門が職務の条件に合っているだけでなく、仕事の経験もあります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If a Chinese character has the “氵” component, it shows that the meaning of the character is probably related to water. Take the characters “河, 流, 洗, 汁” as examples: they are all related to water.",
+              "ko": "한자 안에 “氵” 부분이 있으면, 그 글자의 뜻이 물과 관련이 있을 가능성이 크다는 것을 설명한다. “河, 流, 洗, 汁” 이 몇 글자를 예로 들면, 그것들은 모두 물과 관련이 있다.",
+              "ja": "漢字の中に「氵」という部分がある場合、その字の意味は水と関係がある可能性が高いことを示します。「河、流、洗、汁」という字を例に取ると、どれも水と関係があります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "So do not put everything off until “tomorrow”; start everything from now. Take studying Chinese as an example: first, pay attention to previewing before class and find the key points to study the next day...",
+              "ko": "그러니 어떤 일이든 모두 ‘내일’로 미루지 말고, 모든 것을 지금부터 시작해야 한다. 중국어 공부를 예로 들면, 먼저 수업 전 예습에 주의하고 다음 날 배울 핵심을 찾아내야 한다……",
+              "ja": "ですから、何でも「明日」に先延ばしにせず、すべて今から始めるべきです。中国語の学習を例に取ると、まず授業前の予習に注意し、翌日に学ぶ重点を見つける必要があります……"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "Take him as an example: not only is his major suitable, but he also has work experience.",
+              "ko": "그를 예로 들면, 전공이 적합할 뿐 아니라 업무 경험도 있다.",
+              "ja": "彼を例に取ると、専門が合っているだけでなく、仕事の経験もあります。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Take studying Chinese as an example: previewing before class is very important.",
+              "ko": "중국어 공부를 예로 들면, 수업 전 예습이 매우 중요하다.",
+              "ja": "中国語の学習を例に取ると、授業前の予習はとても重要です。"
+            }
+          }
+        ]
+      },
+      "敢": {
+        "formal_translation": {
+          "en": "The modal verb “敢” is used before a verb to indicate having the courage, confidence, or assurance to do something. It is often used with “不” or in conditional contexts to describe whether someone dares or is confident enough to act.",
+          "ko": "능원동사 “敢”는 동사 앞에 쓰여 어떤 일을 할 용기, 자신감, 확신이 있음을 나타낸다. “不”와 함께 쓰이거나 조건문에서 자주 쓰이며, 어떤 사람이 감히 하거나 충분한 자신감을 가지고 행동할 수 있는지를 나타낸다.",
+          "ja": "能願動詞の「敢」は動詞の前に置かれ、何かをする勇気・自信・確信があることを表します。「不」とともに使われたり、条件文で使われたりすることが多く、ある人が思い切って行動できるか、十分な自信を持って行動できるかを表します。"
+        },
+        "colloquial_translation": {
+          "en": "Use “敢” when the focus is whether someone has enough courage or confidence to do something, especially when facing pressure, risk, or uncertainty.",
+          "ko": "압박, 위험, 불확실성 앞에서 어떤 일을 할 충분한 용기나 자신감이 있는지가 초점일 때 “敢”를 쓴다.",
+          "ja": "プレッシャー・危険・不確実さに直面して、何かをする十分な勇気や自信があるかどうかに焦点があるときに「敢」を使います。"
+        },
+        "formal_examples": [
+          {
+            "translation": {
+              "en": "We should regard those who dare to tell the truth as “mirrors”; only in this way can we discover our own shortcomings in time.",
+              "ko": "우리는 진실을 말할 용기가 있는 사람들을 ‘거울’로 여겨야 한다. 그래야 제때 자신의 단점을 발견할 수 있다.",
+              "ja": "私たちは真実を言う勇気のある人を「鏡」と見なすべきです。そうしてこそ、自分の欠点をすぐに見つけることができます。"
+            }
+          },
+          {
+            "translation": {
+              "en": "When I was little, I always liked lying in bed to read, and my eyesight got worse and worse, so after that I did not dare to read while lying down anymore.",
+              "ko": "어렸을 때 나는 늘 침대에 누워 책 보는 것을 좋아했는데, 그 결과 눈이 점점 나빠졌다. 그래서 그 이후로는 더 이상 누워서 책을 볼 엄두를 내지 못했다.",
+              "ja": "子どものころ、私はいつもベッドに横になって本を読むのが好きでしたが、その結果、目がどんどん悪くなりました。そのため、それ以後はもう横になって本を読む勇気がありませんでした。"
+            }
+          },
+          {
+            "translation": {
+              "en": "If you dare to honestly say what you do not understand, it does not show that you are worse than others. On the contrary, doing so can earn more respect from others.",
+              "ko": "자신이 어느 부분을 이해하지 못하는지 솔직하게 말할 용기가 있다면, 그것은 자신이 남보다 못하다는 뜻이 아니다. 오히려 그렇게 하는 것이 다른 사람의 존중을 더 받을 수 있다.",
+              "ja": "自分がどの面を理解していないかを正直に言う勇気があるなら、それは自分が他人より劣っていることを示すものではありません。むしろ、そうすることで他人からより尊重されます。"
+            }
+          }
+        ],
+        "colloquial_examples": [
+          {
+            "translation": {
+              "en": "I don't dare to read while lying down anymore.",
+              "ko": "나는 더 이상 누워서 책을 볼 엄두가 안 나.",
+              "ja": "私はもう横になって本を読む勇気がありません。"
+            }
+          },
+          {
+            "translation": {
+              "en": "Do you dare to tell the truth?",
+              "ko": "너는 진실을 말할 용기가 있어?",
+              "ja": "あなたは真実を言う勇気がありますか。"
+            }
+          }
+        ]
+      }
+    },
+    "keySentences": {
+      "没有啊，下个星期我就要去使馆办签证了，这<b>可</b>怎么办？": {
+        "translation": {
+          "en": "No. I'm going to the embassy next week to apply for the visa. What on earth should I do?",
+          "ko": "아니야. 다음 주에 대사관에 가서 비자를 신청해야 하는데, 이거 정말 어떻게 하지?",
+          "ja": "いいえ。来週、大使館へビザを申請しに行くことになっているのですが、これはいったいどうしたらいいのでしょうか。"
+        },
+        "colloquial_translation": {
+          "ko": "아니야, 나 다음 주에 비자 신청하러 가야 하는데 이거 어떡하지?",
+          "ja": "いいえ、来週ビザを申請しに行くのに、これどうすればいいの。",
+          "en": "No, I have to apply for the visa next week. What am I supposed to do now?"
+        },
+        "context": {
+          "ko": "곤란한 상황을 강조할 때",
+          "ja": "困った状況を強調するとき",
+          "en": "Emphasizing a difficult situation"
+        }
+      },
+      "听完我的回答，<b>恐怕</b>你已经知道我的答案了吧。": {
+        "translation": {
+          "en": "After hearing my answer, you probably already know my answer, right?",
+          "ko": "내 대답을 다 듣고 나면, 아마 너는 이미 내 답을 알게 되었겠지.",
+          "ja": "私の答えを聞き終えたら、おそらくあなたはもう私の答えが分かったでしょう。"
+        },
+        "colloquial_translation": {
+          "ko": "내가 이렇게 말하면, 내 답이 뭔지 아마 이미 알겠지.",
+          "ja": "こう言えば、私の答えはもうだいたい分かるでしょう。",
+          "en": "After I put it that way, you can probably guess my answer."
+        },
+        "context": {
+          "ko": "조심스럽게 추측할 때",
+          "ja": "慎重に推測するとき",
+          "en": "Making a cautious guess"
+        }
+      },
+      "你不是已经买好火车票了吗？你<b>到底</b>怎么打算的呀？": {
+        "translation": {
+          "en": "Didn't you already buy the train ticket? What exactly are you planning?",
+          "ko": "너 이미 기차표를 산 거 아니야? 도대체 어떻게 할 생각이야?",
+          "ja": "あなたはもう列車の切符を買ったのではありませんか。いったいどうするつもりなのですか。"
+        },
+        "colloquial_translation": {
+          "ko": "표도 이미 샀잖아. 도대체 어떻게 할 생각이야?",
+          "ja": "切符はもう買ったんでしょう。いったいどうするつもりなの。",
+          "en": "You already bought the ticket, so what exactly are you planning?"
+        },
+        "context": {
+          "ko": "상대의 진짜 계획을 물을 때",
+          "ja": "相手の本当の計画を尋ねるとき",
+          "en": "Asking for someone's real plan"
+        }
+      },
+      "就<b>拿</b>学汉语<b>来说</b>吧，首先要注意课前预习，找出第二天要学习的重点。": {
+        "translation": {
+          "en": "Take studying Chinese as an example: first, pay attention to previewing before class and find the key points for the next day's study.",
+          "ko": "중국어 공부를 예로 들면, 먼저 수업 전 예습에 주의하고 다음 날 배울 중점을 찾아내야 한다.",
+          "ja": "中国語の学習を例に取ると、まず授業前の予習に注意し、翌日に学ぶ重点を見つける必要があります。"
+        },
+        "colloquial_translation": {
+          "ko": "중국어 공부를 예로 들면, 수업 전에 먼저 예습하고 핵심을 찾아야 해.",
+          "ja": "中国語の勉強を例にすると、授業前に予習して重点を見つける必要があります。",
+          "en": "Take learning Chinese, for example: preview before class and pick out the key points."
+        },
+        "context": {
+          "ko": "구체적인 예를 들어 설명할 때",
+          "ja": "具体例を挙げて説明するとき",
+          "en": "Explaining with a concrete example"
+        }
+      },
+      "如果你<b>敢</b>诚实地说出自己对哪方面不了解，并不说明自己比别人差。": {
+        "translation": {
+          "en": "If you dare to honestly say what you do not understand, it does not mean that you are worse than others.",
+          "ko": "네가 어느 부분을 이해하지 못하는지 솔직하게 말할 용기가 있다면, 그것은 네가 남보다 못하다는 뜻이 아니다.",
+          "ja": "自分がどの面を理解していないかを正直に言う勇気があるなら、それは自分が他人より劣っていることを示すものではありません。"
+        },
+        "colloquial_translation": {
+          "ko": "뭘 모르는지 말할 용기가 있다고 해서 남보다 못한 건 아니야.",
+          "ja": "分からないことを言う勇気があるからといって、人より劣っているわけではありません。",
+          "en": "Daring to say what you don't understand does not mean you are worse than others."
+        },
+        "context": {
+          "ko": "용기 있게 인정할 때",
+          "ja": "勇気を持って認めるとき",
+          "en": "Admitting something courageously"
+        }
+      }
+    },
+    "texts": {
+      "1": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "You're about to graduate with your master's degree, right? What are your plans for the future?",
+              "ko": "너 곧 석사 졸업하지? 앞으로 어떤 계획이 있어?",
+              "ja": "もうすぐ修士課程を卒業するんでしょう。将来はどんな予定がありますか。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I want to go abroad to study for a doctorate, and I've been preparing the materials needed for the visa.",
+              "ko": "해외에 나가 박사 과정을 공부하고 싶어서, 계속 비자 신청에 필요한 자료를 준비하고 있어.",
+              "ja": "海外へ行って博士課程で学びたいので、ずっとビザ申請に必要な資料を準備しています。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "How is the preparation of the materials going now?",
+              "ko": "지금 자료 준비는 어떻게 되어 가고 있어?",
+              "ja": "今、資料の準備はどんな具合ですか。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "My transcript certificate and passport are already prepared. In addition, I've contacted universities abroad and filled out the application form.",
+              "ko": "성적 증명서와 여권은 이미 준비됐어. 또 해외 대학과 연락을 했고 신청 양식도 작성했어.",
+              "ja": "成績証明書とパスポートはすでに準備できました。そのほか、海外の大学とも連絡を取り、申込用紙に記入しました。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "There should also be an invitation letter from the foreign university, right? Did they fax the invitation letter to you?",
+              "ko": "해외 대학에서 보내 준 초청장도 있어야 하지? 그 사람들이 초청장을 너에게 팩스로 보내 줬어?",
+              "ja": "海外の大学からあなた宛ての招待状もあるはずでしょう。彼らは招待状をファックスで送ってくれましたか。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "No. I'm going to the embassy next week to apply for the visa. What should I do?",
+              "ko": "없어. 다음 주에 대사관에 가서 비자를 신청해야 하는데, 이거 어떻게 하지?",
+              "ja": "ありません。来週、大使館へ行ってビザを申請しなければならないのに、どうしたらいいでしょう。"
+            }
+          },
+          "6": {
+            "translation": {
+              "en": "That is a big problem. I'm not too sure either. I'll help you look up the school's phone number; call and ask them.",
+              "ko": "그건 정말 큰 문제네. 나도 잘 모르겠어. 내가 학교 전화번호를 찾아 줄 테니, 전화해서 물어봐.",
+              "ja": "それは大きな問題ですね。私もよくわかりません。学校の電話番号を調べてあげるので、電話して聞いてみてください。"
+            }
+          }
+        }
+      },
+      "2": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Thank you for showing me around your company. I was very excited during the visit, and there is a question I've wanted to ask you.",
+              "ko": "회사 구경을 시켜 주셔서 감사합니다. 참관하는 동안 정말 감격했고, 계속 여쭤보고 싶었던 질문이 하나 있습니다.",
+              "ja": "会社を見学させてくださり、ありがとうございます。見学の過程でとても感激し、ずっとお聞きしたい質問が一つありました。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "Sure! Young man, let's eat watermelon while we talk.",
+              "ko": "좋아! 젊은이, 우리 수박을 먹으면서 이야기하자.",
+              "ja": "いいですよ。若者よ、スイカを食べながら話しましょう。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "You started working after graduating from university, and it has only been ten years. How did you make so much money for the company? That really surprises me. I'd like to learn from your experience of success.",
+              "ko": "대학 졸업 후 일을 시작하셔서 지금까지 겨우 10년밖에 안 됐는데, 어떻게 회사에 이렇게 많은 돈을 벌어 주셨나요? 정말 놀랍습니다. 성공 경험을 좀 배우고 싶습니다.",
+              "ja": "大学卒業後に仕事を始められて、今までまだ十年しか経っていません。どうやって会社にこんなに多くのお金を稼がせたのですか。とても驚きました。成功の経験を学びたいです。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "A journalist asked me this question before. Although doing business brings all kinds of pressure and difficulties, everyone's opportunities are the same. Look, here are three pieces of watermelon of different sizes. If we use the size of the watermelon to represent the amount of money, and we start eating together, which piece would you choose first?",
+              "ko": "이 질문은 예전에 한 기자도 나에게 물어본 적이 있어. 장사를 하다 보면 여러 가지 압력과 어려움을 만나지만, 모두에게 기회는 똑같아. 봐, 여기 크기가 다른 수박 세 조각이 있지. 수박의 크기로 돈의 많고 적음을 나타낸다고 하고 우리가 함께 먹기 시작한다면, 너는 어느 조각을 먼저 고르겠니?",
+              "ja": "この質問は以前、ある記者も私に聞いたことがあります。商売をするときはさまざまなプレッシャーや困難に出会いますが、みんなのチャンスは同じです。見てください。ここに大きさの違うスイカが三切れあります。スイカの大きさでお金の多さを表すとして、私たちが一緒に食べ始めるなら、あなたはどれを先に選びますか。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "I would definitely eat the biggest piece first. Would you really eat the small one first and give up the chance to eat the big piece?",
+              "ko": "저라면 분명 제일 큰 조각을 먼저 먹겠습니다. 설마 사장님은 작은 것을 먼저 먹고 큰 조각을 먹을 기회를 포기하시겠어요?",
+              "ja": "私はきっと一番大きい一切れを先に食べます。まさか、あなたは小さいものを先に食べて、大きいものを食べる機会をあきらめるのですか。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "I would eat the smallest piece first, because while you haven't finished the biggest piece, I still have time to eat another one. In the end, I will definitely have eaten more watermelon than you. After hearing my answer, I guess you already know my answer.",
+              "ko": "나는 가장 작은 조각을 먼저 먹을 거야. 네가 가장 큰 조각을 다 먹기 전까지 나는 한 조각을 더 먹을 시간이 있으니까. 마지막에는 분명 내가 너보다 수박을 더 많이 먹게 되지. 내 대답을 듣고 나면, 아마 너는 이미 내 답을 알았을 거야.",
+              "ja": "私は一番小さい一切れを先に食べます。あなたが一番大きい一切れを食べ終わらないうちに、私はさらにもう一切れ食べる時間があるからです。最後には、きっと私のほうがあなたより多くスイカを食べています。私の答えを聞けば、おそらくもう私の答えがわかったでしょう。"
+            }
+          }
+        }
+      },
+      "3": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "I won't be able to go home during the holiday again this year, so my parents will be disappointed again. What plans do you have?",
+              "ko": "올해 방학에도 또 집에 못 돌아가게 됐어. 이번에도 부모님이 실망하시겠지. 너는 무슨 계획이 있어?",
+              "ja": "今年の休みもまた家に帰れなくなりました。今回も両親は失望するでしょう。あなたはどんな計画がありますか。"
+            }
+          },
+          "1": {
+            "translation": {
+              "en": "I plan to stay in the suburbs for a month. Didn't you already buy your train ticket? What exactly are you planning?",
+              "ko": "나는 교외에 가서 한 달 지낼 계획이야. 너는 이미 기차표를 사 둔 거 아니었어? 도대체 어떻게 할 생각이야?",
+              "ja": "私は郊外に一か月住む予定です。あなたはもう列車の切符を買ったのではありませんか。いったいどうするつもりですか。"
+            }
+          },
+          "2": {
+            "translation": {
+              "en": "Yesterday a good friend from out of town called and said he wanted to come travel here and asked me to be his tour guide. I really feel too embarrassed to refuse.",
+              "ko": "어제 외지에 사는 친한 친구가 전화해서 여행을 오고 싶다며 나에게 가이드를 해 달라고 했어. 나는 정말 거절하기가 미안해.",
+              "ja": "昨日、地方にいる親しい友人が電話してきて、旅行に来たいので私にガイドをしてほしいと言いました。私は本当に断るのが申し訳ないです。"
+            }
+          },
+          "3": {
+            "translation": {
+              "en": "Actually, refusing doesn't mean you are unwilling to help. When you encounter a problem you cannot solve or a task you cannot complete, refusing shows that you are being responsible to your friend. It is also a responsible attitude toward your parents.",
+              "ko": "사실 거절한다고 해서 도와주기 싫다는 뜻은 아니야. 해결할 수 없는 문제나 완성할 수 없는 일을 만났을 때 거절하는 것은 오히려 친구에게 책임지는 태도야. 그것은 네 부모님에게도 책임지는 태도이고.",
+              "ja": "実は、断ることは手伝いたくないという意味ではありません。解決できない問題や達成できない任務に出会ったとき、断ることは友人に対して責任を持つことを示します。それはあなたの両親に対しても責任ある態度です。"
+            }
+          },
+          "4": {
+            "translation": {
+              "en": "Since someone asked me for help, it means he really needs my help. I'm worried that if I say no, he will misunderstand and feel hurt.",
+              "ko": "다른 사람이 나에게 도움을 청했다는 건 그가 정말 내 도움이 필요하다는 뜻이잖아. 내가 ‘안 된다’고 말하면 그가 오해하고 상처받을까 봐 걱정돼.",
+              "ja": "人が私に助けを求めるということは、本当に私の助けが必要だということです。もし「だめ」と言ったら、誤解されて傷つけてしまうのではないかと心配です。"
+            }
+          },
+          "5": {
+            "translation": {
+              "en": "Don't worry. If you tell your friend in a way that is both appropriate and polite, he will definitely forgive you.",
+              "ko": "걱정하지 마! 적절하고 예의 있는 방법으로 친구에게 말하면 그는 반드시 너를 이해하고 용서할 거야.",
+              "ja": "心配しないでください。適切で礼儀正しい方法で友人に伝えれば、彼はきっとあなたを許してくれます。"
+            }
+          }
+        }
+      },
+      "4": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "Some students often keep saying “tomorrow” and “the future,” saying things like they will finish their homework tomorrow or review properly for the next exam. This kind of attitude wastes time. Not only will it make you unable to accomplish anything in the end, but it also will not earn other people's sympathy. So do not put everything off until “tomorrow”; start everything from now. Take learning Chinese as an example. First, pay attention to previewing before class and find the key points to be learned the next day. Second, listen carefully in class and do not be careless. Finally, remember to review after class. As long as you do this, your Chinese will get better and better, and you will speak with more and more confidence.",
+              "ko": "어떤 학생들은 늘 ‘내일’과 ‘장래’를 입에 달고 다니며, 숙제는 내일 끝내겠다거나 다음 시험은 반드시 제대로 복습하겠다는 말을 자주 한다. 이런 태도는 시간을 낭비하게 할 뿐 아니라, 결국 아무 일도 해내지 못하게 만들고 다른 사람의 동정도 얻지 못하게 한다. 그러니 모든 일을 ‘내일’로 미루지 말고, 모든 것을 지금부터 시작해야 한다. 중국어 공부를 예로 들면, 먼저 수업 전 예습에 주의하고 다음 날 배울 중점을 찾아내야 한다. 그다음 수업 시간에는 열심히 듣고 대충 해서는 안 된다. 마지막으로 수업 후에는 복습을 기억해야 한다. 이렇게만 하면 중국어는 점점 더 잘 배우게 되고, 말할수록 더 자신감이 생길 것이다.",
+              "ja": "一部の学生はよく「明日」や「将来」を口にし、宿題は明日終わらせる、次の試験は必ずしっかり復習する、などと言います。このような態度は時間を浪費するだけでなく、最後には何も成し遂げられなくなり、他人の同情も得られません。だから、何でも「明日」に延ばさず、すべてを今から始めるべきです。中国語学習を例にすると、まず授業前の予習に注意し、翌日に学ぶ重点を見つけること。次に、授業中はまじめに聞き、いい加減にしてはいけません。最後に、授業後は復習を忘れないことです。そうすれば、中国語は学べば学ぶほど上達し、話せば話すほど自信がつきます。"
+            }
+          }
+        }
+      },
+      "5": {
+        "lines": {
+          "0": {
+            "translation": {
+              "en": "When you think you are excellent in some area, you must stay calm and not be arrogant. The world is very big, and as the saying goes, there is always someone better; someone may very likely be stronger than you in that area. Being first now does not mean you will always be first. Just like in a competition, no one loses forever, and no one keeps winning forever. The more we know, the more we discover what we do not understand. We should value everyday accumulation and learn more from the people around us. If you dare to honestly say what you do not understand, it does not mean you are worse than others. On the contrary, doing this can earn more respect from others.",
+              "ko": "자신이 어떤 면에서 매우 뛰어나다고 생각할 때는 반드시 침착해야 하며 교만해서는 안 된다. 이 세상은 매우 넓고, ‘하늘 밖에 또 하늘이 있고 사람 밖에 또 사람이 있다’는 말처럼, 그 방면에서 너보다 더 뛰어난 사람이 있을 가능성이 크다. 지금 네가 1등이라고 해서 영원히 1등이라는 뜻은 아니다. 경기와 마찬가지로 누구도 영원히 지기만 하지 않고, 누구도 계속 이기기만 하지 않는다. 우리가 아는 것이 많아질수록, 자신이 모르는 것도 더 많다는 것을 발견하게 된다. 우리는 평소의 축적을 중시하고 주변 사람들에게 많이 배워야 한다. 네가 어떤 방면을 잘 모른다고 솔직히 말할 용기가 있다면, 그것은 네가 남보다 못하다는 뜻이 아니다. 오히려 그렇게 하는 것이 다른 사람의 존중을 더 얻을 수 있다.",
+              "ja": "自分がある面でとても優れていると思うときこそ、必ず冷静でいなければならず、傲慢になってはいけません。この世界はとても広く、「天の外には天があり、人の外には人がいる」というように、その面であなたよりさらに優れた人がいる可能性があります。今あなたが一位だからといって、永遠に一位であるとは限りません。試合と同じで、永遠に負け続ける人もいなければ、ずっと勝ち続ける人もいません。私たちは知れば知るほど、自分がわからないことも多いと気づきます。普段の積み重ねを重視し、周りの人から多く学ぶべきです。もし自分がどの面を理解していないのかを正直に言う勇気があるなら、それは自分が他人より劣っているという意味ではありません。むしろ、そうすることで他人からより尊重されます。"
+            }
+          }
+        }
+      }
+    }
+  }
+}
