@@ -37,6 +37,9 @@ class App extends HTMLElement {
   private _pinyinVisible: boolean = true;
   private _prefetchedLessons = new Map<number, LessonData>();
   private _prefetchedAudio = new Set<string>();
+  private readonly _handlePopState = () => {
+    this.applyLessonFromUrl({ replaceUrl: false, scroll: false });
+  };
 
   
   private _lessons = Array.from({ length: 20 }, (_, i) => ({
@@ -127,10 +130,62 @@ class App extends HTMLElement {
   }
 
   connectedCallback() {
+    window.addEventListener('popstate', this._handlePopState);
+    this.applyLessonFromUrl({ replaceUrl: true, scroll: false });
+    // Warm up the first visible lesson
+    this.prefetchLesson(this._currentLesson);
+  }
+
+  disconnectedCallback() {
+    window.removeEventListener('popstate', this._handlePopState);
+  }
+
+  private getLessonFromUrl(): number | null {
+    const value = new URLSearchParams(window.location.search).get('lesson');
+    if (!value) return null;
+
+    const id = Number(value);
+    if (!Number.isInteger(id) || id < 1 || id > this._lessons.length) return null;
+    return id;
+  }
+
+  private updateLessonUrl(id: number, mode: 'push' | 'replace' = 'push') {
+    const url = new URL(window.location.href);
+    url.searchParams.set('lesson', String(id));
+
+    if (url.href === window.location.href) return;
+    window.history[mode === 'replace' ? 'replaceState' : 'pushState']({}, '', url);
+  }
+
+  private clearLessonUrl(mode: 'push' | 'replace' = 'push') {
+    const url = new URL(window.location.href);
+    if (!url.searchParams.has('lesson')) return;
+
+    url.searchParams.delete('lesson');
+    const search = url.searchParams.toString();
+    const nextUrl = `${url.pathname}${search ? `?${search}` : ''}${url.hash}`;
+    window.history[mode === 'replace' ? 'replaceState' : 'pushState']({}, '', nextUrl);
+  }
+
+  private applyLessonFromUrl(options: { replaceUrl?: boolean; scroll?: boolean } = {}) {
+    const lessonId = this.getLessonFromUrl();
+    if (lessonId) {
+      this.selectLesson(lessonId, {
+        updateUrl: options.replaceUrl ? 'replace' : false,
+        scroll: options.scroll ?? false,
+      });
+      return;
+    }
+
+    if (this._viewMode !== 'landing') {
+      this.goHome({
+        updateUrl: options.replaceUrl ? 'replace' : false,
+        scroll: options.scroll ?? false,
+      });
+      return;
+    }
 
     this.render();
-    // Warm up the first lesson
-    this.prefetchLesson(1);
   }
 
 
@@ -195,10 +250,15 @@ class App extends HTMLElement {
     }
   }
 
-  async selectLesson(id: number) {
+  async selectLesson(
+    id: number,
+    options: { updateUrl?: boolean | 'push' | 'replace'; scroll?: boolean } = {},
+  ) {
     this._currentLesson = id;
     this._viewMode = 'lesson';
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    const updateUrl = options.updateUrl ?? 'push';
+    if (updateUrl) this.updateLessonUrl(id, updateUrl === 'replace' ? 'replace' : 'push');
+    if (options.scroll ?? true) window.scrollTo({ top: 0, behavior: 'smooth' });
     await this.fetchData();
     // Proactive: Prefetch next lesson
     if (id < 20) {
@@ -211,10 +271,12 @@ class App extends HTMLElement {
     this.render();
   }
 
-  goHome() {
+  goHome(options: { updateUrl?: boolean | 'push' | 'replace'; scroll?: boolean } = {}) {
     this._viewMode = 'landing';
     this._data = null;
-    window.scrollTo({ top: 0, behavior: 'smooth' });
+    const updateUrl = options.updateUrl ?? 'push';
+    if (updateUrl) this.clearLessonUrl(updateUrl === 'replace' ? 'replace' : 'push');
+    if (options.scroll ?? true) window.scrollTo({ top: 0, behavior: 'smooth' });
     this.render();
   }
 

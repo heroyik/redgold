@@ -2,7 +2,7 @@
   <img src="public/assets/logo.png" width="240" alt="Redgold Logo">
 </p>
 
-<h1 align="center">✨ REDGOLD 1.0.0 — Full Textbook Run Complete ✨</h1>
+<h1 align="center">✨ REDGOLD 1.0.3 — Lesson Deep Links ✨</h1>
 
 <p align="center">
   <strong>Textbooks are mid. Master the bridge from HSK 4 to real-world talk.</strong><br>
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0.0-B8860B?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/Version-1.0.3-B8860B?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/Status-Textbook_Complete-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Stack-Vite_%7C_TS_%7C_WebComponents-ff9e4d?style=for-the-badge" alt="Stack">
   <img src="https://img.shields.io/badge/Design-Modern_Han_Elegant-gold?style=for-the-badge" alt="Design">
@@ -49,6 +49,9 @@ A premium "glassmorphic" interface designed for focus:
 
 ### 🔢 Live Version Badge
 The app header now shows the current version and last build date in real time — no more guessing what's deployed.
+
+### 🔗 Lesson Deep Links
+Every lesson can now be opened directly with `https://heroyik.github.io/redgold/?lesson=N`, so external apps can send learners straight to the right chapter.
 
 ### 🧱 Auto JSON Rule Pack
 Lesson data generation now uses a compact `plan/auto_json` rule pack:
@@ -134,6 +137,17 @@ npm run build
 ## 📋 Changelog
 
 Every local commit bumps the patch version by `0.0.1`, and the commit message is auto-stamped with that exact version. Here's the human-readable tea:
+
+---
+
+### v1.0.3 — 2026-06-06
+> *Lesson deep links.* RedGold now supports direct lesson URLs for cross-app navigation from QingVoca and other tools.
+
+- 🔗 **Lesson URL Routing** — Added `?lesson=N` support so `https://heroyik.github.io/redgold/?lesson=7` opens Lesson 7 directly instead of landing on the chapter picker.
+- 🧭 **History-Aware Navigation** — Internal lesson changes now update the address bar, home navigation clears the lesson parameter, and browser back/forward follows the URL state.
+- 🧩 **Shadow DOM Compatible** — Deep links route through the existing app state and lesson loading flow instead of depending on clickable DOM cards.
+- 🖼️ **Favicon 404 Fixed** — Added an explicit favicon link using the existing RedGold logo asset, eliminating the browser's default `/favicon.ico` 404.
+- ✅ **Validation** — Confirmed production build, direct `?lesson=7` entry, lesson switching URL updates, home URL cleanup, and zero 4xx favicon responses.
 
 ---
 
