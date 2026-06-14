@@ -4,6 +4,11 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
+
+concurrency:
+  group: github-pages
+  cancel-in-progress: true
 
 permissions:
   contents: read
@@ -22,8 +27,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          ref: main
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -36,6 +39,12 @@ jobs:
 
       - name: Build
         run: npm run build
+
+      - name: Verify redirect landing
+        run: |
+          test -f dist/index.html
+          node -e "const fs=require('fs'); const path=require('path'); const dir='dist/assets'; const text=fs.readdirSync(dir).filter(f=>f.endsWith('.js')).map(f=>fs.readFileSync(path.join(dir,f),'utf8')).join('\n'); if (!text.includes('GitLab era') || !text.includes('https://heroyik.gitlab.io/redgold/')) process.exit(1);"
+          touch dist/.nojekyll
 
       - name: Setup Pages
         uses: actions/configure-pages@v5

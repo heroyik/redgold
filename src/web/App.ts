@@ -37,6 +37,8 @@ class App extends HTMLElement {
   private _pinyinVisible: boolean = true;
   private _prefetchedLessons = new Map<number, LessonData>();
   private _prefetchedAudio = new Set<string>();
+  private _redirectTimer: number | null = null;
+  private readonly _redirectUrl = 'https://heroyik.gitlab.io/redgold/';
   private readonly _handlePopState = () => {
     this.applyLessonFromUrl({ replaceUrl: false, scroll: false });
   };
@@ -138,6 +140,10 @@ class App extends HTMLElement {
 
   disconnectedCallback() {
     window.removeEventListener('popstate', this._handlePopState);
+    if (this._redirectTimer !== null) {
+      window.clearTimeout(this._redirectTimer);
+      this._redirectTimer = null;
+    }
   }
 
   private getLessonFromUrl(): number | null {
@@ -295,7 +301,6 @@ class App extends HTMLElement {
 
   renderLanding() {
     if (!this.shadowRoot) return;
-    const ui = getUiCopy(this._language);
 
     this.shadowRoot.innerHTML = `
       <style>
@@ -303,348 +308,244 @@ class App extends HTMLElement {
           display: block;
           min-height: 100vh;
           font-family: 'Outfit', 'Noto Sans SC', sans-serif;
-          color: #1a1a1a;
-          background: #FDFBF7;
-        }
-        
-        .landing-container {
-          animation: fadeIn 0.8s ease-out;
+          color: #f5f1e9;
+          background: #12161c;
         }
 
-        @keyframes fadeIn {
-          from { opacity: 0; transform: translateY(10px); }
-          to { opacity: 1; transform: translateY(0); }
+        * {
+          box-sizing: border-box;
         }
 
-        .hero-title {
-          width: 100%;
+        .redirect-shell {
+          min-height: 100vh;
+          padding: clamp(0.4rem, 1vw, 0.8rem);
+          background:
+            linear-gradient(90deg, rgba(73, 244, 171, 0.08), transparent 15%),
+            #12161c;
           display: flex;
-          flex-direction: column;
-          align-items: center;
           justify-content: center;
-          text-align: center;
         }
 
-        .hero-wordmark {
-          width: min(82vw, 520px);
+        .redirect-card {
+          width: min(100%, 1344px);
+          min-height: min(920px, calc(100vh - 1rem));
+          border: 1px solid rgba(229, 232, 238, 0.24);
+          border-radius: 14px;
+          background: linear-gradient(180deg, #14191f 0%, #11151b 100%);
+          box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.02), 0 28px 80px rgba(0, 0, 0, 0.32);
+          padding: clamp(3rem, 7vw, 5.8rem);
+          display: flex;
+          align-items: center;
+        }
+
+        .redirect-content {
+          width: min(100%, 980px);
+        }
+
+        .eyebrow {
+          margin: 0 0 2.4rem;
+          color: #4df4ab;
+          font-size: clamp(1rem, 2vw, 1.6rem);
+          font-weight: 900;
+          letter-spacing: 0.28em;
+          line-height: 1.1;
+        }
+
+        h1 {
+          margin: 0 0 1.6rem;
+          color: #f5f1e9;
+          font-size: clamp(4.6rem, 8.4vw, 8rem);
+          font-weight: 900;
+          letter-spacing: 0;
+          line-height: 0.95;
+          text-shadow: 0 2px 0 rgba(0, 0, 0, 0.65);
+        }
+
+        .copy {
+          max-width: 990px;
+          margin: 0;
+          color: #dfd7ca;
+          font-size: clamp(1.5rem, 2.25vw, 2rem);
+          font-weight: 500;
+          line-height: 1.6;
+          text-shadow: 0 2px 0 #000;
+        }
+
+        .copy strong {
+          color: #f5f1e9;
+          font-weight: 900;
+        }
+
+        .migration-row {
+          margin: 3.6rem 0 3.8rem;
+          display: flex;
+          align-items: center;
+          gap: clamp(1.6rem, 3vw, 2.6rem);
+        }
+
+        .brand-icon {
+          width: clamp(4.7rem, 7vw, 5.5rem);
+          height: clamp(4.7rem, 7vw, 5.5rem);
+          display: grid;
+          place-items: center;
+          color: #f5f1e9;
+        }
+
+        .brand-icon svg {
+          width: 100%;
+          height: 100%;
+          display: block;
+        }
+
+        .arrow {
+          width: clamp(7.5rem, 13vw, 10rem);
+          color: #4df4ab;
+          filter: drop-shadow(0 0 16px rgba(77, 244, 171, 0.18));
+        }
+
+        .arrow svg {
+          width: 100%;
           height: auto;
           display: block;
-          margin: 0 0 -0.4rem; /* Reduced to tighten gap with version badge */
-          filter: drop-shadow(0 18px 28px rgba(139, 0, 0, 0.08));
-          /* Ensure vertical centering if needed, though hero is usually okay */
         }
 
-        .version-badge {
-          font-size: 0.65rem;
-          font-weight: 700;
-          letter-spacing: 1.5px;
-          color: #B8860B;
-          opacity: 0.75;
-          margin-bottom: 0.5rem; /* Tightened from 0.75rem */
-          text-transform: uppercase;
-          font-family: 'Outfit', monospace;
+        .gitlab-mark .fox-red {
+          fill: #e24329;
         }
 
-        .hero-title p {
-          font-size: 1.1rem;
-          color: #666;
-          font-weight: 500;
-          max-width: 500px;
-          margin-left: auto;
-          margin-right: auto;
-          line-height: 1.4;
+        .gitlab-mark .fox-orange {
+          fill: #fc6d26;
         }
 
-        .book-section-label {
-          text-align: center;
-          font-weight: 800;
-          color: #8B0000;
-          margin: 3rem 0 1.5rem;
-          font-size: 0.75rem;
-          letter-spacing: 3px;
-          text-transform: uppercase;
-          opacity: 0.5;
+        .gitlab-mark .fox-yellow {
+          fill: #fca326;
         }
 
-        .landing-hero {
-          min-height: 100svh;
-          display: flex;
-          flex-direction: column;
+        .redirect-btn {
+          display: inline-flex;
           align-items: center;
           justify-content: center;
-          padding: 2rem 1rem;
+          min-width: min(100%, 424px);
+          min-height: 96px;
+          padding: 1.2rem 2rem;
+          border: 0;
+          border-radius: 13px;
+          background: #4ae6a2;
+          color: #071015;
+          font-family: inherit;
+          font-size: clamp(1.35rem, 2vw, 1.75rem);
+          font-weight: 900;
+          line-height: 1.1;
           text-align: center;
-          background: radial-gradient(circle at top right, rgba(218, 165, 32, 0.1), transparent),
-                      radial-gradient(circle at bottom left, rgba(139, 0, 0, 0.05), transparent);
-        }
-
-        .landing-books {
-          display: flex;
-          gap: 1rem;
-          margin: 3rem 0;
-          perspective: 1000px;
-        }
-
-        .language-picker {
-          display: inline-flex;
-          gap: 0.5rem;
-          padding: 0.45rem;
-          border-radius: 999px;
-          background: rgba(255, 255, 255, 0.72);
-          border: 1px solid rgba(139, 0, 0, 0.08);
-          box-shadow: 0 8px 24px rgba(0,0,0,0.05);
-          margin-top: 1.5rem;
-        }
-
-        .language-btn {
-          border: none;
-          background: transparent;
-          color: #7a7a7a;
-          font-size: 0.82rem;
-          font-weight: 800;
-          padding: 0.65rem 1rem;
-          border-radius: 999px;
-          cursor: pointer;
-          transition: all 0.25s ease;
-        }
-
-        .language-btn.active {
-          background: #8B0000;
-          color: #fff;
-          box-shadow: 0 8px 18px rgba(139, 0, 0, 0.18);
-        }
-
-        .book-preview {
-          width: clamp(100px, 30vw, 150px);
-          height: auto;
-          border-radius: 8px;
-          box-shadow: 10px 10px 30px rgba(0,0,0,0.15);
-          transition: transform 0.6s cubic-bezier(0.2, 0.8, 0.2, 1);
-          cursor: pointer;
-        }
-
-        .book-preview:hover {
-          transform: rotateY(-15deg) scale(1.05);
-        }
-
-        .start-btn {
-          padding: 1.25rem 3rem;
-          background: #8B0000;
-          color: white;
-          border-radius: 50px;
-          font-weight: 800;
-          font-size: 1.1rem;
-          border: none;
-          cursor: pointer;
-          box-shadow: 0 10px 20px rgba(139, 0, 0, 0.2);
-          transition: all 0.3s;
-          text-transform: uppercase;
-          letter-spacing: 2px;
-        }
-
-        .start-btn:hover {
-          transform: translateY(-5px);
-          box-shadow: 0 15px 30px rgba(139, 0, 0, 0.3);
-          background: #a00000;
-        }
-
-        @media (max-width: 480px) {
-          .landing-hero {
-            justify-content: flex-start;
-            padding: calc(var(--safe-top, 0px) + 1rem) 1rem 1.5rem;
-          }
-
-          .hero-wordmark {
-            width: min(78vw, 420px);
-            margin-bottom: -0.3rem;
-          }
-
-          .version-badge {
-            margin-bottom: 0.55rem;
-          }
-
-          .hero-title p {
-            font-size: 0.98rem;
-            line-height: 1.32;
-            max-width: 23rem;
-          }
-
-          .language-picker {
-            margin-top: 1rem;
-          }
-
-          .language-btn {
-            padding: 0.6rem 0.9rem;
-            font-size: 0.78rem;
-          }
-
-          .start-btn {
-            margin-top: 1rem;
-            padding: 1rem 2.2rem;
-            font-size: 1rem;
-            letter-spacing: 1px;
-          }
-
-          .landing-books {
-            gap: 0.8rem;
-            margin: 1.25rem 0 0;
-          }
-
-          .book-preview {
-            width: clamp(96px, 28vw, 128px);
-          }
-        }
-
-        .chapter-selection {
-          padding: 2rem 1rem 6rem;
-          max-width: 600px;
-          margin: 0 auto;
-        }
-
-        .chapter-grid {
-          display: grid;
-          grid-template-columns: repeat(2, 1fr);
-          gap: 0.75rem;
-          margin-bottom: 3rem;
-        }
-
-        .chapter-card {
-          background: white;
-          border-radius: 16px;
-          padding: 1.25rem;
-          border: 1px solid rgba(139, 0, 0, 0.05);
-          box-shadow: 0 4px 12px rgba(0,0,0,0.03);
-          transition: all 0.3s;
-          cursor: pointer;
-          display: flex;
-          flex-direction: column;
-          gap: 0.4rem;
-        }
-
-        .chapter-card:hover {
-          transform: translateY(-5px);
-          border-color: #DAA520;
-          box-shadow: 0 15px 30px rgba(0,0,0,0.06);
-        }
-
-        .chapter-num {
-          font-size: 0.7rem;
-          font-weight: 800;
-          color: #DAA520;
-          text-transform: uppercase;
-        }
-
-        .chapter-name {
-          font-weight: 700;
-          font-size: 0.9rem;
-          color: #1a1a1a;
-          line-height: 1.3;
-        }
-
-        .landing-footer {
-          padding: 4rem 1.25rem;
-          text-align: center;
-          opacity: 0.4;
-          font-size: 0.65rem;
-          font-weight: 800;
-          letter-spacing: 2px;
-          display: flex;
-          flex-direction: column;
-          align-items: center;
-          gap: 1.5rem;
-        }
-
-        .landing-footer a {
-          color: inherit;
           text-decoration: none;
-          transition: opacity 0.3s, transform 0.3s;
-          display: flex;
-          align-items: center;
-          gap: 6px;
-        }
-
-        .landing-footer a:hover {
-          opacity: 1;
-          transform: translateY(-1px);
-        }
-        .pinyin-toggle-lang {
-          border: none;
-          background: transparent;
-          color: #7a7a7a;
-          font-size: 0.82rem;
-          font-weight: 800;
-          padding: 0.65rem 0.75rem;
-          border-radius: 999px;
           cursor: pointer;
-          transition: all 0.25s ease;
-          font-family: 'Noto Sans SC', sans-serif;
-          line-height: 1;
+          box-shadow: 0 22px 46px rgba(74, 230, 162, 0.08);
+          transition: transform 0.2s ease, background 0.2s ease;
         }
 
-        .pinyin-toggle-lang.active {
-          background: #8B0000;
-          color: #fff;
-          box-shadow: 0 8px 18px rgba(139, 0, 0, 0.18);
+        .redirect-btn:hover {
+          background: #61f4b3;
+          transform: translateY(-2px);
         }
 
-        .pinyin-toggle-lang:not(.active) {
-          opacity: 0.5;
+        .note {
+          margin: 2rem 0 0;
+          color: #dfd7ca;
+          font-size: clamp(1.3rem, 2vw, 1.75rem);
+          line-height: 1.4;
+          text-shadow: 0 2px 0 #000;
+        }
+
+        @media (max-width: 720px) {
+          .redirect-shell {
+            align-items: stretch;
+          }
+
+          .redirect-card {
+            min-height: calc(100vh - 0.8rem);
+            padding: 2.2rem 1.5rem;
+            align-items: flex-start;
+          }
+
+          .eyebrow {
+            margin-bottom: 1.8rem;
+            font-size: 0.95rem;
+          }
+
+          h1 {
+            font-size: clamp(3rem, 18vw, 5rem);
+          }
+
+          .copy {
+            font-size: 1.18rem;
+          }
+
+          .migration-row {
+            margin: 2.4rem 0;
+            gap: 1rem;
+          }
+
+          .brand-icon {
+            width: 4.2rem;
+            height: 4.2rem;
+          }
+
+          .arrow {
+            width: 5rem;
+          }
+
+          .redirect-btn {
+            width: 100%;
+            min-height: 76px;
+          }
+
+          .note {
+            font-size: 1.08rem;
+          }
         }
       </style>
-      
-      <div class="landing-container">
-        <section class="landing-hero">
-          <div class="hero-title">
-            <img src="/redgold/assets/redgold-wordmark-fixed.png?v=${__APP_VERSION__}" alt="RedGold" class="hero-wordmark">
-            <div class="version-badge">v${__APP_VERSION__} &nbsp;·&nbsp; ${__APP_BUILD_DATE__}</div>
-            <p>${ui.landingHero}</p>
-          </div>
 
-          <div class="language-picker" id="language-picker">
-            <button class="language-btn ${this._language === 'en' ? 'active' : ''}" data-lang="en">${ui.langEn}</button>
-            <button class="language-btn ${this._language === 'ko' ? 'active' : ''}" data-lang="ko">${ui.langKo}</button>
-            <button class="language-btn ${this._language === 'ja' ? 'active' : ''}" data-lang="ja">${ui.langJa}</button>
-            <button class="pinyin-toggle-lang ${this._pinyinVisible ? 'active' : ''}" id="pinyin-toggle-lang">拼</button>
-          </div>
+      <main class="redirect-shell" aria-labelledby="redirect-title">
+        <section class="redirect-card">
+          <div class="redirect-content">
+            <p class="eyebrow">NEW SPOT JUST DROPPED</p>
+            <h1 id="redirect-title">GitLab era.</h1>
+            <p class="copy">
+              Big love, GitHub. You held it down. As of June 10, 2026, heroyik is
+              pulling up at <strong>heroyik.gitlab.io</strong> now. Chill for 10 seconds and I will
+              slide you over.
+            </p>
 
-          <button class="start-btn" id="start-learning-btn">${ui.exploreLessons}</button>
-          
-          <div class="landing-books">
-            <img src="/redgold/images/hsk4_upper.jpg" class="book-preview" alt="HSK 4 Upper" id="book-upper" decoding="async">
-            <img src="/redgold/images/hsk4_lower.jpg" class="book-preview" alt="HSK 4 Lower" id="book-lower" decoding="async">
+            <div class="migration-row" aria-label="GitHub to GitLab">
+              <div class="brand-icon" aria-label="GitHub">
+                <svg viewBox="0 0 98 96" aria-hidden="true" fill="currentColor">
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M48.85 0C21.88 0 0 22.05 0 49.25c0 21.75 14.03 40.18 33.49 46.69 2.45.45 3.35-1.07 3.35-2.39 0-1.18-.04-5.1-.07-9.25-13.62 2.98-16.5-5.86-16.5-5.86-2.23-5.71-5.44-7.23-5.44-7.23-4.45-3.06.34-3 .34-3 4.91.35 7.5 5.09 7.5 5.09 4.37 7.55 11.46 5.37 14.26 4.11.44-3.19 1.71-5.37 3.1-6.6-10.87-1.24-22.3-5.48-22.3-24.38 0-5.39 1.91-9.79 5.04-13.24-.51-1.24-2.18-6.27.48-13.06 0 0 4.11-1.33 13.45 5.06a46.56 46.56 0 0 1 24.5 0c9.34-6.39 13.44-5.06 13.44-5.06 2.67 6.79.99 11.82.49 13.06 3.14 3.45 5.04 7.85 5.04 13.24 0 18.95-11.45 23.13-22.35 24.35 1.76 1.53 3.32 4.54 3.32 9.15 0 6.6-.06 11.92-.06 13.54 0 1.33.88 2.87 3.37 2.38C83.98 89.4 98 70.98 98 49.25 98 22.05 75.83 0 48.85 0Z"/>
+                </svg>
+              </div>
+              <div class="arrow" aria-hidden="true">
+                <svg viewBox="0 0 168 60" fill="none">
+                  <path d="M4 34C38 14 82 24 134 34" stroke="currentColor" stroke-width="6" stroke-linecap="round"/>
+                  <path d="M122 16L160 36L121 50" stroke="currentColor" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+                </svg>
+              </div>
+              <div class="brand-icon gitlab-mark" aria-label="GitLab">
+                <svg viewBox="0 0 100 92" aria-hidden="true">
+                  <path class="fox-orange" d="M50 91.2 68.4 34.5H31.6L50 91.2Z"/>
+                  <path class="fox-red" d="M50 91.2 31.6 34.5H5.8L50 91.2Z"/>
+                  <path class="fox-yellow" d="M5.8 34.5.2 51.8c-.5 1.5 0 3.2 1.3 4.1L50 91.2 5.8 34.5Z"/>
+                  <path class="fox-red" d="M5.8 34.5h25.8L20.5.4c-.6-1.7-3-1.7-3.6 0L5.8 34.5Z"/>
+                  <path class="fox-red" d="M50 91.2 68.4 34.5h25.8L50 91.2Z"/>
+                  <path class="fox-yellow" d="m94.2 34.5 5.6 17.3c.5 1.5 0 3.2-1.3 4.1L50 91.2l44.2-56.7Z"/>
+                  <path class="fox-red" d="M94.2 34.5H68.4L79.5.4c.6-1.7 3-1.7 3.6 0l11.1 34.1Z"/>
+                </svg>
+              </div>
+            </div>
+
+            <a class="redirect-btn" id="redirect-now" href="${this._redirectUrl}">Pull up on GitLab now</a>
+            <p class="note">Ten seconds is optional. The new spot is already live.</p>
           </div>
         </section>
- 
-        <section class="chapter-selection" id="selection-area">
-          <div class="book-section-label">${ui.volume1}</div>
-          <div class="chapter-grid">
-            ${this._lessons.slice(0, 10).map(l => `
-              <div class="chapter-card" data-id="${l.id}">
-                <span class="chapter-num">${ui.chapter} ${l.id}</span>
-                <span class="chapter-name">${l.title.split(':')[1]?.trim()}</span>
-              </div>
-            `).join('')}
-          </div>
- 
-          <div class="book-section-label">${ui.volume2}</div>
-          <div class="chapter-grid">
-            ${this._lessons.slice(10, 20).map(l => `
-              <div class="chapter-card" data-id="${l.id}">
-                <span class="chapter-num">${ui.chapter} ${l.id}</span>
-                <span class="chapter-name">${l.title.split(':')[1]?.trim()}</span>
-              </div>
-            `).join('')}
-          </div>
-        </section>
-        
-        <footer class="landing-footer">
-          <div>${ui.footerTagline}</div>
-          <a href="https://github.com/heroyik/redgold" target="_blank" rel="noopener noreferrer">
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.042-1.416-4.042-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg>
-            GITHUB
-          </a>
-        </footer>
-      </div>
+      </main>
 
     `;
   }
@@ -1039,8 +940,20 @@ class App extends HTMLElement {
 
     // Initialize User Menus
 
+    if (this._redirectTimer !== null) {
+      window.clearTimeout(this._redirectTimer);
+      this._redirectTimer = null;
+    }
 
     if (this._viewMode === 'landing') {
+      root.getElementById('redirect-now')?.addEventListener('click', (event) => {
+        event.preventDefault();
+        window.location.assign(this._redirectUrl);
+      });
+      this._redirectTimer = window.setTimeout(() => {
+        window.location.assign(this._redirectUrl);
+      }, 10000);
+
       root.querySelectorAll('[data-lang]').forEach(button => {
         button.addEventListener('click', () => {
           const language = (button as HTMLElement).dataset.lang as AppLanguage | undefined;
